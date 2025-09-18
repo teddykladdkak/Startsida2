@@ -5,6 +5,9 @@ on:
     - cron: "*/30 * * * *"   # kör var 30:e minut
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
