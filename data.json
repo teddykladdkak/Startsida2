@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-18T19:33:58.921452Z",
+  "lastUpdated": "2025-09-18T20:11:27.058703Z",
   "feeds": [
     {
       "url": "https://skaneskommuner.se/news/feed/atom/",
@@ -75,7 +75,7 @@
           "published": "Thu, 18 Sep 2025 19:10:25 +0200"
         },
         {
-          "title": "Biblioteket delar ut konsertbiljetter – men ingen vill ha",
+          "title": "Biblioteket delar ut gratis konsertbiljetter – men ingen vill ha",
           "link": "https://www.svt.se/nyheter/lokalt/skane/biblioteket-delar-ut-konsertbiljetter-men-ingen-vill-ha",
           "published": "Thu, 18 Sep 2025 16:49:07 +0200"
         },
@@ -95,29 +95,29 @@
       "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
       "items": [
         {
+          "title": "Trump fick byta helikopter – hydrauliskt fel",
+          "link": "https://www.aftonbladet.se/nyheter/a/dRyoeB/trump-fick-byta-helikopter-hydrauliskt-fel?utm_medium=rss",
+          "published": "Thu, 18 Sep 2025 20:08:50 GMT"
+        },
+        {
+          "title": "Uppgifter: Mattias Karlsson (M) polisanmäld",
+          "link": "https://www.aftonbladet.se/nyheter/a/eM92gK/uppgifter-mattias-karlsson-m-polisanmald?utm_medium=rss",
+          "published": "Thu, 18 Sep 2025 20:03:14 GMT"
+        },
+        {
+          "title": "Kriminalvården: 13-åringar borde inte fängslas",
+          "link": "https://www.aftonbladet.se/nyheter/a/Oo4L7k/kriminalvarden-13-aringar-borde-inte-fangslas?utm_medium=rss",
+          "published": "Thu, 18 Sep 2025 19:50:34 GMT"
+        },
+        {
+          "title": "Man tog sig in i ambulans på jakt efter läkemedel",
+          "link": "https://www.aftonbladet.se/nyheter/a/RzkPw2/man-tog-sig-in-i-ambulans-pa-jakt-efter-lakemedel?utm_medium=rss",
+          "published": "Thu, 18 Sep 2025 19:40:19 GMT"
+        },
+        {
           "title": "USA lägger in veto mot Gazaresolution",
           "link": "https://www.aftonbladet.se/nyheter/a/LM2vgP/usa-lagger-in-veto-mot-gazaresolution?utm_medium=rss",
           "published": "Thu, 18 Sep 2025 19:29:39 GMT"
-        },
-        {
-          "title": "Vit dvärg slukar rester av Pluto-liknande planet",
-          "link": "https://www.aftonbladet.se/nyheter/a/63Lpez/vit-dvarg-slukar-rester-av-pluto-liknande-planet?utm_medium=rss",
-          "published": "Thu, 18 Sep 2025 19:04:41 GMT"
-        },
-        {
-          "title": "Insåg att han dödat barn: ”Jag ville kräkas”",
-          "link": "https://www.aftonbladet.se/nyheter/a/XjKxEB/insag-att-han-dodat-barn-jag-ville-krakas?utm_medium=rss",
-          "published": "Thu, 18 Sep 2025 18:31:42 GMT"
-        },
-        {
-          "title": "Två israeliska soldater dödade vid gränskontroll",
-          "link": "https://www.aftonbladet.se/nyheter/a/W0w9xg/tva-israeliska-soldater-dodade-vid-granskontroll?utm_medium=rss",
-          "published": "Thu, 18 Sep 2025 18:29:53 GMT"
-        },
-        {
-          "title": "Kritiken: Känslig data hamnar hos reklambyrå",
-          "link": "https://www.aftonbladet.se/nyheter/a/Pp7Mbp/kritiken-efter-powers-gravidkampanj-reklambyra-far-kanslig-data?utm_medium=rss",
-          "published": "Thu, 18 Sep 2025 18:28:34 GMT"
         }
       ]
     },
@@ -125,7 +125,22 @@
       "url": "https://feeds.expressen.se/nyheter/",
       "items": [
         {
-          "title": "Tsunami varning",
+          "title": "Hemliga spelet bakom Kimmel-sparkningen",
+          "link": "https://www.expressen.se/nyheter/varlden/hemliga-spelet-bakom-kimmel-sparkningen/",
+          "published": "Thu, 18 Sep 2025 22:06:11 +0200"
+        },
+        {
+          "title": "Skrev ledartext om handgest:  Utskälld av Riks",
+          "link": "https://www.expressen.se/nyheter/sverige/skrev-ledartext-om-handgest--utskalld-av-riks/",
+          "published": "Thu, 18 Sep 2025 21:44:39 +0200"
+        },
+        {
+          "title": "Fel på Marine One – Trump tvingades byta helikopter",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=bfe6325f-f8e2-4308-b82b-faba2c1d44a4",
+          "published": "Thu, 18 Sep 2025 21:37:32 +0200"
+        },
+        {
+          "title": "Tsunamivarning",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ab93f61a-1c2f-4fdf-8e59-7693024efcd1",
           "published": "Thu, 18 Sep 2025 21:28:03 +0200"
         },
@@ -133,21 +148,6 @@
           "title": "Man tog sig in i ambulans",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4db8654b-7538-48db-8594-0eaba34f4f81",
           "published": "Thu, 18 Sep 2025 21:12:12 +0200"
-        },
-        {
-          "title": "Peter var livvakt åt Charlie Kirk:  ”Var är drönaren”",
-          "link": "https://www.expressen.se/nyheter/varlden/peter-var-livvakt-at-charlie-kirk--var-ar-dronaren/",
-          "published": "Thu, 18 Sep 2025 21:11:00 +0200"
-        },
-        {
-          "title": "Bikinibilderna väcker ilska – ”jobbar hemifrån” på stranden",
-          "link": "https://www.expressen.se/nyheter/varlden/bikinibilderna-vacker-ilska-jobbar-hemifran-pa-stranden/",
-          "published": "Thu, 18 Sep 2025 20:50:00 +0200"
-        },
-        {
-          "title": "Nelly, 29, blev mamma – fick obotlig bröstcancer",
-          "link": "https://www.expressen.se/nyheter/sverige/nelly-29-blev-mamma-fick-obotlig-brostcancer/",
-          "published": "Thu, 18 Sep 2025 20:40:12 +0200"
         }
       ]
     }
