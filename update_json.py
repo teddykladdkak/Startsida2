@@ -4,8 +4,11 @@ from datetime import datetime
 
 # RSS-flöden att hämta
 feeds = [
-    "https://feeds.bbci.co.uk/news/rss.xml",
-    "https://hnrss.org/frontpage"
+    "https://skaneskommuner.se/news/feed/atom/",
+    "http://svt.se/nyheter/rss.xml",
+    "http://svt.se/nyheter/regionalt/sydnytt/rss.xml",
+    "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
+    "https://feeds.expressen.se/nyheter/"
 ]
 
 data = {
@@ -30,3 +33,4 @@ for url in feeds:
 # Spara till JSON
 with open("data.json", "w", encoding="utf-8") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
+
