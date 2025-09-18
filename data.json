@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-18T22:34:55.205127Z",
+  "lastUpdated": "2025-09-18T23:09:02.315470Z",
   "feeds": [
     {
       "url": "https://skaneskommuner.se/news/feed/atom/",
@@ -95,6 +95,11 @@
       "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
       "items": [
         {
+          "title": "Tusentals evakueras i Berlin – gammal bomb hittad",
+          "link": "https://www.aftonbladet.se/nyheter/a/0V5ewE/gammal-bomb-hittad-i-berlin?utm_medium=rss",
+          "published": "Thu, 18 Sep 2025 22:45:23 GMT"
+        },
+        {
           "title": "Pojke död efter singelolycka",
           "link": "https://www.aftonbladet.se/nyheter/a/Vz0yKp/pojke-dod-efter-singelolycka?utm_medium=rss",
           "published": "Thu, 18 Sep 2025 22:15:17 GMT"
@@ -113,17 +118,17 @@
           "title": "Trump fick byta helikopter – hydrauliskt fel",
           "link": "https://www.aftonbladet.se/nyheter/a/dRyoeB/trump-fick-byta-helikopter-hydrauliskt-fel?utm_medium=rss",
           "published": "Thu, 18 Sep 2025 20:08:50 GMT"
-        },
-        {
-          "title": "Uppgifter: Mattias Karlsson (M) polisanmäld",
-          "link": "https://www.aftonbladet.se/nyheter/a/eM92gK/uppgifter-mattias-karlsson-m-polisanmald?utm_medium=rss",
-          "published": "Thu, 18 Sep 2025 20:03:14 GMT"
         }
       ]
     },
     {
       "url": "https://feeds.expressen.se/nyheter/",
       "items": [
+        {
+          "title": "Trumps hot: Dra in sändningslicensen om jag får kritik",
+          "link": "https://www.expressen.se/nyheter/varlden/trumps-hot-dra-in-sandningslicensen-om-jag-far-kritik/",
+          "published": "Fri, 19 Sep 2025 01:05:42 +0200"
+        },
         {
           "title": "Pojke död i olycka med A-traktor",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7fbe38eb-00b9-43a4-b65e-7c84c3ea8cd4",
@@ -137,17 +142,12 @@
         {
           "title": "Tusentals Berlinbor evakuerade",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=887860e6-17e1-4f46-978a-b348cb541348",
-          "published": "Thu, 18 Sep 2025 23:34:35 +0200"
+          "published": "Fri, 19 Sep 2025 00:46:18 +0200"
         },
         {
           "title": "Grekiska arvtagerskan död – efter insektsbett",
           "link": "https://www.expressen.se/nyheter/varlden/grekiska-arvtagerskan-dod-efter-insektsbett/",
           "published": "Thu, 18 Sep 2025 22:50:47 +0200"
-        },
-        {
-          "title": "Späckhuggare har sänkt ännu en båt i Portugal",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=df217f83-f44b-4c29-ba70-262d445f7c4a",
-          "published": "Thu, 18 Sep 2025 22:45:23 +0200"
         }
       ]
     }
