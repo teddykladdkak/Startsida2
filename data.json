@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-18T20:11:27.058703Z",
+  "lastUpdated": "2025-09-18T20:37:47.195388Z",
   "feeds": [
     {
       "url": "https://skaneskommuner.se/news/feed/atom/",
@@ -95,6 +95,11 @@
       "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
       "items": [
         {
+          "title": "Tecknen avslöjar − har följt Putins väg mot diktatur",
+          "link": "https://www.aftonbladet.se/nyheter/a/1M4E8X/donald-trump-foljer-i-vladimir-putins-spar-sa-liknar-usa-ryssland?utm_medium=rss",
+          "published": "Thu, 18 Sep 2025 20:12:36 GMT"
+        },
+        {
           "title": "Trump fick byta helikopter – hydrauliskt fel",
           "link": "https://www.aftonbladet.se/nyheter/a/dRyoeB/trump-fick-byta-helikopter-hydrauliskt-fel?utm_medium=rss",
           "published": "Thu, 18 Sep 2025 20:08:50 GMT"
@@ -113,17 +118,17 @@
           "title": "Man tog sig in i ambulans på jakt efter läkemedel",
           "link": "https://www.aftonbladet.se/nyheter/a/RzkPw2/man-tog-sig-in-i-ambulans-pa-jakt-efter-lakemedel?utm_medium=rss",
           "published": "Thu, 18 Sep 2025 19:40:19 GMT"
-        },
-        {
-          "title": "USA lägger in veto mot Gazaresolution",
-          "link": "https://www.aftonbladet.se/nyheter/a/LM2vgP/usa-lagger-in-veto-mot-gazaresolution?utm_medium=rss",
-          "published": "Thu, 18 Sep 2025 19:29:39 GMT"
         }
       ]
     },
     {
       "url": "https://feeds.expressen.se/nyheter/",
       "items": [
+        {
+          "title": "Avslöjar: Jag hjälpte  Rawa Majid att fly",
+          "link": "https://www.expressen.se/nyheter/sverige/avslojar-jag-hjalpte--rawa-majid-att-fly/",
+          "published": "Thu, 18 Sep 2025 22:32:02 +0200"
+        },
         {
           "title": "Hemliga spelet bakom Kimmel-sparkningen",
           "link": "https://www.expressen.se/nyheter/varlden/hemliga-spelet-bakom-kimmel-sparkningen/",
@@ -143,11 +148,6 @@
           "title": "Tsunamivarning",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ab93f61a-1c2f-4fdf-8e59-7693024efcd1",
           "published": "Thu, 18 Sep 2025 21:28:03 +0200"
-        },
-        {
-          "title": "Man tog sig in i ambulans",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4db8654b-7538-48db-8594-0eaba34f4f81",
-          "published": "Thu, 18 Sep 2025 21:12:12 +0200"
         }
       ]
     }
