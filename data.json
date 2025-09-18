@@ -1,63 +1,153 @@
 {
-  "lastUpdated": "2025-09-18T19:32:16.956759Z",
+  "lastUpdated": "2025-09-18T19:33:58.921452Z",
   "feeds": [
     {
-      "url": "https://feeds.bbci.co.uk/news/rss.xml",
+      "url": "https://skaneskommuner.se/news/feed/atom/",
       "items": [
         {
-          "title": "Trump suggests Starmer could use military to control UK borders",
-          "link": "https://www.bbc.com/news/articles/cpd91wjypj9o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 18 Sep 2025 18:16:47 GMT"
+          "title": "Gymnasieantagningssystem Indra",
+          "link": "https://skaneskommuner.se/news/gymnasieantagningssystem-indra/",
+          "published": "2025-07-01T05:30:29Z"
         },
         {
-          "title": "Key takeaways from the PM and President's news conference",
-          "link": "https://www.bbc.com/news/articles/cre5nylyzd4o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 18 Sep 2025 17:09:08 GMT"
+          "title": "Sommarhälsning från FoU Skola",
+          "link": "https://skaneskommuner.se/news/sommarhalsning-fran-fou-skola-2/",
+          "published": "2025-06-05T14:03:06Z"
         },
         {
-          "title": "First migrant deported to France under 'one in one out' deal",
-          "link": "https://www.bbc.com/news/articles/ckg653r06jgo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 18 Sep 2025 19:04:07 GMT"
+          "title": "Yrkesresan stärker socialtjänsten i Skåne – nu förbereds nästa lansering",
+          "link": "https://skaneskommuner.se/news/yrkesresan-starker-socialtjansten-i-skane-nu-forbereds-nasta-lansering/",
+          "published": "2025-05-26T12:59:17Z"
         },
         {
-          "title": "'Cataclysmic' situation in Gaza City, UN official says, as Israeli tanks advance",
-          "link": "https://www.bbc.com/news/articles/c5y8l46m5evo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 18 Sep 2025 14:46:49 GMT"
+          "title": "Ny socialtjänstlag som syftar till att skapa en mer förebyggande, lättillgänglig och kunskapsbaserad socialtjänst.",
+          "link": "https://skaneskommuner.se/news/ny-socialtjanstlag-som-syftar-till-att-skapa-en-mer-forebyggande-lattillganglig-och-kunskapsbaserad-socialtjanst/",
+          "published": "2025-05-21T10:32:41Z"
         },
         {
-          "title": "Corbyn and Sultana clash over new party membership",
-          "link": "https://www.bbc.com/news/articles/cgkn3v1e7g3o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 18 Sep 2025 16:05:18 GMT"
+          "title": "Skånska Demensdagen 2025 – Samverkan för en bättre demensvård",
+          "link": "https://skaneskommuner.se/news/skanska-demensdagen-2025-samverkan-for-en-battre-demensvard/",
+          "published": "2025-05-21T08:47:42Z"
         }
       ]
     },
     {
-      "url": "https://hnrss.org/frontpage",
+      "url": "http://svt.se/nyheter/rss.xml",
       "items": [
         {
-          "title": "The Last Days of the Managerial Class",
-          "link": "https://eyeofthesquid.com/the-last-days-of-the-managerial-class-5c95bd74ee60",
-          "published": "Thu, 18 Sep 2025 18:50:13 +0000"
+          "title": "Kraftig jordbävning i Ryssland – tsnuamivarning utfärdad",
+          "link": "https://www.svt.se/nyheter/utrikes/kraftig-jordbavning-i-ryssland-tsnuamivarning-utfardad",
+          "published": "Thu, 18 Sep 2025 21:23:18 +0200"
         },
         {
-          "title": "When Knowing Someone at Meta Is the Only Way to Break Out of \"Content Jail\"",
-          "link": "https://www.eff.org/pages/when-knowing-someone-meta-only-way-break-out-content-jail",
-          "published": "Thu, 18 Sep 2025 18:30:37 +0000"
+          "title": "Så skulle ett internationellt ingripande i Gaza kunna se ut",
+          "link": "https://www.svt.se/nyheter/utrikes/sa-skulle-ett-internationellt-ingripande-i-gaza-kunna-se-ut",
+          "published": "Thu, 18 Sep 2025 21:03:02 +0200"
         },
         {
-          "title": "Cluely Thesis on Virality and Hype",
-          "link": "https://cluely.com/blog/virality",
-          "published": "Thu, 18 Sep 2025 18:26:07 +0000"
+          "title": "Utredning: Vill se slopat matkrav för alkoholtillstånd",
+          "link": "https://www.svt.se/nyheter/lokalt/stockholm/utredning-vill-se-slopat-matkrav-for-alkoholtillstand",
+          "published": "Thu, 18 Sep 2025 19:26:59 +0200"
         },
         {
-          "title": "Learn Your Way: Reimagining Textbooks with Generative AI",
-          "link": "https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/",
-          "published": "Thu, 18 Sep 2025 17:42:56 +0000"
+          "title": "Efter GPS-störningarna – stor räddningsövning i skärgården",
+          "link": "https://www.svt.se/nyheter/lokalt/ost/efter-gps-storningarna-stor-raddningsovning-i-skargarden",
+          "published": "Thu, 18 Sep 2025 18:56:45 +0200"
         },
         {
-          "title": "OpenTelemetry Collector: What It Is, When You Need It, and When You Don't",
-          "link": "https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view",
-          "published": "Thu, 18 Sep 2025 17:29:17 +0000"
+          "title": "Knutson om kollapsade energisamtalen: ”SD accepterade inte”",
+          "link": "https://www.svt.se/nyheter/inrikes/knutson-om-kollapsade-energisamtalen-sd-accepterade-inte",
+          "published": "Thu, 18 Sep 2025 18:56:32 +0200"
+        }
+      ]
+    },
+    {
+      "url": "http://svt.se/nyheter/regionalt/sydnytt/rss.xml",
+      "items": [
+        {
+          "title": "Nyheter från dagen: 18 september",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-18-september-jie0oe",
+          "published": "Thu, 18 Sep 2025 20:20:04 +0200"
+        },
+        {
+          "title": "Chef stängs av – kallade sverigedemokrater korkade",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/chef-stangs-av-kallade-sverigedemokrater-korkade",
+          "published": "Thu, 18 Sep 2025 19:10:25 +0200"
+        },
+        {
+          "title": "Biblioteket delar ut konsertbiljetter – men ingen vill ha",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/biblioteket-delar-ut-konsertbiljetter-men-ingen-vill-ha",
+          "published": "Thu, 18 Sep 2025 16:49:07 +0200"
+        },
+        {
+          "title": "Tre frågor om: Därför ska du rösta i kyrkovalet",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/tre-fragor-om-darfor-ska-du-rosta-i-kyrkovalet",
+          "published": "Thu, 18 Sep 2025 15:27:52 +0200"
+        },
+        {
+          "title": "Charlotte, 28, röstar i kyrkovalet: ”Annars får man inte klaga”",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/charlotte-28-rostar-i-kyrkovalet-annars-far-man-inte-klaga",
+          "published": "Thu, 18 Sep 2025 15:26:11 +0200"
+        }
+      ]
+    },
+    {
+      "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
+      "items": [
+        {
+          "title": "USA lägger in veto mot Gazaresolution",
+          "link": "https://www.aftonbladet.se/nyheter/a/LM2vgP/usa-lagger-in-veto-mot-gazaresolution?utm_medium=rss",
+          "published": "Thu, 18 Sep 2025 19:29:39 GMT"
+        },
+        {
+          "title": "Vit dvärg slukar rester av Pluto-liknande planet",
+          "link": "https://www.aftonbladet.se/nyheter/a/63Lpez/vit-dvarg-slukar-rester-av-pluto-liknande-planet?utm_medium=rss",
+          "published": "Thu, 18 Sep 2025 19:04:41 GMT"
+        },
+        {
+          "title": "Insåg att han dödat barn: ”Jag ville kräkas”",
+          "link": "https://www.aftonbladet.se/nyheter/a/XjKxEB/insag-att-han-dodat-barn-jag-ville-krakas?utm_medium=rss",
+          "published": "Thu, 18 Sep 2025 18:31:42 GMT"
+        },
+        {
+          "title": "Två israeliska soldater dödade vid gränskontroll",
+          "link": "https://www.aftonbladet.se/nyheter/a/W0w9xg/tva-israeliska-soldater-dodade-vid-granskontroll?utm_medium=rss",
+          "published": "Thu, 18 Sep 2025 18:29:53 GMT"
+        },
+        {
+          "title": "Kritiken: Känslig data hamnar hos reklambyrå",
+          "link": "https://www.aftonbladet.se/nyheter/a/Pp7Mbp/kritiken-efter-powers-gravidkampanj-reklambyra-far-kanslig-data?utm_medium=rss",
+          "published": "Thu, 18 Sep 2025 18:28:34 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://feeds.expressen.se/nyheter/",
+      "items": [
+        {
+          "title": "Tsunami varning",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ab93f61a-1c2f-4fdf-8e59-7693024efcd1",
+          "published": "Thu, 18 Sep 2025 21:28:03 +0200"
+        },
+        {
+          "title": "Man tog sig in i ambulans",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4db8654b-7538-48db-8594-0eaba34f4f81",
+          "published": "Thu, 18 Sep 2025 21:12:12 +0200"
+        },
+        {
+          "title": "Peter var livvakt åt Charlie Kirk:  ”Var är drönaren”",
+          "link": "https://www.expressen.se/nyheter/varlden/peter-var-livvakt-at-charlie-kirk--var-ar-dronaren/",
+          "published": "Thu, 18 Sep 2025 21:11:00 +0200"
+        },
+        {
+          "title": "Bikinibilderna väcker ilska – ”jobbar hemifrån” på stranden",
+          "link": "https://www.expressen.se/nyheter/varlden/bikinibilderna-vacker-ilska-jobbar-hemifran-pa-stranden/",
+          "published": "Thu, 18 Sep 2025 20:50:00 +0200"
+        },
+        {
+          "title": "Nelly, 29, blev mamma – fick obotlig bröstcancer",
+          "link": "https://www.expressen.se/nyheter/sverige/nelly-29-blev-mamma-fick-obotlig-brostcancer/",
+          "published": "Thu, 18 Sep 2025 20:40:12 +0200"
         }
       ]
     }
