@@ -1,0 +1,33 @@
+name: Update JSON
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # kör var 30:e minut
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run script
+        run: python update_json.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git commit -m "Update JSON [skip ci]" || echo "No changes to commit"
+          git push
