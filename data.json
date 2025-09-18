@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-18T21:32:51.065151Z",
+  "lastUpdated": "2025-09-18T22:09:00.519295Z",
   "feeds": [
     {
       "url": "https://skaneskommuner.se/news/feed/atom/",
@@ -95,6 +95,11 @@
       "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
       "items": [
         {
+          "title": "Putins plan för efterträdaren: ”Riskerar livet”",
+          "link": "https://www.aftonbladet.se/nyheter/a/Pp7Wz0/putins-plan-for-eftertradaren-riskerar-livet?utm_medium=rss",
+          "published": "Thu, 18 Sep 2025 21:54:52 GMT"
+        },
+        {
           "title": "Tecknen avslöjar − har följt Putins väg mot diktatur",
           "link": "https://www.aftonbladet.se/nyheter/a/1M4E8X/donald-trump-foljer-i-vladimir-putins-spar-sa-liknar-usa-ryssland?utm_medium=rss",
           "published": "Thu, 18 Sep 2025 20:12:36 GMT"
@@ -113,17 +118,27 @@
           "title": "Kriminalvården: 13-åringar borde inte fängslas",
           "link": "https://www.aftonbladet.se/nyheter/a/Oo4L7k/kriminalvarden-13-aringar-borde-inte-fangslas?utm_medium=rss",
           "published": "Thu, 18 Sep 2025 19:50:34 GMT"
-        },
-        {
-          "title": "Man tog sig in i ambulans på jakt efter läkemedel",
-          "link": "https://www.aftonbladet.se/nyheter/a/RzkPw2/man-tog-sig-in-i-ambulans-pa-jakt-efter-lakemedel?utm_medium=rss",
-          "published": "Thu, 18 Sep 2025 19:40:19 GMT"
         }
       ]
     },
     {
       "url": "https://feeds.expressen.se/nyheter/",
       "items": [
+        {
+          "title": "Pojke död i olycka med A-traktor",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7fbe38eb-00b9-43a4-b65e-7c84c3ea8cd4",
+          "published": "Thu, 18 Sep 2025 23:57:39 +0200"
+        },
+        {
+          "title": "Bank-id slutar att fungera – på vissa telefoner",
+          "link": "https://www.expressen.se/nyheter/sverige/bank-id-slutar-att-fungera-pa-vissa-telefoner/",
+          "published": "Thu, 18 Sep 2025 23:55:28 +0200"
+        },
+        {
+          "title": "Tusentals Berlinbor evakuerade",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=887860e6-17e1-4f46-978a-b348cb541348",
+          "published": "Thu, 18 Sep 2025 23:34:35 +0200"
+        },
         {
           "title": "Grekiska arvtagerskan död – efter insektsbett",
           "link": "https://www.expressen.se/nyheter/varlden/grekiska-arvtagerskan-dod-efter-insektsbett/",
@@ -133,21 +148,6 @@
           "title": "Späckhuggare har sänkt ännu en båt i Portugal",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=df217f83-f44b-4c29-ba70-262d445f7c4a",
           "published": "Thu, 18 Sep 2025 22:45:23 +0200"
-        },
-        {
-          "title": "Avslöjar: Jag hjälpte  Rawa Majid att fly",
-          "link": "https://www.expressen.se/nyheter/sverige/avslojar-jag-hjalpte--rawa-majid-att-fly/",
-          "published": "Thu, 18 Sep 2025 22:32:02 +0200"
-        },
-        {
-          "title": "Hemliga spelet bakom Kimmel-sparkningen",
-          "link": "https://www.expressen.se/nyheter/varlden/hemliga-spelet-bakom-kimmel-sparkningen/",
-          "published": "Thu, 18 Sep 2025 22:06:11 +0200"
-        },
-        {
-          "title": "Skrev ledartext om handgest:  Utskälld av Riks",
-          "link": "https://www.expressen.se/nyheter/sverige/skrev-ledartext-om-handgest--utskalld-av-riks/",
-          "published": "Thu, 18 Sep 2025 21:44:39 +0200"
         }
       ]
     }
