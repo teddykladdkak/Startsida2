@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-18T20:37:47.195388Z",
+  "lastUpdated": "2025-09-18T21:09:13.032912Z",
   "feeds": [
     {
       "url": "https://skaneskommuner.se/news/feed/atom/",
@@ -125,6 +125,16 @@
       "url": "https://feeds.expressen.se/nyheter/",
       "items": [
         {
+          "title": "Grekiska arvtagerskan död – efter insektsbett",
+          "link": "https://www.expressen.se/nyheter/varlden/grekiska-arvtagerskan-dod-efter-insektsbett/",
+          "published": "Thu, 18 Sep 2025 22:50:47 +0200"
+        },
+        {
+          "title": "Späckhuggare har sänkt ännu en båt i Portugal",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=df217f83-f44b-4c29-ba70-262d445f7c4a",
+          "published": "Thu, 18 Sep 2025 22:45:23 +0200"
+        },
+        {
           "title": "Avslöjar: Jag hjälpte  Rawa Majid att fly",
           "link": "https://www.expressen.se/nyheter/sverige/avslojar-jag-hjalpte--rawa-majid-att-fly/",
           "published": "Thu, 18 Sep 2025 22:32:02 +0200"
@@ -138,16 +148,6 @@
           "title": "Skrev ledartext om handgest:  Utskälld av Riks",
           "link": "https://www.expressen.se/nyheter/sverige/skrev-ledartext-om-handgest--utskalld-av-riks/",
           "published": "Thu, 18 Sep 2025 21:44:39 +0200"
-        },
-        {
-          "title": "Fel på Marine One – Trump tvingades byta helikopter",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=bfe6325f-f8e2-4308-b82b-faba2c1d44a4",
-          "published": "Thu, 18 Sep 2025 21:37:32 +0200"
-        },
-        {
-          "title": "Tsunamivarning",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ab93f61a-1c2f-4fdf-8e59-7693024efcd1",
-          "published": "Thu, 18 Sep 2025 21:28:03 +0200"
         }
       ]
     }
