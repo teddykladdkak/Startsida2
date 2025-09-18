@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-18T22:09:00.519295Z",
+  "lastUpdated": "2025-09-18T22:34:55.205127Z",
   "feeds": [
     {
       "url": "https://skaneskommuner.se/news/feed/atom/",
@@ -95,6 +95,11 @@
       "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
       "items": [
         {
+          "title": "Pojke död efter singelolycka",
+          "link": "https://www.aftonbladet.se/nyheter/a/Vz0yKp/pojke-dod-efter-singelolycka?utm_medium=rss",
+          "published": "Thu, 18 Sep 2025 22:15:17 GMT"
+        },
+        {
           "title": "Putins plan för efterträdaren: ”Riskerar livet”",
           "link": "https://www.aftonbladet.se/nyheter/a/Pp7Wz0/putins-plan-for-eftertradaren-riskerar-livet?utm_medium=rss",
           "published": "Thu, 18 Sep 2025 21:54:52 GMT"
@@ -113,11 +118,6 @@
           "title": "Uppgifter: Mattias Karlsson (M) polisanmäld",
           "link": "https://www.aftonbladet.se/nyheter/a/eM92gK/uppgifter-mattias-karlsson-m-polisanmald?utm_medium=rss",
           "published": "Thu, 18 Sep 2025 20:03:14 GMT"
-        },
-        {
-          "title": "Kriminalvården: 13-åringar borde inte fängslas",
-          "link": "https://www.aftonbladet.se/nyheter/a/Oo4L7k/kriminalvarden-13-aringar-borde-inte-fangslas?utm_medium=rss",
-          "published": "Thu, 18 Sep 2025 19:50:34 GMT"
         }
       ]
     },
