@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T10:11:40.692214Z",
+  "lastUpdated": "2025-09-19T10:39:39.396239Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,18 @@
       },
       "items": [
         {
+          "title": "Körde katten i tvättmaskinen – åtalas för djuplågeri",
+          "link": "https://www.svt.se/nyheter/lokalt/halland/korde-katten-i-tvattmaskinen-atalas-for-djuplageri",
+          "published": "Fri, 19 Sep 2025 12:23:49 +0200",
+          "description": "En man i 20-årsåldern misstänks för att ha dödat sin exsambos två katter genom att köra en av dem i tvättmaskinen, spika i den och sedan skära halsen av den och senare den andra. Detta ska ha skett i Hylte kommun. Mannen åtalas nu vid Halmstad tingsrätt för bland annat djurplågeri."
+        },
+        {
+          "title": "Efter översvämningen i Kubbe – här lever fembarnsfamiljen utan värme och dusch",
+          "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/efter-oversvamningen-i-kubbe-har-lever-fembarnsfamiljen-utan-varme-och-dusch",
+          "published": "Fri, 19 Sep 2025 12:14:55 +0200",
+          "description": "Mats Näslunds familj drabbades hårt av översvämningarna i Kubbe. Nu bor fembarnsfamiljen i ett sommarhus utan uppvärmning eller duschmöjligheter. – Det är psykiskt jobbigt, säger Mats om situationen."
+        },
+        {
           "title": "Femte avhoppet i Stockholms stadshus: Torun Boucher (V) går i pension",
           "link": "https://www.svt.se/nyheter/lokalt/stockholm/femte-avhopp-pa-stadshuset-aven-torun-boucher-v-gar-i-pension",
           "published": "Fri, 19 Sep 2025 12:01:37 +0200",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/nyheter/inrikes/sd-slar-ifran-sig-om-samtalskollaps-oppositionen-ar-langt-ifran-enig",
           "published": "Fri, 19 Sep 2025 12:00:38 +0200",
           "description": "Energisamtalen mellan regeringen och oppositionen har avslutats. Enligt uppgifter till SVT är Sverigedemokraterna en av huvudorsakerna till att det inte blir någon blocköverskridande energiöverenskommelse. – Det är framförallt inom oppositionen som man är långt ifrån eniga, säger Tobias Andersson (SD), ordförande i näringsutskottet."
-        },
-        {
-          "title": "Hovrätten slår fast: Staffanstorp diskriminerade familj",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/hovratten-faststaller-domen-staffanstorp-doms-for-diskriminering",
-          "published": "Fri, 19 Sep 2025 11:09:02 +0200",
-          "description": "Hovrätten fastställer domen mot Staffanstorps kommun. Även hovrätten anser att kommunen gjorde sig skyldig till diskriminering när man vägrade att ta emot en kvotflyktingfamilj från Syrien."
-        },
-        {
-          "title": "Håkan Hellström på Sverigeturné 2026",
-          "link": "https://www.svt.se/kultur/hakan-hellstrom-pa-sverigeturne-2026",
-          "published": "Fri, 19 Sep 2025 10:34:43 +0200",
-          "description": "Det är tio år sedan Håkan Hellström senaste gjorde en inomhusturné. Men nästa år är det dags igen, med premiär i Oslo och fem arenastopp i Sverige."
         }
       ]
     },
@@ -69,7 +69,7 @@
           "title": "Hovrätten slår fast: Staffanstorp diskriminerade familj",
           "link": "https://www.svt.se/nyheter/lokalt/skane/hovratten-faststaller-domen-staffanstorp-doms-for-diskriminering",
           "published": "Fri, 19 Sep 2025 11:09:02 +0200",
-          "description": "Hovrätten fastställer domen mot Staffanstorps kommun. Även hovrätten anser att kommunen gjorde sig skyldig till diskriminering när man vägrade att ta emot en kvotflyktingfamilj från Syrien."
+          "description": "Hovrätten fastställer domen mot Staffanstorps kommun. Även hovrätten anser att kommunen gjorde sig skyldig till diskriminering när man vägrade att ta emot en kvotflyktingfamilj från Syrien. Kommunen kommer överklaga till Högsta domstolen."
         },
         {
           "title": "Tullare från hela Europa samlas i Malmö – så ska smugglarna stoppas",
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Två dödliga bombdåd i Baluchistan",
-          "link": "https://www.aftonbladet.se/nyheter/a/25Enqa/tva-dodliga-bombdad-i-baluchistan?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 10:02:56 GMT",
-          "description": "Minst elva personer har dödats i två bombdåd i den oroliga provinsen Baluchistan i sydvästra Pakistan."
+          "title": "Expert: Det är hetaste frågan i kyrkovalet",
+          "link": "https://www.aftonbladet.se/nyheter/a/W0nlar/expert-det-ar-hetaste-fragan-i-kyrkovalet?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 10:30:29 GMT",
+          "description": "På söndag går Svenska kyrkan till val. Men vad står egentligen på spel?"
         },
         {
-          "title": "Drönarattack mot flyktingboende i Darfur",
-          "link": "https://www.aftonbladet.se/nyheter/a/Rzvbo2/dronarattack-mot-flyktingboende-i-darfur?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 10:01:57 GMT",
-          "description": "Minst 75 människor har dödats i ett anfall mot en moské som fungerade som ett boende för internflyktingar i sudanesiska…"
+          "title": "Nya EU-sanktioner mot Ryssland",
+          "link": "https://www.aftonbladet.se/nyheter/a/zAv599/nya-eu-sanktioner-mot-ryssland?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 10:19:40 GMT",
+          "description": "EU-kommissionen lägger nu fram sitt 19:e sanktionspaket mot Ryssland. Fler listade fartyg och snabbare utfasning av gas…"
         },
         {
-          "title": "Var på mordturné – 63-årig kvinna sköts till döds",
-          "link": "https://www.aftonbladet.se/nyheter/a/73WWz9/mamma-skots-till-dods-41-aring-misstankt?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 09:47:01 GMT",
-          "description": "41-åringen fick i uppdrag att skjuta vem som än öppnar. En 63-årig mamma som stod på mordturnéns lista öppnade dörren…"
+          "title": "Brittiskt par släppt av talibanerna",
+          "link": "https://www.aftonbladet.se/nyheter/a/Gy4l6B/brittiskt-par-slappt-av-talibanerna?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 10:18:39 GMT",
+          "description": "Det äldre brittiska paret Peter och Barbie Reynolds, som drivit skolor i Afghanistan och det senaste halvåret suttit i…"
         }
       ]
     },
