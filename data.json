@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T08:13:49.989492Z",
+  "lastUpdated": "2025-09-19T08:42:04.335421Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,24 @@
       },
       "items": [
         {
+          "title": "Håkan Hellström på Sverigeturné 2026",
+          "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/hakan-hellstrom-pa-sverigeturne-2026",
+          "published": "Fri, 19 Sep 2025 10:34:43 +0200",
+          "description": "Det är tio år sedan Håkan Hellström senaste gjorde en inomhusturné. Men nästa år är det dags igen, med premiär i Oslo och fem arenastopp i Sverige."
+        },
+        {
+          "title": "Så stöttar talkshow-värdarna Jimmy Kimmel",
+          "link": "https://www.svt.se/kultur/sa-stottar-talkshow-vardarna-jimmy-kimmel",
+          "published": "Fri, 19 Sep 2025 10:30:02 +0200",
+          "description": "Stephen Colbert och Seth Meyers uttryckte båda sitt stöd för Jimmy Kimmel i sina program på torsdagskvällen. Även veteraner som David Letterman och Jay Leno har ryckt ut till Kimmels försvar."
+        },
+        {
+          "title": "Bilvolt på E10 utanför Kiruna – stort räddningspådrag",
+          "link": "https://www.svt.se/nyheter/lokalt/norrbotten/bilvolt-pa-e10-utanfor-kiruna-stort-raddningspadrag",
+          "published": "Fri, 19 Sep 2025 10:29:19 +0200",
+          "description": "Det har inträffat en singelolycka strax norr om Kiruna. Föraren körde av vägen och voltade med personbilen och fyra styrkor från räddningstjänsten samt en ambulans har larmats till platsen."
+        },
+        {
           "title": "Här är supertvillingarna Moll: ”Exceptionella för att vara så unga”",
           "link": "https://www.svt.se/sport/friidrott/har-ar-supertvillingarna-moll-exceptionella-for-att-vara-sa-unga",
           "published": "Fri, 19 Sep 2025 10:04:32 +0200",
@@ -38,24 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/skadad-man-hittad-pa-sandbacka-man-misstanks-for-grov-misshandel",
           "published": "Fri, 19 Sep 2025 09:58:33 +0200",
           "description": "En skadad man hittades på Sandbacka i Umeå under fredagsmorgonen. Mannen har blivit misshandlad med ett tillhygge. En annan man misstänks nu för grov misshandel."
-        },
-        {
-          "title": "Höll man instängd i bil i Umeå – tre misstänks för flera brott",
-          "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/holl-man-instangd-i-bil-i-umea-tre-misstanks-for-flera-brott",
-          "published": "Fri, 19 Sep 2025 09:54:58 +0200",
-          "description": "En man hölls instängd i en bil i Umeå under natten – mot sin vilja. Tre män misstänks för en rad brott, bland annat olaga frihetsberövande."
-        },
-        {
-          "title": "Talibanerna förbjuder böcker av kvinnor",
-          "link": "https://www.svt.se/nyheter/utrikes/talibanerna-forbjuder-bocker-av-kvinnor",
-          "published": "Fri, 19 Sep 2025 06:36:01 +0200",
-          "description": "Den talibanska regimen i Afghanistan har förbjudit böcker skrivna av kvinnor vid landets universitet, rapporterar BBC."
-        },
-        {
-          "title": "SVT:s granskning: Riktad sänkning av matmoms kan spara 21 miljarder",
-          "link": "https://www.svt.se/nyheter/ekonomi/svts-granskning-riktad-sankning-av-matmoms-kan-spara-21-miljarder",
-          "published": "Fri, 19 Sep 2025 05:57:40 +0200",
-          "description": "Regeringens beslut att lägga 37 miljarder kronor på sänkt matmoms har fått kritik bland annat för att vara en dyr och ineffektiv åtgärd. Momssänkningen berör all mat, men SVT har tittat på vad det skulle innebära att antingen exkludera onyttigheter eller följa Portugals exempel och bara sänka momsen på basvaror."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Dolda motivet bakom ”sprickan” i Hamas",
-          "link": "https://www.aftonbladet.se/nyheter/a/LM2JkP/dolda-motivet-bakom-sprickan-i-hamas?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 06:53:14 GMT",
-          "description": "PLUS Ranstorp: Hamas försöker mjuka upp sin image"
+          "title": "Regeringen: 220 miljarder i lån till kärnkraft",
+          "link": "https://www.aftonbladet.se/nyheter/a/Avjz2z/regeringen-220-miljarder-i-lan-till-karnkraft?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 08:33:53 GMT",
+          "description": "220 miljarder kronor. Så mycket är regeringen beredd att låna ut till företag som vill bygga ny kärnkraft."
         },
         {
-          "title": "Ryskt sändebud: Danmark hotar oss med Bornholm",
-          "link": "https://www.aftonbladet.se/nyheter/a/KMoE97/ryskt-sandebud-danmark-hotar-oss-med-bornholm?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 06:45:00 GMT",
-          "description": "Danmark använder ön Bornholm för att hota Rysslands säkerhet, påstår Moskvas Danmarksambassadör."
+          "title": "Mette-Marit får behandling för lungsjukdom",
+          "link": "https://www.aftonbladet.se/nyheter/a/KMdBBX/mette-marit-far-behandling-for-lungsjukdom?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 08:31:36 GMT",
+          "description": "Den norska kronprinsessan Mette-Marit blir borta från offentligheten större delen av oktober."
         },
         {
-          "title": "Putins plan för efterträdaren: ”Riskerar livet”",
-          "link": "https://www.aftonbladet.se/nyheter/a/Pp7Wz0/putins-plan-for-eftertradaren-riskerar-livet?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 06:36:09 GMT",
-          "description": "PLUS Nästa generation i det ryska toppskiktet måste uppfylla ett krav. Det uppger Putin."
+          "title": "Dömd storbedragare åtalas på nytt",
+          "link": "https://www.aftonbladet.se/nyheter/a/4ByjjR/domd-storbedragare-atalas-pa-nytt?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 08:30:18 GMT",
+          "description": "En man från Blekinge som sedan tidigare är dömd för storskalig miljonsvindel åtalas för misstänkta…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
+          "title": "Avancerad rysk militärbas avslöjad – av toalett-miss",
+          "link": "https://www.expressen.se/nyheter/varlden/avancerad-rysk-militarbas-avslojad--av-toalett-miss/",
+          "published": "Fri, 19 Sep 2025 10:31:40 +0200",
+          "description": "En slarvig tv-sändning – och en toalettskylt. Mer än så krävdes inte för att avslöja en av Rysslands mest avancerade militärbaser."
+        },
+        {
+          "title": "Mette-Marit borta en månad",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6c213e8e-70ba-4dc4-92bb-4d6c6743d30d",
+          "published": "Fri, 19 Sep 2025 10:15:34 +0200",
+          "description": "Ska genomgå behandling"
+        },
+        {
           "title": "Godståg läcker i Norrköping",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=339e1511-c649-4c7c-8dd4-5787f4953415",
           "published": "Fri, 19 Sep 2025 10:04:43 +0200",
           "description": "Insats i Norrköping – en till sjukhus"
-        },
-        {
-          "title": "Familjens ilska efter grekiska arvtagerskans död",
-          "link": "https://www.expressen.se/nyheter/varlden/familjens-ilska-efter-grekiska-arvtagerskans-dod/",
-          "published": "Fri, 19 Sep 2025 09:54:52 +0200",
-          "description": "Den grekiska arvtagerskan Marissa Laimou, 30, sökte vård efter att ha blivit biten av en insekt – men skickades hem. Nu hotar familjen att vidta rättsliga åtgärder mot sjukhuset. – Hon borde aldrig ha skickats hem, säger hennes mamma enligt Daily mail."
-        },
-        {
-          "title": "Regeringen presenterar budgetnyheter",
-          "link": "https://www.expressen.se/nyheter/politik/regeringen-presenterar-budgetnyheter-/",
-          "published": "Fri, 19 Sep 2025 09:33:38 +0200",
-          "description": "Tidöpartierna föreslår 220 miljarder kronor i lån för att finansiera byggfasen av Sveriges kärnkraft. Det meddelar de på en presskonferens. "
         }
       ]
     }
