@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T09:37:24.210768Z",
+  "lastUpdated": "2025-09-19T10:11:40.692214Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,24 @@
       },
       "items": [
         {
+          "title": "Femte avhoppet i Stockholms stadshus: Torun Boucher (V) går i pension",
+          "link": "https://www.svt.se/nyheter/lokalt/stockholm/femte-avhopp-pa-stadshuset-aven-torun-boucher-v-gar-i-pension",
+          "published": "Fri, 19 Sep 2025 12:01:37 +0200",
+          "description": "Inför valet har flera politiker i Stockholms toppskick meddelat att de lämnar lokalpolitiken. Nu rapporterar Mitt i att även vänsterpolitikern Torun Boucher kommer att sluta efter valet."
+        },
+        {
+          "title": "Fiskerikonsulenten: Allt vanligare med säl i Mälaren",
+          "link": "https://www.svt.se/nyheter/lokalt/stockholm/fiskerikonsulenten-allt-vanligare-med-sal-i-malaren",
+          "published": "Fri, 19 Sep 2025 12:01:09 +0200",
+          "description": "De poppar upp här och var. Sälen i Mälaren. Och chansen att se gråsäl i centrala Stockholm ökar, menar Stockholms stads fiskerikonsulent. – De tar sig in via slussarna och stannar över dagen eller några dagar, det finns väldigt gott om fisk i Mälaren, säger Oliver Karlöf, fiskerikonsulent i Stockholms stad."
+        },
+        {
+          "title": "SD slår ifrån sig om samtalskollaps: ”Oppositionen är långt ifrån enig”",
+          "link": "https://www.svt.se/nyheter/inrikes/sd-slar-ifran-sig-om-samtalskollaps-oppositionen-ar-langt-ifran-enig",
+          "published": "Fri, 19 Sep 2025 12:00:38 +0200",
+          "description": "Energisamtalen mellan regeringen och oppositionen har avslutats. Enligt uppgifter till SVT är Sverigedemokraterna en av huvudorsakerna till att det inte blir någon blocköverskridande energiöverenskommelse. – Det är framförallt inom oppositionen som man är långt ifrån eniga, säger Tobias Andersson (SD), ordförande i näringsutskottet."
+        },
+        {
           "title": "Hovrätten slår fast: Staffanstorp diskriminerade familj",
           "link": "https://www.svt.se/nyheter/lokalt/skane/hovratten-faststaller-domen-staffanstorp-doms-for-diskriminering",
           "published": "Fri, 19 Sep 2025 11:09:02 +0200",
@@ -38,24 +56,6 @@
           "link": "https://www.svt.se/kultur/hakan-hellstrom-pa-sverigeturne-2026",
           "published": "Fri, 19 Sep 2025 10:34:43 +0200",
           "description": "Det är tio år sedan Håkan Hellström senaste gjorde en inomhusturné. Men nästa år är det dags igen, med premiär i Oslo och fem arenastopp i Sverige."
-        },
-        {
-          "title": "Så stöttar talkshow-värdarna Jimmy Kimmel",
-          "link": "https://www.svt.se/kultur/sa-stottar-talkshow-vardarna-jimmy-kimmel",
-          "published": "Fri, 19 Sep 2025 10:30:02 +0200",
-          "description": "Stephen Colbert och Seth Meyers uttryckte båda sitt stöd för Jimmy Kimmel i sina program på torsdagskvällen. Även veteraner som David Letterman och Jay Leno har ryckt ut till Kimmels försvar."
-        },
-        {
-          "title": "Stort räddningspådrag efter bilvolt på E10 utanför Kiruna",
-          "link": "https://www.svt.se/nyheter/lokalt/norrbotten/bilvolt-pa-e10-utanfor-kiruna-stort-raddningspadrag",
-          "published": "Fri, 19 Sep 2025 10:29:19 +0200",
-          "description": "Under fredagsförmiddagen körde en förare av vägen och voltade med sin personbil strax norr om Kiruna. Flera styrkor från räddningstjänsten samt ambulans och polis ryckte ut till olycksplatsen."
-        },
-        {
-          "title": "Här är supertvillingarna Moll: ”Exceptionella för att vara så unga”",
-          "link": "https://www.svt.se/sport/friidrott/har-ar-supertvillingarna-moll-exceptionella-for-att-vara-sa-unga",
-          "published": "Fri, 19 Sep 2025 10:04:32 +0200",
-          "description": "Tvillingsystrarna Moll spås en stor framtid. Här presenterar sig 20-åringarna tillsammans på VM. – De är exceptionellt bra för att vara så unga, säger SVT Sports expert Alhaji Jeng."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Mjölkkor får behålla betesrätten tills vidare",
-          "link": "https://www.aftonbladet.se/nyheter/a/Gy4lP9/mjolkkor-far-behalla-betesratten-tills-vidare?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 09:36:01 GMT",
-          "description": "Rätten för mjölkkor att få beta blir kvar ett tag till, uppger landsbygdsminister Peter Kullgren (KD)."
+          "title": "Två dödliga bombdåd i Baluchistan",
+          "link": "https://www.aftonbladet.se/nyheter/a/25Enqa/tva-dodliga-bombdad-i-baluchistan?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 10:02:56 GMT",
+          "description": "Minst elva personer har dödats i två bombdåd i den oroliga provinsen Baluchistan i sydvästra Pakistan."
         },
         {
-          "title": "Nyhetssammanfattning - 19 september 12.00",
-          "link": "https://www.aftonbladet.se/podcasts/episode/389525?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 09:30:06 GMT",
-          "description": "Sammanfattningen av följande nyheter är gjord med AI:\n– Hamas: Kommer inte släppa fler gisslan\n– Tullen: Stoppat Labubu-kopior för över 1,4 miljoner\n– Professor: ”Fokuseringen på ordet folkmord är olycklig”"
+          "title": "Drönarattack mot flyktingboende i Darfur",
+          "link": "https://www.aftonbladet.se/nyheter/a/Rzvbo2/dronarattack-mot-flyktingboende-i-darfur?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 10:01:57 GMT",
+          "description": "Minst 75 människor har dödats i ett anfall mot en moské som fungerade som ett boende för internflyktingar i sudanesiska…"
         },
         {
-          "title": "Putins plan för efterträdaren: ”Riskerar livet”",
-          "link": "https://www.aftonbladet.se/nyheter/a/Pp7Wz0/putins-plan-for-eftertradaren-riskerar-livet?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 08:52:30 GMT",
-          "description": "PLUS Nästa generation i det ryska toppskiktet måste uppfylla ett krav. Det uppger Putin."
+          "title": "Var på mordturné – 63-årig kvinna sköts till döds",
+          "link": "https://www.aftonbladet.se/nyheter/a/73WWz9/mamma-skots-till-dods-41-aring-misstankt?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 09:47:01 GMT",
+          "description": "41-åringen fick i uppdrag att skjuta vem som än öppnar. En 63-årig mamma som stod på mordturnéns lista öppnade dörren…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Regeringen presenterar budgetnyhet",
+          "title": "Ebba Buschs medarbetare om SD: ”Grunden till allt dåligt”",
+          "link": "https://www.expressen.se/nyheter/sverige/busch-medarbetare-kallade-sd-grunden-for-allt-daligt/",
+          "published": "Fri, 19 Sep 2025 12:03:31 +0200",
+          "description": "Ebba Buschs medarbetare kallar SD ”grunden till allt dåligt i svensk politik”, i en story på Instagram. SD-toppen Tobias Andersson ser det som en överträdelse av Tidöpartiernas respektklausul.– Jag har lyft det med vår samordning för hantering, säger han.KD-ledaren säger att hon inte sett inlägget – men nu pudlar partiet."
+        },
+        {
+          "title": "Hackade lärarens dator – för att radera frånvaro",
+          "link": "https://www.expressen.se/nyheter/sverige/hackade-lararens-dator--for-att-radera-franvaro/",
+          "published": "Fri, 19 Sep 2025 12:00:59 +0200",
+          "description": "En gymnasieelevs höga frånvaro höll på att kosta honom indraget studiestöd. Han försökte lösa problemet genom att bryta sig in i sin lärares dator. Nu åtalas han och två andra elever för dataintrång."
+        },
+        {
+          "title": "Regeringen satsar på svensk mat: ”Fler kor”",
           "link": "https://www.expressen.se/nyheter/politik/regeringen-presenterar-budgetnyhet/",
           "published": "Fri, 19 Sep 2025 11:31:11 +0200",
-          "description": "Mer svensk mat på tallriken.Det är temat när regeringen presenterar en budgetnyhet.Klockan 11.30 börjar en pressträff."
-        },
-        {
-          "title": "Stora köer på E4",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a1bce270-0d4b-4bd4-be13-d3d1569a8195",
-          "published": "Fri, 19 Sep 2025 11:23:52 +0200",
-          "description": "Problem vid Gröndal i södra Stockholm"
-        },
-        {
-          "title": "Marek Rokosz dödade och brände upp man – hovrätten fastställer dom",
-          "link": "https://www.expressen.se/nyheter/krim/marek-rokosz-dodade-och-brande-upp-man-hovratten-faststaller-dom/",
-          "published": "Fri, 19 Sep 2025 11:19:21 +0200",
-          "description": "34-åringen skulle driva in en skuld på julafton.I stället sköts han ihjäl och kroppen brändes. Nu fastställer hovrätten domen mot mördaren Marek Rokosz. "
+          "description": "Mer svensk mat på tallriken.Regeringen vill öka den inhemska livsmedelsproduktionen.– Då kommer det behövas fler kor i det här landet, säger landsbygdsminister Peter Kullgren (KD)."
         }
       ]
     },
