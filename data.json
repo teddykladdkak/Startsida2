@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T05:10:13.600375Z",
+  "lastUpdated": "2025-09-19T05:36:57.401708Z",
   "feeds": [
     {
       "url": "https://skaneskommuner.se/news/feed/atom/",
@@ -45,11 +45,6 @@
           "published": "Fri, 19 Sep 2025 05:57:40 +0200"
         },
         {
-          "title": "Lyxbedragarens offer om dagens åtal: ”Varit ett rent helvete”",
-          "link": "https://www.svt.se/nyheter/lokalt/blekinge/lyxbedragarens-offer-om-dagens-atal-varit-ett-rent-helvete",
-          "published": "Fri, 19 Sep 2025 05:30:09 +0200"
-        },
-        {
           "title": "Skämtet som stoppade programmet – så påverkas talkshows av politiken",
           "link": "https://www.svt.se/nyheter/utrikes/skamtet-som-stoppade-programmet-sa-paverkas-talkshows-av-politiken",
           "published": "Thu, 18 Sep 2025 23:04:37 +0200"
@@ -58,6 +53,11 @@
           "title": "Kraftig jordbävning i Ryssland – tsnuamivarning utfärdad",
           "link": "https://www.svt.se/nyheter/utrikes/kraftig-jordbavning-i-ryssland-tsnuamivarning-utfardad",
           "published": "Thu, 18 Sep 2025 21:23:18 +0200"
+        },
+        {
+          "title": "Så skulle ett internationellt ingripande i Gaza kunna se ut",
+          "link": "https://www.svt.se/nyheter/utrikes/sa-skulle-ett-internationellt-ingripande-i-gaza-kunna-se-ut",
+          "published": "Thu, 18 Sep 2025 21:03:02 +0200"
         }
       ]
     },
@@ -125,6 +125,16 @@
       "url": "https://feeds.expressen.se/nyheter/",
       "items": [
         {
+          "title": "Rysk tsunamivarning",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c8da21fd-291d-4b8f-beca-fc541144e28b",
+          "published": "Fri, 19 Sep 2025 07:25:14 +0200"
+        },
+        {
+          "title": "Lärarvikarie misstänks för flera barnvåldtäkter i Gävle",
+          "link": "https://www.expressen.se/nyheter/krim/lararvikarie-misstanks-for-flera-barnvaldtakter-i-gavle/",
+          "published": "Fri, 19 Sep 2025 07:18:33 +0200"
+        },
+        {
           "title": "Hamas nya beslut om gisslan",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=bced4087-2b25-47fa-87bd-15d518cc2e82",
           "published": "Fri, 19 Sep 2025 07:00:48 +0200"
@@ -137,17 +147,7 @@
         {
           "title": "Trumps attack på Londons borgmästare",
           "link": "https://www.expressen.se/tv/nyheter/varlden/donald-trumps-attack-gjort-ett-hemskt-jobb",
-          "published": "Fri, 19 Sep 2025 07:02:25 +0200"
-        },
-        {
-          "title": "Svensk gripen i Spanien",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=64fe8264-ec33-482e-90a6-b584125158f7",
-          "published": "Fri, 19 Sep 2025 06:11:57 +0200"
-        },
-        {
-          "title": "Välj rätt och spara 10 000 kronor på en ny Iphone",
-          "link": "https://www.expressen.se/ekonomi/tech/valj-ratt-och-spara-10-000-kronor-pa-en-ny-iphone/",
-          "published": "Fri, 19 Sep 2025 05:00:00 +0200"
+          "published": "Fri, 19 Sep 2025 07:02:24 +0200"
         }
       ]
     }
