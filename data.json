@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T13:41:27.969149Z",
+  "lastUpdated": "2025-09-19T14:09:42.163495Z",
   "feeds": [
     {
       "url": {
@@ -28,16 +28,22 @@
       },
       "items": [
         {
+          "title": "Polisen i region nord bryter med väktarbolag – vill anställa egen arrestpersonal",
+          "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/polisen-i-region-nord-bryter-med-vaktarbolag-vill-anstalla-egen-arrestpersonal",
+          "published": "Fri, 19 Sep 2025 15:48:32 +0200",
+          "description": "Ett väktarbolag har bemannat arresterna i norra Sverige. Men det har saknats personal och poliser har tvingats hoppa in efter arbetstid. Nu bryter man avtalet – istället ska polismyndigheten bemanna arresten."
+        },
+        {
           "title": "Skogsmaskiner körs på distans med hjälp av 5G-drönare – verklighet om tio år",
           "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/skogsmaskiner-kors-pa-distans-med-hjalp-av-5g-dronare-verklighet-om-tio-ar",
           "published": "Fri, 19 Sep 2025 15:20:06 +0200",
           "description": "Skogsmaskiner som körs på distans där föraren sitter ett par kilometer ifrån maskinen – det kan vara verklighet om tio år. Det säger forskare vid Mittuniversitetet i Sundsvall som testat 5G-drönare och fjärrstyrda skogsmaskiner."
         },
         {
-          "title": "Noah Lyles tog sitt fjärde raka VM-guld på 200 meter",
+          "title": "Noah Lyles tog sitt fjärde raka VM-guld på 200 meter: ”Som en film”",
           "link": "https://www.svt.se/sport/friidrott/noah-lyles-tog-sitt-fjarde-raka-vm-guld-pa-200-meter",
           "published": "Fri, 19 Sep 2025 15:07:48 +0200",
-          "description": "Noah Lyles vann finalen på 200 meter efter att ha blivit hårt pressad."
+          "description": "Noah Lyles vann finalen på 200 meter efter att ha blivit hårt pressad. – Det är fantastiskt och allt man kan önska sig, som att vara med i en film, säger Lyles till SVT Sport."
         },
         {
           "title": "Nya superfartkameror till Värmland",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/norrbotten/knivhogg-frun-framfor-barnet-man-i-boden-doms-till-11-ars-fangelse",
           "published": "Fri, 19 Sep 2025 14:28:57 +0200",
           "description": "Mannen knivhögg sin fru flera gånger samtidigt som parets barn blev vittne till händelsen. Kvinnan vaknade av att mannen stod över henne med en kniv. – Jag hinner tänka att nu är det kört, nu dör jag, sade hon i rätten. På fredagen kom domen."
-        },
-        {
-          "title": "Hemvärnet expanderar – snabbkurser i krigskunskap för nya rekryter",
-          "link": "https://www.svt.se/nyheter/uutiset/svenska/hemvarnet-expanderar-snabbkurser-i-krigskunskap-for-nya-rekryter",
-          "published": "Fri, 19 Sep 2025 14:13:46 +0200",
-          "description": "Antalet personer som ansökte till Hemvärnet ökade snabbt efter att Ryssland inledde en fullskalig attack mot Ukraina. Hemvärnet i Sverige har varit tvungna att anpassa sin verksamhet för att utbilda ett större antal rekryter."
         }
       ]
     },
@@ -98,10 +98,10 @@
       },
       "items": [
         {
-          "title": "Ingen förundersökning mot Karlsson (M)",
+          "title": "Ingen brottsutredning efter inlägg om ”odjur”",
           "link": "https://www.aftonbladet.se/nyheter/a/0VPEEM/ingen-forundersokning-mot-karlsson-m?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 13:39:01 GMT",
-          "description": "Åklagare har beslutat att inte inleda förundersökning om hets mot folkgrupp mot Moderaternas gruppledare Mattias…"
+          "description": "Åklagare inleder inte någon förundersökning mot Moderaternas gruppledare Mattias Karlsson, som polisanmäldes efter ett…"
         },
         {
           "title": "Knivhögg frun framför barnet – döms till fängelse",
@@ -124,22 +124,22 @@
       },
       "items": [
         {
+          "title": "Uppgifter: Ryska militärplan kränkte Estlands luftrum",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0bf1b7ba-6355-4d29-a4b4-1a6a68c6c045",
+          "published": "Fri, 19 Sep 2025 16:07:03 +0200",
+          "description": "Uppgifter: Militärflyg i luftrummet"
+        },
+        {
+          "title": "S-toppen rasar efter Kristerssons kritik om energin",
+          "link": "https://www.expressen.se/nyheter/politik/s-toppen-rasar-efter-kristerssons-kritik-om-energin/",
+          "published": "Fri, 19 Sep 2025 15:50:40 +0200",
+          "description": "Statsministern lägger skulden på Socialdemokraterna för de kraschade energiförhandlingarna.Det gör Fredrik Olovsson (S) fly förbannad.– Han har inte fått göra det här för Sverigedemokraterna, så nu försöker han flytta kritiken till oss, säger han.Även Magdalena Andersson rasar mot statsministern."
+        },
+        {
           "title": "Ingen förundersökning mot M-toppen Mattias Karlsson",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=280303b9-29e9-45a5-9699-e0d3ce41e222",
           "published": "Fri, 19 Sep 2025 15:37:43 +0200",
           "description": "Kallade demonstranter för ”odjur”"
-        },
-        {
-          "title": "Katastrof i turistparadiset – nu förbjuds nya hotell",
-          "link": "https://www.expressen.se/nyheter/varlden/katastrof-i-turistparadiset--nu-forbjuds-nya-hotell-/",
-          "published": "Fri, 19 Sep 2025 15:16:03 +0200",
-          "description": "Indonesiska Bali har utnämnts till världens främsta turistmål.Men efter att ha drabbats av de värsta översvämningarna på över ett årtionde vill myndigheterna förbjuda byggen av nya hotell och restauranger.– Vi har redan lämnat instruktioner till distrikt och borgmästare i hela Bali, säger guvernören Wayan Koster."
-        },
-        {
-          "title": "Experten efter ryska utspelet om Bornholm",
-          "link": "https://www.expressen.se/nyheter/varlden/experten-efter-ryska-utspelet-om-bornholm/",
-          "published": "Fri, 19 Sep 2025 14:19:48 +0200",
-          "description": "Danmark hotar Ryssland – med ön Bornholm.Det påstår den ryska ambassadören i Köpenhamn, efter beskedet att Danmark investerar i precisionsvapen med lång räckvidd.– Ryssarna ser det som en utpost, säger militärexperten Anders Puck Nielsen till BT. "
         }
       ]
     }
