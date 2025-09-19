@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T09:26:58.296710Z",
+  "lastUpdated": "2025-09-19T09:37:24.210768Z",
   "feeds": [
     {
       "url": {
@@ -98,22 +98,22 @@
       },
       "items": [
         {
+          "title": "Mjölkkor får behålla betesrätten tills vidare",
+          "link": "https://www.aftonbladet.se/nyheter/a/Gy4lP9/mjolkkor-far-behalla-betesratten-tills-vidare?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 09:36:01 GMT",
+          "description": "Rätten för mjölkkor att få beta blir kvar ett tag till, uppger landsbygdsminister Peter Kullgren (KD)."
+        },
+        {
+          "title": "Nyhetssammanfattning - 19 september 12.00",
+          "link": "https://www.aftonbladet.se/podcasts/episode/389525?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 09:30:06 GMT",
+          "description": "Sammanfattningen av följande nyheter är gjord med AI:\n– Hamas: Kommer inte släppa fler gisslan\n– Tullen: Stoppat Labubu-kopior för över 1,4 miljoner\n– Professor: ”Fokuseringen på ordet folkmord är olycklig”"
+        },
+        {
           "title": "Putins plan för efterträdaren: ”Riskerar livet”",
           "link": "https://www.aftonbladet.se/nyheter/a/Pp7Wz0/putins-plan-for-eftertradaren-riskerar-livet?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 08:52:30 GMT",
           "description": "PLUS Nästa generation i det ryska toppskiktet måste uppfylla ett krav. Det uppger Putin."
-        },
-        {
-          "title": "Trafikkaos och förtvivlan på vägar från Gaza stad",
-          "link": "https://www.aftonbladet.se/nyheter/a/ny8Ra5/trafikkaos-och-fortvivlan-pa-vagar-fran-gaza-stad?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 08:48:17 GMT",
-          "description": "De färdas i skåpbilar, på åsnekärror, till fots – och är desperata. Vägarna från Gaza stad rapporteras vara knökfulla av…"
-        },
-        {
-          "title": "Regeringen vill låna ut 220 miljarder till kärnkraft",
-          "link": "https://www.aftonbladet.se/nyheter/a/XjPlgW/regeringen-vill-lana-220-miljarder-till-karnkraft?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 08:44:17 GMT",
-          "description": "220 miljarder kronor. Så mycket är regeringen beredd att låna ut till företag som vill bygga ny kärnkraft."
         }
       ]
     },
@@ -123,6 +123,12 @@
         "amount": 3
       },
       "items": [
+        {
+          "title": "Regeringen presenterar budgetnyhet",
+          "link": "https://www.expressen.se/nyheter/politik/regeringen-presenterar-budgetnyhet/",
+          "published": "Fri, 19 Sep 2025 11:31:11 +0200",
+          "description": "Mer svensk mat på tallriken.Det är temat när regeringen presenterar en budgetnyhet.Klockan 11.30 börjar en pressträff."
+        },
         {
           "title": "Stora köer på E4",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a1bce270-0d4b-4bd4-be13-d3d1569a8195",
@@ -134,12 +140,6 @@
           "link": "https://www.expressen.se/nyheter/krim/marek-rokosz-dodade-och-brande-upp-man-hovratten-faststaller-dom/",
           "published": "Fri, 19 Sep 2025 11:19:21 +0200",
           "description": "34-åringen skulle driva in en skuld på julafton.I stället sköts han ihjäl och kroppen brändes. Nu fastställer hovrätten domen mot mördaren Marek Rokosz. "
-        },
-        {
-          "title": "Hyllade Palestina-rörelse – kan gripas för terrorbrott",
-          "link": "https://www.expressen.se/nyheter/varlden/hyllade-palestina-rorelse--kan-gripas-for-terrorbrott/",
-          "published": "Fri, 19 Sep 2025 11:14:59 +0200",
-          "description": "Den hyllade irländska författaren Sally Rooney vågade inte resa till London för att själv ta emot ett pris.– Jag har fått rådet att åka Storbritannien för att undvika att bli gripen, förklarar hon, efter att ha stöttat en organisation som brittiska regeringen jämställer med al-Qaida och IS."
         }
       ]
     },
