@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T18:13:50.351154Z",
+  "lastUpdated": "2025-09-19T18:43:22.481266Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "”Sverige blir slagträ i Orbáns kamp om makten”",
+          "link": "https://www.svt.se/nyheter/utrikes/sverige-blir-slagtra-i-orbans-kamp-om-makten",
+          "published": "Fri, 19 Sep 2025 20:28:19 +0200",
+          "description": "Sverige dras in i den ungerska inrikesdebatten när en pressad Viktor Orbán slåss för att behålla makten. I ett Ungern som rör sig mot val har oppositionen ledningen i opinionen."
+        },
+        {
           "title": "Domare förkastar Trumpstämning mot reportrar",
           "link": "https://www.svt.se/nyheter/utrikes/domare-forkastar-trumpstamning-mot-reportrar",
           "published": "Fri, 19 Sep 2025 19:43:10 +0200",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/varg-skots-ihjal-i-hassleholm-forsokte-attackera-far",
           "published": "Fri, 19 Sep 2025 18:26:19 +0200",
           "description": "Skytten avlossade flera varningsskott, men var till sist tvungen att döda vargen, enligt länsstyrelsens utredning. Vargen skickas nu på DNA-analys."
-        },
-        {
-          "title": "Skarpt föremål i Katrineholm – bombskyddet inkallat",
-          "link": "https://www.svt.se/nyheter/lokalt/sormland/larm-om-misstankt-farligt-foremal-i-katrineholm",
-          "published": "Fri, 19 Sep 2025 18:19:32 +0200",
-          "description": "Polisen bedömer ett misstänkt farligt föremål i centrala Katrineholm som skarpt. Avspärrningar har upprättats på platsen och Nationella bombskyddet är inkallat."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Nyheter från dagen: 19 september",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-19-september-nyczky",
+          "published": "Fri, 19 Sep 2025 20:20:02 +0200",
+          "description": "Detta har hänt i Skåne fredagen den 19 september."
+        },
         {
           "title": "Varg sköts ihjäl i Hässleholm – försökte attackera får",
           "link": "https://www.svt.se/nyheter/lokalt/skane/varg-skots-ihjal-i-hassleholm-forsokte-attackera-far",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/hovratten-faststaller-domen-staffanstorp-doms-for-diskriminering",
           "published": "Fri, 19 Sep 2025 11:09:02 +0200",
           "description": "Hovrätten fastställer domen mot Staffanstorps kommun. Även hovrätten anser att kommunen gjorde sig skyldig till diskriminering när man vägrade att ta emot en kvotflyktingfamilj från Syrien. Kommunen kommer överklaga till Högsta domstolen."
-        },
-        {
-          "title": "Tullare från hela Europa samlas i Malmö – så ska smugglarna stoppas",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/tullare-fran-hela-europa-samlas-i-malmo-sa-ska-smugglarna-stoppas",
-          "published": "Fri, 19 Sep 2025 05:30:09 +0200",
-          "description": "Tulltjänstemän från ett tiotal länder har denna vecka samlats i Malmö för att demontera ett tjugotal olika elbilar. Syftet är att ligga steget före vapen- och narkotikasmugglare som ständigt söker nya kreativa metoder för att undgå upptäckt."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
+          "title": "Fem saker Nato behöver ha för att besegra Putin",
+          "link": "https://www.aftonbladet.se/nyheter/a/73wW3W/5-saker-nato-maste-ha-for-att-besegra-putin?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 18:30:53 GMT",
+          "description": "PLUS Natos stridskrafter ska nästan fördubblas i storlek.  Då är vissa grejer viktigare än andra."
+        },
+        {
+          "title": "Trump bjuder in Erdogan för stridsflygsavtal",
+          "link": "https://www.aftonbladet.se/nyheter/a/B0oJ90/trump-bjuder-in-erdogan-for-stridsflygsavtal?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 18:19:26 GMT",
+          "description": "USA:s president Donald Trump har bjudit in Turkiets president Recep Tayyip Erdogan till Vita huset den 25 september."
+        },
+        {
           "title": "Estland åberopar artikel 4 efter kränkningen",
-          "link": "https://www.aftonbladet.se/nyheter/a/B0oJBE/estland-aberopar-artikel-4-efter-krankningarna?utm_medium=rss",
+          "link": "https://www.aftonbladet.se/nyheter/a/B0oJBE/estland-aberopar-natos-artikel-4-efter-krankningarna?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 18:06:48 GMT",
           "description": "Ryssland kränkte estniskt luftrum i 12 minuter. Nu kallar Estland Natoländerna till krismöte."
-        },
-        {
-          "title": "Domare förkastar Trumpstämning mot reportrar",
-          "link": "https://www.aftonbladet.se/nyheter/a/rPkLK8/domare-forkastar-trumpstamning-mot-reportrar?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 17:35:26 GMT",
-          "description": "En federal domare i delstaten Florida lägger ned en stämningsansökan mot tidningen The New York Times som lämnats in av…"
-        },
-        {
-          "title": "Svenskt stridsflyg markerade mot rysk kränkning",
-          "link": "https://www.aftonbladet.se/nyheter/a/yEQv0e/svenskt-stridsflyg-markerade-mot-rysk-krankning?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 17:22:25 GMT",
-          "description": "Svenska Jas 39 Gripen skickades upp för att möta tre ryska jaktflyg av typen Mig-31 som kränkt Estlands luftrum…"
         }
       ]
     },
@@ -123,6 +123,12 @@
         "amount": 3
       },
       "items": [
+        {
+          "title": "Auri, 32, öppnar kylskåp för första  gången på tre år – äckliga synen",
+          "link": "https://www.expressen.se/nyheter/varlden/auri-32-oppnar-kylskap-for-forsta--gangen-pa-tre-ar--ackliga-synen/",
+          "published": "Fri, 19 Sep 2025 20:30:00 +0200",
+          "description": "Synen som mötte 32-åriga Auri är inget för svagmagade.Själv verkar hon nästan njuta av vad hon hittar i kylskåpet – som öppnades för första gången på tre år.– Ju smutsigare, desto bättre, säger hon."
+        },
         {
           "title": "Experten om ryska kränkningen i Estland: ”Exceptionell”",
           "link": "https://www.expressen.se/nyheter/varlden/experten-om-ryska-krankningen-i-estland-exceptionell/",
@@ -134,12 +140,6 @@
           "link": "https://www.expressen.se/nyheter/politik/kristerssons-svar-till-billstrom-forstar-inte/",
           "published": "Fri, 19 Sep 2025 17:32:46 +0200",
           "description": "Rollen som nationell säkerhetsrådgivare borde göras om.Det menar den tidigare utrikesministern Tobias Billström.– Jag förstår inte vad han syftar på, svarar statsministern i Expressens podd ”Viktor möter”."
-        },
-        {
-          "title": "Ryska stridsflygplan kränkte Estland och Polen",
-          "link": "https://www.expressen.se/nyheter/varlden/ryska-stridsflygplan-krankte-estlands-luftrum/",
-          "published": "Fri, 19 Sep 2025 17:14:52 +0200",
-          "description": "Ryska stridsflygplan kränkte på fredagen Estlands luftrum.Svenska Jas Gripen-plan skickades upp för att markera närvaro, enligt Försvarsmakten.Senare på fredagen uppger polsk gränspolis att ryska stridsflyg också kränkt en säkerhetszon kring en polsk oljeplattform i Östersjön.På grund av kränkningen har Estland aktiverat Natos artikel 4."
         }
       ]
     }
