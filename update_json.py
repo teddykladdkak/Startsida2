@@ -4,11 +4,11 @@ from datetime import datetime
 
 # RSS-flöden att hämta
 feeds = [
-    {"link": "https://skaneskommuner.se/news/feed/atom/", "ammount": 2},
-    {"link": "http://svt.se/nyheter/rss.xml", "ammount": 5},
-    {"link": "http://svt.se/nyheter/regionalt/sydnytt/rss.xml", "ammount": 4},
-    {"link": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/", "ammount": 3},
-    {"link": "https://feeds.expressen.se/nyheter/", "ammount": 3}
+    {"link": "https://skaneskommuner.se/news/feed/atom/", "amount": 2},
+    {"link": "http://svt.se/nyheter/rss.xml", "amount": 5},
+    {"link": "http://svt.se/nyheter/regionalt/sydnytt/rss.xml", "amount": 4},
+    {"link": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/", "amount": 3},
+    {"link": "https://feeds.expressen.se/nyheter/", "amount": 3}
 ]
 
 data = {
@@ -19,7 +19,7 @@ data = {
 for url in feeds:
     parsed = feedparser.parse(url["link"])
     items = []
-    for entry in parsed.entries[:url["ammout"]]:  # ta de 5 senaste
+    for entry in parsed.entries[:url["amount"]]:  # ta de 5 senaste
         items.append({
             "title": entry.title,
             "link": entry.link,
@@ -34,6 +34,7 @@ for url in feeds:
 # Spara till JSON
 with open("data.json", "w", encoding="utf-8") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
+
 
 
 
