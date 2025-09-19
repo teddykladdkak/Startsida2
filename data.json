@@ -1,153 +1,145 @@
 {
-  "lastUpdated": "2025-09-19T06:45:25.149951Z",
+  "lastUpdated": "2025-09-19T07:11:46.417666Z",
   "feeds": [
     {
-      "url": "https://skaneskommuner.se/news/feed/atom/",
+      "url": {
+        "link": "https://skaneskommuner.se/news/feed/atom/",
+        "amount": 2
+      },
       "items": [
         {
           "title": "Gymnasieantagningssystem Indra",
           "link": "https://skaneskommuner.se/news/gymnasieantagningssystem-indra/",
-          "published": "2025-07-01T05:30:29Z"
+          "published": "2025-07-01T05:30:29Z",
+          "description": "<p>The post <a href=\"https://skaneskommuner.se/news/gymnasieantagningssystem-indra/\">Gymnasieantagningssystem Indra</a> appeared first on <a href=\"https://skaneskommuner.se\">Skånes Kommuner</a>.</p>"
         },
         {
           "title": "Sommarhälsning från FoU Skola",
           "link": "https://skaneskommuner.se/news/sommarhalsning-fran-fou-skola-2/",
-          "published": "2025-06-05T14:03:06Z"
-        },
-        {
-          "title": "Yrkesresan stärker socialtjänsten i Skåne – nu förbereds nästa lansering",
-          "link": "https://skaneskommuner.se/news/yrkesresan-starker-socialtjansten-i-skane-nu-forbereds-nasta-lansering/",
-          "published": "2025-05-26T12:59:17Z"
-        },
-        {
-          "title": "Ny socialtjänstlag som syftar till att skapa en mer förebyggande, lättillgänglig och kunskapsbaserad socialtjänst.",
-          "link": "https://skaneskommuner.se/news/ny-socialtjanstlag-som-syftar-till-att-skapa-en-mer-forebyggande-lattillganglig-och-kunskapsbaserad-socialtjanst/",
-          "published": "2025-05-21T10:32:41Z"
-        },
-        {
-          "title": "Skånska Demensdagen 2025 – Samverkan för en bättre demensvård",
-          "link": "https://skaneskommuner.se/news/skanska-demensdagen-2025-samverkan-for-en-battre-demensvard/",
-          "published": "2025-05-21T08:47:42Z"
+          "published": "2025-06-05T14:03:06Z",
+          "description": "<p>The post <a href=\"https://skaneskommuner.se/news/sommarhalsning-fran-fou-skola-2/\">Sommarhälsning från FoU Skola</a> appeared first on <a href=\"https://skaneskommuner.se\">Skånes Kommuner</a>.</p>"
         }
       ]
     },
     {
-      "url": "http://svt.se/nyheter/rss.xml",
+      "url": {
+        "link": "http://svt.se/nyheter/rss.xml",
+        "amount": 5
+      },
       "items": [
         {
           "title": "Talibanerna förbjuder böcker av kvinnor",
           "link": "https://www.svt.se/nyheter/utrikes/talibanerna-forbjuder-bocker-av-kvinnor",
-          "published": "Fri, 19 Sep 2025 06:36:01 +0200"
+          "published": "Fri, 19 Sep 2025 06:36:01 +0200",
+          "description": "Den talibanska regimen i Afghanistan har förbjudit böcker skrivna av kvinnor vid landets universitet, rapporterar BBC."
         },
         {
           "title": "SVT:s granskning: Riktad sänkning av matmoms kan spara 21 miljarder",
           "link": "https://www.svt.se/nyheter/ekonomi/svts-granskning-riktad-sankning-av-matmoms-kan-spara-21-miljarder",
-          "published": "Fri, 19 Sep 2025 05:57:40 +0200"
+          "published": "Fri, 19 Sep 2025 05:57:40 +0200",
+          "description": "Regeringens beslut att lägga 37 miljarder kronor på sänkt matmoms har fått kritik bland annat för att vara en dyr och ineffektiv åtgärd. Momssänkningen berör all mat, men SVT har tittat på vad det skulle innebära att antingen exkludera onyttigheter eller följa Portugals exempel och bara sänka momsen på basvaror."
+        },
+        {
+          "title": "Regionen sparar in på tekniska hjälpmedel för barn med diabetes",
+          "link": "https://www.svt.se/nyheter/lokalt/ost/regionen-sparar-in-pa-tekniska-hjalpmedel-for-diabetiker",
+          "published": "Fri, 19 Sep 2025 05:30:09 +0200",
+          "description": "Region Östergötlands dåliga ekonomi har gjort att man som enda sjukvårdsregion i landet satt ett pristak för medicintekniska hjälpmedel till diabetessjuka barn och unga: 65 000 kronor per år."
         },
         {
           "title": "Skämtet som stoppade programmet – så påverkas talkshows av politiken",
           "link": "https://www.svt.se/nyheter/utrikes/skamtet-som-stoppade-programmet-sa-paverkas-talkshows-av-politiken",
-          "published": "Thu, 18 Sep 2025 23:04:37 +0200"
+          "published": "Thu, 18 Sep 2025 23:04:37 +0200",
+          "description": "Både Stephen Colbert och Jimmy Kimmels talkshows har stoppats. President Trump vill också se att tv-profilerna Jimmy Fallon och Seth Meyers sparkas. Men kan USA:s president påverka vad som sägs i tv-rutan? – Det som är nytt nu är att Trump agerar så kraftigt och bryter mot den norm som har funnits tidigare, säger USA-kännaren Jakob Stenberg."
         },
         {
           "title": "Kraftig jordbävning i Ryssland – tsnuamivarning utfärdad",
           "link": "https://www.svt.se/nyheter/utrikes/kraftig-jordbavning-i-ryssland-tsnuamivarning-utfardad",
-          "published": "Thu, 18 Sep 2025 21:23:18 +0200"
-        },
-        {
-          "title": "Så skulle ett internationellt ingripande i Gaza kunna se ut",
-          "link": "https://www.svt.se/nyheter/utrikes/sa-skulle-ett-internationellt-ingripande-i-gaza-kunna-se-ut",
-          "published": "Thu, 18 Sep 2025 21:03:02 +0200"
+          "published": "Thu, 18 Sep 2025 21:23:18 +0200",
+          "description": "En jordbävning med magnituden 7,8 har slagit mot Petropavlovsk vid Kamtjatkahalvön i östra Ryssland, enligt amerikanska geologmyndigheten USGS. En tsunamivarning har utfärdats."
         }
       ]
     },
     {
-      "url": "http://svt.se/nyheter/regionalt/sydnytt/rss.xml",
+      "url": {
+        "link": "http://svt.se/nyheter/regionalt/sydnytt/rss.xml",
+        "amount": 4
+      },
       "items": [
         {
           "title": "Tullare från hela Europa samlas i Malmö – så ska smugglarna stoppas",
           "link": "https://www.svt.se/nyheter/lokalt/skane/tullare-fran-hela-europa-samlas-i-malmo-sa-ska-smugglarna-stoppas",
-          "published": "Fri, 19 Sep 2025 05:30:09 +0200"
+          "published": "Fri, 19 Sep 2025 05:30:09 +0200",
+          "description": "Tulltjänstemän från ett tiotal länder har denna vecka samlats i Malmö för att demontera ett tjugotal olika elbilar. Syftet är att ligga steget före vapen- och narkotikasmugglare som ständigt söker nya kreativa metoder för att undgå upptäckt."
         },
         {
           "title": "Nyheter från dagen: 18 september",
           "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-18-september-jie0oe",
-          "published": "Thu, 18 Sep 2025 20:20:04 +0200"
+          "published": "Thu, 18 Sep 2025 20:20:04 +0200",
+          "description": "Detta har hänt i Skåne torsdagen den 18 september."
         },
         {
           "title": "Chef stängs av – kallade sverigedemokrater korkade",
           "link": "https://www.svt.se/nyheter/lokalt/skane/chef-stangs-av-kallade-sverigedemokrater-korkade",
-          "published": "Thu, 18 Sep 2025 19:10:25 +0200"
+          "published": "Thu, 18 Sep 2025 19:10:25 +0200",
+          "description": "Kristianstads kommuns säkerhetsskyddschef Linda Perminger stängs av från jobbet efter att hon bland annat förolämpat sverigedemokrater. Avstängningen gäller i en månad under tiden hon internutreds, skriver Kristianstadsbladet."
         },
         {
           "title": "Biblioteket delar ut gratis konsertbiljetter – men ingen vill ha",
           "link": "https://www.svt.se/nyheter/lokalt/skane/biblioteket-delar-ut-konsertbiljetter-men-ingen-vill-ha",
-          "published": "Thu, 18 Sep 2025 16:49:07 +0200"
-        },
-        {
-          "title": "Tre frågor om: Därför ska du rösta i kyrkovalet",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/tre-fragor-om-darfor-ska-du-rosta-i-kyrkovalet",
-          "published": "Thu, 18 Sep 2025 15:27:52 +0200"
+          "published": "Thu, 18 Sep 2025 16:49:07 +0200",
+          "description": "På stadsbiblioteket i Kristianstad kan man nu låna ett kort som ger gratisbiljetter till konserter. Hittills har dock ingen nappat på erbjudandet."
         }
       ]
     },
     {
-      "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
+      "url": {
+        "link": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
+        "amount": 3
+      },
       "items": [
+        {
+          "title": "Dolda motivet bakom ”sprickan” i Hamas",
+          "link": "https://www.aftonbladet.se/nyheter/a/LM2JkP/dolda-motivet-bakom-sprickan-i-hamas?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 06:53:14 GMT",
+          "description": "PLUS Ranstorp: Hamas försöker mjuka upp sin image"
+        },
         {
           "title": "Ryskt sändebud: Danmark hotar oss med Bornholm",
           "link": "https://www.aftonbladet.se/nyheter/a/KMoE97/ryskt-sandebud-danmark-hotar-oss-med-bornholm?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 06:45:00 GMT"
+          "published": "Fri, 19 Sep 2025 06:45:00 GMT",
+          "description": "Danmark använder ön Bornholm för att hota Rysslands säkerhet, påstår Moskvas Danmarksambassadör."
         },
         {
           "title": "Putins plan för efterträdaren: ”Riskerar livet”",
           "link": "https://www.aftonbladet.se/nyheter/a/Pp7Wz0/putins-plan-for-eftertradaren-riskerar-livet?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 06:36:09 GMT"
-        },
-        {
-          "title": "Studie: Flickors kroppsmissnöje ger sämre betyg",
-          "link": "https://www.aftonbladet.se/nyheter/a/kwlqzX/studie-flickors-kroppsmissnoje-ger-samre-betyg?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 06:34:55 GMT"
-        },
-        {
-          "title": "Knarkkartellernas nya trick: Använder hemlig knapp",
-          "link": "https://www.aftonbladet.se/nyheter/a/dRy98q/knarkkartellernas-nya-trick-anvander-hemlig-knapp?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 06:34:45 GMT"
-        },
-        {
-          "title": "Tullen: Stoppat Labubu-kopior för över 1,4 miljoner",
-          "link": "https://www.aftonbladet.se/nyheter/a/MnO4kR/tullen-stoppat-labubu-kopior-for-over-1-4-miljoner?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 06:09:36 GMT"
+          "published": "Fri, 19 Sep 2025 06:36:09 GMT",
+          "description": "PLUS Nästa generation i det ryska toppskiktet måste uppfylla ett krav. Det uppger Putin."
         }
       ]
     },
     {
-      "url": "https://feeds.expressen.se/nyheter/",
+      "url": {
+        "link": "https://feeds.expressen.se/nyheter/",
+        "amount": 3
+      },
       "items": [
+        {
+          "title": "Ryskt sändebud: Danmark hotar oss med Bornholm",
+          "link": "https://www.expressen.se/nyheter/varlden/ryskt-sandebud-danmark-hotar-oss-med-bornholm/",
+          "published": "Fri, 19 Sep 2025 09:05:43 +0200",
+          "description": "<img src=\"https://static.bonniernews.se/images/4b/8c/4b8c6164523648f5a8ce612df34b705a/16x9/265@70.jpg\" /><p>Danmark använder ön Bornholm för att hota Rysslands säkerhet, påstår Moskvas Danmarksambassadör. Utspelet kommer efter veckans besked att Danmark ska investera i precisionsvapen med lång räckvidd.&nbsp;</p>"
+        },
+        {
+          "title": "Tre misstänks för människorov",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ed667e8f-7c5b-4295-82fe-f57145faa315",
+          "published": "Fri, 19 Sep 2025 08:48:35 +0200",
+          "description": "<p>Höll man fånge i bil</p>"
+        },
         {
           "title": "Putins styrka sänks – en efter en",
           "link": "https://www.expressen.se/tv/nyheter/varlden/putins-styrka-sanks-en-efter-en",
-          "published": "Fri, 19 Sep 2025 08:25:45 +0200"
-        },
-        {
-          "title": "Zelenskyj: Tagit 160 kvadratkilometer i Donetsk",
-          "link": "https://www.expressen.se/nyheter/varlden/zelenskyj-tagit-160-kvadratkilometer-i-donetsk/",
-          "published": "Fri, 19 Sep 2025 07:59:29 +0200"
-        },
-        {
-          "title": "Vänder ryggen till efter hotfulla orden",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/trumps-hot-mot-journalisterna-ha-en-saker-flygresa",
-          "published": "Fri, 19 Sep 2025 07:46:12 +0200"
-        },
-        {
-          "title": "Tsunamivarning i Ryssland",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c8da21fd-291d-4b8f-beca-fc541144e28b",
-          "published": "Fri, 19 Sep 2025 07:25:14 +0200"
-        },
-        {
-          "title": "Lärarvikarie misstänks för flera barnvåldtäkter i Gävle",
-          "link": "https://www.expressen.se/nyheter/krim/lararvikarie-misstanks-for-flera-barnvaldtakter-i-gavle/",
-          "published": "Fri, 19 Sep 2025 07:18:33 +0200"
+          "published": "Fri, 19 Sep 2025 08:25:45 +0200",
+          "description": "<img src=\"https://static.bonniernews.se/images/06/38/0638a2d56f6a43ecb13eff345212af8d/16x9/265@70.jpg\" /><p>Ensamma ukrainska skyttens natträd i helikoptern</p>"
         }
       ]
     }
