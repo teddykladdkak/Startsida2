@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T13:00:18.047835Z",
+  "lastUpdated": "2025-09-19T13:41:27.969149Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,18 @@
       },
       "items": [
         {
+          "title": "Skogsmaskiner körs på distans med hjälp av 5G-drönare – verklighet om tio år",
+          "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/skogsmaskiner-kors-pa-distans-med-hjalp-av-5g-dronare-verklighet-om-tio-ar",
+          "published": "Fri, 19 Sep 2025 15:20:06 +0200",
+          "description": "Skogsmaskiner som körs på distans där föraren sitter ett par kilometer ifrån maskinen – det kan vara verklighet om tio år. Det säger forskare vid Mittuniversitetet i Sundsvall som testat 5G-drönare och fjärrstyrda skogsmaskiner."
+        },
+        {
+          "title": "Noah Lyles tog sitt fjärde raka VM-guld på 200 meter",
+          "link": "https://www.svt.se/sport/friidrott/noah-lyles-tog-sitt-fjarde-raka-vm-guld-pa-200-meter",
+          "published": "Fri, 19 Sep 2025 15:07:48 +0200",
+          "description": "Noah Lyles vann finalen på 200 meter efter att ha blivit hårt pressad."
+        },
+        {
           "title": "Nya superfartkameror till Värmland",
           "link": "https://www.svt.se/nyheter/lokalt/varmland/nya-superfartkameror-till-varmland",
           "published": "Fri, 19 Sep 2025 14:40:54 +0200",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/nyheter/uutiset/svenska/hemvarnet-expanderar-snabbkurser-i-krigskunskap-for-nya-rekryter",
           "published": "Fri, 19 Sep 2025 14:13:46 +0200",
           "description": "Antalet personer som ansökte till Hemvärnet ökade snabbt efter att Ryssland inledde en fullskalig attack mot Ukraina. Hemvärnet i Sverige har varit tvungna att anpassa sin verksamhet för att utbilda ett större antal rekryter."
-        },
-        {
-          "title": "Markus från Västerås: ”Man tror att gubbarna där leker krig”",
-          "link": "https://www.svt.se/nyheter/uutiset/svenska/markus-fran-vasteras-man-tror-att-gubbarna-dar-leker-krig",
-          "published": "Fri, 19 Sep 2025 14:13:15 +0200",
-          "description": "Markus Airaksinen, 55 år och bosatt i Västerås, har varit en del av Hemvärnet i över tio år. I sin roll där utför han arbetsuppgifter som ligger nära hans civila yrkesområde."
-        },
-        {
-          "title": "Vargstammen ska minska – ny lägstanivå införs",
-          "link": "https://www.svt.se/nyheter/lokalt/jonkoping/vargstammen-ska-minska-ny-lagstaniva-infors",
-          "published": "Fri, 19 Sep 2025 14:11:25 +0200",
-          "description": "Naturvårdsverket sänker miniminivån på det antal vargar som behövs för att vargstammen ska kunna överleva långsiktigt från 300 till 170. Idag uppskattas det att det finns 355 vargar i landet, varav 100 finns i södra rovdjursförvaltningsområdet, där Jönköpings län ingår. Här sänks miniminivån till 46 vargar."
         }
       ]
     },
@@ -98,6 +98,12 @@
       },
       "items": [
         {
+          "title": "Ingen förundersökning mot Karlsson (M)",
+          "link": "https://www.aftonbladet.se/nyheter/a/0VPEEM/ingen-forundersokning-mot-karlsson-m?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 13:39:01 GMT",
+          "description": "Åklagare har beslutat att inte inleda förundersökning om hets mot folkgrupp mot Moderaternas gruppledare Mattias…"
+        },
+        {
           "title": "Knivhögg frun framför barnet – döms till fängelse",
           "link": "https://www.aftonbladet.se/nyheter/a/dR656q/knivhogg-frun-framfor-barnet-doms-till-fangelse?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 12:55:10 GMT",
@@ -108,12 +114,6 @@
           "link": "https://www.aftonbladet.se/nyheter/a/rPkpoe/pakistan-vara-karnvapen-kan-gynna-saudiarabien?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 12:46:21 GMT",
           "description": "Pakistans kärnvapenprogram kan komma att göras tillgängligt för Saudiarabien, i ljuset av den nya försvarspakt som…"
-        },
-        {
-          "title": "Misstänkt för Parisdåd för över 40 år sedan gripen",
-          "link": "https://www.aftonbladet.se/nyheter/a/Rzvb7A/misstankt-for-parisdad-for-over-50-ar-sedan-gripen?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 12:04:55 GMT",
-          "description": "En huvudmisstänkt för en dödlig attack mot en judisk restaurang i Paris 1982 har gripits och väntas lämnas ut till…"
         }
       ]
     },
@@ -124,31 +124,24 @@
       },
       "items": [
         {
+          "title": "Ingen förundersökning mot M-toppen Mattias Karlsson",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=280303b9-29e9-45a5-9699-e0d3ce41e222",
+          "published": "Fri, 19 Sep 2025 15:37:43 +0200",
+          "description": "Kallade demonstranter för ”odjur”"
+        },
+        {
+          "title": "Katastrof i turistparadiset – nu förbjuds nya hotell",
+          "link": "https://www.expressen.se/nyheter/varlden/katastrof-i-turistparadiset--nu-forbjuds-nya-hotell-/",
+          "published": "Fri, 19 Sep 2025 15:16:03 +0200",
+          "description": "Indonesiska Bali har utnämnts till världens främsta turistmål.Men efter att ha drabbats av de värsta översvämningarna på över ett årtionde vill myndigheterna förbjuda byggen av nya hotell och restauranger.– Vi har redan lämnat instruktioner till distrikt och borgmästare i hela Bali, säger guvernören Wayan Koster."
+        },
+        {
           "title": "Experten efter ryska utspelet om Bornholm",
           "link": "https://www.expressen.se/nyheter/varlden/experten-efter-ryska-utspelet-om-bornholm/",
           "published": "Fri, 19 Sep 2025 14:19:48 +0200",
           "description": "Danmark hotar Ryssland – med ön Bornholm.Det påstår den ryska ambassadören i Köpenhamn, efter beskedet att Danmark investerar i precisionsvapen med lång räckvidd.– Ryssarna ser det som en utpost, säger militärexperten Anders Puck Nielsen till BT. "
-        },
-        {
-          "title": "Släpps av talibanerna",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/brittiska-paret-slapps-av-talibanerna-",
-          "published": "Fri, 19 Sep 2025 14:16:51 +0200",
-          "description": "Beskedet efter åtta månader • Hör brittiska parets första ord"
-        },
-        {
-          "title": "Kristersson avfärdar SD-kravet: Jimmie Åkesson kan inte bli statsminister",
-          "link": "https://www.expressen.se/nyheter/politik/kristersson-avfardar-sd-kravet-jimmie-akesson-kan-inte-bli-statsminister/",
-          "published": "Fri, 19 Sep 2025 13:37:13 +0200",
-          "description": "Ulf Kristersson avfärdar Sverigedemokraternas önskan om att låta Jimmie Åkesson delta i tv-sända statsministerdebatter i valrörelsen 2026.– Det finns två statsministerkandidater inför nästa val. Det är helt självklart jag och Magdalena Andersson, säger han."
         }
       ]
-    },
-    {
-      "url": {
-        "link": "https://www.imdb.com/calendar/?ref_=nv_mv_cal",
-        "amount": 5
-      },
-      "items": []
     }
   ]
 }
