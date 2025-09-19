@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T16:11:26.965259Z",
+  "lastUpdated": "2025-09-19T16:42:01.783501Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "Larm om misstänkt farligt föremål i Katrineholm",
+          "link": "https://www.svt.se/nyheter/lokalt/sormland/larm-om-misstankt-farligt-foremal-i-katrineholm",
+          "published": "Fri, 19 Sep 2025 18:19:32 +0200",
+          "description": "Polisen har larmats om ett misstänkt farligt föremål i centrala Katrineholm. Avspärrningar har upprättats och polisen är på plats och undersöker."
+        },
+        {
           "title": "Regeringen bommar klimatmålet – Tidöpartierna oense om åtgärderna",
           "link": "https://www.svt.se/nyheter/inrikes/regeringen-bommar-klimatmalet-tidopartierna-oense-om-atgarderna",
           "published": "Fri, 19 Sep 2025 18:08:48 +0200",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/nyheter/inrikes/60-sekunder-cyberangreppet-och-jattelackan-fran-miljodata",
           "published": "Fri, 19 Sep 2025 16:53:26 +0200",
           "description": "Över en miljon svenskars personuppgifter läckte efter ett cyberangrepp mot systemleverantören Miljödata. Jätteläckan har gjort att skyddade personuppgifter och annat känsligt material publicerats på darknet."
-        },
-        {
-          "title": "Kommuner laddade upp skyddade personuppgifter i Miljödata – trots avrådan",
-          "link": "https://www.svt.se/nyheter/lokalt/smaland/kommuner-laddade-upp-skyddade-personuppgifter-i-miljodata-trots-avradan",
-          "published": "Fri, 19 Sep 2025 16:51:54 +0200",
-          "description": "Flera kommuner i Sverige har bekräftat att skyddade personuppgifter läckt från deras system efter hackerattacken mot Miljödata. Men kommunerna har gjort fel när de lagrat de skyddade uppgifterna, det kunde P4 Kronoberg avslöja idag. – Man kan räkna med att deras vistelseort nu är röjd, säger Caroline från kvinnojouren Blenda i Växjö."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Varg sköts ihjäl i Hässleholm – försökte attackera får",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/varg-skots-ihjal-i-hassleholm-forsokte-attackera-far",
+          "published": "Fri, 19 Sep 2025 18:26:19 +0200",
+          "description": "Skytten avlossade flera varningsskott, men var till sist tvungen att döda vargen, enligt Länsstyrelsens utredning. Vargen skickas nu på DNA-analys."
+        },
         {
           "title": "Här vill de skapa gravplats för MFF-supportrar",
           "link": "https://www.svt.se/nyheter/lokalt/skane/har-vill-de-skapa-gravplats-for-mff-supportrar",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/tullare-fran-hela-europa-samlas-i-malmo-sa-ska-smugglarna-stoppas",
           "published": "Fri, 19 Sep 2025 05:30:09 +0200",
           "description": "Tulltjänstemän från ett tiotal länder har denna vecka samlats i Malmö för att demontera ett tjugotal olika elbilar. Syftet är att ligga steget före vapen- och narkotikasmugglare som ständigt söker nya kreativa metoder för att undgå upptäckt."
-        },
-        {
-          "title": "Nyheter från dagen: 18 september",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-18-september-jie0oe",
-          "published": "Thu, 18 Sep 2025 20:20:04 +0200",
-          "description": "Detta har hänt i Skåne torsdagen den 18 september."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
+          "title": "Värktablett kan halvera risk för canceråterfall",
+          "link": "https://www.aftonbladet.se/nyheter/a/LMJ0qP/varktablett-kan-halvera-risk-for-canceraterfall?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 16:30:31 GMT",
+          "description": "Daglig behandling med en låg dos av ett vanligt smärtstillande läkemedel minskade kraftigt risken för återfall i en viss…"
+        },
+        {
           "title": "Misstänkt farligt föremål i Katrineholm",
           "link": "https://www.aftonbladet.se/nyheter/a/eMA1ea/misstankt-farligt-foremal-i-katrineholm?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 16:08:43 GMT",
-          "description": "Polisen är på plats med flera enheter i centrala Katrineholm med anledning av ett misstänkt farligt föremål, skriver…"
+          "description": "Polisen är på plats med flera enheter i centrala Katrineholm med anledning av ett misstänkt farligt föremål."
         },
         {
           "title": "Stegrud efter kritiken: Jag framstår som helt galen",
           "link": "https://www.aftonbladet.se/nyheter/a/jQo9jA/jessica-stegrud-talar-ut-efter-kritiken-framstar-som-galen?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 15:57:02 GMT",
           "description": "Det har stormat kring riksdagsledamoten Jessica Stegrud (SD). Nu ger hon själv sin syn på kritiken mot henne."
-        },
-        {
-          "title": "Efter skredet – Kommunen krävs på en halv miljard",
-          "link": "https://www.aftonbladet.se/nyheter/a/zAvL84/efter-skredet-kommunen-kravs-pa-en-halv-miljard?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 15:19:12 GMT",
-          "description": "Kostnaden för att bygga upp E6 i Stenungsund efter jordskredet för nästan två sedan väntas landa på 570 miljoner kronor…"
         }
       ]
     },
@@ -138,7 +138,7 @@
         {
           "title": "Svenske Yahye, 25, dog i arbetsplatsolyckan i Norge",
           "link": "https://www.expressen.se/nyheter/svenske-yahye-25-dog-i-arbetsplatsolyckan-i-norge/",
-          "published": "Fri, 19 Sep 2025 17:13:55 +0200",
+          "published": "Fri, 19 Sep 2025 18:18:42 +0200",
           "description": "Svenske Yahye Nuur Hussein, 25, omkom i en klämolycka på ett oljeraffinaderi i Norge i onsdags.– Vi sörjer djupt förlusten av vår älskade Yahye. Han var en omtänksam och godhjärtad person som alltid spred värme omkring sig, säger familjen i ett uttalande. "
         }
       ]
