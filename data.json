@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T03:11:20.270068Z",
+  "lastUpdated": "2025-09-19T03:44:53.169443Z",
   "feeds": [
     {
       "url": "https://skaneskommuner.se/news/feed/atom/",
@@ -35,6 +35,11 @@
       "url": "http://svt.se/nyheter/rss.xml",
       "items": [
         {
+          "title": "Lyxbedragarens offer om dagens åtal: ”Varit ett rent helvete”",
+          "link": "https://www.svt.se/nyheter/lokalt/blekinge/lyxbedragarens-offer-om-dagens-atal-varit-ett-rent-helvete",
+          "published": "Fri, 19 Sep 2025 05:30:09 +0200"
+        },
+        {
           "title": "Skämtet som stoppade programmet – så påverkas talkshows av politiken",
           "link": "https://www.svt.se/nyheter/utrikes/skamtet-som-stoppade-programmet-sa-paverkas-talkshows-av-politiken",
           "published": "Thu, 18 Sep 2025 23:04:37 +0200"
@@ -53,17 +58,17 @@
           "title": "Utredning: Vill se slopat matkrav för alkoholtillstånd",
           "link": "https://www.svt.se/nyheter/lokalt/stockholm/utredning-vill-se-slopat-matkrav-for-alkoholtillstand",
           "published": "Thu, 18 Sep 2025 19:26:59 +0200"
-        },
-        {
-          "title": "Efter GPS-störningarna – stor räddningsövning i skärgården",
-          "link": "https://www.svt.se/nyheter/lokalt/ost/efter-gps-storningarna-stor-raddningsovning-i-skargarden",
-          "published": "Thu, 18 Sep 2025 18:56:45 +0200"
         }
       ]
     },
     {
       "url": "http://svt.se/nyheter/regionalt/sydnytt/rss.xml",
       "items": [
+        {
+          "title": "Tullare från hela Europa samlas i Malmö – så ska smugglarna stoppas",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/tullare-fran-hela-europa-samlas-i-malmo-sa-ska-smugglarna-stoppas",
+          "published": "Fri, 19 Sep 2025 05:30:09 +0200"
+        },
         {
           "title": "Nyheter från dagen: 18 september",
           "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-18-september-jie0oe",
@@ -83,11 +88,6 @@
           "title": "Tre frågor om: Därför ska du rösta i kyrkovalet",
           "link": "https://www.svt.se/nyheter/lokalt/skane/tre-fragor-om-darfor-ska-du-rosta-i-kyrkovalet",
           "published": "Thu, 18 Sep 2025 15:27:52 +0200"
-        },
-        {
-          "title": "Charlotte, 28, röstar i kyrkovalet: ”Annars får man inte klaga”",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/charlotte-28-rostar-i-kyrkovalet-annars-far-man-inte-klaga",
-          "published": "Thu, 18 Sep 2025 15:26:11 +0200"
         }
       ]
     },
@@ -95,12 +95,22 @@
       "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
       "items": [
         {
+          "title": "Regeringen missar alla klimatmål – sämre än väntat",
+          "link": "https://www.aftonbladet.se/nyheter/a/mPA75O/regeringen-missar-alla-klimatmal-samre-an-vantat?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 03:30:54 GMT"
+        },
+        {
+          "title": "Bolivia förbjuder barnäktenskap: ”Historiskt”",
+          "link": "https://www.aftonbladet.se/nyheter/a/JbjP64/bolivia-forbjuder-barnaktenskap-historiskt?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 03:26:59 GMT"
+        },
+        {
           "title": "Hamas: Inga fler ur gisslan kommer att friges",
           "link": "https://www.aftonbladet.se/nyheter/a/mPA7M4/hamas-inga-fler-ur-gisslan-kommer-att-friges?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 02:59:00 GMT"
         },
         {
-          "title": "Man kopplad till mordplaner gripen",
+          "title": "Spanien: Gripen kopplad till mordplaner i Sverige",
           "link": "https://www.aftonbladet.se/nyheter/a/93Pgkw/man-kopplad-till-mordplaner-gripen?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 02:37:54 GMT"
         },
@@ -108,22 +118,22 @@
           "title": "Sju gripna efter mord i Melbourne",
           "link": "https://www.aftonbladet.se/nyheter/a/Gypvyl/sju-gripna-efter-mord-i-melbourne?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 01:29:48 GMT"
-        },
-        {
-          "title": "Macron: Erkännande av Palestina isolerar Hamas",
-          "link": "https://www.aftonbladet.se/nyheter/a/Pp764R/macron-erkannande-av-palestina-isolerar-hamas?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 01:09:55 GMT"
-        },
-        {
-          "title": "Våldtog dement kvinna – får sänkt straff",
-          "link": "https://www.aftonbladet.se/nyheter/a/KMoEpo/valdtog-dement-kvinna-far-sankt-straff?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 00:40:40 GMT"
         }
       ]
     },
     {
       "url": "https://feeds.expressen.se/nyheter/",
       "items": [
+        {
+          "title": "Trumps attack på Londons borgmästare",
+          "link": "https://www.expressen.se/tv/nyheter/varlden/donald-trumps-attack-gjort-ett-hemskt-jobb",
+          "published": "Fri, 19 Sep 2025 05:35:09 +0200"
+        },
+        {
+          "title": "Svensk gripen i Spanien",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=64fe8264-ec33-482e-90a6-b584125158f7",
+          "published": "Fri, 19 Sep 2025 05:26:01 +0200"
+        },
         {
           "title": "Välj rätt och spara 10 000 kronor på en ny Iphone",
           "link": "https://www.expressen.se/ekonomi/tech/valj-ratt-och-spara-10-000-kronor-pa-en-ny-iphone/",
@@ -138,16 +148,6 @@
           "title": "Poliserna mördades i brutalt bakhåll av stalker",
           "link": "https://www.expressen.se/nyheter/varlden/poliserna-mordades-i-brutalt-bakhall-av-stalker/",
           "published": "Fri, 19 Sep 2025 03:10:29 +0200"
-        },
-        {
-          "title": "Rådet till Jimmy Kimmel: Stäm alla inblandade",
-          "link": "https://www.expressen.se/nyheter/varlden/radet-till-jimmy-kimmel-stam-alla-inblandade/",
-          "published": "Fri, 19 Sep 2025 01:48:35 +0200"
-        },
-        {
-          "title": "Trumps hot: Dra in sändningslicensen om jag får kritik",
-          "link": "https://www.expressen.se/nyheter/varlden/trumps-hot-dra-in-sandningslicensen-om-jag-far-kritik/",
-          "published": "Fri, 19 Sep 2025 01:05:42 +0200"
         }
       ]
     }
