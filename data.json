@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T06:15:10.015233Z",
+  "lastUpdated": "2025-09-19T06:45:25.149951Z",
   "feeds": [
     {
       "url": "https://skaneskommuner.se/news/feed/atom/",
@@ -95,35 +95,40 @@
       "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
       "items": [
         {
+          "title": "Ryskt sändebud: Danmark hotar oss med Bornholm",
+          "link": "https://www.aftonbladet.se/nyheter/a/KMoE97/ryskt-sandebud-danmark-hotar-oss-med-bornholm?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 06:45:00 GMT"
+        },
+        {
+          "title": "Putins plan för efterträdaren: ”Riskerar livet”",
+          "link": "https://www.aftonbladet.se/nyheter/a/Pp7Wz0/putins-plan-for-eftertradaren-riskerar-livet?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 06:36:09 GMT"
+        },
+        {
+          "title": "Studie: Flickors kroppsmissnöje ger sämre betyg",
+          "link": "https://www.aftonbladet.se/nyheter/a/kwlqzX/studie-flickors-kroppsmissnoje-ger-samre-betyg?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 06:34:55 GMT"
+        },
+        {
+          "title": "Knarkkartellernas nya trick: Använder hemlig knapp",
+          "link": "https://www.aftonbladet.se/nyheter/a/dRy98q/knarkkartellernas-nya-trick-anvander-hemlig-knapp?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 06:34:45 GMT"
+        },
+        {
           "title": "Tullen: Stoppat Labubu-kopior för över 1,4 miljoner",
           "link": "https://www.aftonbladet.se/nyheter/a/MnO4kR/tullen-stoppat-labubu-kopior-for-over-1-4-miljoner?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 06:09:36 GMT"
-        },
-        {
-          "title": "Alternativt Nobelpris till slät pastasås",
-          "link": "https://www.aftonbladet.se/nyheter/a/xmaxwn/alternativt-nobelpris-till-slat-pastasas?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 05:05:11 GMT"
-        },
-        {
-          "title": "Högsta utsläppen på 23 år efter sommarens bränder",
-          "link": "https://www.aftonbladet.se/nyheter/a/Ey60LP/hogsta-utslappen-pa-23-ar-efter-sommarens-brander?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 05:05:07 GMT"
-        },
-        {
-          "title": "Talibanerna förbjuder böcker av kvinnor",
-          "link": "https://www.aftonbladet.se/nyheter/a/LM2y99/talibanerna-forbjuder-bocker-av-kvinnor?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 04:27:01 GMT"
-        },
-        {
-          "title": "Professor: ”Fokuseringen på ordet folkmord är olycklig”",
-          "link": "https://www.aftonbladet.se/nyheter/a/Vz0KX1/professor-mark-klamberg-folkmord-i-gaza-men-olyckligt-fokus-pa-ordet?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 04:17:42 GMT"
         }
       ]
     },
     {
       "url": "https://feeds.expressen.se/nyheter/",
       "items": [
+        {
+          "title": "Putins styrka sänks – en efter en",
+          "link": "https://www.expressen.se/tv/nyheter/varlden/putins-styrka-sanks-en-efter-en",
+          "published": "Fri, 19 Sep 2025 08:25:45 +0200"
+        },
         {
           "title": "Zelenskyj: Tagit 160 kvadratkilometer i Donetsk",
           "link": "https://www.expressen.se/nyheter/varlden/zelenskyj-tagit-160-kvadratkilometer-i-donetsk/",
@@ -143,11 +148,6 @@
           "title": "Lärarvikarie misstänks för flera barnvåldtäkter i Gävle",
           "link": "https://www.expressen.se/nyheter/krim/lararvikarie-misstanks-for-flera-barnvaldtakter-i-gavle/",
           "published": "Fri, 19 Sep 2025 07:18:33 +0200"
-        },
-        {
-          "title": "Hamas nya beslut om gisslan",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=bced4087-2b25-47fa-87bd-15d518cc2e82",
-          "published": "Fri, 19 Sep 2025 07:00:48 +0200"
         }
       ]
     }
