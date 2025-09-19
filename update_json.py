@@ -1,6 +1,12 @@
 import feedparser
 import json
 from datetime import datetime
+from bs4 import BeautifulSoup
+
+def strip_html(text):
+    if not text:
+        return ""
+    return BeautifulSoup(text, "html.parser").get_text()
 
 # RSS-flöden att hämta
 feeds = [
@@ -24,7 +30,7 @@ for url in feeds:
             "title": entry.title,
             "link": entry.link,
             "published": entry.get("published", ""),
-            "description": entry.description
+            "description": strip_html(entry.description)
         })
     data["feeds"].append({
         "url": url,
@@ -34,6 +40,7 @@ for url in feeds:
 # Spara till JSON
 with open("data.json", "w", encoding="utf-8") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
+
 
 
 
