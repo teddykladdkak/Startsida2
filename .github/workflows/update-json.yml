@@ -21,8 +21,11 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install dependencies
+      - name: Install feedparser
         run: pip install feedparser
+        
+      - name: Install beautifulsoup4
+        run: pip install beautifulsoup4
 
       - name: Run script
         run: python update_json.py
