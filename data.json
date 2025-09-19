@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T07:18:11.795041Z",
+  "lastUpdated": "2025-09-19T07:33:06.307729Z",
   "feeds": [
     {
       "url": {
@@ -124,6 +124,12 @@
       },
       "items": [
         {
+          "title": "Planen vid krig  – sju scenarier: ”Vi rustar oss”",
+          "link": "https://www.expressen.se/nyheter/sverige/planen-vid-krig-sju-scenarier-vi-rustar-oss/",
+          "published": "Fri, 19 Sep 2025 09:28:10 +0200",
+          "description": "Trupper som landsätts på Gotland med stöd av drönare och stridsflyg.Eller omfattande luftangrepp med robotar och stridsflyg mot civil infrastruktur i Sverige. Det är två av sju scenarier som MSB och Försvarsmakten listar i en ny rapport. – Att förbereda sig är inte alarmism, det är ansvar, säger överbefälhavare Michael Claesson i ett uttalande. "
+        },
+        {
           "title": "Ryskt sändebud: Danmark hotar oss med Bornholm",
           "link": "https://www.expressen.se/nyheter/varlden/ryskt-sandebud-danmark-hotar-oss-med-bornholm/",
           "published": "Fri, 19 Sep 2025 09:05:43 +0200",
@@ -134,12 +140,6 @@
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ed667e8f-7c5b-4295-82fe-f57145faa315",
           "published": "Fri, 19 Sep 2025 08:48:35 +0200",
           "description": "Höll man fånge i bil"
-        },
-        {
-          "title": "Putins styrka sänks – en efter en",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/putins-styrka-sanks-en-efter-en",
-          "published": "Fri, 19 Sep 2025 08:25:45 +0200",
-          "description": "Ensamma ukrainska skyttens natträd i helikoptern"
         }
       ]
     }
