@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T08:42:04.335421Z",
+  "lastUpdated": "2025-09-19T09:11:16.879850Z",
   "feeds": [
     {
       "url": {
@@ -28,8 +28,14 @@
       },
       "items": [
         {
+          "title": "Hovrätten slår fast: Staffanstorp diskriminerade familj",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/hovratten-faststaller-domen-staffanstorp-doms-for-diskriminering",
+          "published": "Fri, 19 Sep 2025 11:09:02 +0200",
+          "description": "Hovrätten fastställer domen mot Staffanstorp. Även hovrätten anser att kommunen gjorde sig skyldig till diskriminering när man vägrade att ta emot en kvotflyktingfamilj från Syrien."
+        },
+        {
           "title": "Håkan Hellström på Sverigeturné 2026",
-          "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/hakan-hellstrom-pa-sverigeturne-2026",
+          "link": "https://www.svt.se/kultur/hakan-hellstrom-pa-sverigeturne-2026",
           "published": "Fri, 19 Sep 2025 10:34:43 +0200",
           "description": "Det är tio år sedan Håkan Hellström senaste gjorde en inomhusturné. Men nästa år är det dags igen, med premiär i Oslo och fem arenastopp i Sverige."
         },
@@ -40,22 +46,16 @@
           "description": "Stephen Colbert och Seth Meyers uttryckte båda sitt stöd för Jimmy Kimmel i sina program på torsdagskvällen. Även veteraner som David Letterman och Jay Leno har ryckt ut till Kimmels försvar."
         },
         {
-          "title": "Bilvolt på E10 utanför Kiruna – stort räddningspådrag",
+          "title": "Stort räddningspådrag efter bilvolt på E10 utanför Kiruna",
           "link": "https://www.svt.se/nyheter/lokalt/norrbotten/bilvolt-pa-e10-utanfor-kiruna-stort-raddningspadrag",
           "published": "Fri, 19 Sep 2025 10:29:19 +0200",
-          "description": "Det har inträffat en singelolycka strax norr om Kiruna. Föraren körde av vägen och voltade med personbilen och fyra styrkor från räddningstjänsten samt en ambulans har larmats till platsen."
+          "description": "Under fredagsförmiddagen körde en förare av vägen och voltade med sin personbil strax norr om Kiruna. Flera styrkor från räddningstjänsten samt ambulans och polis ryckte ut till olycksplatsen."
         },
         {
           "title": "Här är supertvillingarna Moll: ”Exceptionella för att vara så unga”",
           "link": "https://www.svt.se/sport/friidrott/har-ar-supertvillingarna-moll-exceptionella-for-att-vara-sa-unga",
           "published": "Fri, 19 Sep 2025 10:04:32 +0200",
           "description": "Tvillingsystrarna Moll spås en stor framtid. Här presenterar sig 20-åringarna tillsammans på VM. – De är exceptionellt bra för att vara så unga, säger SVT Sports expert Alhaji Jeng."
-        },
-        {
-          "title": "Skadad man hittad på Sandbacka – man misstänks för grov misshandel",
-          "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/skadad-man-hittad-pa-sandbacka-man-misstanks-for-grov-misshandel",
-          "published": "Fri, 19 Sep 2025 09:58:33 +0200",
-          "description": "En skadad man hittades på Sandbacka i Umeå under fredagsmorgonen. Mannen har blivit misshandlad med ett tillhygge. En annan man misstänks nu för grov misshandel."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Hovrätten slår fast: Staffanstorp diskriminerade familj",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/hovratten-faststaller-domen-staffanstorp-doms-for-diskriminering",
+          "published": "Fri, 19 Sep 2025 11:09:02 +0200",
+          "description": "Hovrätten fastställer domen mot Staffanstorp. Även hovrätten anser att kommunen gjorde sig skyldig till diskriminering när man vägrade att ta emot en kvotflyktingfamilj från Syrien."
+        },
         {
           "title": "Tullare från hela Europa samlas i Malmö – så ska smugglarna stoppas",
           "link": "https://www.svt.se/nyheter/lokalt/skane/tullare-fran-hela-europa-samlas-i-malmo-sa-ska-smugglarna-stoppas",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/chef-stangs-av-kallade-sverigedemokrater-korkade",
           "published": "Thu, 18 Sep 2025 19:10:25 +0200",
           "description": "Kristianstads kommuns säkerhetsskyddschef Linda Perminger stängs av från jobbet efter att hon bland annat förolämpat sverigedemokrater. Avstängningen gäller i en månad under tiden hon internutreds, skriver Kristianstadsbladet."
-        },
-        {
-          "title": "Biblioteket delar ut gratis konsertbiljetter – men ingen vill ha",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/biblioteket-delar-ut-konsertbiljetter-men-ingen-vill-ha",
-          "published": "Thu, 18 Sep 2025 16:49:07 +0200",
-          "description": "På stadsbiblioteket i Kristianstad kan man nu låna ett kort som ger gratisbiljetter till konserter. Hittills har dock ingen nappat på erbjudandet."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
+          "title": "Putins plan för efterträdaren: ”Riskerar livet”",
+          "link": "https://www.aftonbladet.se/nyheter/a/Pp7Wz0/putins-plan-for-eftertradaren-riskerar-livet?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 08:52:30 GMT",
+          "description": "PLUS Nästa generation i det ryska toppskiktet måste uppfylla ett krav. Det uppger Putin."
+        },
+        {
+          "title": "Trafikkaos och förtvivlan på vägar från Gaza stad",
+          "link": "https://www.aftonbladet.se/nyheter/a/ny8Ra5/trafikkaos-och-fortvivlan-pa-vagar-fran-gaza-stad?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 08:48:17 GMT",
+          "description": "De färdas i skåpbilar, på åsnekärror, till fots – och är desperata. Vägarna från Gaza stad rapporteras vara knökfulla av…"
+        },
+        {
           "title": "Regeringen: 220 miljarder i lån till kärnkraft",
           "link": "https://www.aftonbladet.se/nyheter/a/Avjz2z/regeringen-220-miljarder-i-lan-till-karnkraft?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 08:33:53 GMT",
           "description": "220 miljarder kronor. Så mycket är regeringen beredd att låna ut till företag som vill bygga ny kärnkraft."
-        },
-        {
-          "title": "Mette-Marit får behandling för lungsjukdom",
-          "link": "https://www.aftonbladet.se/nyheter/a/KMdBBX/mette-marit-far-behandling-for-lungsjukdom?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 08:31:36 GMT",
-          "description": "Den norska kronprinsessan Mette-Marit blir borta från offentligheten större delen av oktober."
-        },
-        {
-          "title": "Dömd storbedragare åtalas på nytt",
-          "link": "https://www.aftonbladet.se/nyheter/a/4ByjjR/domd-storbedragare-atalas-pa-nytt?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 08:30:18 GMT",
-          "description": "En man från Blekinge som sedan tidigare är dömd för storskalig miljonsvindel åtalas för misstänkta…"
         }
       ]
     },
@@ -124,9 +124,15 @@
       },
       "items": [
         {
+          "title": "Trump buas ut – vill fängsla alla",
+          "link": "https://www.expressen.se/tv/nyheter/varlden/trumps-ilska-mot-demonstranterna-borde-fa-fangelse",
+          "published": "Fri, 19 Sep 2025 10:54:02 +0200",
+          "description": "Bisarra kravet efter orden på restaurangen"
+        },
+        {
           "title": "Avancerad rysk militärbas avslöjad – av toalett-miss",
           "link": "https://www.expressen.se/nyheter/varlden/avancerad-rysk-militarbas-avslojad--av-toalett-miss/",
-          "published": "Fri, 19 Sep 2025 10:31:40 +0200",
+          "published": "Fri, 19 Sep 2025 10:40:10 +0200",
           "description": "En slarvig tv-sändning – och en toalettskylt. Mer än så krävdes inte för att avslöja en av Rysslands mest avancerade militärbaser."
         },
         {
@@ -134,12 +140,6 @@
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6c213e8e-70ba-4dc4-92bb-4d6c6743d30d",
           "published": "Fri, 19 Sep 2025 10:15:34 +0200",
           "description": "Ska genomgå behandling"
-        },
-        {
-          "title": "Godståg läcker i Norrköping",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=339e1511-c649-4c7c-8dd4-5787f4953415",
-          "published": "Fri, 19 Sep 2025 10:04:43 +0200",
-          "description": "Insats i Norrköping – en till sjukhus"
         }
       ]
     }
