@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T09:11:16.879850Z",
+  "lastUpdated": "2025-09-19T09:26:58.296710Z",
   "feeds": [
     {
       "url": {
@@ -31,7 +31,7 @@
           "title": "Hovrätten slår fast: Staffanstorp diskriminerade familj",
           "link": "https://www.svt.se/nyheter/lokalt/skane/hovratten-faststaller-domen-staffanstorp-doms-for-diskriminering",
           "published": "Fri, 19 Sep 2025 11:09:02 +0200",
-          "description": "Hovrätten fastställer domen mot Staffanstorp. Även hovrätten anser att kommunen gjorde sig skyldig till diskriminering när man vägrade att ta emot en kvotflyktingfamilj från Syrien."
+          "description": "Hovrätten fastställer domen mot Staffanstorps kommun. Även hovrätten anser att kommunen gjorde sig skyldig till diskriminering när man vägrade att ta emot en kvotflyktingfamilj från Syrien."
         },
         {
           "title": "Håkan Hellström på Sverigeturné 2026",
@@ -69,7 +69,7 @@
           "title": "Hovrätten slår fast: Staffanstorp diskriminerade familj",
           "link": "https://www.svt.se/nyheter/lokalt/skane/hovratten-faststaller-domen-staffanstorp-doms-for-diskriminering",
           "published": "Fri, 19 Sep 2025 11:09:02 +0200",
-          "description": "Hovrätten fastställer domen mot Staffanstorp. Även hovrätten anser att kommunen gjorde sig skyldig till diskriminering när man vägrade att ta emot en kvotflyktingfamilj från Syrien."
+          "description": "Hovrätten fastställer domen mot Staffanstorps kommun. Även hovrätten anser att kommunen gjorde sig skyldig till diskriminering när man vägrade att ta emot en kvotflyktingfamilj från Syrien."
         },
         {
           "title": "Tullare från hela Europa samlas i Malmö – så ska smugglarna stoppas",
@@ -110,9 +110,9 @@
           "description": "De färdas i skåpbilar, på åsnekärror, till fots – och är desperata. Vägarna från Gaza stad rapporteras vara knökfulla av…"
         },
         {
-          "title": "Regeringen: 220 miljarder i lån till kärnkraft",
-          "link": "https://www.aftonbladet.se/nyheter/a/Avjz2z/regeringen-220-miljarder-i-lan-till-karnkraft?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 08:33:53 GMT",
+          "title": "Regeringen vill låna ut 220 miljarder till kärnkraft",
+          "link": "https://www.aftonbladet.se/nyheter/a/XjPlgW/regeringen-vill-lana-220-miljarder-till-karnkraft?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 08:44:17 GMT",
           "description": "220 miljarder kronor. Så mycket är regeringen beredd att låna ut till företag som vill bygga ny kärnkraft."
         }
       ]
@@ -124,24 +124,31 @@
       },
       "items": [
         {
-          "title": "Trump buas ut – vill fängsla alla",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/trumps-ilska-mot-demonstranterna-borde-fa-fangelse",
-          "published": "Fri, 19 Sep 2025 10:54:02 +0200",
-          "description": "Bisarra kravet efter orden på restaurangen"
+          "title": "Stora köer på E4",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a1bce270-0d4b-4bd4-be13-d3d1569a8195",
+          "published": "Fri, 19 Sep 2025 11:23:52 +0200",
+          "description": "Problem vid Gröndal i södra Stockholm"
         },
         {
-          "title": "Avancerad rysk militärbas avslöjad – av toalett-miss",
-          "link": "https://www.expressen.se/nyheter/varlden/avancerad-rysk-militarbas-avslojad--av-toalett-miss/",
-          "published": "Fri, 19 Sep 2025 10:40:10 +0200",
-          "description": "En slarvig tv-sändning – och en toalettskylt. Mer än så krävdes inte för att avslöja en av Rysslands mest avancerade militärbaser."
+          "title": "Marek Rokosz dödade och brände upp man – hovrätten fastställer dom",
+          "link": "https://www.expressen.se/nyheter/krim/marek-rokosz-dodade-och-brande-upp-man-hovratten-faststaller-dom/",
+          "published": "Fri, 19 Sep 2025 11:19:21 +0200",
+          "description": "34-åringen skulle driva in en skuld på julafton.I stället sköts han ihjäl och kroppen brändes. Nu fastställer hovrätten domen mot mördaren Marek Rokosz. "
         },
         {
-          "title": "Mette-Marit borta en månad",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6c213e8e-70ba-4dc4-92bb-4d6c6743d30d",
-          "published": "Fri, 19 Sep 2025 10:15:34 +0200",
-          "description": "Ska genomgå behandling"
+          "title": "Hyllade Palestina-rörelse – kan gripas för terrorbrott",
+          "link": "https://www.expressen.se/nyheter/varlden/hyllade-palestina-rorelse--kan-gripas-for-terrorbrott/",
+          "published": "Fri, 19 Sep 2025 11:14:59 +0200",
+          "description": "Den hyllade irländska författaren Sally Rooney vågade inte resa till London för att själv ta emot ett pris.– Jag har fått rådet att åka Storbritannien för att undvika att bli gripen, förklarar hon, efter att ha stöttat en organisation som brittiska regeringen jämställer med al-Qaida och IS."
         }
       ]
+    },
+    {
+      "url": {
+        "link": "https://www.imdb.com/calendar/?ref_=nv_mv_cal",
+        "amount": 5
+      },
+      "items": []
     }
   ]
 }
