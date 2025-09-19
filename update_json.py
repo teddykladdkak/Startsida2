@@ -17,9 +17,9 @@ data = {
 }
 
 for url in feeds:
-    parsed = feedparser.parse(url.link)
+    parsed = feedparser.parse(url["link"])
     items = []
-    for entry in parsed.entries[:url.ammout]:  # ta de 5 senaste
+    for entry in parsed.entries[:url["ammout"]]:  # ta de 5 senaste
         items.append({
             "title": entry.title,
             "link": entry.link,
@@ -34,5 +34,6 @@ for url in feeds:
 # Spara till JSON
 with open("data.json", "w", encoding="utf-8") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
+
 
 
