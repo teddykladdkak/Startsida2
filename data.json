@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T17:34:31.089001Z",
+  "lastUpdated": "2025-09-19T18:13:50.351154Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "Domare förkastar Trumpstämning mot reportrar",
+          "link": "https://www.svt.se/nyheter/utrikes/domare-forkastar-trumpstamning-mot-reportrar",
+          "published": "Fri, 19 Sep 2025 19:43:10 +0200",
+          "description": "En federal domare i delstaten Florida lägger ned en stämningsansökan mot tidningen The New York Times som lämnats in av president Donald Trump."
+        },
+        {
           "title": "Hur är tryggheten i Norrköping? – 7000 svarade och nu har man ett resultat",
           "link": "https://www.svt.se/nyheter/lokalt/ost/hur-ar-tryggheten-i-norrkoping-7000-svarade-och-nu-har-man-ett-resultat",
           "published": "Fri, 19 Sep 2025 19:28:07 +0200",
@@ -49,13 +55,7 @@
           "title": "Skarpt föremål i Katrineholm – bombskyddet inkallat",
           "link": "https://www.svt.se/nyheter/lokalt/sormland/larm-om-misstankt-farligt-foremal-i-katrineholm",
           "published": "Fri, 19 Sep 2025 18:19:32 +0200",
-          "description": "Polisen bedömer ett farligt föremål i centrala Katrineholm som skarpt. Avspärrningar har upprättats på platsen och Nationella bombskyddet är inkallat."
-        },
-        {
-          "title": "Regeringen bommar klimatmålet – Tidöpartierna oense om åtgärderna",
-          "link": "https://www.svt.se/nyheter/inrikes/regeringen-bommar-klimatmalet-tidopartierna-oense-om-atgarderna",
-          "published": "Fri, 19 Sep 2025 18:08:48 +0200",
-          "description": "Regeringens sista klimatbudget för den här mandatperioden kommer inte att räcka för att Sverige ska nå EU:s klimatmål till 2030. Enligt klimatministern har samarbetspartierna satt stopp för ytterligare åtgärder som skulle kunna minska gapet till målet. – De lösningar vi har lagt fram har inte accepterats av de andra partierna, säger Romina Pourmokhtari."
+          "description": "Polisen bedömer ett misstänkt farligt föremål i centrala Katrineholm som skarpt. Avspärrningar har upprättats på platsen och Nationella bombskyddet är inkallat."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
+          "title": "Estland åberopar artikel 4 efter kränkningen",
+          "link": "https://www.aftonbladet.se/nyheter/a/B0oJBE/estland-aberopar-artikel-4-efter-krankningarna?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 18:06:48 GMT",
+          "description": "Ryssland kränkte estniskt luftrum i 12 minuter. Nu kallar Estland Natoländerna till krismöte."
+        },
+        {
+          "title": "Domare förkastar Trumpstämning mot reportrar",
+          "link": "https://www.aftonbladet.se/nyheter/a/rPkLK8/domare-forkastar-trumpstamning-mot-reportrar?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 17:35:26 GMT",
+          "description": "En federal domare i delstaten Florida lägger ned en stämningsansökan mot tidningen The New York Times som lämnats in av…"
+        },
+        {
           "title": "Svenskt stridsflyg markerade mot rysk kränkning",
           "link": "https://www.aftonbladet.se/nyheter/a/yEQv0e/svenskt-stridsflyg-markerade-mot-rysk-krankning?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 17:22:25 GMT",
-          "description": "Svenska Jas 39 Gripen skickades upp för att möta tre ryska jaktflyg av typen Mig-31 över Estlands luftrum, meddelar…"
-        },
-        {
-          "title": "Ryska Mig-31 i estniskt luftrum ”exceptionellt”",
-          "link": "https://www.aftonbladet.se/nyheter/a/QMQlW4/ryska-mig-31-i-estniskt-luftrum-exceptionellt?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 17:19:46 GMT",
-          "description": "Ryska stridsflygplan av modellen Mig-31 kränkte Estlands luftrum i 12 minuter."
-        },
-        {
-          "title": "Kyrkobråk om muslimsk gravplats i Hörby",
-          "link": "https://www.aftonbladet.se/nyheter/a/dRyxOX/kyrkobrak-om-muslimsk-gravplats-i-horby?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 17:13:01 GMT",
-          "description": "En muslimsk gravplats på Hörbys kyrkogård har blivit en stridsfråga i Hörby församling."
+          "description": "Svenska Jas 39 Gripen skickades upp för att möta tre ryska jaktflyg av typen Mig-31 som kränkt Estlands luftrum…"
         }
       ]
     },
@@ -139,7 +139,7 @@
           "title": "Ryska stridsflygplan kränkte Estland och Polen",
           "link": "https://www.expressen.se/nyheter/varlden/ryska-stridsflygplan-krankte-estlands-luftrum/",
           "published": "Fri, 19 Sep 2025 17:14:52 +0200",
-          "description": "Ryska stridsflygplan kränkte på fredagen Estlands luftrum.Svenska Jas Gripen-plan skickades upp för att markera närvaro, enligt Försvarsmakten.Senare på fredagen uppger polsk gränspolis att ryska stridsflyg också kränkt en säkerhetszon kring en polsk oljeplattform i Östersjön."
+          "description": "Ryska stridsflygplan kränkte på fredagen Estlands luftrum.Svenska Jas Gripen-plan skickades upp för att markera närvaro, enligt Försvarsmakten.Senare på fredagen uppger polsk gränspolis att ryska stridsflyg också kränkt en säkerhetszon kring en polsk oljeplattform i Östersjön.På grund av kränkningen har Estland aktiverat Natos artikel 4."
         }
       ]
     }
