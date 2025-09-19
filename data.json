@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T20:11:02.667659Z",
+  "lastUpdated": "2025-09-19T20:36:02.770749Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "Skottlossning i Västerås",
+          "link": "https://www.svt.se/nyheter/lokalt/vastmanland/grovt-valdsbrott-i-vasteras-4x3u8j",
+          "published": "Fri, 19 Sep 2025 22:31:55 +0200",
+          "description": "En skottlossning har inträffat vid Bellevuehallen i Västerås, enligt uppgifter till SVT. Polisen är på platsen."
+        },
+        {
           "title": "Misstänkt hot på Gotlandsfärjan – personal förhörs",
           "link": "https://www.svt.se/nyheter/lokalt/smaland/misstankt-hot-pa-gotlandsfarjan-personal-forhors",
           "published": "Fri, 19 Sep 2025 21:44:42 +0200",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/sport/fotboll/malvakten-poangraddare-for-linkoping-nickade-in-kvitteringen",
           "published": "Fri, 19 Sep 2025 21:08:03 +0200",
           "description": "Linköping var på väg mot förlust – då klev målvakten Cajsa Andersson fram. 32-åringen satte 2–2 mot Piteå i matchens sista sekund. – Jag är väl nöjd, första målet någonsin, säger Andersson i Viaplay."
-        },
-        {
-          "title": "”Sverige blir slagträ i Orbáns kamp om makten”",
-          "link": "https://www.svt.se/nyheter/utrikes/sverige-blir-slagtra-i-orbans-kamp-om-makten",
-          "published": "Fri, 19 Sep 2025 20:28:19 +0200",
-          "description": "Sverige dras in i den ungerska inrikesdebatten när en pressad Viktor Orbán slåss för att behålla makten. I ett Ungern som rör sig mot val har oppositionen ledningen i opinionen."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
+          "title": "Gotlandsfärja ställs in – misstänkt hot",
+          "link": "https://www.aftonbladet.se/nyheter/a/zAvG5r/gotlandsfarja-stalls-in-misstankt-hot?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 20:25:33 GMT",
+          "description": "Polisen har larmats till Gotlandsfärjan i Oskarshamn med anledning av ett misstänkt hot."
+        },
+        {
+          "title": "Covidsmittan fortsätter att öka",
+          "link": "https://www.aftonbladet.se/nyheter/a/Ey6KjP/covidsmittan-haller-i-sig-dosfallen-okar?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 20:10:33 GMT",
+          "description": "PLUS Trenden håller i sig.  Covid-19 fortsätter att öka i Sverige, visar färsk statistik från Folkhälsomyndigheten."
+        },
+        {
           "title": "Läckte USA:s militärplaner – blir FN-ambassadör",
           "link": "https://www.aftonbladet.se/nyheter/a/gw5P5a/lackte-usa-s-militarplaner-blir-fn-ambassador?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 19:46:49 GMT",
           "description": "Mike Waltz blir president Donald Trumps FN-ambassadör efter månader av förseningar, det bekräftar den amerikanska…"
-        },
-        {
-          "title": "Paasikivi: ”Mycket lång kränkning”",
-          "link": "https://www.aftonbladet.se/nyheter/a/XjPwLn/paasikivi-mycket-lang-krankning?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 19:32:18 GMT",
-          "description": "Den tolv minuter långa ryska kränkningen i Estland är en upptrappning, menar militärexperten Joakim Paasikivi."
-        },
-        {
-          "title": "Fem saker Nato behöver ha för att besegra Putin",
-          "link": "https://www.aftonbladet.se/nyheter/a/73wW3W/5-saker-nato-maste-ha-for-att-besegra-putin?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 18:30:53 GMT",
-          "description": "PLUS Natos stridskrafter ska nästan fördubblas i storlek.  Då är vissa grejer viktigare än andra."
         }
       ]
     },
@@ -132,7 +132,7 @@
         {
           "title": "Hot mot Gotlandsfärja",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0800f9e1-5cf4-4521-9192-747092ae3ea5",
-          "published": "Fri, 19 Sep 2025 21:29:57 +0200",
+          "published": "Fri, 19 Sep 2025 22:30:59 +0200",
           "description": "Polisen på plats"
         },
         {
