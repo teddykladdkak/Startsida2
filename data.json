@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T17:08:25.300688Z",
+  "lastUpdated": "2025-09-19T17:34:31.089001Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "Hur är tryggheten i Norrköping? – 7000 svarade och nu har man ett resultat",
+          "link": "https://www.svt.se/nyheter/lokalt/ost/hur-ar-tryggheten-i-norrkoping-7000-svarade-och-nu-har-man-ett-resultat",
+          "published": "Fri, 19 Sep 2025 19:28:07 +0200",
+          "description": "Norrköpings kommun har kollat hur trygga invånarna känner sig i olika områden. På fredagen berättade kommunen för första gången om resultatet."
+        },
+        {
           "title": "Kriminalvården om otillåtna relationer: ”Förekommer varje år”",
           "link": "https://www.svt.se/nyheter/lokalt/orebro/kriminalvarden-om-otillatna-relationer-forekommer-varje-ar",
           "published": "Fri, 19 Sep 2025 19:05:45 +0200",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/nyheter/inrikes/regeringen-bommar-klimatmalet-tidopartierna-oense-om-atgarderna",
           "published": "Fri, 19 Sep 2025 18:08:48 +0200",
           "description": "Regeringens sista klimatbudget för den här mandatperioden kommer inte att räcka för att Sverige ska nå EU:s klimatmål till 2030. Enligt klimatministern har samarbetspartierna satt stopp för ytterligare åtgärder som skulle kunna minska gapet till målet. – De lösningar vi har lagt fram har inte accepterats av de andra partierna, säger Romina Pourmokhtari."
-        },
-        {
-          "title": "Därför fick Sleyman pris som Årets lärare i Södertälje",
-          "link": "https://www.svt.se/nyheter/lokalt/sodertalje/sleyman-fick-pris-som-arets-larare-i-sodertalje",
-          "published": "Fri, 19 Sep 2025 17:43:10 +0200",
-          "description": "Sleyman Esso på Wasaskolan prisas av kommunen för sina insatser inom matematiken. – Det känns helt fantastiskt, ingenting som jag hade väntat mig, säger han."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "”Omöjliga” koden kan vara värd 500 miljoner",
-          "link": "https://www.aftonbladet.se/nyheter/a/bmE18A/omojliga-koden-gackar-experter-kan-peka-ut-skatt-vard-500-miljoner?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 17:05:38 GMT",
-          "description": "PLUS Mysteriet är 140 år gammalt och värt 500 miljoner kronor. Ingen har ännu lyckats knäcka koden."
+          "title": "Svenskt stridsflyg markerade mot rysk kränkning",
+          "link": "https://www.aftonbladet.se/nyheter/a/yEQv0e/svenskt-stridsflyg-markerade-mot-rysk-krankning?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 17:22:25 GMT",
+          "description": "Svenska Jas 39 Gripen skickades upp för att möta tre ryska jaktflyg av typen Mig-31 över Estlands luftrum, meddelar…"
         },
         {
-          "title": "Ryska offensiver tar nästan inga områden",
-          "link": "https://www.aftonbladet.se/nyheter/a/OownXk/ryska-offensiver-tar-nastan-inga-omraden?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 17:01:18 GMT",
-          "description": "Ryska påståenden om omfattande militära framgångar på ukrainskt territorium tillbakavisas av Ukraina."
+          "title": "Ryska Mig-31 i estniskt luftrum ”exceptionellt”",
+          "link": "https://www.aftonbladet.se/nyheter/a/QMQlW4/ryska-mig-31-i-estniskt-luftrum-exceptionellt?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 17:19:46 GMT",
+          "description": "Ryska stridsflygplan av modellen Mig-31 kränkte Estlands luftrum i 12 minuter."
         },
         {
-          "title": "Värktablett kan halvera risk för canceråterfall",
-          "link": "https://www.aftonbladet.se/nyheter/a/LMJ0qP/varktablett-kan-halvera-risk-for-canceraterfall?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 16:30:31 GMT",
-          "description": "Daglig behandling med en låg dos av ett vanligt smärtstillande läkemedel minskade kraftigt risken för återfall i en viss…"
+          "title": "Kyrkobråk om muslimsk gravplats i Hörby",
+          "link": "https://www.aftonbladet.se/nyheter/a/dRyxOX/kyrkobrak-om-muslimsk-gravplats-i-horby?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 17:13:01 GMT",
+          "description": "En muslimsk gravplats på Hörbys kyrkogård har blivit en stridsfråga i Hörby församling."
         }
       ]
     },
@@ -136,10 +136,10 @@
           "description": "Rollen som nationell säkerhetsrådgivare borde göras om.Det menar den tidigare utrikesministern Tobias Billström.– Jag förstår inte vad han syftar på, svarar statsministern i Expressens podd ”Viktor möter”."
         },
         {
-          "title": "Ryska stridsflygplan kränkte Estlands luftrum",
+          "title": "Ryska stridsflygplan kränkte Estland och Polen",
           "link": "https://www.expressen.se/nyheter/varlden/ryska-stridsflygplan-krankte-estlands-luftrum/",
           "published": "Fri, 19 Sep 2025 17:14:52 +0200",
-          "description": "Tre stridsflygplan kränkte på fredagen Estlands luftrum, rapporterar ERR.”Denna händelse liksom andra nyliga ryska kränkningar av Nato-länders luftrum illustrerar än en gång allvaret i det ryska hotet mot europeisk säkerhet”, kommenterar statsminister Ulf Kristersson."
+          "description": "Ryska stridsflygplan kränkte på fredagen Estlands luftrum.Svenska Jas Gripen-plan skickades upp för att markera närvaro, enligt Försvarsmakten.Senare på fredagen uppger polsk gränspolis att ryska stridsflyg också kränkt en säkerhetszon kring en polsk oljeplattform i Östersjön."
         }
       ]
     }
