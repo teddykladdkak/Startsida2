@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T12:19:25.298594Z",
+  "lastUpdated": "2025-09-19T13:00:18.047835Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,18 @@
       },
       "items": [
         {
+          "title": "Nya superfartkameror till Värmland",
+          "link": "https://www.svt.se/nyheter/lokalt/varmland/nya-superfartkameror-till-varmland",
+          "published": "Fri, 19 Sep 2025 14:40:54 +0200",
+          "description": "Nästa år ska Trafikverket sätta ut nya superfartkameror runt om i landet. Sex av de hamnar i Värmland. – Vi hoppas på ökad trygghet på vägarna, säger Petter Magnusson, trafikpolis."
+        },
+        {
+          "title": "Knivhögg frun framför barnet – man i Boden döms till 11 års fängelse",
+          "link": "https://www.svt.se/nyheter/lokalt/norrbotten/knivhogg-frun-framfor-barnet-man-i-boden-doms-till-11-ars-fangelse",
+          "published": "Fri, 19 Sep 2025 14:28:57 +0200",
+          "description": "Mannen knivhögg sin fru flera gånger samtidigt som parets barn blev vittne till händelsen. Kvinnan vaknade av att mannen stod över henne med en kniv. – Jag hinner tänka att nu är det kört, nu dör jag, sade hon i rätten. På fredagen kom domen."
+        },
+        {
           "title": "Hemvärnet expanderar – snabbkurser i krigskunskap för nya rekryter",
           "link": "https://www.svt.se/nyheter/uutiset/svenska/hemvarnet-expanderar-snabbkurser-i-krigskunskap-for-nya-rekryter",
           "published": "Fri, 19 Sep 2025 14:13:46 +0200",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/jonkoping/vargstammen-ska-minska-ny-lagstaniva-infors",
           "published": "Fri, 19 Sep 2025 14:11:25 +0200",
           "description": "Naturvårdsverket sänker miniminivån på det antal vargar som behövs för att vargstammen ska kunna överleva långsiktigt från 300 till 170. Idag uppskattas det att det finns 355 vargar i landet, varav 100 finns i södra rovdjursförvaltningsområdet, där Jönköpings län ingår. Här sänks miniminivån till 46 vargar."
-        },
-        {
-          "title": "Politikens stora makt i kyrkan: ”Många besökare är kritiska”",
-          "link": "https://www.svt.se/nyheter/inrikes/politikens-stora-makt-i-kyrkan-manga-besokare-ar-kritiska",
-          "published": "Fri, 19 Sep 2025 13:55:22 +0200",
-          "description": "Kyrkovalet närmar sig – men en av de stora frågorna handlar inte om teologi, utan om politikens plats i kyrkan. Kritiker menar att partipolitiken har för stort inflytande, medan andra ser den som en garanti för demokrati. – Många kyrkobesökare är kritiska till att partier bestämmer över kyrkan, säger Jacob Zetterman, reporter Dagen."
-        },
-        {
-          "title": "Åtalet mot Lyxbedragaren: Tjänade 32 miljoner på bostadsbluffen",
-          "link": "https://www.svt.se/nyheter/lokalt/blekinge/atalet-mot-lyxbedragaren-tjanade-32-miljoner-pa-bostadsbluffen",
-          "published": "Fri, 19 Sep 2025 13:00:38 +0200",
-          "description": "Den sedan tidigare fängelsedömde Lyxbedragaren från Blekinge och hans sju kumpaner åtalas för att ha lurat 43 köpare att investera i påhittade affärsprojekt i Spanien. Totalt tros ligan ha tjänat 32 miljoner kronor. Samtidigt har polisen beslagtagit klockor, smycken, väskor, bilar och kontanter för stora belopp, visar åtalet."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Här vill de skapa gravplats för MFF-supportrar",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/har-vill-de-skapa-gravplats-for-mff-supportrar",
+          "published": "Fri, 19 Sep 2025 14:53:23 +0200",
+          "description": "”Ända till graven är jag himmelsblå”, så sjunger Malmö FF:s supportrar. Nu ska de kunna begravas tillsammans på en minnesplats på Gamla kyrkogården i Malmö. Det föreslår Markus Krook och Rickard Lagerström från Centerpartiet."
+        },
         {
           "title": "Hovrätten slår fast: Staffanstorp diskriminerade familj",
           "link": "https://www.svt.se/nyheter/lokalt/skane/hovratten-faststaller-domen-staffanstorp-doms-for-diskriminering",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-18-september-jie0oe",
           "published": "Thu, 18 Sep 2025 20:20:04 +0200",
           "description": "Detta har hänt i Skåne torsdagen den 18 september."
-        },
-        {
-          "title": "Chef stängs av – kallade sverigedemokrater korkade",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/chef-stangs-av-kallade-sverigedemokrater-korkade",
-          "published": "Thu, 18 Sep 2025 19:10:25 +0200",
-          "description": "Kristianstads kommuns säkerhetsskyddschef Linda Perminger stängs av från jobbet efter att hon bland annat förolämpat sverigedemokrater. Avstängningen gäller i en månad under tiden hon internutreds, skriver Kristianstadsbladet."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Misstänkt för Parisdåd för över 50 år sedan gripen",
+          "title": "Knivhögg frun framför barnet – döms till fängelse",
+          "link": "https://www.aftonbladet.se/nyheter/a/dR656q/knivhogg-frun-framfor-barnet-doms-till-fangelse?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 12:55:10 GMT",
+          "description": "En man i Boden knivhögg sin fru framför parets barn. Nu döms han till elva års fängelse, rapporterar SVT Nyheter…"
+        },
+        {
+          "title": "Pakistan: Våra kärnvapen kan gynna Saudiarabien",
+          "link": "https://www.aftonbladet.se/nyheter/a/rPkpoe/pakistan-vara-karnvapen-kan-gynna-saudiarabien?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 12:46:21 GMT",
+          "description": "Pakistans kärnvapenprogram kan komma att göras tillgängligt för Saudiarabien, i ljuset av den nya försvarspakt som…"
+        },
+        {
+          "title": "Misstänkt för Parisdåd för över 40 år sedan gripen",
           "link": "https://www.aftonbladet.se/nyheter/a/Rzvb7A/misstankt-for-parisdad-for-over-50-ar-sedan-gripen?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 12:04:55 GMT",
           "description": "En huvudmisstänkt för en dödlig attack mot en judisk restaurang i Paris 1982 har gripits och väntas lämnas ut till…"
-        },
-        {
-          "title": "Genombrott för världens längsta tågtunnel",
-          "link": "https://www.aftonbladet.se/nyheter/a/EyO4r2/genombrott-for-varldens-langsta-tagtunnel?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 12:04:20 GMT",
-          "description": "Ledare från såväl Italien, Österrike som EU var på plats när ett genombrott nåddes mer än en kilometer under Alpernas…"
-        },
-        {
-          "title": "Skogsbrand rasar nära turistparadis",
-          "link": "https://www.aftonbladet.se/nyheter/a/8qelPA/skogsbrand-rasar-nara-turistparadiset-alanya?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 11:48:57 GMT",
-          "description": "En brand rasar just nu nära turkiska Alanya. Kajsa Olsson, 36, just nu på semester i området."
         }
       ]
     },
@@ -123,6 +123,12 @@
         "amount": 3
       },
       "items": [
+        {
+          "title": "Experten efter ryska utspelet om Bornholm",
+          "link": "https://www.expressen.se/nyheter/varlden/experten-efter-ryska-utspelet-om-bornholm/",
+          "published": "Fri, 19 Sep 2025 14:19:48 +0200",
+          "description": "Danmark hotar Ryssland – med ön Bornholm.Det påstår den ryska ambassadören i Köpenhamn, efter beskedet att Danmark investerar i precisionsvapen med lång räckvidd.– Ryssarna ser det som en utpost, säger militärexperten Anders Puck Nielsen till BT. "
+        },
         {
           "title": "Släpps av talibanerna",
           "link": "https://www.expressen.se/tv/nyheter/varlden/brittiska-paret-slapps-av-talibanerna-",
@@ -134,12 +140,6 @@
           "link": "https://www.expressen.se/nyheter/politik/kristersson-avfardar-sd-kravet-jimmie-akesson-kan-inte-bli-statsminister/",
           "published": "Fri, 19 Sep 2025 13:37:13 +0200",
           "description": "Ulf Kristersson avfärdar Sverigedemokraternas önskan om att låta Jimmie Åkesson delta i tv-sända statsministerdebatter i valrörelsen 2026.– Det finns två statsministerkandidater inför nästa val. Det är helt självklart jag och Magdalena Andersson, säger han."
-        },
-        {
-          "title": "Kristersson attackerar S – efter kraschade energisamtalen",
-          "link": "https://www.expressen.se/nyheter/politik/kristersson-attackerar-s-efter-kraschade-energisamtalen/",
-          "published": "Fri, 19 Sep 2025 13:31:30 +0200",
-          "description": "Statsminister Ulf Kristersson ger sig nu in i debatten om de kraschade energiförhandlingarna.Socialdemokraterna kom enligt honom med ”omdömeslösa” förslag om havsbaserad vindkraft – något S nekat till.– Det är fel, vi har det på papper dessutom, säger Ulf Kristersson i Expressens podd ”Viktor möter” med Viktor Barth-Kron."
         }
       ]
     },
