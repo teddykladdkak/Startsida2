@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T18:43:22.481266Z",
+  "lastUpdated": "2025-09-19T19:07:48.931685Z",
   "feeds": [
     {
       "url": {
@@ -81,13 +81,13 @@
           "title": "Här vill de skapa gravplats för MFF-supportrar",
           "link": "https://www.svt.se/nyheter/lokalt/skane/har-vill-de-skapa-gravplats-for-mff-supportrar",
           "published": "Fri, 19 Sep 2025 14:53:23 +0200",
-          "description": "”Ända till graven är jag himmelsblå”, så sjunger Malmö FF:s supportrar. Nu ska de kunna begravas tillsammans på en minnesplats på Gamla kyrkogården i Malmö. Det föreslår Markus Krook och Rickard Lagerström från Centerpartiet."
+          "description": "”Ända till graven är jag himmelsblå”, så sjunger Malmö FF:s supportrar. Nu vill de kunna begravas tillsammans på en minnesplats på Gamla kyrkogården i Malmö. Det föreslår Markus Krook och Rickard Lagerström från Centerpartiet."
         },
         {
           "title": "Hovrätten slår fast: Staffanstorp diskriminerade familj",
           "link": "https://www.svt.se/nyheter/lokalt/skane/hovratten-faststaller-domen-staffanstorp-doms-for-diskriminering",
           "published": "Fri, 19 Sep 2025 11:09:02 +0200",
-          "description": "Hovrätten fastställer domen mot Staffanstorps kommun. Även hovrätten anser att kommunen gjorde sig skyldig till diskriminering när man vägrade att ta emot en kvotflyktingfamilj från Syrien. Kommunen kommer överklaga till Högsta domstolen."
+          "description": "Hovrätten fastställer domen mot Staffanstorps kommun. Även hovrätten anser att kommunen gjort sig skyldig till diskriminering när de vägrade att ta emot en kvotflyktingfamilj från Syrien. Kommunen kommer att överklaga till Högsta domstolen."
         }
       ]
     },
@@ -111,7 +111,7 @@
         },
         {
           "title": "Estland åberopar artikel 4 efter kränkningen",
-          "link": "https://www.aftonbladet.se/nyheter/a/B0oJBE/estland-aberopar-natos-artikel-4-efter-krankningarna?utm_medium=rss",
+          "link": "https://www.aftonbladet.se/nyheter/a/B0oJBE/estland-aberopar-natos-artikel-4-efter-rysslands-krankningar?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 18:06:48 GMT",
           "description": "Ryssland kränkte estniskt luftrum i 12 minuter. Nu kallar Estland Natoländerna till krismöte."
         }
@@ -124,6 +124,12 @@
       },
       "items": [
         {
+          "title": "MC-förare till sjukhus",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9845c37d-2545-4311-acfa-1c6881ada12a",
+          "published": "Fri, 19 Sep 2025 20:44:01 +0200",
+          "description": "Olycka på E45"
+        },
+        {
           "title": "Auri, 32, öppnar kylskåp för första  gången på tre år – äckliga synen",
           "link": "https://www.expressen.se/nyheter/varlden/auri-32-oppnar-kylskap-for-forsta--gangen-pa-tre-ar--ackliga-synen/",
           "published": "Fri, 19 Sep 2025 20:30:00 +0200",
@@ -134,12 +140,6 @@
           "link": "https://www.expressen.se/nyheter/varlden/experten-om-ryska-krankningen-i-estland-exceptionell/",
           "published": "Fri, 19 Sep 2025 18:55:43 +0200",
           "description": "Den ryska kränkningen av Estlands luftrum varade i tolv minuter.Exceptionellt länge, anser militärexperten Jörgen Elfving.– Det indikerar att det estniska luftförsvaret inte var helt på tå, säger han."
-        },
-        {
-          "title": "Kristerssons svar till Billström: Förstår inte",
-          "link": "https://www.expressen.se/nyheter/politik/kristerssons-svar-till-billstrom-forstar-inte/",
-          "published": "Fri, 19 Sep 2025 17:32:46 +0200",
-          "description": "Rollen som nationell säkerhetsrådgivare borde göras om.Det menar den tidigare utrikesministern Tobias Billström.– Jag förstår inte vad han syftar på, svarar statsministern i Expressens podd ”Viktor möter”."
         }
       ]
     }
