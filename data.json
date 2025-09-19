@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T16:42:01.783501Z",
+  "lastUpdated": "2025-09-19T17:08:25.300688Z",
   "feeds": [
     {
       "url": {
@@ -28,10 +28,22 @@
       },
       "items": [
         {
-          "title": "Larm om misstänkt farligt föremål i Katrineholm",
+          "title": "Kriminalvården om otillåtna relationer: ”Förekommer varje år”",
+          "link": "https://www.svt.se/nyheter/lokalt/orebro/kriminalvarden-om-otillatna-relationer-forekommer-varje-ar",
+          "published": "Fri, 19 Sep 2025 19:05:45 +0200",
+          "description": "På kort tid har två fall i Örebro län uppmärksammats där kriminalvårdare haft otillåtna förbindelser med intagna eller tidigare intagna. Nu kommenterar Kriminalvården problematiken som ibland leder till kärleksrelationer. – Det förekommer ett antal gånger per år, säger Robert Aldén, sektionschef för särskilda utredningar inom Kriminalvården."
+        },
+        {
+          "title": "Varg sköts ihjäl i Hässleholm – försökte attackera får",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/varg-skots-ihjal-i-hassleholm-forsokte-attackera-far",
+          "published": "Fri, 19 Sep 2025 18:26:19 +0200",
+          "description": "Skytten avlossade flera varningsskott, men var till sist tvungen att döda vargen, enligt länsstyrelsens utredning. Vargen skickas nu på DNA-analys."
+        },
+        {
+          "title": "Skarpt föremål i Katrineholm – bombskyddet inkallat",
           "link": "https://www.svt.se/nyheter/lokalt/sormland/larm-om-misstankt-farligt-foremal-i-katrineholm",
           "published": "Fri, 19 Sep 2025 18:19:32 +0200",
-          "description": "Polisen har larmats om ett misstänkt farligt föremål i centrala Katrineholm. Avspärrningar har upprättats och polisen är på plats och undersöker."
+          "description": "Polisen bedömer ett farligt föremål i centrala Katrineholm som skarpt. Avspärrningar har upprättats på platsen och Nationella bombskyddet är inkallat."
         },
         {
           "title": "Regeringen bommar klimatmålet – Tidöpartierna oense om åtgärderna",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/sodertalje/sleyman-fick-pris-som-arets-larare-i-sodertalje",
           "published": "Fri, 19 Sep 2025 17:43:10 +0200",
           "description": "Sleyman Esso på Wasaskolan prisas av kommunen för sina insatser inom matematiken. – Det känns helt fantastiskt, ingenting som jag hade väntat mig, säger han."
-        },
-        {
-          "title": "Klottrade på flera platser i Sverige – två åtalas i Östersund",
-          "link": "https://www.svt.se/nyheter/lokalt/jamtland/klottrade-pa-flera-platser-i-sverige-tva-atalas-i-ostersund",
-          "published": "Fri, 19 Sep 2025 17:00:09 +0200",
-          "description": "Två män i 25-årsåldern åtalas för skadegörelse i Östersund, Stockholm och Luleå. De två greps i Östersund i början av september då de var i färd med att klottra."
-        },
-        {
-          "title": "60 sekunder: Cyberangreppet och jätteläckan från Miljödata",
-          "link": "https://www.svt.se/nyheter/inrikes/60-sekunder-cyberangreppet-och-jattelackan-fran-miljodata",
-          "published": "Fri, 19 Sep 2025 16:53:26 +0200",
-          "description": "Över en miljon svenskars personuppgifter läckte efter ett cyberangrepp mot systemleverantören Miljödata. Jätteläckan har gjort att skyddade personuppgifter och annat känsligt material publicerats på darknet."
         }
       ]
     },
@@ -69,7 +69,7 @@
           "title": "Varg sköts ihjäl i Hässleholm – försökte attackera får",
           "link": "https://www.svt.se/nyheter/lokalt/skane/varg-skots-ihjal-i-hassleholm-forsokte-attackera-far",
           "published": "Fri, 19 Sep 2025 18:26:19 +0200",
-          "description": "Skytten avlossade flera varningsskott, men var till sist tvungen att döda vargen, enligt Länsstyrelsens utredning. Vargen skickas nu på DNA-analys."
+          "description": "Skytten avlossade flera varningsskott, men var till sist tvungen att döda vargen, enligt länsstyrelsens utredning. Vargen skickas nu på DNA-analys."
         },
         {
           "title": "Här vill de skapa gravplats för MFF-supportrar",
@@ -98,22 +98,22 @@
       },
       "items": [
         {
+          "title": "”Omöjliga” koden kan vara värd 500 miljoner",
+          "link": "https://www.aftonbladet.se/nyheter/a/bmE18A/omojliga-koden-gackar-experter-kan-peka-ut-skatt-vard-500-miljoner?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 17:05:38 GMT",
+          "description": "PLUS Mysteriet är 140 år gammalt och värt 500 miljoner kronor. Ingen har ännu lyckats knäcka koden."
+        },
+        {
+          "title": "Ryska offensiver tar nästan inga områden",
+          "link": "https://www.aftonbladet.se/nyheter/a/OownXk/ryska-offensiver-tar-nastan-inga-omraden?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 17:01:18 GMT",
+          "description": "Ryska påståenden om omfattande militära framgångar på ukrainskt territorium tillbakavisas av Ukraina."
+        },
+        {
           "title": "Värktablett kan halvera risk för canceråterfall",
           "link": "https://www.aftonbladet.se/nyheter/a/LMJ0qP/varktablett-kan-halvera-risk-for-canceraterfall?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 16:30:31 GMT",
           "description": "Daglig behandling med en låg dos av ett vanligt smärtstillande läkemedel minskade kraftigt risken för återfall i en viss…"
-        },
-        {
-          "title": "Misstänkt farligt föremål i Katrineholm",
-          "link": "https://www.aftonbladet.se/nyheter/a/eMA1ea/misstankt-farligt-foremal-i-katrineholm?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 16:08:43 GMT",
-          "description": "Polisen är på plats med flera enheter i centrala Katrineholm med anledning av ett misstänkt farligt föremål."
-        },
-        {
-          "title": "Stegrud efter kritiken: Jag framstår som helt galen",
-          "link": "https://www.aftonbladet.se/nyheter/a/jQo9jA/jessica-stegrud-talar-ut-efter-kritiken-framstar-som-galen?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 15:57:02 GMT",
-          "description": "Det har stormat kring riksdagsledamoten Jessica Stegrud (SD). Nu ger hon själv sin syn på kritiken mot henne."
         }
       ]
     },
@@ -123,6 +123,12 @@
         "amount": 3
       },
       "items": [
+        {
+          "title": "Experten om ryska kränkningen i Estland: ”Exceptionell”",
+          "link": "https://www.expressen.se/nyheter/varlden/experten-om-ryska-krankningen-i-estland-exceptionell/",
+          "published": "Fri, 19 Sep 2025 18:55:43 +0200",
+          "description": "Den ryska kränkningen av Estlands luftrum varade i tolv minuter.Exceptionellt länge, anser militärexperten Jörgen Elfving.– Det indikerar att det estniska luftförsvaret inte var helt på tå, säger han."
+        },
         {
           "title": "Kristerssons svar till Billström: Förstår inte",
           "link": "https://www.expressen.se/nyheter/politik/kristerssons-svar-till-billstrom-forstar-inte/",
@@ -134,12 +140,6 @@
           "link": "https://www.expressen.se/nyheter/varlden/ryska-stridsflygplan-krankte-estlands-luftrum/",
           "published": "Fri, 19 Sep 2025 17:14:52 +0200",
           "description": "Tre stridsflygplan kränkte på fredagen Estlands luftrum, rapporterar ERR.”Denna händelse liksom andra nyliga ryska kränkningar av Nato-länders luftrum illustrerar än en gång allvaret i det ryska hotet mot europeisk säkerhet”, kommenterar statsminister Ulf Kristersson."
-        },
-        {
-          "title": "Svenske Yahye, 25, dog i arbetsplatsolyckan i Norge",
-          "link": "https://www.expressen.se/nyheter/svenske-yahye-25-dog-i-arbetsplatsolyckan-i-norge/",
-          "published": "Fri, 19 Sep 2025 18:18:42 +0200",
-          "description": "Svenske Yahye Nuur Hussein, 25, omkom i en klämolycka på ett oljeraffinaderi i Norge i onsdags.– Vi sörjer djupt förlusten av vår älskade Yahye. Han var en omtänksam och godhjärtad person som alltid spred värme omkring sig, säger familjen i ett uttalande. "
         }
       ]
     }
