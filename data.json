@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T00:46:25.088080Z",
+  "lastUpdated": "2025-09-19T02:18:35.100417Z",
   "feeds": [
     {
       "url": "https://skaneskommuner.se/news/feed/atom/",
@@ -95,6 +95,16 @@
       "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
       "items": [
         {
+          "title": "Sju gripna efter mord i Melbourne",
+          "link": "https://www.aftonbladet.se/nyheter/a/Gypvyl/sju-gripna-efter-mord-i-melbourne?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 01:29:48 GMT"
+        },
+        {
+          "title": "Macron: Erkännande av Palestina isolerar Hamas",
+          "link": "https://www.aftonbladet.se/nyheter/a/Pp764R/macron-erkannande-av-palestina-isolerar-hamas?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 01:09:55 GMT"
+        },
+        {
           "title": "Våldtog dement kvinna – får sänkt straff",
           "link": "https://www.aftonbladet.se/nyheter/a/KMoEpo/valdtog-dement-kvinna-far-sankt-straff?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 00:40:40 GMT"
@@ -108,22 +118,17 @@
           "title": "Tusentals evakueras i Berlin – gammal bomb hittad",
           "link": "https://www.aftonbladet.se/nyheter/a/0V5ewE/gammal-bomb-hittad-i-berlin?utm_medium=rss",
           "published": "Thu, 18 Sep 2025 22:45:23 GMT"
-        },
-        {
-          "title": "Pojke död efter singelolycka",
-          "link": "https://www.aftonbladet.se/nyheter/a/Vz0yKp/pojke-dod-efter-singelolycka?utm_medium=rss",
-          "published": "Thu, 18 Sep 2025 22:15:17 GMT"
-        },
-        {
-          "title": "Putins plan för efterträdaren: ”Riskerar livet”",
-          "link": "https://www.aftonbladet.se/nyheter/a/Pp7Wz0/putins-plan-for-eftertradaren-riskerar-livet?utm_medium=rss",
-          "published": "Thu, 18 Sep 2025 21:54:52 GMT"
         }
       ]
     },
     {
       "url": "https://feeds.expressen.se/nyheter/",
       "items": [
+        {
+          "title": "Poliserna mördades i brutalt bakhåll av stalker",
+          "link": "https://www.expressen.se/nyheter/varlden/poliserna-mordades-i-brutalt-bakhall-av-stalker/",
+          "published": "Fri, 19 Sep 2025 03:10:29 +0200"
+        },
         {
           "title": "Rådet till Jimmy Kimmel: Stäm alla inblandade",
           "link": "https://www.expressen.se/nyheter/varlden/radet-till-jimmy-kimmel-stam-alla-inblandade/",
@@ -143,11 +148,6 @@
           "title": "Bank-id slutar att fungera – på vissa telefoner",
           "link": "https://www.expressen.se/nyheter/sverige/bank-id-slutar-att-fungera-pa-vissa-telefoner/",
           "published": "Thu, 18 Sep 2025 23:55:28 +0200"
-        },
-        {
-          "title": "Tusentals Berlinbor evakuerade",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=887860e6-17e1-4f46-978a-b348cb541348",
-          "published": "Fri, 19 Sep 2025 00:46:18 +0200"
         }
       ]
     }
