@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T21:08:47.392806Z",
+  "lastUpdated": "2025-09-19T21:32:16.726868Z",
   "feeds": [
     {
       "url": {
@@ -28,16 +28,16 @@
       },
       "items": [
         {
-          "title": "Skottlossning i Västerås",
+          "title": "Skottlossning på Apalby i Västerås",
           "link": "https://www.svt.se/nyheter/lokalt/vastmanland/grovt-valdsbrott-i-vasteras-4x3u8j",
           "published": "Fri, 19 Sep 2025 22:31:55 +0200",
-          "description": "En skottlossning har inträffat norr om Rocklunda i Västerås, enligt uppgifter till SVT. En person har förts till sjukhus med ambulans, enligt polisen."
+          "description": "En skottlossning har inträffat på Apalby i Västerås, enligt uppgifter till SVT. En person har förts till sjukhus med ambulans, enligt polisen."
         },
         {
-          "title": "Misstänkt hot på Gotlandsfärjan – personal förhörs",
+          "title": "Misstänkt hot på Gotlandsfärjan bedömdes oseriöst",
           "link": "https://www.svt.se/nyheter/lokalt/smaland/misstankt-hot-pa-gotlandsfarjan-personal-forhors",
           "published": "Fri, 19 Sep 2025 21:44:42 +0200",
-          "description": "Polisen i Oskarshamn är på plats på Gotlandsfärjan efter ett misstänkt hot. – Det finns inga resenärer ombord, säger Adam Jacobsson, sälj- och marknadsföringschef på Destination Gotland."
+          "description": "Polisen i Oskarshamn kallades till Gotlandsfärjan efter ett bombhot. Men hotet bedömdes som ”oseriöst”."
         },
         {
           "title": "Experten: Något helt annat än tidigare kränkningar",
@@ -98,10 +98,10 @@
       },
       "items": [
         {
-          "title": "Polisinsats i Västerås – en till sjukhus",
+          "title": "Larm om höga smällar i Västerås – en till sjukhus",
           "link": "https://www.aftonbladet.se/nyheter/a/8qem6G/polisinsats-i-vasteras-en-till-sjukhus?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 21:00:49 GMT",
-          "description": "Polisen har en stor insats i Västerås efter larm om höga smällar."
+          "description": "En person har förts till sjukhus med anledning av ett misstänkt grov våldsbrott i Västerås, uppger polisen."
         },
         {
           "title": "Efter A-traktorolyckan: ”Ledsna elever”",
@@ -124,6 +124,12 @@
       },
       "items": [
         {
+          "title": "Svenska miljonvinsten i Eurojackpot",
+          "link": "https://www.expressen.se/nyheter/sverige/svenska-miljonvinsten-i-eurojackpot/",
+          "published": "Fri, 19 Sep 2025 23:20:06 +0200",
+          "description": "Jackpotten låg på 1,3 miljarder kronor. Då fick en svensk spelare från Ronneby fem rätt. "
+        },
+        {
           "title": "Putin anklagas för  kärnkraftsterrorism",
           "link": "https://www.expressen.se/nyheter/varlden/putin-anklagas-for--karnkraftsterrorism/",
           "published": "Fri, 19 Sep 2025 23:01:48 +0200",
@@ -134,12 +140,6 @@
           "link": "https://www.expressen.se/nyheter/varlden/varnar-kan-bli-ny--europas-sjuke-man/",
           "published": "Fri, 19 Sep 2025 23:00:25 +0200",
           "description": "Frankrike ”riskerar att bli Europas nya sjuke man”, enligt BBC.Politiska kommentatorn Nicolas Baverez lägger ”hela ansvaret” för detta på president Emmanuel Macron.– Han har förvandlat vårt land till ett fält av ruiner, säger Baverez."
-        },
-        {
-          "title": "Influencern död – två dagar efter bröllopet",
-          "link": "https://www.expressen.se/nyheter/sverige/influencern-dod-tva-dagar-efter-brollopet/",
-          "published": "Fri, 19 Sep 2025 22:59:36 +0200",
-          "description": "Den bosniska influencern Adna Rovčanin-Omerbegović, 26, dog bara två dagar efter sitt bröllop.På bröllopsnatten insjuknade hon plötsligt och föll i koma, och trots vård på sjukhus gick hennes liv inte att rädda, rapporterar Mirror."
         }
       ]
     }
