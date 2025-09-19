@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T15:36:07.344680Z",
+  "lastUpdated": "2025-09-19T16:11:26.965259Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,18 @@
       },
       "items": [
         {
+          "title": "Regeringen bommar klimatmålet – Tidöpartierna oense om åtgärderna",
+          "link": "https://www.svt.se/nyheter/inrikes/regeringen-bommar-klimatmalet-tidopartierna-oense-om-atgarderna",
+          "published": "Fri, 19 Sep 2025 18:08:48 +0200",
+          "description": "Regeringens sista klimatbudget för den här mandatperioden kommer inte att räcka för att Sverige ska nå EU:s klimatmål till 2030. Enligt klimatministern har samarbetspartierna satt stopp för ytterligare åtgärder som skulle kunna minska gapet till målet. – De lösningar vi har lagt fram har inte accepterats av de andra partierna, säger Romina Pourmokhtari."
+        },
+        {
+          "title": "Därför fick Sleyman pris som Årets lärare i Södertälje",
+          "link": "https://www.svt.se/nyheter/lokalt/sodertalje/sleyman-fick-pris-som-arets-larare-i-sodertalje",
+          "published": "Fri, 19 Sep 2025 17:43:10 +0200",
+          "description": "Sleyman Esso på Wasaskolan prisas av kommunen för sina insatser inom matematiken. – Det känns helt fantastiskt, ingenting som jag hade väntat mig, säger han."
+        },
+        {
           "title": "Klottrade på flera platser i Sverige – två åtalas i Östersund",
           "link": "https://www.svt.se/nyheter/lokalt/jamtland/klottrade-pa-flera-platser-i-sverige-tva-atalas-i-ostersund",
           "published": "Fri, 19 Sep 2025 17:00:09 +0200",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/smaland/kommuner-laddade-upp-skyddade-personuppgifter-i-miljodata-trots-avradan",
           "published": "Fri, 19 Sep 2025 16:51:54 +0200",
           "description": "Flera kommuner i Sverige har bekräftat att skyddade personuppgifter läckt från deras system efter hackerattacken mot Miljödata. Men kommunerna har gjort fel när de lagrat de skyddade uppgifterna, det kunde P4 Kronoberg avslöja idag. – Man kan räkna med att deras vistelseort nu är röjd, säger Caroline från kvinnojouren Blenda i Växjö."
-        },
-        {
-          "title": "Beskedet: Ryska idrottare får tävla under neutral flagg",
-          "link": "https://www.svt.se/sport/vintersport/beskedet-ryska-idrottare-far-tavla-under-neutral-flagg",
-          "published": "Fri, 19 Sep 2025 16:39:03 +0200",
-          "description": "Ryska och belarusiska idrottare kommer att få tävla under neutral flagg vid vinter-OS i Milano/Cortina, meddelar Internationella olympiska kommittén (IOK). Beslutet innebär dock inte per automatik att det blir många ryska idrottare."
-        },
-        {
-          "title": "Brand på hotell i Göteborg – gäster fick utrymmas",
-          "link": "https://www.svt.se/nyheter/lokalt/vast/fullt-utvecklad-brand-pa-hotell-i-goteborg",
-          "published": "Fri, 19 Sep 2025 16:38:37 +0200",
-          "description": "På fredagseftermiddagen kom larm till polisen om en brand på ett hotell på Norra Kustbanegatan i stadsdelen Gårda i Göteborg. Räddningstjänsten var på plats och efter mindre än en timme rapporterade de att branden var under kontroll."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
+          "title": "Misstänkt farligt föremål i Katrineholm",
+          "link": "https://www.aftonbladet.se/nyheter/a/eMA1ea/misstankt-farligt-foremal-i-katrineholm?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 16:08:43 GMT",
+          "description": "Polisen är på plats med flera enheter i centrala Katrineholm med anledning av ett misstänkt farligt föremål, skriver…"
+        },
+        {
+          "title": "Stegrud efter kritiken: Jag framstår som helt galen",
+          "link": "https://www.aftonbladet.se/nyheter/a/jQo9jA/jessica-stegrud-talar-ut-efter-kritiken-framstar-som-galen?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 15:57:02 GMT",
+          "description": "Det har stormat kring riksdagsledamoten Jessica Stegrud (SD). Nu ger hon själv sin syn på kritiken mot henne."
+        },
+        {
           "title": "Efter skredet – Kommunen krävs på en halv miljard",
           "link": "https://www.aftonbladet.se/nyheter/a/zAvL84/efter-skredet-kommunen-kravs-pa-en-halv-miljard?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 15:19:12 GMT",
           "description": "Kostnaden för att bygga upp E6 i Stenungsund efter jordskredet för nästan två sedan väntas landa på 570 miljoner kronor…"
-        },
-        {
-          "title": "Tonåring häktas efter knivdåd på skola",
-          "link": "https://www.aftonbladet.se/nyheter/a/dR6dvo/tonaring-haktas-efter-knivdad-pa-skola?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 15:03:28 GMT",
-          "description": "En person under 18 år häktas misstänkt för mordförsök efter ett knivdåd på en gymnasieskola i Bengtsfors i…"
-        },
-        {
-          "title": "Fullt utvecklad brand på hotell i Göteborg",
-          "link": "https://www.aftonbladet.se/nyheter/a/gw5Pdk/brand-rasar-pa-hotell-i-goteborg?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 14:41:09 GMT",
-          "description": "En brand rasade under fredagseftermiddagen på ett hotell i stadsdelen Gårda i centrala Göteborg."
         }
       ]
     },
