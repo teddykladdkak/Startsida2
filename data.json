@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-18T23:32:19.279726Z",
+  "lastUpdated": "2025-09-19T00:46:25.088080Z",
   "feeds": [
     {
       "url": "https://skaneskommuner.se/news/feed/atom/",
@@ -95,6 +95,16 @@
       "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
       "items": [
         {
+          "title": "Våldtog dement kvinna – får sänkt straff",
+          "link": "https://www.aftonbladet.se/nyheter/a/KMoEpo/valdtog-dement-kvinna-far-sankt-straff?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 00:40:40 GMT"
+        },
+        {
+          "title": "Israel: Thunbergs konvoj är ett ”jihad-initiativ”",
+          "link": "https://www.aftonbladet.se/nyheter/a/73W9K4/israel-thunbergs-konvoj-ar-ett-jihad-initiativ?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 00:04:32 GMT"
+        },
+        {
           "title": "Tusentals evakueras i Berlin – gammal bomb hittad",
           "link": "https://www.aftonbladet.se/nyheter/a/0V5ewE/gammal-bomb-hittad-i-berlin?utm_medium=rss",
           "published": "Thu, 18 Sep 2025 22:45:23 GMT"
@@ -108,22 +118,17 @@
           "title": "Putins plan för efterträdaren: ”Riskerar livet”",
           "link": "https://www.aftonbladet.se/nyheter/a/Pp7Wz0/putins-plan-for-eftertradaren-riskerar-livet?utm_medium=rss",
           "published": "Thu, 18 Sep 2025 21:54:52 GMT"
-        },
-        {
-          "title": "Tecknen avslöjar − har följt Putins väg mot diktatur",
-          "link": "https://www.aftonbladet.se/nyheter/a/1M4E8X/donald-trump-foljer-i-vladimir-putins-spar-sa-liknar-usa-ryssland?utm_medium=rss",
-          "published": "Thu, 18 Sep 2025 20:12:36 GMT"
-        },
-        {
-          "title": "Trump fick byta helikopter – hydrauliskt fel",
-          "link": "https://www.aftonbladet.se/nyheter/a/dRyoeB/trump-fick-byta-helikopter-hydrauliskt-fel?utm_medium=rss",
-          "published": "Thu, 18 Sep 2025 20:08:50 GMT"
         }
       ]
     },
     {
       "url": "https://feeds.expressen.se/nyheter/",
       "items": [
+        {
+          "title": "Rådet till Jimmy Kimmel: Stäm alla inblandade",
+          "link": "https://www.expressen.se/nyheter/varlden/radet-till-jimmy-kimmel-stam-alla-inblandade/",
+          "published": "Fri, 19 Sep 2025 01:48:35 +0200"
+        },
         {
           "title": "Trumps hot: Dra in sändningslicensen om jag får kritik",
           "link": "https://www.expressen.se/nyheter/varlden/trumps-hot-dra-in-sandningslicensen-om-jag-far-kritik/",
@@ -143,11 +148,6 @@
           "title": "Tusentals Berlinbor evakuerade",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=887860e6-17e1-4f46-978a-b348cb541348",
           "published": "Fri, 19 Sep 2025 00:46:18 +0200"
-        },
-        {
-          "title": "Grekiska arvtagerskan död – efter insektsbett",
-          "link": "https://www.expressen.se/nyheter/varlden/grekiska-arvtagerskan-dod-efter-insektsbett/",
-          "published": "Thu, 18 Sep 2025 22:50:47 +0200"
         }
       ]
     }
