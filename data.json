@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T14:39:38.466382Z",
+  "lastUpdated": "2025-09-19T15:09:45.019923Z",
   "feeds": [
     {
       "url": {
@@ -28,34 +28,34 @@
       },
       "items": [
         {
+          "title": "Klottrade på flera platser i Sverige – två åtalas i Östersund",
+          "link": "https://www.svt.se/nyheter/lokalt/jamtland/klottrade-pa-flera-platser-i-sverige-tva-atalas-i-ostersund",
+          "published": "Fri, 19 Sep 2025 17:00:09 +0200",
+          "description": "Två män i 25-årsåldern åtalas för skadegörelse i Östersund, Stockholm och Luleå. De två greps i Östersund i början av september då de var i färd med att klottra."
+        },
+        {
+          "title": "60 sekunder: Cyberangreppet och jätteläckan från Miljödata",
+          "link": "https://www.svt.se/nyheter/inrikes/60-sekunder-cyberangreppet-och-jattelackan-fran-miljodata",
+          "published": "Fri, 19 Sep 2025 16:53:26 +0200",
+          "description": "Över en miljon svenskars personuppgifter läckte efter ett cyberangrepp mot systemleverantören Miljödata. Jätteläckan har gjort att skyddade personuppgifter och annat känsligt material publicerats på darknet."
+        },
+        {
+          "title": "Kommuner laddade upp skyddade personuppgifter i Miljödata – trots avrådan",
+          "link": "https://www.svt.se/nyheter/lokalt/smaland/kommuner-laddade-upp-skyddade-personuppgifter-i-miljodata-trots-avradan",
+          "published": "Fri, 19 Sep 2025 16:51:54 +0200",
+          "description": "Flera kommuner i Sverige har bekräftat att skyddade personuppgifter läckt från deras system efter hackerattacken mot Miljödata. Men kommunerna har gjort fel när de lagrat de skyddade uppgifterna, det kunde P4 Kronoberg avslöja idag. – Man kan räkna med att deras vistelseort nu är röjd, säger Caroline från kvinnojouren Blenda i Växjö."
+        },
+        {
           "title": "Beskedet: Ryska idrottare får tävla under neutral flagg",
           "link": "https://www.svt.se/sport/vintersport/beskedet-ryska-idrottare-far-tavla-under-neutral-flagg",
           "published": "Fri, 19 Sep 2025 16:39:03 +0200",
-          "description": "Ryska idrottare kommer att få tävla under neutral flagg vid vinter-OS i Milano/Cortina, meddelar Internationella olympiska kommittén (IOK). Beslutet innebär dock inte per automatik att det blir många ryska idrottare."
+          "description": "Ryska och belarusiska idrottare kommer att få tävla under neutral flagg vid vinter-OS i Milano/Cortina, meddelar Internationella olympiska kommittén (IOK). Beslutet innebär dock inte per automatik att det blir många ryska idrottare."
         },
         {
           "title": "Fullt utvecklad brand på hotell i Göteborg",
           "link": "https://www.svt.se/nyheter/lokalt/vast/fullt-utvecklad-brand-pa-hotell-i-goteborg",
           "published": "Fri, 19 Sep 2025 16:38:37 +0200",
-          "description": "Det brinner på ett hotell på Norra Kustbanegatan i stadsdelen Gårda i Göteborg. Räddningstjänst bekräftar för SVT att de är på platsen."
-        },
-        {
-          "title": "Rånade kiosk – kan sen ha orsakat storbranden i Boden",
-          "link": "https://www.svt.se/nyheter/lokalt/norrbotten/ranade-kiosk-kan-sen-ha-orsakat-storbranden-i-boden",
-          "published": "Fri, 19 Sep 2025 16:32:06 +0200",
-          "description": "Det var i mitten av juli som en man i 30-årsåldern rånade en kiosk i Boden. Han kom åt drygt 4 500 kronor i kontanter. Under samma kväll brann ett hyreshus ned i Boden. Den misstänks nu samma man ha orsakat."
-        },
-        {
-          "title": "Efter avslöjandet: Kyrkofullmäktiges ordförande avgår",
-          "link": "https://www.svt.se/nyheter/granskning/ug/efter-avslojandet-kyrkofullmaktiges-ordforande-avgar",
-          "published": "Fri, 19 Sep 2025 16:15:17 +0200",
-          "description": "Uppdrag granskning kunde i veckan avslöja hur kyrkopolitiker i S:t Johannes församling i Stockholm gjort fastighetsaffärer som både gynnat dem själva och urholkat församlingens ekonomi. Till slut såldes den katedralsliknande kyrkan – för bara fem miljoner kronor. Nu avgår kyrkofullmäktiges ordförande Hans von Schreeb."
-        },
-        {
-          "title": "Trendspanaren: Det här kan hända i Stockholms krogliv utan matkrav",
-          "link": "https://www.svt.se/nyheter/lokalt/stockholm/trendspanaren-det-har-kan-handa-i-stockholms-krogliv-utan-matkrav",
-          "published": "Fri, 19 Sep 2025 16:14:57 +0200",
-          "description": "Förslaget att slopa matkravet för alkoholtillstånd kan komma att förändra Stockholms krogliv. Matinfluencern Jenny Frennberg ser positivt på förslaget. – Inget tjafs, inget krångel, säger hon."
+          "description": "Det brinner på ett hotell på Norra Kustbanegatan i stadsdelen Gårda i Göteborg. Räddningstjänsten bekräftar för SVT att de är på plats, men kan ännu inte uttala sig om omfattningen."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
+          "title": "Tonåring häktas efter knivdåd på skola",
+          "link": "https://www.aftonbladet.se/nyheter/a/dR6dvo/tonaring-haktas-efter-knivdad-pa-skola?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 15:03:28 GMT",
+          "description": "En person under 18 år häktas misstänkt för mordförsök efter ett knivdåd på en gymnasieskola i Bengtsfors i…"
+        },
+        {
+          "title": "Fullt utvecklad brand på hotell i Göteborg",
+          "link": "https://www.aftonbladet.se/nyheter/a/gw5Pdk/brand-rasar-pa-hotell-i-goteborg?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 14:41:09 GMT",
+          "description": "En brand rasade under fredagseftermiddagen på ett hotell i stadsdelen Gårda i centrala Göteborg."
+        },
+        {
           "title": "Sanktioner återinförs mot Iran kring kärnenergi",
           "link": "https://www.aftonbladet.se/nyheter/a/XjPwMW/sanktioner-aterinfors-mot-iran-kring-karnenergi?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 14:33:50 GMT",
           "description": "FN:s säkerhetsråd har röstat för att återinföra sanktioner mot Iran, för dess brist på samarbete i frågor som rör…"
-        },
-        {
-          "title": "Familjens sorg: Yahye, 25, dog på jobbet",
-          "link": "https://www.aftonbladet.se/nyheter/a/EyOow5/familjen-sorjer-yahye-nuur-hussein-som-dog-pa-jobbet-i-norge?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 14:28:20 GMT",
-          "description": "Svenska Yahye Nuur Hussein, 25, dog på det norska oljeraffinaderiet. Nu sörjer familjen sin son."
-        },
-        {
-          "title": "Ryskt militärflyg uppges kränka estniskt luftrum",
-          "link": "https://www.aftonbladet.se/nyheter/a/5E9VBb/ryskt-militarflyg-uppges-kranka-estniskt-luftrum?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 14:12:53 GMT",
-          "description": "Militärflyg från Ryssland uppges ha kränkt Estlands luftrum under fredagen."
         }
       ]
     },
@@ -123,6 +123,12 @@
         "amount": 3
       },
       "items": [
+        {
+          "title": "Brand på hotell i Göteborg",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=5ef2e9b2-7b04-400b-8a19-81f2f5e97ed2",
+          "published": "Fri, 19 Sep 2025 16:45:05 +0200",
+          "description": "Larm i Göteborg • Fullt utvecklad"
+        },
         {
           "title": "Uppgifter: Ryska militärplan kränkte Estlands luftrum",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0bf1b7ba-6355-4d29-a4b4-1a6a68c6c045",
@@ -134,12 +140,6 @@
           "link": "https://www.expressen.se/nyheter/politik/s-toppen-rasar-efter-kristerssons-kritik-om-energin/",
           "published": "Fri, 19 Sep 2025 15:50:40 +0200",
           "description": "Statsministern lägger skulden på Socialdemokraterna för de kraschade energiförhandlingarna.Det gör Fredrik Olovsson (S) fly förbannad.– Han har inte fått göra det här för Sverigedemokraterna, så nu försöker han flytta kritiken till oss, säger han.Även Magdalena Andersson rasar mot statsministern."
-        },
-        {
-          "title": "Ingen förundersökning mot M-toppen Mattias Karlsson",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=280303b9-29e9-45a5-9699-e0d3ce41e222",
-          "published": "Fri, 19 Sep 2025 15:37:43 +0200",
-          "description": "Kallade demonstranter för ”odjur”"
         }
       ]
     }
