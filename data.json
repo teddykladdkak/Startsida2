@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T19:07:48.931685Z",
+  "lastUpdated": "2025-09-19T19:32:13.836706Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,18 @@
       },
       "items": [
         {
+          "title": "Vilda teorier kring Charlie Kirks mördare – åklagare söker svar i Tyler Robinsons sms",
+          "link": "https://www.svt.se/nyheter/utrikes/vilda-teorier-kring-charlie-kirks-mordare-aklagare-soker-svar-i-tyler-robinsons-sms",
+          "published": "Fri, 19 Sep 2025 21:08:49 +0200",
+          "description": "Mer än en vecka efter mordet på Charlie Kirk har amerikanska myndigheter fortfarande inte kunnat presentera något tydligt motiv. Osäkerheten kring vad som drev den misstänkta skytten har lett till bråk på högsta politiska nivå – och i sociala medier flödar teorierna fritt."
+        },
+        {
+          "title": "Målvakten Cajsa Andersson poängräddare för Linköping mot Piteå – nickade in kvitteringen",
+          "link": "https://www.svt.se/sport/fotboll/malvakten-poangraddare-for-linkoping-nickade-in-kvitteringen",
+          "published": "Fri, 19 Sep 2025 21:08:03 +0200",
+          "description": "Linköping var på väg mot förlust – då klev målvakten Cajsa Andersson fram. 32-åringen satte 2–2 mot Piteå i matchens sista sekund. – Jag är väl nöjd, första målet någonsin, säger Andersson i Viaplay."
+        },
+        {
           "title": "”Sverige blir slagträ i Orbáns kamp om makten”",
           "link": "https://www.svt.se/nyheter/utrikes/sverige-blir-slagtra-i-orbans-kamp-om-makten",
           "published": "Fri, 19 Sep 2025 20:28:19 +0200",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/ost/hur-ar-tryggheten-i-norrkoping-7000-svarade-och-nu-har-man-ett-resultat",
           "published": "Fri, 19 Sep 2025 19:28:07 +0200",
           "description": "Norrköpings kommun har kollat hur trygga invånarna känner sig i olika områden. På fredagen berättade kommunen för första gången om resultatet."
-        },
-        {
-          "title": "Kriminalvården om otillåtna relationer: ”Förekommer varje år”",
-          "link": "https://www.svt.se/nyheter/lokalt/orebro/kriminalvarden-om-otillatna-relationer-forekommer-varje-ar",
-          "published": "Fri, 19 Sep 2025 19:05:45 +0200",
-          "description": "På kort tid har två fall i Örebro län uppmärksammats där kriminalvårdare haft otillåtna förbindelser med intagna eller tidigare intagna. Nu kommenterar Kriminalvården problematiken som ibland leder till kärleksrelationer. – Det förekommer ett antal gånger per år, säger Robert Aldén, sektionschef för särskilda utredningar inom Kriminalvården."
-        },
-        {
-          "title": "Varg sköts ihjäl i Hässleholm – försökte attackera får",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/varg-skots-ihjal-i-hassleholm-forsokte-attackera-far",
-          "published": "Fri, 19 Sep 2025 18:26:19 +0200",
-          "description": "Skytten avlossade flera varningsskott, men var till sist tvungen att döda vargen, enligt länsstyrelsens utredning. Vargen skickas nu på DNA-analys."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "MC-förare till sjukhus",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9845c37d-2545-4311-acfa-1c6881ada12a",
-          "published": "Fri, 19 Sep 2025 20:44:01 +0200",
-          "description": "Olycka på E45"
+          "title": "Orden om nedskjutning av ryska plan: Att tänka på",
+          "link": "https://www.expressen.se/nyheter/varlden/orden-om-nedskjutning-av-ryska-plan-att-tanka-pa/",
+          "published": "Fri, 19 Sep 2025 21:26:22 +0200",
+          "description": "Rysslands kränkning av Estlands luftrum väcker starka reaktioner bland Natos medlemsländer.”PS: Turkiet satte ett exempel för 10 år sedan. Något att tänka på”, skriver Litauens försvarsminister Dovilė Šakalienė på X och anspelar på den turkiska nedskjutningen av ett ryskt stridsflygplan 2015."
         },
         {
-          "title": "Auri, 32, öppnar kylskåp för första  gången på tre år – äckliga synen",
-          "link": "https://www.expressen.se/nyheter/varlden/auri-32-oppnar-kylskap-for-forsta--gangen-pa-tre-ar--ackliga-synen/",
-          "published": "Fri, 19 Sep 2025 20:30:00 +0200",
-          "description": "Synen som mötte 32-åriga Auri är inget för svagmagade.Själv verkar hon nästan njuta av vad hon hittar i kylskåpet – som öppnades för första gången på tre år.– Ju smutsigare, desto bättre, säger hon."
+          "title": "Musks ord om Sverige",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=89ef48e7-9eff-4e42-82cc-a96d58afd33e",
+          "published": "Fri, 19 Sep 2025 21:18:21 +0200",
+          "description": "Världens rikaste lägger sig i ordkriget"
         },
         {
-          "title": "Experten om ryska kränkningen i Estland: ”Exceptionell”",
-          "link": "https://www.expressen.se/nyheter/varlden/experten-om-ryska-krankningen-i-estland-exceptionell/",
-          "published": "Fri, 19 Sep 2025 18:55:43 +0200",
-          "description": "Den ryska kränkningen av Estlands luftrum varade i tolv minuter.Exceptionellt länge, anser militärexperten Jörgen Elfving.– Det indikerar att det estniska luftförsvaret inte var helt på tå, säger han."
+          "title": "Kyrkopolitiker avgår efter avslöjandet i ”Uppdrag granskning”",
+          "link": "https://www.expressen.se/nyheter/sverige/kyrkopolitiker-avgar-efter-avslojandet-i-uppdrag-granskning/",
+          "published": "Fri, 19 Sep 2025 21:09:18 +0200",
+          "description": "Hans von Schreeb avgår som kyrkofullmäktiges ordförande efter ett reportage i ”Uppdrag granskning” om kyrkopolitikernas fastighetsaffärer i S:t Johannes församling i Stockholm.Han tycker att biskop Andreas Holmberg kastar honom under bussen i programmet.– Jag kan inte arbeta med honom, säger von Schreeb.Biskopen ger dock svar på tal.– Det är bra att han kliver åt sidan, säger Holmberg."
         }
       ]
     }
