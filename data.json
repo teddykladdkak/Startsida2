@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T11:08:20.789104Z",
+  "lastUpdated": "2025-09-19T11:32:04.926356Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "Åtalet mot Lyxbedragaren: Tjänade 32 miljoner på bostadsbluffen",
+          "link": "https://www.svt.se/nyheter/lokalt/blekinge/atalet-mot-lyxbedragaren-tjanade-32-miljoner-pa-bostadsbluffen",
+          "published": "Fri, 19 Sep 2025 13:00:38 +0200",
+          "description": "Den sedan tidigare fängelsedömde Lyxbedragaren från Blekinge och hans sju kumpaner åtalas för att ha lurat 43 köpare att investera i påhittade affärsprojekt i Spanien. Totalt tros ligan ha tjänat 32 miljoner kronor. Samtidigt har polisen beslagtagit klockor, smycken, väskor, bilar och kontanter för stora belopp, visar åtalet."
+        },
+        {
           "title": "SD slår ifrån sig om samtalskollaps: ”Oppositionen är långt ifrån enig”",
           "link": "https://www.svt.se/nyheter/inrikes/sd-slar-ifran-sig-om-samtalskollaps-oppositionen-ar-langt-ifran-enig",
           "published": "Fri, 19 Sep 2025 12:00:38 +0200",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/kultur/sa-stottar-talkshow-vardarna-jimmy-kimmel",
           "published": "Fri, 19 Sep 2025 10:30:02 +0200",
           "description": "Stephen Colbert och Seth Meyers uttryckte båda sitt stöd för Jimmy Kimmel i sina program på torsdagskvällen. Även veteraner som David Letterman och Jay Leno har ryckt ut till Kimmels försvar."
-        },
-        {
-          "title": "Stort räddningspådrag efter bilvolt på E10 utanför Kiruna",
-          "link": "https://www.svt.se/nyheter/lokalt/norrbotten/bilvolt-pa-e10-utanfor-kiruna-stort-raddningspadrag",
-          "published": "Fri, 19 Sep 2025 10:29:19 +0200",
-          "description": "Under fredagsförmiddagen körde en förare av vägen och voltade med sin personbil strax norr om Kiruna. Flera styrkor från räddningstjänsten samt ambulans och polis ryckte ut till olycksplatsen."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
+          "title": "Tusentals blir utan Bank-id nästa år",
+          "link": "https://www.aftonbladet.se/nyheter/a/KMdBRX/tusentals-blir-utan-bank-id-nasta-ar?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 11:28:15 GMT",
+          "description": "“Ett antal tusen” personer som har gamla telefoner blir utan Bank-id i mars nästa år."
+        },
+        {
+          "title": "Knarkkartellernas nya trick: Använder hemlig knapp",
+          "link": "https://www.aftonbladet.se/nyheter/a/dRy98q/knarkkartellernas-nya-trick-anvander-hemlig-knapp?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 11:20:45 GMT",
+          "description": "PLUS Det gömda knarket flödar mot Sverige – Tullverket för en ojämn kamp mot kartellerna. Här är de nya smuggeltrenderna."
+        },
+        {
           "title": "Klippte hål i underbyxor – skyller på nissebus",
           "link": "https://www.aftonbladet.se/nyheter/a/bmRMdB/klippte-hal-i-underbyxor-skyller-pa-nissebus?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 11:04:42 GMT",
           "description": "Kvinnan klippte hål i den sovande flickans trosor så att att delar av rumpan syntes, fotograferade och lade upp bilden…"
-        },
-        {
-          "title": "S: Ryska gps-störningar är statsterrorism",
-          "link": "https://www.aftonbladet.se/nyheter/a/EyO4E5/s-ryska-gps-storningar-ar-statsterrorism?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 11:04:16 GMT",
-          "description": "Ryska gps-störningar mot svenskt flyg och sjöfart destabiliserar landet och riskerar att orsaka allvarliga olyckor…"
-        },
-        {
-          "title": "Stegrud: Jag framstår ju som helt galen",
-          "link": "https://www.aftonbladet.se/nyheter/a/jQo9Xn/stegrud-jag-framstar-ju-som-helt-galen?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 11:00:33 GMT",
-          "description": "Sverigedemokraternas Jessica Stegrud talar för första gången om de senaste veckornas kontroverser."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
+          "title": "Bohlin om svenska krigsplanen: Verkligen allvar",
+          "link": "https://www.expressen.se/nyheter/sverige/bohlin-om-svenska-krigsplanen-verkligen-allvar/",
+          "published": "Fri, 19 Sep 2025 13:29:05 +0200",
+          "description": "Sverige skulle kunna dras in i en konflikt. MSB och Försvarsmakten har skissat fram sju scenarier för hur det kan gå till. – Det är nödvändigt för att få alla att verkligen förstå att det verkligen är allvar, säger civilförsvarsminister Carl-Oskar Bohlin (M). "
+        },
+        {
+          "title": "S: Ryska GPS-störningar bör betraktas som terrorism",
+          "link": "https://www.expressen.se/nyheter/s-ryska-gps-storningar-bor-betraktas-som-terrorism/",
+          "published": "Fri, 19 Sep 2025 13:23:54 +0200",
+          "description": "GPS-störningar från Ryssland bör betraktas som en terrorhandling. Det säger Socialdemokraternas försvarspolitiske talesperson Peter Hultqvist på en presskonferens."
+        },
+        {
           "title": "Stegrud om kritiken: ”Framstår som helt galen”",
           "link": "https://www.expressen.se/nyheter/politik/stegrud-om-kritiken-framstar-som-helt-galen/",
           "published": "Fri, 19 Sep 2025 13:04:50 +0200",
           "description": "SD-toppen Jessica Stegrud har fortfarande partiledningens fulla förtroende.Det säger hon i Kvartals fredagsintervju. – Det är klart att jag ju framstår som helt galen."
-        },
-        {
-          "title": "Vattnet stiger – allmänheten i Lindesberg varnas",
-          "link": "https://www.expressen.se/nyheter/sverige/vattnet-stiger-allmanheten-i-lindesberg-varnas/",
-          "published": "Fri, 19 Sep 2025 12:57:40 +0200",
-          "description": "Det har regnat rejält i Bergslagen.Nu är det så höga flöden att Linde Energi varnar invånarna i Lindesberg.”Ta det försiktigt i närheten av sjöar och vattendrag”, skriver elbolaget i ett pressmeddelande. "
-        },
-        {
-          "title": "Ebba Buschs medarbetare om SD: ”Grunden till allt dåligt”",
-          "link": "https://www.expressen.se/nyheter/sverige/busch-medarbetare-kallade-sd-grunden-for-allt-daligt/",
-          "published": "Fri, 19 Sep 2025 12:03:31 +0200",
-          "description": "Ebba Buschs medarbetare kallar SD ”grunden till allt dåligt i svensk politik”, i en story på Instagram. SD-toppen Tobias Andersson ser det som en överträdelse av Tidöpartiernas respektklausul.– Jag har lyft det med vår samordning för hantering, säger han.KD-ledaren säger att hon inte sett inlägget – men nu pudlar partiet."
         }
       ]
     },
