@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T03:44:53.169443Z",
+  "lastUpdated": "2025-09-19T04:12:05.907808Z",
   "feeds": [
     {
       "url": "https://skaneskommuner.se/news/feed/atom/",
@@ -35,6 +35,11 @@
       "url": "http://svt.se/nyheter/rss.xml",
       "items": [
         {
+          "title": "SVT:s granskning – riktad sänkning av matmoms kan spara 21 miljarder",
+          "link": "https://www.svt.se/nyheter/ekonomi/svts-granskning-riktad-sankning-av-matmoms-kan-spara-21-miljarder",
+          "published": "Fri, 19 Sep 2025 05:57:40 +0200"
+        },
+        {
           "title": "Lyxbedragarens offer om dagens åtal: ”Varit ett rent helvete”",
           "link": "https://www.svt.se/nyheter/lokalt/blekinge/lyxbedragarens-offer-om-dagens-atal-varit-ett-rent-helvete",
           "published": "Fri, 19 Sep 2025 05:30:09 +0200"
@@ -53,11 +58,6 @@
           "title": "Så skulle ett internationellt ingripande i Gaza kunna se ut",
           "link": "https://www.svt.se/nyheter/utrikes/sa-skulle-ett-internationellt-ingripande-i-gaza-kunna-se-ut",
           "published": "Thu, 18 Sep 2025 21:03:02 +0200"
-        },
-        {
-          "title": "Utredning: Vill se slopat matkrav för alkoholtillstånd",
-          "link": "https://www.svt.se/nyheter/lokalt/stockholm/utredning-vill-se-slopat-matkrav-for-alkoholtillstand",
-          "published": "Thu, 18 Sep 2025 19:26:59 +0200"
         }
       ]
     },
@@ -95,6 +95,11 @@
       "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
       "items": [
         {
+          "title": "Efter Kirkmordet: Våg av avskedanden i USA",
+          "link": "https://www.aftonbladet.se/nyheter/a/vgaEnm/efter-kirkmordet-vag-av-avskedanden-i-usa?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 04:00:50 GMT"
+        },
+        {
           "title": "Regeringen missar alla klimatmål – sämre än väntat",
           "link": "https://www.aftonbladet.se/nyheter/a/mPA75O/regeringen-missar-alla-klimatmal-samre-an-vantat?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 03:30:54 GMT"
@@ -113,17 +118,17 @@
           "title": "Spanien: Gripen kopplad till mordplaner i Sverige",
           "link": "https://www.aftonbladet.se/nyheter/a/93Pgkw/man-kopplad-till-mordplaner-gripen?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 02:37:54 GMT"
-        },
-        {
-          "title": "Sju gripna efter mord i Melbourne",
-          "link": "https://www.aftonbladet.se/nyheter/a/Gypvyl/sju-gripna-efter-mord-i-melbourne?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 01:29:48 GMT"
         }
       ]
     },
     {
       "url": "https://feeds.expressen.se/nyheter/",
       "items": [
+        {
+          "title": "Regeringen missar klimatmålen",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1689c689-6cce-4fb8-90c8-273363c44813",
+          "published": "Fri, 19 Sep 2025 05:50:11 +0200"
+        },
         {
           "title": "Trumps attack på Londons borgmästare",
           "link": "https://www.expressen.se/tv/nyheter/varlden/donald-trumps-attack-gjort-ett-hemskt-jobb",
@@ -143,11 +148,6 @@
           "title": "Kollegornas stöd till Jimmy Kimmel: I en diktatur drabbas alla",
           "link": "https://www.expressen.se/noje/kollegornas-stod-till-jimmy-kimmel-i-en-diktatur-drabbas-alla/",
           "published": "Fri, 19 Sep 2025 04:36:54 +0200"
-        },
-        {
-          "title": "Poliserna mördades i brutalt bakhåll av stalker",
-          "link": "https://www.expressen.se/nyheter/varlden/poliserna-mordades-i-brutalt-bakhall-av-stalker/",
-          "published": "Fri, 19 Sep 2025 03:10:29 +0200"
         }
       ]
     }
