@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T05:36:57.401708Z",
+  "lastUpdated": "2025-09-19T06:15:10.015233Z",
   "feeds": [
     {
       "url": "https://skaneskommuner.se/news/feed/atom/",
@@ -95,6 +95,11 @@
       "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
       "items": [
         {
+          "title": "Tullen: Stoppat Labubu-kopior för över 1,4 miljoner",
+          "link": "https://www.aftonbladet.se/nyheter/a/MnO4kR/tullen-stoppat-labubu-kopior-for-over-1-4-miljoner?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 06:09:36 GMT"
+        },
+        {
           "title": "Alternativt Nobelpris till slät pastasås",
           "link": "https://www.aftonbladet.se/nyheter/a/xmaxwn/alternativt-nobelpris-till-slat-pastasas?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 05:05:11 GMT"
@@ -113,11 +118,6 @@
           "title": "Professor: ”Fokuseringen på ordet folkmord är olycklig”",
           "link": "https://www.aftonbladet.se/nyheter/a/Vz0KX1/professor-mark-klamberg-folkmord-i-gaza-men-olyckligt-fokus-pa-ordet?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 04:17:42 GMT"
-        },
-        {
-          "title": "Efter Kirkmordet: Våg av avskedanden i USA",
-          "link": "https://www.aftonbladet.se/nyheter/a/vgaEnm/efter-kirkmordet-vag-av-avskedanden-i-usa?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 04:00:50 GMT"
         }
       ]
     },
@@ -125,7 +125,17 @@
       "url": "https://feeds.expressen.se/nyheter/",
       "items": [
         {
-          "title": "Rysk tsunamivarning",
+          "title": "Zelenskyj: Tagit 160 kvadratkilometer i Donetsk",
+          "link": "https://www.expressen.se/nyheter/varlden/zelenskyj-tagit-160-kvadratkilometer-i-donetsk/",
+          "published": "Fri, 19 Sep 2025 07:59:29 +0200"
+        },
+        {
+          "title": "Vänder ryggen till efter hotfulla orden",
+          "link": "https://www.expressen.se/tv/nyheter/varlden/trumps-hot-mot-journalisterna-ha-en-saker-flygresa",
+          "published": "Fri, 19 Sep 2025 07:46:12 +0200"
+        },
+        {
+          "title": "Tsunamivarning i Ryssland",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c8da21fd-291d-4b8f-beca-fc541144e28b",
           "published": "Fri, 19 Sep 2025 07:25:14 +0200"
         },
@@ -138,16 +148,6 @@
           "title": "Hamas nya beslut om gisslan",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=bced4087-2b25-47fa-87bd-15d518cc2e82",
           "published": "Fri, 19 Sep 2025 07:00:48 +0200"
-        },
-        {
-          "title": "Missar klimatmålen",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1689c689-6cce-4fb8-90c8-273363c44813",
-          "published": "Fri, 19 Sep 2025 06:16:04 +0200"
-        },
-        {
-          "title": "Trumps attack på Londons borgmästare",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/donald-trumps-attack-gjort-ett-hemskt-jobb",
-          "published": "Fri, 19 Sep 2025 07:02:24 +0200"
         }
       ]
     }
