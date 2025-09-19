@@ -14,7 +14,7 @@ feeds = [
     {"link": "http://svt.se/nyheter/rss.xml", "amount": 5},
     {"link": "http://svt.se/nyheter/regionalt/sydnytt/rss.xml", "amount": 4},
     {"link": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/", "amount": 3},
-    {"link": "https://feeds.expressen.se/nyheter/", "amount": 3}
+    {"link": "https://feeds.expressen.se/nyheter/", "amount": 3},
     {"link": "https://www.imdb.com/calendar/?ref_=nv_mv_cal", "amount": 5}
 ]
 
@@ -41,6 +41,7 @@ for url in feeds:
 # Spara till JSON
 with open("data.json", "w", encoding="utf-8") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
+
 
 
 
