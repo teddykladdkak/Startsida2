@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-20T04:38:30.780758Z",
+  "lastUpdated": "2025-09-20T05:09:10.264213Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "Kedjehus i Ale började brinna",
+          "link": "https://www.svt.se/nyheter/lokalt/vast/kedjehus-i-ale-borjade-brinna",
+          "published": "Sat, 20 Sep 2025 07:06:42 +0200",
+          "description": "Det började under natten brinna i tre bostäder i en kedjehuslänga i Nol."
+        },
+        {
           "title": "Stor brand på Hells Angels gård utanför Göteborg",
           "link": "https://www.svt.se/nyheter/lokalt/vast/stor-brand-pa-hells-angels-gard-utanfor-goteborg",
           "published": "Sat, 20 Sep 2025 06:22:52 +0200",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/vill-korta-kotiderna-till-operationer-pa-nus-med-hjalp-av-ai",
           "published": "Sat, 20 Sep 2025 05:30:00 +0200",
           "description": "Forskare vill se om det går att korta köerna till operationer på Norrlands universitetssjukhus – med hjälp av AI. Tanken är att AI ska hjälpa till med att planera när operationer ska göras. – I den bästa av världar kan man öka produktionen, alltså hjälpa fler patienter, säger doktorand Sara Lundsten."
-        },
-        {
-          "title": "Man svårt skottskadad i Västerås",
-          "link": "https://www.svt.se/nyheter/lokalt/vastmanland/grovt-valdsbrott-i-vasteras-4x3u8j",
-          "published": "Fri, 19 Sep 2025 22:31:55 +0200",
-          "description": "På fredagen skadades en man i 30-årsåldern allvarligt efter en skottlossning på Apalby i Västerås."
         }
       ]
     },
@@ -98,6 +98,12 @@
       },
       "items": [
         {
+          "title": "Brand i lokal för motorcykelklubb i Göteborg",
+          "link": "https://www.aftonbladet.se/nyheter/a/W0nb2k/brand-i-lokal-for-motorcykelklubb-i-goteborg?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 04:52:01 GMT",
+          "description": "Det brinner kraftigt i en fastighet i Göteborg som disponeras av en motorcykelklubb, skriver polisen på sin sajt."
+        },
+        {
           "title": "Nya cyberchefen om jätteläckan: Inte förvånad",
           "link": "https://www.aftonbladet.se/nyheter/a/RzvRnO/nya-cyberchefen-om-jattelackan-inte-forvanad?utm_medium=rss",
           "published": "Sat, 20 Sep 2025 04:15:29 GMT",
@@ -108,12 +114,6 @@
           "link": "https://www.aftonbladet.se/nyheter/a/dRyaXO/richard-reeves-forsvarar-manosfaren-ratt-att-vara-arga?utm_medium=rss",
           "published": "Sat, 20 Sep 2025 04:15:18 GMT",
           "description": "Unga män väljer inte Donald Trump och Andrew Tate för att de hatar kvinnor."
-        },
-        {
-          "title": "Gick i sömnen – slipper betala för vattenskada",
-          "link": "https://www.aftonbladet.se/nyheter/a/VzWbk4/gick-i-somnen-slipper-betala-for-vattenskada?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 03:16:49 GMT",
-          "description": "En kvinna täppte till golvbrunnen i duschen med kroppen och satte på vattnet."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Brand i Hells Angels klubblokal",
-          "link": "https://www.expressen.se/nyheter/sverige/brand-i-hells-angels-klubblokal-ahaab/",
-          "published": "Sat, 20 Sep 2025 06:18:39 +0200",
-          "description": "En brand bröt ut i Hells Angels klubblokal i Gunnilse i Göteborg natten mot lördag.– Det ser ut som att hela byggnaden kommer brinna ner, säger L-O Nordström vid räddningstjänsten. "
+          "title": "Pojke rånad av män på elspark",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=191da3e0-9113-46c1-8a13-36823bb9166f",
+          "published": "Sat, 20 Sep 2025 07:02:01 +0200",
+          "description": "Pojke blev av med personliga tillhörigheter"
         },
         {
-          "title": "Explosioner i Ryssland",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/explosioner-pa-oljeanlaggning-",
-          "published": "Sat, 20 Sep 2025 05:55:02 +0200",
-          "description": "Flygplats stängde • Se attacken 60 mil från gränsen"
+          "title": "Trumps krigsplan: Förhandla med talibanerna",
+          "link": "https://www.expressen.se/tv/nyheter/varlden/trumps-plan-forhandla-med-talibanerna",
+          "published": "Sat, 20 Sep 2025 06:57:07 +0200",
+          "description": "Trumps krigsdrag • Vill ha tillbaka omtalade basen"
         },
         {
-          "title": "Brand i kedjehus i Ale",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=fc310835-7b8c-4b0b-84bd-e24c4f72632f",
-          "published": "Sat, 20 Sep 2025 05:49:56 +0200",
-          "description": "Större insats i Ale"
+          "title": "Trump efter kränkningen i Estland: Stora problem",
+          "link": "https://www.expressen.se/nyheter/varlden/trump-efter-krankningen-i-estland-stora-problem/",
+          "published": "Sat, 20 Sep 2025 06:49:48 +0200",
+          "description": "”Stora problem”.Det kan bli konsekvensen efter att ryska stridsplan kränkt Estlands luftrum i tolv minuter, enligt Donald Trump.– Jag gillar det inte, säger han. "
         }
       ]
     }
