@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-20T07:32:04.210912Z",
+  "lastUpdated": "2025-09-20T08:39:30.587692Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,18 @@
       },
       "items": [
         {
+          "title": "Stenterrassen Södermalmstorg får träd, buskar och lökar",
+          "link": "https://www.svt.se/nyheter/lokalt/stockholm/se-nar-traden-planteras-pa-sodermalmstorg",
+          "published": "Sat, 20 Sep 2025 10:30:01 +0200",
+          "description": "Bakom ett stängsel fylls Södermalmstorg just nu med växtlighet. Totalt är det 28 träd, 50 buskar, 3 000 perenner och 9 000 blomsterlökar som ska planteras. – Det går en tunnelbana under den öppna stenterrassen så vi måste ha tåliga träd och buskar som klarar torka, säger Sofia Eskilsdotter, landskapsarkitekt."
+        },
+        {
+          "title": "Anpassningar i klassrummen skrotas: ”Är det ett aprilskämt?”",
+          "link": "https://www.svt.se/nyheter/inrikes/anpassningar-i-klassrummen-skrotas-ar-det-ett-aprilskamt",
+          "published": "Sat, 20 Sep 2025 10:26:49 +0200",
+          "description": "I sin skolbudget föreslår regeringen att dagens system med extra anpassningar i klassrummen för elever med exempelvis ADHD och autism ska tas bort på svenska- och matematiklektioner. – Jag kollade kalendern om detta var ett aprilskämt. Det som behövs är resurser, kompetens och struktur. Inte att man separerar barn från sina klasskamrater, säger Eric Donell från Riksförbundet Attention."
+        },
+        {
           "title": "Man knivskuren – två gripna för mordförsök i Vargön",
           "link": "https://www.svt.se/nyheter/lokalt/vast/man-knivskuren-tva-gripna-for-mordforsok-pa-vargon",
           "published": "Sat, 20 Sep 2025 07:32:17 +0200",
@@ -43,19 +55,7 @@
           "title": "Stor brand på Hells Angels gård utanför Göteborg",
           "link": "https://www.svt.se/nyheter/lokalt/vast/stor-brand-pa-hells-angels-gard-utanfor-goteborg",
           "published": "Sat, 20 Sep 2025 06:22:52 +0200",
-          "description": "En fullt utvecklad brand har brutit ut i Hells Angels lokal i Gunnilse norr om Göteborg."
-        },
-        {
-          "title": "Vill korta kötiderna till operationer på Nus – med hjälp av AI",
-          "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/vill-korta-kotiderna-till-operationer-pa-nus-med-hjalp-av-ai",
-          "published": "Sat, 20 Sep 2025 05:30:00 +0200",
-          "description": "Forskare vill se om det går att korta köerna till operationer på Norrlands universitetssjukhus – med hjälp av AI. Tanken är att AI ska hjälpa till med att planera när operationer ska göras. – I den bästa av världar kan man öka produktionen, alltså hjälpa fler patienter, säger doktorand Sara Lundsten."
-        },
-        {
-          "title": "Man svårt skottskadad i Västerås",
-          "link": "https://www.svt.se/nyheter/lokalt/vastmanland/grovt-valdsbrott-i-vasteras-4x3u8j",
-          "published": "Fri, 19 Sep 2025 22:31:55 +0200",
-          "description": "På fredagen skadades en man i 30-årsåldern allvarligt efter en skottlossning på Apalby i Västerås."
+          "description": "Ett misstänkt farligt föremål hittades strax före 10 på lördagsmorgonen vid entrén till Hells Angels lokal i Gunnilse norr om Göteborg. Under natten brann byggnaden ner."
         }
       ]
     },
@@ -66,7 +66,7 @@
       },
       "items": [
         {
-          "title": "Textillagen ändras igen – för att folk bröt mot den",
+          "title": "Textillagen ändras igen – folk bryter mot den",
           "link": "https://www.svt.se/nyheter/lokalt/skane/textillagen-andras-igen-for-att-folk-brot-mot-den",
           "published": "Sat, 20 Sep 2025 05:30:00 +0200",
           "description": "Den första oktober blir det åter tillåtet att slänga trasiga och smutsiga textilier i soppåsen. – Vi märker att folk redan gör det och det är vi glada för. Vi vill bara få rena och hela kläder, säger Christel Breum, försäljningschef på Skåne Stadsmission."
@@ -98,6 +98,12 @@
       },
       "items": [
         {
+          "title": "Cyberattack riktad mot flera flygplatser",
+          "link": "https://www.aftonbladet.se/nyheter/a/KMd356/cyberattack-riktad-mot-flera-flygplatser?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 07:55:37 GMT",
+          "description": "En stor cyberattack har riktats mot flera flygplatser runtom i Europa."
+        },
+        {
           "title": "Zelenskyj: En massiv attack",
           "link": "https://www.aftonbladet.se/nyheter/a/QMQo6R/zelenskyj-en-massiv-attack?utm_medium=rss",
           "published": "Sat, 20 Sep 2025 07:16:17 GMT",
@@ -108,12 +114,6 @@
           "link": "https://www.aftonbladet.se/nyheter/a/Avjdwr/jordskalv-utanfor-skelleftea-huset-skakade?utm_medium=rss",
           "published": "Sat, 20 Sep 2025 06:45:45 GMT",
           "description": "Ett jordskalv inträffade under fredagskvällen väster om Skellefteå. Magnituden uppmättes till 2,5…"
-        },
-        {
-          "title": "FN-toppen om svälten i Gaza: ”Förfärligt”",
-          "link": "https://www.aftonbladet.se/nyheter/a/RzvRer/fn-toppen-om-svalten-i-gaza-forfarligt?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 06:45:40 GMT",
-          "description": "De hjälpsändningar med mat som når svältdrabbade Gaza är långt ifrån tillräckliga och de kan inte längre delas ut under…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
+          "title": "Omfattande cyberattack mot flygplatser i Europa",
+          "link": "https://www.expressen.se/nyheter/varlden/omfattande-cyberattack-mot-flygplatser-i-europa/",
+          "published": "Sat, 20 Sep 2025 09:58:46 +0200",
+          "description": "En cyberattack har orsakat omfattande störningar i inchecknings- och boardingsystemen på flera europeiska flygplatser, rapporterar bland annat Independent."
+        },
+        {
+          "title": "Kaos på flera flygplatser i Europa",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9b99a615-2760-4a8e-8d00-463dbd4233a3",
+          "published": "Sat, 20 Sep 2025 09:52:51 +0200",
+          "description": "Cyberattack"
+        },
+        {
           "title": "Planen mot Putin – ny drönarmur",
           "link": "https://www.expressen.se/nyheter/varlden/planen-mot-putin-ny-dronarmur/",
           "published": "Sat, 20 Sep 2025 08:53:01 +0200",
           "description": "Fyra ryska kränkningar mot tre Natoländer på nio dagar.Läget längs med alliansens östra flank är extremt spänt.Nu kan en europeisk ”drönarmur” mot Ryssland vara nära."
-        },
-        {
-          "title": "Turisthotell utrymda",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/lyxhotell-utrymda-efter-megabranden",
-          "published": "Sat, 20 Sep 2025 08:51:43 +0200",
-          "description": "Megabranden sprider sig i turistparadiset • Se infernot"
-        },
-        {
-          "title": "Jordskalv utanför Skellefteå",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=cebfe6c5-7e64-4f72-93e6-f9e3eb3bba90",
-          "published": "Sat, 20 Sep 2025 08:46:30 +0200",
-          "description": "”Skakade till i hela vårt hus”"
         }
       ]
     }
