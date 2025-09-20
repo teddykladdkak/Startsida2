@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-20T18:13:53.677070Z",
+  "lastUpdated": "2025-09-20T20:10:42.839435Z",
   "feeds": [
     {
       "url": {
@@ -28,16 +28,22 @@
       },
       "items": [
         {
-          "title": "Misstänkt grovt våldsbrott i Norrköping – en person skadad",
+          "title": "”Rysslands kränkning – ett test av Nato”",
+          "link": "https://www.svt.se/nyheter/utrikes/rysslands-krankning-ett-test-av-nato",
+          "published": "Sat, 20 Sep 2025 21:14:51 +0200",
+          "description": "Kränkningen av Estlands luftrum var exceptionell. I hela tolv minuter flög de ryska stridsflygplanen genom Estlands luftrum."
+        },
+        {
+          "title": "Misstänkt grovt våldsbrott i Norrköping – en person allvarligt skadad",
           "link": "https://www.svt.se/nyheter/lokalt/ost/misstankt-grovt-valdsbrott-i-norrkoping",
           "published": "Sat, 20 Sep 2025 19:06:24 +0200",
-          "description": "Polisen är på plats i stadsdelen Ektorp i Norrköping på grund av ett misstänkt grovt våldsbrott. En person har anträffats med mycket allvarliga skador. – Det är en misstänkt skottlossning, säger Olle Älveroth, polisens presstalesperson."
+          "description": "En man anträffades utomhus med mycket allvarliga skador i stadsdelen Ektorp i Norrköping under lördagskvällen. En stor polisinsats pågår. – Det är en misstänkt skottlossning, säger Olle Älveroth, polisens presstalesperson."
         },
         {
           "title": "Här grips misstänkte gärningsmannen",
           "link": "https://www.svt.se/nyheter/inrikes/har-grips-misstankte-garningsmannen",
           "published": "Sat, 20 Sep 2025 17:45:33 +0200",
-          "description": "En personal ur ambulansen har dödats i Harmånger, Nordanstigs kommun. En man i 25-årsåldern, som anträffades i en bostad i närheten, har anhållits misstänkt för mord."
+          "description": "En kvinnlig ambulanssjukvårdare har dödats i Harmånger, Nordanstigs kommun. En man i 25-årsåldern, som anträffades i en bostad i närheten, har anhållits misstänkt för mord."
         },
         {
           "title": "Efter Trumpbråket – Danmark vill bryta med Silicon Valley",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/gavleborg/han-blev-vittne-till-attacken-horde-ett-jatteskrik",
           "published": "Sat, 20 Sep 2025 16:02:42 +0200",
           "description": "En person har dött i en attack under lördagen i Nordanstigs kommun. En bit bort från händelsen pågick en fotbollsmatch och Pher Andersson hörde attacken."
-        },
-        {
-          "title": "Alexander Isak inbytt i Liverpools derbyseger",
-          "link": "https://www.svt.se/sport/fotboll/alexander-isak-inbytt-i-liverpools-derbyseger",
-          "published": "Sat, 20 Sep 2025 15:58:20 +0200",
-          "description": "Alexander Isak blev inbytt när Liverpool vann lördagens Premier League-derbyt mot Everton med 2–1. Men den svenske landslagsanfallaren får vänta på sitt första mål för klubben."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Ännu dyrare öl på Oktoberfest",
-          "link": "https://www.aftonbladet.se/nyheter/a/lwBEy9/annu-dyrare-ol-pa-oktoberfest?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 17:56:24 GMT",
-          "description": "Tyskarna dricker mindre öl, men det lär inte märkas i München just denna helg."
+          "title": "Ambulansfacket rasar efter misstänkta mordet – ”Hade kunnat undvikas”",
+          "link": "https://www.aftonbladet.se/nyheter/a/zAvg34/ambulansforbundet-rasar-efter-attacken-i-harmanger-i-nordanstig?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 19:07:05 GMT",
+          "description": "Om informationsutbyte varit tillåtet skulle ambulansen aldrig åkt till Harmånger. Då skulle det ha varit ett polisärende."
         },
         {
-          "title": "Joakim, 45, fick unika jobbet: Skydda Grönland",
-          "link": "https://www.aftonbladet.se/nyheter/a/alm5MO/gronland-darfor-skickas-svenska-soldater-for-att-skydda-on?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 17:53:18 GMT",
-          "description": "PLUS När Danmark trappar upp skyddet av Grönland hamnar 15 svenska hemvärnssoldater mitt i den geopolitiska hetluften."
+          "title": "Upplopp vid högerextrem demonstration",
+          "link": "https://www.aftonbladet.se/nyheter/a/OowQxk/upplopp-vid-hogerextrem-demonstration?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 18:54:53 GMT",
+          "description": "Stenkastning, vandalisering av partilokaler och en polisbil som sattes i brand."
         },
         {
-          "title": "En person skjuten i Hagsätra",
-          "link": "https://www.aftonbladet.se/nyheter/a/pP7AjV/skjutning-i-hagsatra-i-sodra-stockholm?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 17:36:07 GMT",
-          "description": "En person har förts till sjukhus efter att ha blivit skjuten i Hagsätra. Skadeläget är just nu oklart, enligt polisen."
+          "title": "Trump hotar Venezuela: ”Ofattbara konsekvenser”",
+          "link": "https://www.aftonbladet.se/nyheter/a/o34ArR/trump-hotar-venezuela-ofattbara-konsekvenser?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 18:53:18 GMT",
+          "description": "USA:s president Donald Trump hotade på lördagen Venezuela med ”ofattbara” konsekvenser om landet vägrar ta emot…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Estland håller gränsen stängd – till krigsslutet",
-          "link": "https://www.expressen.se/nyheter/varlden/estland-haller-gransen-stangd-till-krigsslutet/",
-          "published": "Sat, 20 Sep 2025 19:55:03 +0200",
-          "description": "Gränsen mellan Estland och Ryssland är stängd för trafik.Den kommer att fortsätta vara det – tills Ukrainakriget är över.Narvabron är den enda i dagsläget fungerande gränskontrollen mellan länderna."
+          "title": "Beväpnad man gripen vid  Charlie Kirk-minnesceremoni",
+          "link": "https://www.expressen.se/nyheter/varlden/bevapnad-man-gripen-vid--charlie-kirk-minnesceremoni/",
+          "published": "Sat, 20 Sep 2025 22:05:16 +0200",
+          "description": "En minnesceremoni för Charlie Kirk ska hållas på söndag.Nu har en beväpnad man som påstod sig vara polis gripits vid platsen för ceremonin, skriver The Hill."
         },
         {
-          "title": "Ann Heberlein får  inte bli präst: ”Fegt”",
-          "link": "https://www.expressen.se/nyheter/sverige/ann-heberlein-far--inte-bli-prast-fegt/",
-          "published": "Sat, 20 Sep 2025 19:48:58 +0200",
-          "description": "Debattören och teologen Ann Heberlein får inte bli präst i Svenska kyrkan, rapporterar tidningen Dagen. Hon ska ha enligt egen uppgift ha fått höra att hon passar bättre som debattör än som präst.– Det hade varit bättre att säga att jag inte är önskad som präst, säger Ann Heberlein till Dagen."
+          "title": "Tenjes kritik mot radion: ”Antisemitism piskas upp”",
+          "link": "https://www.expressen.se/nyheter/sverige/tenjes-kritik-mot-radion-antisemitism-piskas-upp/",
+          "published": "Sat, 20 Sep 2025 21:59:36 +0200",
+          "description": "P4 Kronoberg frågade socialförsäkringsminister Anna Tenje om hon tar ställning i Israel-Palestinakonflikten genom att bära en Davidsstjärna.Inslaget avpublicerades sen, vilket tidningen Bulletin var först att rapportera om.Ministern är skarpt kritisk till hur frågan ställdes.– Det är precis så antisemitismen piskas upp mot judar på svenska gator, säger hon i en kommentar."
         },
         {
-          "title": "En till sjukhus efter skottlossning i Hagsätra",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=64e90014-98bd-4843-af18-f7f60e0bd4ac",
-          "published": "Sat, 20 Sep 2025 19:41:35 +0200",
-          "description": "En till sjukhus i södra Stockholm"
+          "title": "Man skjuten till döds i södra Stockholm",
+          "link": "https://www.expressen.se/nyheter/sverige/man-skjuten-till-dods-i-sodra-stockholm/",
+          "published": "Sat, 20 Sep 2025 21:39:16 +0200",
+          "description": "En man i 45-årsåldern har skjutits ihjäl i Hagsätra i södra Stockholm."
         }
       ]
     }
