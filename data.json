@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-20T16:12:22.843564Z",
+  "lastUpdated": "2025-09-20T18:13:53.677070Z",
   "feeds": [
     {
       "url": {
@@ -28,10 +28,16 @@
       },
       "items": [
         {
+          "title": "Misstänkt grovt våldsbrott i Norrköping – en person skadad",
+          "link": "https://www.svt.se/nyheter/lokalt/ost/misstankt-grovt-valdsbrott-i-norrkoping",
+          "published": "Sat, 20 Sep 2025 19:06:24 +0200",
+          "description": "Polisen är på plats i stadsdelen Ektorp i Norrköping på grund av ett misstänkt grovt våldsbrott. En person har anträffats med mycket allvarliga skador. – Det är en misstänkt skottlossning, säger Olle Älveroth, polisens presstalesperson."
+        },
+        {
           "title": "Här grips misstänkte gärningsmannen",
           "link": "https://www.svt.se/nyheter/inrikes/har-grips-misstankte-garningsmannen",
           "published": "Sat, 20 Sep 2025 17:45:33 +0200",
-          "description": "En personal ur ambulansen har dödats i Harmånger, Nordanstigs kommun. En man i 25-årsåldern, som anträffades i en bostad i närheten, har gripits misstänkt för mord."
+          "description": "En personal ur ambulansen har dödats i Harmånger, Nordanstigs kommun. En man i 25-årsåldern, som anträffades i en bostad i närheten, har anhållits misstänkt för mord."
         },
         {
           "title": "Efter Trumpbråket – Danmark vill bryta med Silicon Valley",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/sport/fotboll/alexander-isak-inbytt-i-liverpools-derbyseger",
           "published": "Sat, 20 Sep 2025 15:58:20 +0200",
           "description": "Alexander Isak blev inbytt när Liverpool vann lördagens Premier League-derbyt mot Everton med 2–1. Men den svenske landslagsanfallaren får vänta på sitt första mål för klubben."
-        },
-        {
-          "title": "Ambulanspersonal i Nordanstig dödad – man gick till attack",
-          "link": "https://www.svt.se/nyheter/lokalt/gavleborg/grovt-valdsbrott-i-nordanstig",
-          "published": "Sat, 20 Sep 2025 13:50:57 +0200",
-          "description": "En personal ur ambulansen har dödats under ett ambulansuppdrag i Nordanstigs kommun. Enligt SVT:s uppgifter är det en kvinna. En man i 25-årsåldern har gripits misstänkt för mord."
         }
       ]
     },
@@ -65,6 +65,18 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Nyheter från dagen: 20 september",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-20-september-lbc5xk",
+          "published": "Sat, 20 Sep 2025 20:08:37 +0200",
+          "description": "Detta har hänt i Skåne lördagen den 20 september."
+        },
+        {
+          "title": "Kirurgens vittnesmål från Gaza: ”Barn dör av undernäring”",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/kirurgens-vittnesmal-fran-gaza-barn-dor-av-undernaring",
+          "published": "Sat, 20 Sep 2025 19:38:43 +0200",
+          "description": "Barn i Gaza som dör av undernäring och unga män som prickskjuts i testiklarna. Det vittnade kirurgen Nick Maynard om under Palestinadagen i Malmö. – Varje gång jag kommer dit har det blivit värre, säger han."
+        },
         {
           "title": "Se Sissis virala bakelser – gav efter för barnens tjat",
           "link": "https://www.svt.se/nyheter/lokalt/skane/se-sissis-virala-bakelser-gav-efter-for-barnens-tjat",
@@ -76,18 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/boende-i-rosengard-inrymda-farligt-foremal-i-trappuppgang",
           "published": "Sat, 20 Sep 2025 10:57:31 +0200",
           "description": "Det misstänkt farliga föremål som hittats i en trappuppgång på Rosengård i Malmö ska ha varit en handgranat, meddelar polisen. Boende fick inrymmas."
-        },
-        {
-          "title": "Textillagen ändras igen – folk bryter mot den",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/textillagen-andras-igen-for-att-folk-brot-mot-den",
-          "published": "Sat, 20 Sep 2025 05:30:00 +0200",
-          "description": "Den första oktober blir det åter tillåtet att slänga trasiga och smutsiga textilier i soppåsen. – Vi märker att folk redan gör det och det är vi glada för. Vi vill bara få rena och hela kläder, säger Christel Breum, försäljningschef på Skåne Stadsmission."
-        },
-        {
-          "title": "Nyheter från dagen: 19 september",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-19-september-nyczky",
-          "published": "Fri, 19 Sep 2025 20:20:02 +0200",
-          "description": "Detta har hänt i Skåne fredagen den 19 september."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Pentagons nya pressregler oroar journalister",
-          "link": "https://www.aftonbladet.se/nyheter/a/o34APa/pentagons-nya-pressregler-oroar-journalister?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 15:58:10 GMT",
-          "description": "Det amerikanska försvarsdepartementet tar i med hårdhandskarna och kräver att få godkänna information innan publicering."
+          "title": "Ännu dyrare öl på Oktoberfest",
+          "link": "https://www.aftonbladet.se/nyheter/a/lwBEy9/annu-dyrare-ol-pa-oktoberfest?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 17:56:24 GMT",
+          "description": "Tyskarna dricker mindre öl, men det lär inte märkas i München just denna helg."
         },
         {
-          "title": "Kristersson om ambulansdådet: ”Helt förfärligt”",
-          "link": "https://www.aftonbladet.se/nyheter/a/KMdy15/statsministern-helt-forfarligt?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 15:52:12 GMT",
-          "description": "En anställd vid ambulansen i Gävleborg har överfallits och dödats i tjänst under utryckning."
+          "title": "Joakim, 45, fick unika jobbet: Skydda Grönland",
+          "link": "https://www.aftonbladet.se/nyheter/a/alm5MO/gronland-darfor-skickas-svenska-soldater-for-att-skydda-on?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 17:53:18 GMT",
+          "description": "PLUS När Danmark trappar upp skyddet av Grönland hamnar 15 svenska hemvärnssoldater mitt i den geopolitiska hetluften."
         },
         {
-          "title": "Pehr Andersson hörde attacken: ”Fruktansvärt”",
-          "link": "https://www.aftonbladet.se/nyheter/a/jQoBXw/pehr-andersson-horde-attacken-fruktansvart?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 15:49:01 GMT",
-          "description": "En ambulansanställd har avlidit efter att ha skadats i ett överfall i Nordanstig."
+          "title": "En person skjuten i Hagsätra",
+          "link": "https://www.aftonbladet.se/nyheter/a/pP7AjV/skjutning-i-hagsatra-i-sodra-stockholm?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 17:36:07 GMT",
+          "description": "En person har förts till sjukhus efter att ha blivit skjuten i Hagsätra. Skadeläget är just nu oklart, enligt polisen."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Nio kandidater som sticker ut i kyrkovalet 2025",
-          "link": "https://www.expressen.se/nyheter/politik/nio-kandidater-som-sticker-ut-i-kyrkovalet-2025/",
-          "published": "Sat, 20 Sep 2025 17:47:48 +0200",
-          "description": "På söndag är sista dagen att rösta i kyrkovalet.Då ställer över 25 000 personer upp i racet om 13 783 valbara platser.Här är nio kandidater som sticker ut."
+          "title": "Estland håller gränsen stängd – till krigsslutet",
+          "link": "https://www.expressen.se/nyheter/varlden/estland-haller-gransen-stangd-till-krigsslutet/",
+          "published": "Sat, 20 Sep 2025 19:55:03 +0200",
+          "description": "Gränsen mellan Estland och Ryssland är stängd för trafik.Den kommer att fortsätta vara det – tills Ukrainakriget är över.Narvabron är den enda i dagsläget fungerande gränskontrollen mellan länderna."
         },
         {
-          "title": "Fredrick Federley om sin comeback i Centerpartiet: ”Kramkalas”",
-          "link": "https://www.expressen.se/nyheter/politik/fredrick-federley-om-sin-comeback-i-centerpartiet-kramkalas/",
-          "published": "Sat, 20 Sep 2025 17:46:25 +0200",
-          "description": "Centerpartisten Fredrick Federley, 47, lämnade sina partiuppdrag efter skandalen kring en tidigare närstående – och fick hjälp av kyrkan i krisen.Nu vill han bli präst och kandiderar i kyrkovalet för C.– Jag har fått en annan syn på samhället i dag än jag hade tidigare."
+          "title": "Ann Heberlein får  inte bli präst: ”Fegt”",
+          "link": "https://www.expressen.se/nyheter/sverige/ann-heberlein-far--inte-bli-prast-fegt/",
+          "published": "Sat, 20 Sep 2025 19:48:58 +0200",
+          "description": "Debattören och teologen Ann Heberlein får inte bli präst i Svenska kyrkan, rapporterar tidningen Dagen. Hon ska ha enligt egen uppgift ha fått höra att hon passar bättre som debattör än som präst.– Det hade varit bättre att säga att jag inte är önskad som präst, säger Ann Heberlein till Dagen."
         },
         {
-          "title": "Regiontoppens chock efter mordet på ambulanspersonal",
-          "link": "https://www.expressen.se/nyheter/sverige/regiontoppens-chock-efter-mordet-pa-ambulanspersonal/",
-          "published": "Sat, 20 Sep 2025 17:24:18 +0200",
-          "description": "En kvinnlig ambulansmedarbetare har dödats i tjänsten.En man i 25-årsåldern är gripen misstänkt för mord.– Som arbetsgivare är vi djupt berörda av det som inträffat och våra tankar går till anhöriga, säger Susanna Björklund, biträdande hälso- och sjukvårdsdirektör, i ett pressmeddelande."
+          "title": "En till sjukhus efter skottlossning i Hagsätra",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=64e90014-98bd-4843-af18-f7f60e0bd4ac",
+          "published": "Sat, 20 Sep 2025 19:41:35 +0200",
+          "description": "En till sjukhus i södra Stockholm"
         }
       ]
     }
