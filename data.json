@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-20T09:09:28.355510Z",
+  "lastUpdated": "2025-09-20T10:10:31.748625Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,18 @@
       },
       "items": [
         {
+          "title": "S kräver Pourmokhtaris avgång: ”Är hennes löfte”",
+          "link": "https://www.svt.se/nyheter/inrikes/s-kraver-pourmokhtaris-avgang-ar-hennes-lofte",
+          "published": "Sat, 20 Sep 2025 11:46:15 +0200",
+          "description": "Sverige ser ut att missa EU:s klimatmål till 2030. Socialdemokraterna kräver nu att klimat- och miljöminister Romina Pourmokhtari (L) avgår."
+        },
+        {
+          "title": "Jordskalv utanför Skellefteå – magnitud på 2,5: ”Som om en bil kört in i väggen”",
+          "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/jordskalv-utanfor-skelleftea-magnitud-pa-25-som-om-en-bil-kort-in-i-vaggen",
+          "published": "Sat, 20 Sep 2025 11:24:19 +0200",
+          "description": "Ett jordskalv inträffade under fredagskvällen väster om Skellefteå. Magnituden uppmättes till 2,5 på Richterskalan. – Det kändes som att något rasade, eller att hästarna har rymt, säger Jonas Gustavsson som bor i Krångfors, nära skalvets epicentrum."
+        },
+        {
           "title": "Boende på Rosengård inrymda – farligt föremål i trappuppgång",
           "link": "https://www.svt.se/nyheter/lokalt/skane/boende-i-rosengard-inrymda-farligt-foremal-i-trappuppgang",
           "published": "Sat, 20 Sep 2025 10:57:31 +0200",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/nyheter/inrikes/anpassningar-i-klassrummen-skrotas-ar-det-ett-aprilskamt",
           "published": "Sat, 20 Sep 2025 10:26:49 +0200",
           "description": "I sin skolbudget föreslår regeringen att dagens system med extra anpassningar i klassrummen för elever med exempelvis ADHD och autism ska tas bort på svenska- och matematiklektioner. – Jag kollade kalendern om detta var ett aprilskämt. Det som behövs är resurser, kompetens och struktur. Inte att man separerar barn från sina klasskamrater, säger Eric Donell från Riksförbundet Attention."
-        },
-        {
-          "title": "Man knivskuren – två gripna för mordförsök i Vargön",
-          "link": "https://www.svt.se/nyheter/lokalt/vast/man-knivskuren-tva-gripna-for-mordforsok-pa-vargon",
-          "published": "Sat, 20 Sep 2025 07:32:17 +0200",
-          "description": "Två personer har gripits för mordförsök efter att en man i 60-årsåldern knivskurits på en adress i Vargön i Vänersborgs kommun."
-        },
-        {
-          "title": "Kedjehus i Ale började brinna",
-          "link": "https://www.svt.se/nyheter/lokalt/vast/kedjehus-i-ale-borjade-brinna",
-          "published": "Sat, 20 Sep 2025 07:06:42 +0200",
-          "description": "Det började under natten brinna i tre bostäder i en kedjehuslänga i Nol."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "S kräver klimatministerns avgång",
+          "title": "”Alla flyr från något, här får man en ny chans”",
+          "link": "https://www.aftonbladet.se/nyheter/a/XjX0dx/gustavo-28-var-osynlig-i-sverige-pa-malta-ar-han-en-stjarna?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 09:35:40 GMT",
+          "description": "Gustavo, 28, kände sig osynlig i Sverige – här är han en stjärna…"
+        },
+        {
+          "title": "Zelenskyj och Trump ska träffas i New York",
+          "link": "https://www.aftonbladet.se/nyheter/a/1MmnKK/zelenskyj-och-trump-ska-traffas-i-new-york?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 09:19:02 GMT",
+          "description": "Ukrainas president Volodymyr Zelenskyj och USA:s dito Donald Trump ska träffas i New York nästa vecka, säger Zelenskyj…"
+        },
+        {
+          "title": "S kräver Pourmokhtaris avgång: ”Är hennes löfte\"",
           "link": "https://www.aftonbladet.se/nyheter/a/PpK9M6/s-kraver-klimatministerns-avgang?utm_medium=rss",
           "published": "Sat, 20 Sep 2025 09:05:32 GMT",
           "description": "Sverige ser ut att missa EU:s klimatmål till 2030. Socialdemokraterna kräver nu att klimat- och miljöminister Romina…"
-        },
-        {
-          "title": "FN:s havsavtal ratificerat – blir lag nästa år",
-          "link": "https://www.aftonbladet.se/nyheter/a/4Byq9R/fn-s-havsavtal-ratificerat-blir-lag-nasta-ar?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 08:55:21 GMT",
-          "description": "FN:s djuphavsavtal har ratificerats av 60 länder, vilket betyder att det blir internationell lag efter årsskiftet."
-        },
-        {
-          "title": "Misstänkt farligt föremål i trapphus i Malmö",
-          "link": "https://www.aftonbladet.se/nyheter/a/5E90xb/misstankt-farligt-foremal-i-trapphus-i-malmo?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 08:53:00 GMT",
-          "description": "Polisen är på plats i stadsdelen Rosengård i Malmö efter att ett misstänkt farligt föremål hittats i en trappuppgång…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Boende inrymda",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=dfc9d50b-eb2a-4239-a41d-021a8f218072",
-          "published": "Sat, 20 Sep 2025 10:46:03 +0200",
-          "description": "Farligt föremål i Malmö"
+          "title": "Margareta, 80, åkte till USA  – som au pair: ”Lever i nuet”",
+          "link": "https://www.expressen.se/nyheter/sverige/margareta-80-akte-till-usa-som-au-pair-lever-i-nuet/",
+          "published": "Sat, 20 Sep 2025 12:00:00 +0200",
+          "description": "Margareta från Motala åkte till USA för att bli au pair – en resa många gör efter studenten. Men en detalj sticker ut.– Jag åkte när jag var ”eighty” i stället för ”eighteen”, säger Margareta."
         },
         {
-          "title": "Sydkorea nobbar USA efter massgripandet i Georgia",
-          "link": "https://www.expressen.se/nyheter/varlden/sydkorea-nobbar-usa-efter-massgripandet-i-georgia/",
-          "published": "Sat, 20 Sep 2025 10:41:09 +0200",
-          "description": "300 sydkoreaner greps i ett tillslag mot en Hyundaifabrik i Georgia i början av september.Nu är relationen länderna emellan frostigare än kanske någonsin tidigare – där många sydkoreaner avbokar planerade flygresor till USA."
+          "title": "Andersson (S): ”Vårt stöd orubbligt”",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=96e54971-becd-4671-ac82-944933aab723",
+          "published": "Sat, 20 Sep 2025 11:59:35 +0200",
+          "description": "Kommenterar ryska kränkningen av Estlands luftrum"
         },
         {
-          "title": "Omfattande cyberattack mot flygplatser i Europa",
-          "link": "https://www.expressen.se/nyheter/varlden/omfattande-cyberattack-mot-flygplatser-i-europa/",
-          "published": "Sat, 20 Sep 2025 09:58:46 +0200",
-          "description": "En cyberattack har orsakat omfattande störningar i inchecknings- och boardingsystemen på flera europeiska flygplatser, rapporterar bland annat Independent.Svenska flygplatser har inte påverkats.– Trafiken flyter på som vanligt, säger Swedavias presschef David Carlsson."
+          "title": "Hur länge får Putin  mucka gräl så här?",
+          "link": "https://www.expressen.se/kronikorer/erik-wiman/hur-lange-far-putin--mucka-gral-sa-har-/",
+          "published": "Sat, 20 Sep 2025 11:48:43 +0200",
+          "description": "Ryssland muckar gräl. Landet testar Natos reaktionsförmåga och inbördes lojalitet. Frågan är om och när den verkliga utmaningen kommer? "
         }
       ]
     }
