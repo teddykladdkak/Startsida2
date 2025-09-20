@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-20T10:10:31.748625Z",
+  "lastUpdated": "2025-09-20T12:20:08.506568Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "Israelisk reservist strider i Gaza – protesterar nu mot kriget",
+          "link": "https://www.svt.se/nyheter/utrikes/israelisk-reservist-strider-i-gaza-protesterar-nu-mot-kriget",
+          "published": "Sat, 20 Sep 2025 13:25:38 +0200",
+          "description": "Han har stridit i Gaza sedan krigets första månad och senast han var där var i somras. Men han är också kritisk mot Israels strategi i kriget. – Jag kan förstå omvärldens kritik mot Israel och hur de hanterar kriget, säger reservisten som vi valt att kalla för ”David”."
+        },
+        {
           "title": "S kräver Pourmokhtaris avgång: ”Är hennes löfte”",
           "link": "https://www.svt.se/nyheter/inrikes/s-kraver-pourmokhtaris-avgang-ar-hennes-lofte",
           "published": "Sat, 20 Sep 2025 11:46:15 +0200",
@@ -40,22 +46,16 @@
           "description": "Ett jordskalv inträffade under fredagskvällen väster om Skellefteå. Magnituden uppmättes till 2,5 på Richterskalan. – Det kändes som att något rasade, eller att hästarna har rymt, säger Jonas Gustavsson som bor i Krångfors, nära skalvets epicentrum."
         },
         {
-          "title": "Boende på Rosengård inrymda – farligt föremål i trappuppgång",
+          "title": "Boende på Rosengård inrymdes – farligt föremål i trappuppgång",
           "link": "https://www.svt.se/nyheter/lokalt/skane/boende-i-rosengard-inrymda-farligt-foremal-i-trappuppgang",
           "published": "Sat, 20 Sep 2025 10:57:31 +0200",
-          "description": "Ett misstänkt farligt föremål har hittats i en trappuppgång på Rosengård i Malmö. Boende har inrymts i sina lägenheter och nationella bombskyddet är påväg till platsen."
+          "description": "Det misstänkt farliga föremål som hittats i en trappuppgång på Rosengård i Malmö ska ha varit en handgranat, meddelar polisen. Boende fick inrymmas."
         },
         {
           "title": "Stenterrassen Södermalmstorg får träd, buskar och lökar",
           "link": "https://www.svt.se/nyheter/lokalt/stockholm/se-nar-traden-planteras-pa-sodermalmstorg",
           "published": "Sat, 20 Sep 2025 10:30:01 +0200",
           "description": "Bakom ett stängsel fylls Södermalmstorg just nu med växtlighet. Totalt är det 28 träd, 50 buskar, 3 000 perenner och 9 000 blomsterlökar som ska planteras. – Det går en tunnelbana under den öppna stenterrassen så vi måste ha tåliga träd och buskar som klarar torka, säger Sofia Eskilsdotter, landskapsarkitekt."
-        },
-        {
-          "title": "Anpassningar i klassrummen skrotas: ”Är det ett aprilskämt?”",
-          "link": "https://www.svt.se/nyheter/inrikes/anpassningar-i-klassrummen-skrotas-ar-det-ett-aprilskamt",
-          "published": "Sat, 20 Sep 2025 10:26:49 +0200",
-          "description": "I sin skolbudget föreslår regeringen att dagens system med extra anpassningar i klassrummen för elever med exempelvis ADHD och autism ska tas bort på svenska- och matematiklektioner. – Jag kollade kalendern om detta var ett aprilskämt. Det som behövs är resurser, kompetens och struktur. Inte att man separerar barn från sina klasskamrater, säger Eric Donell från Riksförbundet Attention."
         }
       ]
     },
@@ -66,10 +66,16 @@
       },
       "items": [
         {
-          "title": "Boende på Rosengård inrymda – farligt föremål i trappuppgång",
+          "title": "Se Sissis virala bakelser – gav efter för barnens tjat",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/se-sissis-virala-bakelser-gav-efter-for-barnens-tjat",
+          "published": "Sat, 20 Sep 2025 12:35:58 +0200",
+          "description": "Under den senaste tiden har fruktbakelser eller så kallade ”trompe l'oeil” blivit populära att visa upp i sociala medier. För konditorn Sissi Sarian har trenden blivit livsomvälvande."
+        },
+        {
+          "title": "Boende på Rosengård inrymdes – farligt föremål i trappuppgång",
           "link": "https://www.svt.se/nyheter/lokalt/skane/boende-i-rosengard-inrymda-farligt-foremal-i-trappuppgang",
           "published": "Sat, 20 Sep 2025 10:57:31 +0200",
-          "description": "Ett misstänkt farligt föremål har hittats i en trappuppgång på Rosengård i Malmö. Boende har inrymts i sina lägenheter och nationella bombskyddet är påväg till platsen."
+          "description": "Det misstänkt farliga föremål som hittats i en trappuppgång på Rosengård i Malmö ska ha varit en handgranat, meddelar polisen. Boende fick inrymmas."
         },
         {
           "title": "Textillagen ändras igen – folk bryter mot den",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-19-september-nyczky",
           "published": "Fri, 19 Sep 2025 20:20:02 +0200",
           "description": "Detta har hänt i Skåne fredagen den 19 september."
-        },
-        {
-          "title": "Varg sköts ihjäl i Hässleholm – försökte attackera får",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/varg-skots-ihjal-i-hassleholm-forsokte-attackera-far",
-          "published": "Fri, 19 Sep 2025 18:26:19 +0200",
-          "description": "Skytten avlossade flera varningsskott, men var till sist tvungen att döda vargen, enligt länsstyrelsens utredning. Vargen skickas nu på DNA-analys."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "”Alla flyr från något, här får man en ny chans”",
-          "link": "https://www.aftonbladet.se/nyheter/a/XjX0dx/gustavo-28-var-osynlig-i-sverige-pa-malta-ar-han-en-stjarna?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 09:35:40 GMT",
-          "description": "Gustavo, 28, kände sig osynlig i Sverige – här är han en stjärna…"
+          "title": "Större attacker mot Ukraina – räcker luftvärnet?",
+          "link": "https://www.aftonbladet.se/nyheter/a/B0olje/storre-attacker-mot-ukraina-racker-luftvarnet?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 12:00:29 GMT",
+          "description": "Rysslands nattliga bombräder mot civila mål i Ukraina bara ökar. Med tusentals drönare och robotar i överljudsfart har…"
         },
         {
-          "title": "Zelenskyj och Trump ska träffas i New York",
-          "link": "https://www.aftonbladet.se/nyheter/a/1MmnKK/zelenskyj-och-trump-ska-traffas-i-new-york?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 09:19:02 GMT",
-          "description": "Ukrainas president Volodymyr Zelenskyj och USA:s dito Donald Trump ska träffas i New York nästa vecka, säger Zelenskyj…"
+          "title": "SD:s ändring i kyrkovalet – uteslöt abort i manifest",
+          "link": "https://www.aftonbladet.se/nyheter/a/W0w42d/kyrkovalet-2025-sd-andrade-i-manifest-tog-bort-abort?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 11:57:54 GMT",
+          "description": "”Abort – en debatt som kyrkan ska vara en naturlig del av”. Så lät det i en första version av SD:s valmanifest – som…"
         },
         {
-          "title": "S kräver Pourmokhtaris avgång: ”Är hennes löfte\"",
-          "link": "https://www.aftonbladet.se/nyheter/a/PpK9M6/s-kraver-klimatministerns-avgang?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 09:05:32 GMT",
-          "description": "Sverige ser ut att missa EU:s klimatmål till 2030. Socialdemokraterna kräver nu att klimat- och miljöminister Romina…"
+          "title": "Sjukhuschef i Gaza stad: Tog emot min brors kropp",
+          "link": "https://www.aftonbladet.se/nyheter/a/dR6lmA/sjukhuschef-i-gaza-stad-tog-emot-min-brors-kropp?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 11:48:15 GMT",
+          "description": "Minst 14 personer har dödats i nattliga attacker mot Gaza stad, uppger sjukvårdskällor för nyhetsbyrån AP."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Margareta, 80, åkte till USA  – som au pair: ”Lever i nuet”",
-          "link": "https://www.expressen.se/nyheter/sverige/margareta-80-akte-till-usa-som-au-pair-lever-i-nuet/",
-          "published": "Sat, 20 Sep 2025 12:00:00 +0200",
-          "description": "Margareta från Motala åkte till USA för att bli au pair – en resa många gör efter studenten. Men en detalj sticker ut.– Jag åkte när jag var ”eighty” i stället för ”eighteen”, säger Margareta."
+          "title": "Blodregn från Sahara på väg mot Danmark",
+          "link": "https://www.expressen.se/nyheter/varlden/blodregn-fran-sahara-pa-vag-mot-danmark/",
+          "published": "Sat, 20 Sep 2025 14:01:52 +0200",
+          "description": "”Blodregn” från Sahara väntas dra in över Danmark under lördagskvällen, rapporterar Ekstrabladet.Det väntas lägga sig som en tunt lager sand. "
         },
         {
-          "title": "Andersson (S): ”Vårt stöd orubbligt”",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=96e54971-becd-4671-ac82-944933aab723",
-          "published": "Sat, 20 Sep 2025 11:59:35 +0200",
-          "description": "Kommenterar ryska kränkningen av Estlands luftrum"
+          "title": "SAS-plan har nödlandat",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=39ea3862-7b87-4e34-8e98-0e41f1c58658",
+          "published": "Sat, 20 Sep 2025 13:53:19 +0200",
+          "description": "Var på väg till Sverige • Sjukdomsfall"
         },
         {
-          "title": "Hur länge får Putin  mucka gräl så här?",
-          "link": "https://www.expressen.se/kronikorer/erik-wiman/hur-lange-far-putin--mucka-gral-sa-har-/",
-          "published": "Sat, 20 Sep 2025 11:48:43 +0200",
-          "description": "Ryssland muckar gräl. Landet testar Natos reaktionsförmåga och inbördes lojalitet. Frågan är om och när den verkliga utmaningen kommer? "
+          "title": "Paniken – när utpekade Maddie-mördaren släppts",
+          "link": "https://www.expressen.se/nyheter/varlden/paniken-nar-utpekade-maddie-mordaren-slappts/",
+          "published": "Sat, 20 Sep 2025 13:43:32 +0200",
+          "description": "Maddie McCanns utpekade mördare Christian Brückner har släppts ur fängelse.Föräldrar i den tyska staden där han registrerats som hemlös har panik, rapporterar Daily Express. – Vi är livrädda, säger en deltagare på ett möte med kommunen. "
         }
       ]
     }
