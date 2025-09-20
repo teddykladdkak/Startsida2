@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-20T05:36:14.860275Z",
+  "lastUpdated": "2025-09-20T06:13:17.552030Z",
   "feeds": [
     {
       "url": {
@@ -46,16 +46,16 @@
           "description": "En fullt utvecklad brand har brutit ut i Hells Angels lokal i Gunnilse norr om Göteborg."
         },
         {
-          "title": "Marias cancer förändrade livet – nu odlar familjen i Kalix allt själv",
-          "link": "https://www.svt.se/nyheter/lokalt/norrbotten/marias-cancer-forandrade-livet-nu-odlar-kalixfamiljen-allt-sjalva",
+          "title": "Vill korta kötiderna till operationer på Nus – med hjälp av AI",
+          "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/vill-korta-kotiderna-till-operationer-pa-nus-med-hjalp-av-ai",
           "published": "Sat, 20 Sep 2025 05:30:00 +0200",
-          "description": "När Maria Nilsson blev svårt sjuk i cancer började familjen odla egna giftfria grönsaker. Efter några år var de mer eller mindre självförsörjande och idag är matkontot minimalt."
+          "description": "Forskare vill se om det går att korta köerna till operationer på Norrlands universitetssjukhus – med hjälp av AI. Tanken är att AI ska hjälpa till med att planera när operationer ska göras. – I den bästa av världar kan man öka produktionen, alltså hjälpa fler patienter, säger doktorand Sara Lundsten."
         },
         {
-          "title": "Stomipåsen gav Josefine i Katrineholm livet tillbaka",
-          "link": "https://www.svt.se/nyheter/lokalt/sormland/stomipasen-gav-josefine-i-katrineholm-livet-tillbaka-friare-och-roligare",
-          "published": "Sat, 20 Sep 2025 05:30:00 +0200",
-          "description": "För ett år sedan hade Josefine Motin, 30, ont varje dag – och hela livet styrdes av närheten till en toalett. Nu har hon opererats och fått en stomipåse. – Den har gett mig livet tillbaka, säger hon."
+          "title": "Man svårt skottskadad i Västerås",
+          "link": "https://www.svt.se/nyheter/lokalt/vastmanland/grovt-valdsbrott-i-vasteras-4x3u8j",
+          "published": "Fri, 19 Sep 2025 22:31:55 +0200",
+          "description": "På fredagen skadades en man i 30-årsåldern allvarligt efter en skottlossning på Apalby i Västerås."
         }
       ]
     },
@@ -98,6 +98,12 @@
       },
       "items": [
         {
+          "title": "S: Regeringen bör kalla upp Israels ambassadör",
+          "link": "https://www.aftonbladet.se/nyheter/a/3MrJdL/s-regeringen-bor-kalla-upp-israels-ambassador?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 05:56:16 GMT",
+          "description": "Den svenska regeringen bör kalla upp Israels ambassadör med anledning av markinvasionen av Gaza, anser…"
+        },
+        {
           "title": "Brand i lokal för motorcykelklubb i Göteborg",
           "link": "https://www.aftonbladet.se/nyheter/a/W0nb2k/brand-i-lokal-for-motorcykelklubb-i-goteborg?utm_medium=rss",
           "published": "Sat, 20 Sep 2025 04:52:01 GMT",
@@ -108,12 +114,6 @@
           "link": "https://www.aftonbladet.se/nyheter/a/RzvRnO/nya-cyberchefen-om-jattelackan-inte-forvanad?utm_medium=rss",
           "published": "Sat, 20 Sep 2025 04:15:29 GMT",
           "description": "Personuppgifter om 1,5 miljoner svenskar stals nyligen i utpressningssyfte och publicerades på darknet."
-        },
-        {
-          "title": "”Det finns moralpanik runt manosfären”",
-          "link": "https://www.aftonbladet.se/nyheter/a/dRyaXO/richard-reeves-forsvarar-manosfaren-ratt-att-vara-arga?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 04:15:18 GMT",
-          "description": "Unga män väljer inte Donald Trump och Andrew Tate för att de hatar kvinnor."
         }
       ]
     },
@@ -123,6 +123,12 @@
         "amount": 3
       },
       "items": [
+        {
+          "title": "Nya livet som hemlös för  misstänkt Maddiemördare",
+          "link": "https://www.expressen.se/nyheter/varlden/nya-livet-som-hemlos-for--misstankt-maddiemordare/",
+          "published": "Sat, 20 Sep 2025 07:47:07 +0200",
+          "description": "Christian Brückner, huvudmisstänkt i fallet med försvunna Maddie McCann, har registrerat sig som hemlös efter att ha släppts ur fängelset, skriver Mirror.Samtidigt har brittiska polisutredare i hemlighet förhört två av Brückners före detta vänner, uppger en källa för The Sun.– Jag tror att han gjorde något ont mot Maddie, säger Brückners ex-vän Elke Piro."
+        },
         {
           "title": "Mordförsök på man – två gripna",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a4c5a321-9bbc-4321-a271-9b2b11d2a214",
@@ -134,12 +140,6 @@
           "link": "https://www.expressen.se/nyheter/varlden/barn-brann-inne-nar-teslans-bildorrar-inte-oppnades/",
           "published": "Sat, 20 Sep 2025 07:17:28 +0200",
           "description": "En man och två barn brändes inne i en Tesla efter en våldsam krasch i tyska Schwerte.En butiksägare försökte rädda dem – men dörrhandtagen gick inte att öppna.– Jag kunde inte göra något, säger han till tyska Ruhr Nachrichten."
-        },
-        {
-          "title": "Pojke rånad av män på elspark",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=191da3e0-9113-46c1-8a13-36823bb9166f",
-          "published": "Sat, 20 Sep 2025 07:02:01 +0200",
-          "description": "Pojke blev av med personliga tillhörigheter"
         }
       ]
     }
