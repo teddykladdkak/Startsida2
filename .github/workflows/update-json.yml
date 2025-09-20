@@ -2,7 +2,7 @@ name: Update JSON
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # kör var 30:e minut
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 permissions:
