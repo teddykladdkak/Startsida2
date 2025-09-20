@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-20T05:09:10.264213Z",
+  "lastUpdated": "2025-09-20T05:36:14.860275Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "Man knivskuren – två gripna för mordförsök på Vargön",
+          "link": "https://www.svt.se/nyheter/lokalt/vast/man-knivskuren-tva-gripna-for-mordforsok-pa-vargon",
+          "published": "Sat, 20 Sep 2025 07:32:17 +0200",
+          "description": "Två personer har gripits för mordförsök efter att en man i 60-årsåldern knivskurits på en adress på Vargön i Vänersborgs kommun."
+        },
+        {
           "title": "Kedjehus i Ale började brinna",
           "link": "https://www.svt.se/nyheter/lokalt/vast/kedjehus-i-ale-borjade-brinna",
           "published": "Sat, 20 Sep 2025 07:06:42 +0200",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/sormland/stomipasen-gav-josefine-i-katrineholm-livet-tillbaka-friare-och-roligare",
           "published": "Sat, 20 Sep 2025 05:30:00 +0200",
           "description": "För ett år sedan hade Josefine Motin, 30, ont varje dag – och hela livet styrdes av närheten till en toalett. Nu har hon opererats och fått en stomipåse. – Den har gett mig livet tillbaka, säger hon."
-        },
-        {
-          "title": "Vill korta kötiderna till operationer på Nus – med hjälp av AI",
-          "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/vill-korta-kotiderna-till-operationer-pa-nus-med-hjalp-av-ai",
-          "published": "Sat, 20 Sep 2025 05:30:00 +0200",
-          "description": "Forskare vill se om det går att korta köerna till operationer på Norrlands universitetssjukhus – med hjälp av AI. Tanken är att AI ska hjälpa till med att planera när operationer ska göras. – I den bästa av världar kan man öka produktionen, alltså hjälpa fler patienter, säger doktorand Sara Lundsten."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
+          "title": "Mordförsök på man – två gripna",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a4c5a321-9bbc-4321-a271-9b2b11d2a214",
+          "published": "Sat, 20 Sep 2025 07:22:41 +0200",
+          "description": "Misstänkt mordförsök i Vänersborg"
+        },
+        {
+          "title": "Barn brann inne när Teslans bildörrar inte öppnades",
+          "link": "https://www.expressen.se/nyheter/varlden/barn-brann-inne-nar-teslans-bildorrar-inte-oppnades/",
+          "published": "Sat, 20 Sep 2025 07:17:28 +0200",
+          "description": "En man och två barn brändes inne i en Tesla efter en våldsam krasch i tyska Schwerte.En butiksägare försökte rädda dem – men dörrhandtagen gick inte att öppna.– Jag kunde inte göra något, säger han till tyska Ruhr Nachrichten."
+        },
+        {
           "title": "Pojke rånad av män på elspark",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=191da3e0-9113-46c1-8a13-36823bb9166f",
           "published": "Sat, 20 Sep 2025 07:02:01 +0200",
           "description": "Pojke blev av med personliga tillhörigheter"
-        },
-        {
-          "title": "Trumps krigsplan: Förhandla med talibanerna",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/trumps-plan-forhandla-med-talibanerna",
-          "published": "Sat, 20 Sep 2025 06:57:07 +0200",
-          "description": "Trumps krigsdrag • Vill ha tillbaka omtalade basen"
-        },
-        {
-          "title": "Trump efter kränkningen i Estland: Stora problem",
-          "link": "https://www.expressen.se/nyheter/varlden/trump-efter-krankningen-i-estland-stora-problem/",
-          "published": "Sat, 20 Sep 2025 06:49:48 +0200",
-          "description": "”Stora problem”.Det kan bli konsekvensen efter att ryska stridsplan kränkt Estlands luftrum i tolv minuter, enligt Donald Trump.– Jag gillar det inte, säger han. "
         }
       ]
     }
