@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-20T07:08:46.135087Z",
+  "lastUpdated": "2025-09-20T07:32:04.210912Z",
   "feeds": [
     {
       "url": {
@@ -98,6 +98,12 @@
       },
       "items": [
         {
+          "title": "Zelenskyj: En massiv attack",
+          "link": "https://www.aftonbladet.se/nyheter/a/QMQo6R/zelenskyj-en-massiv-attack?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 07:16:17 GMT",
+          "description": "Flera har dödats eller skadats i attacker mot ukrainska regioner under natten mot lördagen, uppger landets president…"
+        },
+        {
           "title": "Jordskalv utanför Skellefteå: ”Huset skakade”",
           "link": "https://www.aftonbladet.se/nyheter/a/Avjdwr/jordskalv-utanfor-skelleftea-huset-skakade?utm_medium=rss",
           "published": "Sat, 20 Sep 2025 06:45:45 GMT",
@@ -108,12 +114,6 @@
           "link": "https://www.aftonbladet.se/nyheter/a/RzvRer/fn-toppen-om-svalten-i-gaza-forfarligt?utm_medium=rss",
           "published": "Sat, 20 Sep 2025 06:45:40 GMT",
           "description": "De hjälpsändningar med mat som når svältdrabbade Gaza är långt ifrån tillräckliga och de kan inte längre delas ut under…"
-        },
-        {
-          "title": "Smittad styrka sprider skräck i ”ödesstriderna”",
-          "link": "https://www.aftonbladet.se/nyheter/a/Oownv3/smittad-rysk-styrka-sprider-skrack-i-odesstriderna?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 06:39:17 GMT",
-          "description": "PLUS De hivsmittade bär röda armband. Andra svårt infekterade har vita. Nu har de försökt ta sig in i en belägrad…"
         }
       ]
     },
@@ -133,13 +133,13 @@
           "title": "Turisthotell utrymda",
           "link": "https://www.expressen.se/tv/nyheter/varlden/lyxhotell-utrymda-efter-megabranden",
           "published": "Sat, 20 Sep 2025 08:51:43 +0200",
-          "description": "Megabranden sprider sig i Alanya • Se infernot som slukade bostäder i natt"
+          "description": "Megabranden sprider sig i turistparadiset • Se infernot"
         },
         {
           "title": "Jordskalv utanför Skellefteå",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=cebfe6c5-7e64-4f72-93e6-f9e3eb3bba90",
           "published": "Sat, 20 Sep 2025 08:46:30 +0200",
-          "description": "”Skakade till i hela vårt hus” • Registrerades utanför Skellefteå"
+          "description": "”Skakade till i hela vårt hus”"
         }
       ]
     }
