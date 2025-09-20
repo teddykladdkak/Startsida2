@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-20T12:20:08.506568Z",
+  "lastUpdated": "2025-09-20T14:09:19.192431Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,18 @@
       },
       "items": [
         {
+          "title": "Han blev vittne till attacken: ”Hörde ett jätteskrik”",
+          "link": "https://www.svt.se/nyheter/inrikes/han-blev-vittne-till-attacken-horde-ett-jatteskrik",
+          "published": "Sat, 20 Sep 2025 16:02:42 +0200",
+          "description": "En person har dött i en attack under lördagseftermiddagen i Nordanstigs kommun. En bit bort från händelsen pågick en fotbollsmatch och Pher Andersson hörde attacken."
+        },
+        {
+          "title": "Alexander Isak inbytt i Liverpools derbyseger",
+          "link": "https://www.svt.se/sport/fotboll/alexander-isak-inbytt-i-liverpools-derbyseger",
+          "published": "Sat, 20 Sep 2025 15:58:20 +0200",
+          "description": "Alexander Isak blev inbytt när Liverpool vann lördagens Premier League-derbyt mot Everton med 2–1. Men den svenske landslagsanfallaren får vänta på sitt första mål för klubben."
+        },
+        {
           "title": "Israelisk reservist strider i Gaza – protesterar nu mot kriget",
           "link": "https://www.svt.se/nyheter/utrikes/israelisk-reservist-strider-i-gaza-protesterar-nu-mot-kriget",
           "published": "Sat, 20 Sep 2025 13:25:38 +0200",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/jordskalv-utanfor-skelleftea-magnitud-pa-25-som-om-en-bil-kort-in-i-vaggen",
           "published": "Sat, 20 Sep 2025 11:24:19 +0200",
           "description": "Ett jordskalv inträffade under fredagskvällen väster om Skellefteå. Magnituden uppmättes till 2,5 på Richterskalan. – Det kändes som att något rasade, eller att hästarna har rymt, säger Jonas Gustavsson som bor i Krångfors, nära skalvets epicentrum."
-        },
-        {
-          "title": "Boende på Rosengård inrymdes – farligt föremål i trappuppgång",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/boende-i-rosengard-inrymda-farligt-foremal-i-trappuppgang",
-          "published": "Sat, 20 Sep 2025 10:57:31 +0200",
-          "description": "Det misstänkt farliga föremål som hittats i en trappuppgång på Rosengård i Malmö ska ha varit en handgranat, meddelar polisen. Boende fick inrymmas."
-        },
-        {
-          "title": "Stenterrassen Södermalmstorg får träd, buskar och lökar",
-          "link": "https://www.svt.se/nyheter/lokalt/stockholm/se-nar-traden-planteras-pa-sodermalmstorg",
-          "published": "Sat, 20 Sep 2025 10:30:01 +0200",
-          "description": "Bakom ett stängsel fylls Södermalmstorg just nu med växtlighet. Totalt är det 28 träd, 50 buskar, 3 000 perenner och 9 000 blomsterlökar som ska planteras. – Det går en tunnelbana under den öppna stenterrassen så vi måste ha tåliga träd och buskar som klarar torka, säger Sofia Eskilsdotter, landskapsarkitekt."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Större attacker mot Ukraina – räcker luftvärnet?",
-          "link": "https://www.aftonbladet.se/nyheter/a/B0olje/storre-attacker-mot-ukraina-racker-luftvarnet?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 12:00:29 GMT",
-          "description": "Rysslands nattliga bombräder mot civila mål i Ukraina bara ökar. Med tusentals drönare och robotar i överljudsfart har…"
+          "title": "Fyra ryssar döda efter drönarattack från Ukraina",
+          "link": "https://www.aftonbladet.se/nyheter/a/0VPK9A/fyra-ryssar-doda-efter-dronarattack-fran-ukraina?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 13:22:43 GMT",
+          "description": "Rysslands massiva attack med robotar och drönare mot Ukraina under natten mot lördagen fick svar från Ukraina, i form av…"
         },
         {
-          "title": "SD:s ändring i kyrkovalet – uteslöt abort i manifest",
-          "link": "https://www.aftonbladet.se/nyheter/a/W0w42d/kyrkovalet-2025-sd-andrade-i-manifest-tog-bort-abort?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 11:57:54 GMT",
-          "description": "”Abort – en debatt som kyrkan ska vara en naturlig del av”. Så lät det i en första version av SD:s valmanifest – som…"
+          "title": "Ambulanspersonal dödad i tjänst",
+          "link": "https://www.aftonbladet.se/nyheter/a/qPGAJe/ambulanspersonal-har-dodats-i-nordanstig-ung-man-gripen?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 13:21:09 GMT",
+          "description": "En personal från ambulansen har dödats i Nordanstig. En man i 25-årsåldern är gripen misstänkt för mord."
         },
         {
-          "title": "Sjukhuschef i Gaza stad: Tog emot min brors kropp",
-          "link": "https://www.aftonbladet.se/nyheter/a/dR6lmA/sjukhuschef-i-gaza-stad-tog-emot-min-brors-kropp?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 11:48:15 GMT",
-          "description": "Minst 14 personer har dödats i nattliga attacker mot Gaza stad, uppger sjukvårdskällor för nyhetsbyrån AP."
+          "title": "Larmar om anarki och kaos i Gaza: Sopor och avföring flyter runt",
+          "link": "https://www.aftonbladet.se/nyheter/a/rPkAKe/larmar-om-anarki-och-kaos-i-gaza-sopor-och-avforing-flyter-runt?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 12:43:49 GMT",
+          "description": "Överfulla tältläger, tusentals föräldralösa barn och civila som plundrar hjälpsändningar i en desperat jakt på mat."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Blodregn från Sahara på väg mot Danmark",
-          "link": "https://www.expressen.se/nyheter/varlden/blodregn-fran-sahara-pa-vag-mot-danmark/",
-          "published": "Sat, 20 Sep 2025 14:01:52 +0200",
-          "description": "”Blodregn” från Sahara väntas dra in över Danmark under lördagskvällen, rapporterar Ekstrabladet.Det väntas lägga sig som en tunt lager sand. "
+          "title": "Gripen på flygplats – misstänka utlösare för sprängladdningar",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=875020c3-17d3-4b24-a739-b5232bf5b4b1",
+          "published": "Sat, 20 Sep 2025 16:00:14 +0200",
+          "description": "Hade misstänkta bombutlösare på Dublins flygplats"
         },
         {
-          "title": "SAS-plan har nödlandat",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=39ea3862-7b87-4e34-8e98-0e41f1c58658",
-          "published": "Sat, 20 Sep 2025 13:53:19 +0200",
-          "description": "Var på väg till Sverige • Sjukdomsfall"
+          "title": "Kvinna gripen för misshandel",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=863218fa-1ba5-49db-a031-2d4e6df5c6d5",
+          "published": "Sat, 20 Sep 2025 15:49:24 +0200",
+          "description": "Misstänkt grov misshandel i Kiruna"
         },
         {
-          "title": "Paniken – när utpekade Maddie-mördaren släppts",
-          "link": "https://www.expressen.se/nyheter/varlden/paniken-nar-utpekade-maddie-mordaren-slappts/",
-          "published": "Sat, 20 Sep 2025 13:43:32 +0200",
-          "description": "Maddie McCanns utpekade mördare Christian Brückner har släppts ur fängelse.Föräldrar i den tyska staden där han registrerats som hemlös har panik, rapporterar Daily Express. – Vi är livrädda, säger en deltagare på ett möte med kommunen. "
+          "title": "Ambulanspersonal dödad i Nordanstig – misstänkt mord",
+          "link": "https://www.expressen.se/nyheter/sverige/ambulanspersonal-dodad-i-nordanstig-misstankt-mord/",
+          "published": "Sat, 20 Sep 2025 15:32:46 +0200",
+          "description": "En ambulanspersonal har dödats i ett överfall i Harmånger i Nordanstig kommun. En man i 25-årsåldern har gripits misstänkt för mord. "
         }
       ]
     }
