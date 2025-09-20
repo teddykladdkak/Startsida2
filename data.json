@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-20T08:39:30.587692Z",
+  "lastUpdated": "2025-09-20T09:09:28.355510Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "Boende på Rosengård inrymda – farligt föremål i trappuppgång",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/boende-i-rosengard-inrymda-farligt-foremal-i-trappuppgang",
+          "published": "Sat, 20 Sep 2025 10:57:31 +0200",
+          "description": "Ett misstänkt farligt föremål har hittats i en trappuppgång på Rosengård i Malmö. Boende har inrymts i sina lägenheter och nationella bombskyddet är påväg till platsen."
+        },
+        {
           "title": "Stenterrassen Södermalmstorg får träd, buskar och lökar",
           "link": "https://www.svt.se/nyheter/lokalt/stockholm/se-nar-traden-planteras-pa-sodermalmstorg",
           "published": "Sat, 20 Sep 2025 10:30:01 +0200",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/vast/kedjehus-i-ale-borjade-brinna",
           "published": "Sat, 20 Sep 2025 07:06:42 +0200",
           "description": "Det började under natten brinna i tre bostäder i en kedjehuslänga i Nol."
-        },
-        {
-          "title": "Stor brand på Hells Angels gård utanför Göteborg",
-          "link": "https://www.svt.se/nyheter/lokalt/vast/stor-brand-pa-hells-angels-gard-utanfor-goteborg",
-          "published": "Sat, 20 Sep 2025 06:22:52 +0200",
-          "description": "Ett misstänkt farligt föremål hittades strax före 10 på lördagsmorgonen vid entrén till Hells Angels lokal i Gunnilse norr om Göteborg. Under natten brann byggnaden ner."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Boende på Rosengård inrymda – farligt föremål i trappuppgång",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/boende-i-rosengard-inrymda-farligt-foremal-i-trappuppgang",
+          "published": "Sat, 20 Sep 2025 10:57:31 +0200",
+          "description": "Ett misstänkt farligt föremål har hittats i en trappuppgång på Rosengård i Malmö. Boende har inrymts i sina lägenheter och nationella bombskyddet är påväg till platsen."
+        },
         {
           "title": "Textillagen ändras igen – folk bryter mot den",
           "link": "https://www.svt.se/nyheter/lokalt/skane/textillagen-andras-igen-for-att-folk-brot-mot-den",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/varg-skots-ihjal-i-hassleholm-forsokte-attackera-far",
           "published": "Fri, 19 Sep 2025 18:26:19 +0200",
           "description": "Skytten avlossade flera varningsskott, men var till sist tvungen att döda vargen, enligt länsstyrelsens utredning. Vargen skickas nu på DNA-analys."
-        },
-        {
-          "title": "Här vill de skapa gravplats för MFF-supportrar",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/har-vill-de-skapa-gravplats-for-mff-supportrar",
-          "published": "Fri, 19 Sep 2025 14:53:23 +0200",
-          "description": "”Ända till graven är jag himmelsblå”, så sjunger Malmö FF:s supportrar. Nu vill de kunna begravas tillsammans på en minnesplats på Gamla kyrkogården i Malmö. Det föreslår Markus Krook och Rickard Lagerström från Centerpartiet."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Cyberattack riktad mot flera flygplatser",
-          "link": "https://www.aftonbladet.se/nyheter/a/KMd356/cyberattack-riktad-mot-flera-flygplatser?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 07:55:37 GMT",
-          "description": "En stor cyberattack har riktats mot flera flygplatser runtom i Europa."
+          "title": "S kräver klimatministerns avgång",
+          "link": "https://www.aftonbladet.se/nyheter/a/PpK9M6/s-kraver-klimatministerns-avgang?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 09:05:32 GMT",
+          "description": "Sverige ser ut att missa EU:s klimatmål till 2030. Socialdemokraterna kräver nu att klimat- och miljöminister Romina…"
         },
         {
-          "title": "Zelenskyj: En massiv attack",
-          "link": "https://www.aftonbladet.se/nyheter/a/QMQo6R/zelenskyj-en-massiv-attack?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 07:16:17 GMT",
-          "description": "Flera har dödats eller skadats i attacker mot ukrainska regioner under natten mot lördagen, uppger landets president…"
+          "title": "FN:s havsavtal ratificerat – blir lag nästa år",
+          "link": "https://www.aftonbladet.se/nyheter/a/4Byq9R/fn-s-havsavtal-ratificerat-blir-lag-nasta-ar?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 08:55:21 GMT",
+          "description": "FN:s djuphavsavtal har ratificerats av 60 länder, vilket betyder att det blir internationell lag efter årsskiftet."
         },
         {
-          "title": "Jordskalv utanför Skellefteå: ”Huset skakade”",
-          "link": "https://www.aftonbladet.se/nyheter/a/Avjdwr/jordskalv-utanfor-skelleftea-huset-skakade?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 06:45:45 GMT",
-          "description": "Ett jordskalv inträffade under fredagskvällen väster om Skellefteå. Magnituden uppmättes till 2,5…"
+          "title": "Misstänkt farligt föremål i trapphus i Malmö",
+          "link": "https://www.aftonbladet.se/nyheter/a/5E90xb/misstankt-farligt-foremal-i-trapphus-i-malmo?utm_medium=rss",
+          "published": "Sat, 20 Sep 2025 08:53:00 GMT",
+          "description": "Polisen är på plats i stadsdelen Rosengård i Malmö efter att ett misstänkt farligt föremål hittats i en trappuppgång…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
+          "title": "Boende inrymda",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=dfc9d50b-eb2a-4239-a41d-021a8f218072",
+          "published": "Sat, 20 Sep 2025 10:46:03 +0200",
+          "description": "Farligt föremål i Malmö"
+        },
+        {
+          "title": "Sydkorea nobbar USA efter massgripandet i Georgia",
+          "link": "https://www.expressen.se/nyheter/varlden/sydkorea-nobbar-usa-efter-massgripandet-i-georgia/",
+          "published": "Sat, 20 Sep 2025 10:41:09 +0200",
+          "description": "300 sydkoreaner greps i ett tillslag mot en Hyundaifabrik i Georgia i början av september.Nu är relationen länderna emellan frostigare än kanske någonsin tidigare – där många sydkoreaner avbokar planerade flygresor till USA."
+        },
+        {
           "title": "Omfattande cyberattack mot flygplatser i Europa",
           "link": "https://www.expressen.se/nyheter/varlden/omfattande-cyberattack-mot-flygplatser-i-europa/",
           "published": "Sat, 20 Sep 2025 09:58:46 +0200",
-          "description": "En cyberattack har orsakat omfattande störningar i inchecknings- och boardingsystemen på flera europeiska flygplatser, rapporterar bland annat Independent."
-        },
-        {
-          "title": "Kaos på flera flygplatser i Europa",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9b99a615-2760-4a8e-8d00-463dbd4233a3",
-          "published": "Sat, 20 Sep 2025 09:52:51 +0200",
-          "description": "Cyberattack"
-        },
-        {
-          "title": "Planen mot Putin – ny drönarmur",
-          "link": "https://www.expressen.se/nyheter/varlden/planen-mot-putin-ny-dronarmur/",
-          "published": "Sat, 20 Sep 2025 08:53:01 +0200",
-          "description": "Fyra ryska kränkningar mot tre Natoländer på nio dagar.Läget längs med alliansens östra flank är extremt spänt.Nu kan en europeisk ”drönarmur” mot Ryssland vara nära."
+          "description": "En cyberattack har orsakat omfattande störningar i inchecknings- och boardingsystemen på flera europeiska flygplatser, rapporterar bland annat Independent.Svenska flygplatser har inte påverkats.– Trafiken flyter på som vanligt, säger Swedavias presschef David Carlsson."
         }
       ]
     }
