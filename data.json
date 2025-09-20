@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T23:32:14.835471Z",
+  "lastUpdated": "2025-09-20T00:43:11.884328Z",
   "feeds": [
     {
       "url": {
@@ -98,6 +98,12 @@
       },
       "items": [
         {
+          "title": "USA har attackerat ytterligare en ”knarkbåt”",
+          "link": "https://www.aftonbladet.se/nyheter/a/VzWb46/usa-har-attackerat-ytterligare-en-knarkbat?utm_medium=rss",
+          "published": "Fri, 19 Sep 2025 23:54:09 GMT",
+          "description": "USA har återigen attackerat ett fartyg på väg mot USA med förmodad narkotika ombord, uppger president Donald Trump…"
+        },
+        {
           "title": "Trump: Minst 32 ur gisslan döda",
           "link": "https://www.aftonbladet.se/nyheter/a/1MmnvW/trump-minst-32-ur-gisslan-doda?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 23:05:42 GMT",
@@ -108,12 +114,6 @@
           "link": "https://www.aftonbladet.se/nyheter/a/jQod0n/ryssland-fornekar-krankning?utm_medium=rss",
           "published": "Fri, 19 Sep 2025 22:25:59 GMT",
           "description": "Ryssland förnekar att de ska ha kränkt Estlands luftrum."
-        },
-        {
-          "title": "Portugal ska erkänna Palestina",
-          "link": "https://www.aftonbladet.se/nyheter/a/zAvGAv/portugal-ska-erkanna-palestina?utm_medium=rss",
-          "published": "Fri, 19 Sep 2025 22:16:01 GMT",
-          "description": "Portugal kommer att erkänna en självständig palestinsk stat på söndag, meddelar landets utrikesdepartement."
         }
       ]
     },
@@ -132,7 +132,7 @@
         {
           "title": "Historiskt fiasko för  ikoniska universitet",
           "link": "https://www.expressen.se/nyheter/varlden/historiskt-fiasko-for--ikoniska-universitet/",
-          "published": "Sat, 20 Sep 2025 01:03:38 +0200",
+          "published": "Sat, 20 Sep 2025 01:03:36 +0200",
           "description": "Oxford och Cambridge är två av Storbritanniens mest kända och prestigefyllda universitet.Men nu har båda för första gången någonsin fallit utanför topp tre i en prestigefylld lista över Storbritanniens bästa universitet, skriver Daily Mail."
         },
         {
