@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-20T03:41:52.788486Z",
+  "lastUpdated": "2025-09-20T04:11:43.353949Z",
   "feeds": [
     {
       "url": {
@@ -124,22 +124,22 @@
       },
       "items": [
         {
+          "title": "Explosioner i Ryssland",
+          "link": "https://www.expressen.se/tv/nyheter/varlden/explosioner-pa-oljeanlaggning-",
+          "published": "Sat, 20 Sep 2025 05:55:02 +0200",
+          "description": "Flygplats stängde • Se attacken 60 mil från gränsen"
+        },
+        {
+          "title": "Brand i kedjehus i Ale",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=fc310835-7b8c-4b0b-84bd-e24c4f72632f",
+          "published": "Sat, 20 Sep 2025 05:49:56 +0200",
+          "description": "Större insats i Ale"
+        },
+        {
           "title": "Putin ökar pressen – fyra kränkningar på kort tid: ”Hot”",
           "link": "https://www.expressen.se/nyheter/varlden/putin-okar-pressen-fyra-krankningar-pa-kort-tid-hot/",
           "published": "Sat, 20 Sep 2025 05:23:12 +0200",
           "description": "Kränkningar, desinformationskampanjer och hätska utspel.Den senaste tiden har Ryssland trappat upp både sina provokationer och sitt tonläge mot Nato och väst. ”Detta visar med all tydlighet att Ryssland är ett hot inte bara mot Ukraina, utan mot hela Europas säkerhet”, säger utrikesminister Maria Malmer Stenergard i ett uttalande."
-        },
-        {
-          "title": "Brand i Hells Angels klubblokal",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a3791455-e779-4cf2-81f9-26da133d0657",
-          "published": "Sat, 20 Sep 2025 05:12:28 +0200",
-          "description": "Fullt utvecklad brand i Gunnilse • Utreds som mordbrand"
-        },
-        {
-          "title": "Tage och Viktor, 19, blåsta  på drömjobbet i Marbella",
-          "link": "https://www.expressen.se/nyheter/sverige/tage-och-viktor-19-blasta--pa-dromjobbet-i-marbella-/",
-          "published": "Sat, 20 Sep 2025 05:00:00 +0200",
-          "description": "Unga lovas jobb, äventyr och hjälp med arbetstillstånd och bostad i Marbella.Men väl på plats upplevde 19-åringarna Tage, Aylin och Viktor att de blev blåsta av det svenska telemarketingbolaget. – Boendet sög, det kändes som att företaget ville att vi skulle lura de svenska kunderna och vi fick ingen lön, berättar Tage. ✓ Kackerlackor, trasigt kök, ingen luftkonditionering.✓ Husbilslögnen.✓ Svenske vd:n: ”Arbetet som säljare passar inte alla.”"
         }
       ]
     }
