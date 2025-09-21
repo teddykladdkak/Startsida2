@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-21T16:12:02.112052Z",
+  "lastUpdated": "2025-09-21T18:14:26.121473Z",
   "feeds": [
     {
       "url": {
@@ -28,10 +28,22 @@
       },
       "items": [
         {
+          "title": "Minnesstund för Charlie Kirk – SVT liverapporterar",
+          "link": "https://www.svt.se/nyheter/utrikes/minnesstund-for-charlie-kirk-svt-liverapporterar",
+          "published": "Sun, 21 Sep 2025 19:53:13 +0200",
+          "description": "Över 100 000 personer väntas närvara vid minnesgudstjänst för högerprofilen Charlie Kirk som sköts till döds under en debatt på ett universitet i Utah den den 10 september. Följ SVT:s liverapportering från gudstjänsten."
+        },
+        {
           "title": "Storbritannien, Kanada och Australien erkänner Palestina",
           "link": "https://www.svt.se/nyheter/utrikes/storbritannien-kanada-och-australien-erkanner-palestina",
           "published": "Sun, 21 Sep 2025 16:56:56 +0200",
           "description": "På söndagen meddelade ledarna för Storbritannien, Kanada och Australien att de formellt erkänner Palestina som en självständig stat. I samband med FN:s generalförsamling i New York nästa vecka väntas ytterligare tio länder erkänna en palestinsk stat – med målet att möjliggöra en tvåstatslösning utan Hamas."
+        },
+        {
+          "title": "Omfattande brand på HVB-hem utanför Nordingrå – två personer gripna",
+          "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/omfattande-brand-utanfor-nordingra-raddningstjanst-pa-plats",
+          "published": "Sun, 21 Sep 2025 16:42:41 +0200",
+          "description": "Brandkåren jobbar med kraftiga bränder i två byggnader i Järesta. Byggnaderna ska höra till ett HVB-hem."
         },
         {
           "title": "Efter ambulansfackets kritik: ”Flaggning” av adresser ska ses över",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/polis-slarvade-bort-magasin-med-patroner-nu-varnas-hon",
           "published": "Sun, 21 Sep 2025 11:29:07 +0200",
           "description": "En polis verksam i Polismyndigheten region Nord har tilldelats en varning. Detta sedan hon glömt två magasin med ammunition på en polisbils tak – och åkt i väg."
-        },
-        {
-          "title": "Brand i flerfamiljshus i Kungälv – tre till sjukhus",
-          "link": "https://www.svt.se/nyheter/lokalt/vast/brand-i-flerfamiljshus-i-kungalv-tre-till-sjukhus",
-          "published": "Sun, 21 Sep 2025 10:28:42 +0200",
-          "description": "En man i 40-årsåldern är allvarligt skadad efter en brand i ett flerfamiljshus i Kungälv under söndagsmorgonen."
-        },
-        {
-          "title": "Nu öppnar vallokalerna i kyrkovalet",
-          "link": "https://www.svt.se/nyheter/inrikes/nu-oppnar-vallokalerna-i-kyrkovalet",
-          "published": "Sun, 21 Sep 2025 07:45:15 +0200",
-          "description": "I dag klockan 08.00 öppnade de första vallokalerna för Svenska kyrkans över 4,5 miljoner medlemmar. Följ SVT:s livesändning klockan 12.30 där vi besöker flera vallokaler i landet och får höra olika experter."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Attackerade ambulanspersonal bara dagar tidigare",
-          "link": "https://www.aftonbladet.se/nyheter/a/AvjLxx/attackerade-ambulanspersonal-bara-dagar-tidigare?utm_medium=rss",
-          "published": "Sun, 21 Sep 2025 16:02:57 GMT",
-          "description": "Bara två dagar före dådet i Nordanstig hotade den misstänkte gärningsmannen annan ambulanspersonal med ett…"
+          "title": "Kirks minnesstund med Trump lockar tusentals",
+          "link": "https://www.aftonbladet.se/nyheter/a/MnzLBR/kirks-minnesstund-med-trump-lockar-tusentals?utm_medium=rss",
+          "published": "Sun, 21 Sep 2025 18:06:53 GMT",
+          "description": "USA:s president Donald Trump hedrar tillsammans med andra framstående ”Make america great again”-profiler den mördade…"
         },
         {
-          "title": "Över 40 dödade i Gaza – Israel utökar offensiv",
-          "link": "https://www.aftonbladet.se/nyheter/a/25E8PR/over-40-dodade-i-gaza-israel-utokar-offensiv?utm_medium=rss",
-          "published": "Sun, 21 Sep 2025 15:35:46 GMT",
-          "description": "Minst 40 människor har dödats när Israel fortsätter sin omfattande beskjutning av Gaza."
+          "title": "Handgranat vid lekpark – bombskyddet på plats",
+          "link": "https://www.aftonbladet.se/nyheter/a/25E8gq/handgranat-vid-lekpark-bombskyddet-pa-plats?utm_medium=rss",
+          "published": "Sun, 21 Sep 2025 17:29:19 GMT",
+          "description": "Nationella bombskyddet är på plats vid en lekpark i Västerås där en handgranat hittats. Boende i närheten har inrymts."
         },
         {
-          "title": "Jimmie tog emot skadade kollega på sjukhuset",
-          "link": "https://www.aftonbladet.se/nyheter/a/XjPqbg/nordanstig-harmanger-jimmie-tog-emot-skadade-kollegan-pa-akuten?utm_medium=rss",
-          "published": "Sun, 21 Sep 2025 15:34:45 GMT",
-          "description": "HARMÅNGER. Jimmie Prahl arbetade på sjukhuset när han tog emot sin skadade kollega – och vän."
+          "title": "Stor demonstration för Gaza i Göteborg – protesttåg fyllde Avenyn",
+          "link": "https://www.aftonbladet.se/nyheter/a/3Mr4RM/stor-demonstration-for-gaza-i-goteborg-regeringen-kritiserass?utm_medium=rss",
+          "published": "Sun, 21 Sep 2025 17:16:50 GMT",
+          "description": "GÖTEBORG. Motorcyklar, mindre lastbilar – och tusentals demonstranter."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "HVB-hem har brunnit ner i Kramfors kommun",
-          "link": "https://www.expressen.se/nyheter/sverige/hvb-hem-har-brunnit-ner-i-kramfors-kommun/",
-          "published": "Sun, 21 Sep 2025 17:54:55 +0200",
-          "description": "Ett HVB-hem har brunnit ner i Kramfors kommun.– Vi har fortfarande patruller som arbetar på platsen, säger RLC-befälet på region norr.Ingen person ska ha skadats i branden."
+          "title": "Finska beskedet: Måste vara redo för krig",
+          "link": "https://www.expressen.se/nyheter/varlden/finska-beskedet-maste-vara-redo-for-krig/",
+          "published": "Sun, 21 Sep 2025 20:00:05 +0200",
+          "description": "Säkerhetsgarantier för Ukraina måste innebära att man är redo att gå in i krig mot Ryssland.Det menar Finlands president Alexander Stubb.– Säkerhetsgarantier är i grunden en avskräckande faktor, och den avskräckande faktorn måste vara trovärdig, säger han till The Guardian. "
         },
         {
-          "title": "Trump lovar att försvara Baltikum mot kränkningar",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2efc743f-bde8-43f8-8a33-c22d497c1573",
-          "published": "Sun, 21 Sep 2025 17:24:30 +0200",
-          "description": "Ska försvaras mot ryska kränkningar"
+          "title": "Polisinsats vid kyrka",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=35028fc6-81d3-4392-86e5-81c409720964",
+          "published": "Sun, 21 Sep 2025 19:40:08 +0200",
+          "description": "Polisinsats i västra Stockholm"
         },
         {
-          "title": "Marion försvann –  har hittats efter 51 år",
-          "link": "https://www.expressen.se/nyheter/varlden/marion-forsvann-har-hittats-efter-51-ar/",
-          "published": "Sun, 21 Sep 2025 17:12:03 +0200",
-          "description": "21-åriga Marion McWhorter försvann 1974.51 år senare fick hennes lillasyster beskedet att Marion hittats.– Jag glömde henne aldrig, säger systern Valerie till CBS News."
+          "title": "SR-kvinnan Baraa Lafi tackade Hamastoppen",
+          "link": "https://www.expressen.se/nyheter/sverige/sr-kvinnan-baraa-lafi-tackade-hamastoppen/",
+          "published": "Sun, 21 Sep 2025 19:03:01 +0200",
+          "description": "Sveriges Radio avslutar samarbetet med den Gaza-baserade journalisten Baraa Lafi, rapporterar Doku.Beskedet kommer efter sajtens avslöjande att Lafi samarbetat med en högt uppsatt Hamastjänsteman och lett bojkottkampanjer mot Israel.”De uppgifter Doku nu har tagit fram var nya för oss – vilket de förstås inte borde ha varit”, skriver Anders Pontara, utrikeschef på ”Ekot”, till Doku."
         }
       ]
     }
