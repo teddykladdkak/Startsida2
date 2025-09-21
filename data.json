@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-21T14:08:59.512222Z",
+  "lastUpdated": "2025-09-21T16:12:02.112052Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "Storbritannien, Kanada och Australien erkänner Palestina",
+          "link": "https://www.svt.se/nyheter/utrikes/storbritannien-kanada-och-australien-erkanner-palestina",
+          "published": "Sun, 21 Sep 2025 16:56:56 +0200",
+          "description": "På söndagen meddelade ledarna för Storbritannien, Kanada och Australien att de formellt erkänner Palestina som en självständig stat. I samband med FN:s generalförsamling i New York nästa vecka väntas ytterligare tio länder erkänna en palestinsk stat – med målet att möjliggöra en tvåstatslösning utan Hamas."
+        },
+        {
           "title": "Efter ambulansfackets kritik: ”Flaggning” av adresser ska ses över",
           "link": "https://www.svt.se/nyheter/lokalt/gavleborg/efter-ambulansfackets-kritik-flaggning-av-adresser-ska-ses-over",
           "published": "Sun, 21 Sep 2025 12:21:44 +0200",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/nyheter/inrikes/nu-oppnar-vallokalerna-i-kyrkovalet",
           "published": "Sun, 21 Sep 2025 07:45:15 +0200",
           "description": "I dag klockan 08.00 öppnade de första vallokalerna för Svenska kyrkans över 4,5 miljoner medlemmar. Följ SVT:s livesändning klockan 12.30 där vi besöker flera vallokaler i landet och får höra olika experter."
-        },
-        {
-          "title": "Tonåring knivskuren vid hemmafest i Mönsterås – sex misstänkta för mordförsök",
-          "link": "https://www.svt.se/nyheter/lokalt/smaland/tonaring-knivskuren-fem-gripna-for-mordforsok-i-monsteras",
-          "published": "Sun, 21 Sep 2025 06:57:43 +0200",
-          "description": "En tonåring har knivskurits vid ett bråk på en hemmafest i Mönsterås. Sex personer misstänks för mordförsök och fem har gripits. Polisen utreder händelsen. – Det dyker upp ett flertal oinbjudna personer, och när man försöker förmå dem att lämna uppstår bråk och målsägande får skadorna, säger Sara Andersson, presstalesperson vid polisen."
         }
       ]
     },
@@ -78,7 +78,7 @@
           "description": "En helt vanlig dag i Lund riktas plötsligt blickarna mot en händelse på Domkyrkoplatsen. En man tycks röra sig fram och tillbaka med en liten skugga efter sig, en efterhängsen ekorre."
         },
         {
-          "title": "90-åriga Waltraud har fast anställning inom hemtjänsten",
+          "title": "90-åriga Waltraud jobbar extra inom hemtjänsten",
           "link": "https://www.svt.se/nyheter/lokalt/skane/90-ariga-waltraud-har-fast-anstallning-inom-hemtjansten",
           "published": "Sun, 21 Sep 2025 05:30:06 +0200",
           "description": "90-åriga Waltraud Rothman i Skanör gick i pension men började jobba igen, som vårdbiträde inom hemtjänsten. – Jag var pensionär i några månader men tycker det är roligt att jobba och hjälpa till, säger hon."
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Svenske Eddie, 30, på plats för att ta farväl av Kirk: ”Overkligt”",
-          "link": "https://www.aftonbladet.se/nyheter/a/QMQmnW/svenske-eddie-30-pa-plats-for-att-ta-farval-av-kirk?utm_medium=rss",
-          "published": "Sun, 21 Sep 2025 13:30:25 GMT",
-          "description": "PHOENIX, ARIZONA. Nära hundratusen personer samlas i kväll på en arena i Arizona för att ta farväl av högerprofilen…"
+          "title": "Attackerade ambulanspersonal bara dagar tidigare",
+          "link": "https://www.aftonbladet.se/nyheter/a/AvjLxx/attackerade-ambulanspersonal-bara-dagar-tidigare?utm_medium=rss",
+          "published": "Sun, 21 Sep 2025 16:02:57 GMT",
+          "description": "Bara två dagar före dådet i Nordanstig hotade den misstänkte gärningsmannen annan ambulanspersonal med ett…"
         },
         {
-          "title": "Uppgifter: Attackerade ambulanspersonal med basebollträ före mordet",
-          "link": "https://www.aftonbladet.se/nyheter/a/QMQmGR/uppgifter-attackerade-ambulanspersonal-med-basebolltra-fore-mordet?utm_medium=rss",
-          "published": "Sun, 21 Sep 2025 13:16:37 GMT",
-          "description": "Mannen som misstänks för mordet i Harmånger slog i onsdags en ambulanspersonal med basebollträ, enligt Aftonbladets…"
+          "title": "Över 40 dödade i Gaza – Israel utökar offensiv",
+          "link": "https://www.aftonbladet.se/nyheter/a/25E8PR/over-40-dodade-i-gaza-israel-utokar-offensiv?utm_medium=rss",
+          "published": "Sun, 21 Sep 2025 15:35:46 GMT",
+          "description": "Minst 40 människor har dödats när Israel fortsätter sin omfattande beskjutning av Gaza."
         },
         {
-          "title": "”Lugnt och odramatiskt samtal” före ambulansdåd",
-          "link": "https://www.aftonbladet.se/nyheter/a/jQoaPn/lugnt-och-odramatiskt-samtal-innan-ambulansdad?utm_medium=rss",
-          "published": "Sun, 21 Sep 2025 13:11:18 GMT",
-          "description": "Larmsamtalet som föranledde dådet mot en ambulanssjukvårdare antydde inte en hotfull situation."
+          "title": "Jimmie tog emot skadade kollega på sjukhuset",
+          "link": "https://www.aftonbladet.se/nyheter/a/XjPqbg/nordanstig-harmanger-jimmie-tog-emot-skadade-kollegan-pa-akuten?utm_medium=rss",
+          "published": "Sun, 21 Sep 2025 15:34:45 GMT",
+          "description": "HARMÅNGER. Jimmie Prahl arbetade på sjukhuset när han tog emot sin skadade kollega – och vän."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Storbritannien, Kanada och Australien erkänner Palestina",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=fe9671aa-172e-490d-9a32-1c764307cd02",
-          "published": "Sun, 21 Sep 2025 15:17:04 +0200",
-          "description": "Besked från Storbritannien, Kanada och Australien"
+          "title": "HVB-hem har brunnit ner i Kramfors kommun",
+          "link": "https://www.expressen.se/nyheter/sverige/hvb-hem-har-brunnit-ner-i-kramfors-kommun/",
+          "published": "Sun, 21 Sep 2025 17:54:55 +0200",
+          "description": "Ett HVB-hem har brunnit ner i Kramfors kommun.– Vi har fortfarande patruller som arbetar på platsen, säger RLC-befälet på region norr.Ingen person ska ha skadats i branden."
         },
         {
-          "title": "Slipper betala 300 000 i sanering – gick i sömnen",
-          "link": "https://www.expressen.se/nyheter/sverige/slipper-betala-300-000-i-sanering-gick-i-somnen/",
-          "published": "Sun, 21 Sep 2025 15:16:05 +0200",
-          "description": "Det kostade 330 000 kronor att sanera en vattenskadad fastighet efter att en kvinna täppt till golvbrunnen i sin dusch.Men kvinnan slipper stå för kostnaden. Anledningen? Hon sov."
+          "title": "Trump lovar att försvara Baltikum mot kränkningar",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2efc743f-bde8-43f8-8a33-c22d497c1573",
+          "published": "Sun, 21 Sep 2025 17:24:30 +0200",
+          "description": "Ska försvaras mot ryska kränkningar"
         },
         {
-          "title": "Långa köer inför Charlie Kirks minnesstund",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/langa-koer-infor-charlie-kirks-minnesstund",
-          "published": "Sun, 21 Sep 2025 15:09:15 +0200",
-          "description": "Tusentals redan på plats inför minnesstund"
+          "title": "Marion försvann –  har hittats efter 51 år",
+          "link": "https://www.expressen.se/nyheter/varlden/marion-forsvann-har-hittats-efter-51-ar/",
+          "published": "Sun, 21 Sep 2025 17:12:03 +0200",
+          "description": "21-åriga Marion McWhorter försvann 1974.51 år senare fick hennes lillasyster beskedet att Marion hittats.– Jag glömde henne aldrig, säger systern Valerie till CBS News."
         }
       ]
     }
