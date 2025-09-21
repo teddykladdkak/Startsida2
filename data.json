@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-21T00:58:09.849485Z",
+  "lastUpdated": "2025-09-21T03:02:07.751109Z",
   "feeds": [
     {
       "url": {
@@ -98,6 +98,12 @@
       },
       "items": [
         {
+          "title": "Läkarkritik mot Socialstyrelsen",
+          "link": "https://www.aftonbladet.se/nyheter/a/0VP4B2/lakarkritik-mot-socialstyrelsen?utm_medium=rss",
+          "published": "Sun, 21 Sep 2025 02:35:43 GMT",
+          "description": "Socialstyrelsen vill inte sänka åldern för screeningtester för tarmcancer, trots att det rekommenderas av EU."
+        },
+        {
           "title": "Många gripna efter upplopp i Haag",
           "link": "https://www.aftonbladet.se/nyheter/a/bmRzGv/manga-gripna-efter-upplopp-i-haag?utm_medium=rss",
           "published": "Sun, 21 Sep 2025 00:23:56 GMT",
@@ -108,12 +114,6 @@
           "link": "https://www.aftonbladet.se/nyheter/a/XjP66B/venezuelas-presidents-youtube-borta?utm_medium=rss",
           "published": "Sat, 20 Sep 2025 23:41:43 GMT",
           "description": "Ett Youtubekonto tillhörande Venezuelas president Nicolás Maduro är av oklar anledning otillgängligt för användare."
-        },
-        {
-          "title": "Storbritannien väntas erkänna palestinsk stat",
-          "link": "https://www.aftonbladet.se/nyheter/a/Gy4Q1m/brittiskt-erkannande-av-palestina?utm_medium=rss",
-          "published": "Sat, 20 Sep 2025 22:13:31 GMT",
-          "description": "Storbritannien väntas officiellt erkänna en självständig palestinsk stat på söndagen, rapporterar BBC."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Tech-vd föll 900  meter mot sin död",
-          "link": "https://www.expressen.se/nyheter/varlden/tech-vd-foll-900--meter-mot-sin-dod/",
-          "published": "Sun, 21 Sep 2025 02:25:35 +0200",
-          "description": "Matias Travizano lyckades bestiga berget.På väg ner från toppen slogs tech-vd:n medvetslös i ett 90 meter långt fall.När 45-åringen kvicknade till halkade han och föll ytterligare 900 meter mot sin död, skriver San Francisco Chronicle."
+          "title": "Väljarna: Detta är  Trump sämst på",
+          "link": "https://www.expressen.se/nyheter/varlden/valjarna-detta-ar--trump-samst-pa/",
+          "published": "Sun, 21 Sep 2025 04:42:31 +0200",
+          "description": "Det som amerikanska väljare ogillar mest med Donald Trumps prestation som president är hur han hanterat tullfrågan.Det visar Washington Posts nya opinionsundersökning.Störst stöd får Trump när det gäller immigration och brottslighet."
         },
         {
-          "title": "Sammanvuxna tvillingar  om sexlivet – en är gift",
-          "link": "https://www.expressen.se/nyheter/varlden/sammanvuxna-tvillingar--om-sexlivet-en-ar-gift/",
-          "published": "Sun, 21 Sep 2025 01:14:01 +0200",
-          "description": "Carmen och Lupita Andrade, 25, är sammanvuxna tvillingar – och en av dem gifte sig nyligen. Nu berättar systrarna om sitt nya liv.– Jag förstår inte varför folk måste veta saker om mitt underliv, säger Carmen till People.Hennes make Daniel menar att ”folk är sexfixerade”."
+          "title": "Världens äldsta till  kungen: ”Kär i dig”",
+          "link": "https://www.expressen.se/nyheter/kungligt/varldens-aldsta-till--kungen-kar-i-dig/",
+          "published": "Sun, 21 Sep 2025 04:01:00 +0200",
+          "description": "Kung Charles har träffat världens äldsta person.Då fick 116-åriga Ethel Caterham kungen att ”höja på ögonbrynen”, skriver Sky News.– Varenda flicka var kär i dig, säger Ethel till Charles."
         },
         {
-          "title": "Väntas erkänna palestinsk stat",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7434cc1f-9151-4707-9dc5-5ffb5b9bd27b",
-          "published": "Sun, 21 Sep 2025 00:20:17 +0200",
-          "description": "Officiellt beslut från Storbritannien under söndagen, enligt BBC"
+          "title": "Kimmel i samtal med tv-chefer",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=870a4943-6616-4062-b8e2-fa9a08e8f242",
+          "published": "Sun, 21 Sep 2025 04:45:40 +0200",
+          "description": "”Djupa diskussioner” om att åter börja sända stoppade talkshowen"
         }
       ]
     }
