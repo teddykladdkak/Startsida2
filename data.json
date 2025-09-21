@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-21T08:13:03.823895Z",
+  "lastUpdated": "2025-09-21T10:10:23.518923Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,18 @@
       },
       "items": [
         {
+          "title": "Polis slarvade bort magasin med patroner – nu varnas hon",
+          "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/polis-slarvade-bort-magasin-med-patroner-nu-varnas-hon",
+          "published": "Sun, 21 Sep 2025 11:29:07 +0200",
+          "description": "En polis verksam i Polismyndigheten region Nord har tilldelats en varning. Detta sedan hon glömt två magasin med ammunition på en polisbils tak – och åkt i väg."
+        },
+        {
+          "title": "Brand i flerfamiljshus i Kungälv – tre till sjukhus",
+          "link": "https://www.svt.se/nyheter/lokalt/vast/brand-i-flerfamiljshus-i-kungalv-tre-till-sjukhus",
+          "published": "Sun, 21 Sep 2025 10:28:42 +0200",
+          "description": "En man i 40-årsåldern är allvarligt skadad efter en brand i ett flerfamiljshus i Kungälv under söndagsmorgonen."
+        },
+        {
           "title": "Nu öppnar vallokalerna i kyrkovalet",
           "link": "https://www.svt.se/nyheter/inrikes/nu-oppnar-vallokalerna-i-kyrkovalet",
           "published": "Sun, 21 Sep 2025 07:45:15 +0200",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/nyheter/utrikes/satellitbilder-visar-hur-palestinska-byar-forsvinner-pa-vastbanken",
           "published": "Sun, 21 Sep 2025 06:11:54 +0200",
           "description": "Försvunna tak, bråte kring raserade hus och nya vägar till expanderande israeliska utposter. SVT Verifierar har granskat satellitbilder som visar hur palestinier drivits på flykt från de israeliska bosättarna på Västbanken sedan 7 oktober-attacken."
-        },
-        {
-          "title": "16-årige Linus från Linköping balanserar skola med motorsport",
-          "link": "https://www.svt.se/nyheter/lokalt/ost/16-arige-linus-fran-linkoping-balanserar-skola-med-motorsport",
-          "published": "Sun, 21 Sep 2025 05:30:06 +0200",
-          "description": "Linus Stjernelund tävlar i motorsport samtidigt som han går andra året på gymnasiet. I helgen tävlade han på NXT Gen Cup i Mantorp för svenska juniormästerskapstiteln."
-        },
-        {
-          "title": "Snabbmatskvittot avslöjade knarkfabriken i Gantofta",
-          "link": "https://www.svt.se/nyheter/lokalt/helsingborg/snabbmatskvittot-avslojade-knarkfabriken-i-gantofta",
-          "published": "Sun, 21 Sep 2025 05:30:06 +0200",
-          "description": "Att det fanns en stor knarkfabrik i Skånetrakten visste polisen. Men var den fanns var den stora frågan. Efter 18 månader blev det ett kvitto som ledde fram till ligan."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "”Flaggning” ses över efter ambulanspersonal dödats",
-          "link": "https://www.aftonbladet.se/nyheter/a/yEQ7nR/flaggning-ses-over-efter-ambulanspersonal-dodats?utm_medium=rss",
-          "published": "Sun, 21 Sep 2025 08:11:49 GMT",
-          "description": "Den ambulanssjukvårdare som dödades i ett överfall i Nordanstig kommun på lördagen var inte ensam vid utryckningen."
+          "title": "Stor insats – polisen utrymmer naturreservat",
+          "link": "https://www.aftonbladet.se/nyheter/a/KMdpgG/stor-insats-polisen-utrymmer-naturreservat?utm_medium=rss",
+          "published": "Sun, 21 Sep 2025 09:56:58 GMT",
+          "description": "Polisen har inlett en större insats och håller på att utrymma Stendörrens naturreservat utanför Nyköping efter uppgifter…"
         },
         {
-          "title": "Läkare: Barn i Gaza skjuts i huvudet avsiktligt",
-          "link": "https://www.aftonbladet.se/nyheter/a/eM9Azl/akutlakaren-i-gaza-barnen-har-skjutits-en-enda-gang-rakt-i-huvudet?utm_medium=rss",
-          "published": "Sun, 21 Sep 2025 07:37:57 GMT",
-          "description": "Barn efter barn kom in till sjukhuset i Gaza med en enda skottskada – i huvudet. Då bestämde sig akutläkaren Mimi Syed."
+          "title": "Man anhållen för mord i Norrköping",
+          "link": "https://www.aftonbladet.se/nyheter/a/o3462j/man-anhallen-for-mord-i-norrkoping?utm_medium=rss",
+          "published": "Sun, 21 Sep 2025 09:49:28 GMT",
+          "description": "En man i 30-årsåldern har anhållits på sannolika skäl misstänkt för mord och grovt vapenbrott efter en misstänkt…"
         },
         {
-          "title": "Finland om hotet från Putin: Redo för militär insats",
-          "link": "https://www.aftonbladet.se/nyheter/a/0VPK2A/finland-om-hotet-fran-putin-redo-for-militar-insats?utm_medium=rss",
-          "published": "Sun, 21 Sep 2025 06:31:10 GMT",
-          "description": "PLUS Det är en varning till Putin. Europa måste stå redo att agera militärt mot Ryssland."
+          "title": "Ukrainska barn slipper ryska drönare i tre veckor: ”Kan sova normalt”",
+          "link": "https://www.aftonbladet.se/nyheter/a/kwlKGk/kollo-for-ukrainska-barn-i-sverige-ryssarna-forsoker-doda-oss-alla?utm_medium=rss",
+          "published": "Sun, 21 Sep 2025 08:42:22 GMT",
+          "description": "I Kiev flyger ryska drönare över himlen och in i bostadshusen. På Barnens ö seglar en volleyboll mellan de glada…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Ambulanskollegan i sorg efter mordet i Nordanstig",
-          "link": "https://www.expressen.se/nyheter/krim/ambulanskollegan-i-sorg-efter-mordet-i-nordanstig/",
-          "published": "Sun, 21 Sep 2025 10:12:39 +0200",
-          "description": "Den ambulansanställda kvinnan attackerades under utryckning. Hon vårdades av kolleger men dog av sina skador.”Vi gjorde allt vi kunde men det räckte inte”, skriver en kollega till kvinnan.En man i 25-årsåldern är anhållen för mord. "
+          "title": "Naturreservat utryms",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=232a5a5f-7172-423b-9b3c-c45de327d5dc",
+          "published": "Sun, 21 Sep 2025 11:57:24 +0200",
+          "description": "Personer med ”avvikande beteende” i området, enligt Ekot"
         },
         {
-          "title": "Allt spårar ur – bränner polisbilen",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/allt-sparar-ur-branner-polisbilen",
-          "published": "Sun, 21 Sep 2025 09:48:04 +0200",
-          "description": "Polisbil sätts i brand • Sammandrabbningar med polisen i Haag"
+          "title": "Misstänkt våldtäkt i Gävle",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0b4c80c2-8a70-4bf0-a78c-3237cfc57162",
+          "published": "Sun, 21 Sep 2025 11:12:34 +0200",
+          "description": "Avspärrat i centrala Gävle"
         },
         {
-          "title": "Betalade 300 000 kronor i lön – polisanmäler anställda",
-          "link": "https://www.expressen.se/nyheter/sverige/betalade-300-000-kronor-i-lon--polisanmaler-anstallda/",
-          "published": "Sun, 21 Sep 2025 09:36:59 +0200",
-          "description": "En företagare betalade sina anställda 300 000 kronor av misstag.Nu finns en polisanmälan – mot de anställda."
+          "title": "Bil voltade utanför Älvdalen",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=942145db-fc6d-494d-8369-283fc280915a",
+          "published": "Sun, 21 Sep 2025 11:11:00 +0200",
+          "description": "Tre till sjukhus utanför Älvdalen"
         }
       ]
     }
