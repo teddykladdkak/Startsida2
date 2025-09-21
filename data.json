@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-21T10:10:23.518923Z",
+  "lastUpdated": "2025-09-21T12:20:14.713033Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "Efter ambulansfackets kritik: ”Flaggning” av adresser ska ses över",
+          "link": "https://www.svt.se/nyheter/lokalt/gavleborg/efter-ambulansfackets-kritik-flaggning-av-adresser-ska-ses-over",
+          "published": "Sun, 21 Sep 2025 12:21:44 +0200",
+          "description": "Region Gävleborg meddelar på söndagen att de startat en utredning efter lördagens dåd där en ambulanssjukvårdare dödades i tjänsten. Ambulansfacket riktar hård kritik mot sina arbetsgivare och kräver åtgärder som ”flaggning” av adresser – något regionen lovar att utreda."
+        },
+        {
           "title": "Polis slarvade bort magasin med patroner – nu varnas hon",
           "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/polis-slarvade-bort-magasin-med-patroner-nu-varnas-hon",
           "published": "Sun, 21 Sep 2025 11:29:07 +0200",
@@ -43,19 +49,13 @@
           "title": "Nu öppnar vallokalerna i kyrkovalet",
           "link": "https://www.svt.se/nyheter/inrikes/nu-oppnar-vallokalerna-i-kyrkovalet",
           "published": "Sun, 21 Sep 2025 07:45:15 +0200",
-          "description": "I dag klockan 08.00 öppnar vallokalerna för Svenska kyrkans 4,5 miljoner medlemmar. Följ SVT:s livesändning klockan 12.30 där vi besöker flera vallokaler i landet och får höra olika experter."
+          "description": "I dag klockan 08.00 öppnade de första vallokalerna för Svenska kyrkans över 4,5 miljoner medlemmar. Följ SVT:s livesändning klockan 12.30 där vi besöker flera vallokaler i landet och får höra olika experter."
         },
         {
           "title": "Tonåring knivskuren vid hemmafest i Mönsterås – sex misstänkta för mordförsök",
           "link": "https://www.svt.se/nyheter/lokalt/smaland/tonaring-knivskuren-fem-gripna-for-mordforsok-i-monsteras",
           "published": "Sun, 21 Sep 2025 06:57:43 +0200",
           "description": "En tonåring har knivskurits vid ett bråk på en hemmafest i Mönsterås. Sex personer misstänks för mordförsök och fem har gripits. Polisen utreder händelsen. – Det dyker upp ett flertal oinbjudna personer, och när man försöker förmå dem att lämna uppstår bråk och målsägande får skadorna, säger Sara Andersson, presstalesperson vid polisen."
-        },
-        {
-          "title": "Satellitbilder visar hur palestinska byar försvinner på Västbanken",
-          "link": "https://www.svt.se/nyheter/utrikes/satellitbilder-visar-hur-palestinska-byar-forsvinner-pa-vastbanken",
-          "published": "Sun, 21 Sep 2025 06:11:54 +0200",
-          "description": "Försvunna tak, bråte kring raserade hus och nya vägar till expanderande israeliska utposter. SVT Verifierar har granskat satellitbilder som visar hur palestinier drivits på flykt från de israeliska bosättarna på Västbanken sedan 7 oktober-attacken."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Stor insats – polisen utrymmer naturreservat",
-          "link": "https://www.aftonbladet.se/nyheter/a/KMdpgG/stor-insats-polisen-utrymmer-naturreservat?utm_medium=rss",
-          "published": "Sun, 21 Sep 2025 09:56:58 GMT",
-          "description": "Polisen har inlett en större insats och håller på att utrymma Stendörrens naturreservat utanför Nyköping efter uppgifter…"
+          "title": "Pierre, 37, omsätter miljoner i kritiserade industrin på Malta",
+          "link": "https://www.aftonbladet.se/nyheter/a/1MlbAQ/svenske-pierre-37-omsatter-miljoner-pa-malta-skams-inte?utm_medium=rss",
+          "published": "Sun, 21 Sep 2025 12:07:39 GMT",
+          "description": "RABAT, MALTA. Som 18-åring startade Pierre Lindh en av Skandinaviens största svartpokerklubbar."
         },
         {
-          "title": "Man anhållen för mord i Norrköping",
-          "link": "https://www.aftonbladet.se/nyheter/a/o3462j/man-anhallen-for-mord-i-norrkoping?utm_medium=rss",
-          "published": "Sun, 21 Sep 2025 09:49:28 GMT",
-          "description": "En man i 30-årsåldern har anhållits på sannolika skäl misstänkt för mord och grovt vapenbrott efter en misstänkt…"
+          "title": "Polis tappade bort patroner –  varnas",
+          "link": "https://www.aftonbladet.se/nyheter/a/dR6myq/polis-tappade-bort-patroner-varnas?utm_medium=rss",
+          "published": "Sun, 21 Sep 2025 11:39:25 GMT",
+          "description": "En polis, verksam vid polismyndigheten i Nord, har tilldelats en varning."
         },
         {
-          "title": "Ukrainska barn slipper ryska drönare i tre veckor: ”Kan sova normalt”",
-          "link": "https://www.aftonbladet.se/nyheter/a/kwlKGk/kollo-for-ukrainska-barn-i-sverige-ryssarna-forsoker-doda-oss-alla?utm_medium=rss",
-          "published": "Sun, 21 Sep 2025 08:42:22 GMT",
-          "description": "I Kiev flyger ryska drönare över himlen och in i bostadshusen. På Barnens ö seglar en volleyboll mellan de glada…"
+          "title": "Termosbomb hittad efter brand i Hells Angels lokal",
+          "link": "https://www.aftonbladet.se/nyheter/a/4ByzME/termosbomb-hittad-efter-brand-i-hells-angels-lokal?utm_medium=rss",
+          "published": "Sun, 21 Sep 2025 11:38:03 GMT",
+          "description": "Det var en termosbomb som hittades efter branden i Hells Angels klubblokal norr om Göteborg på lördagen, rapporterar…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Naturreservat utryms",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=232a5a5f-7172-423b-9b3c-c45de327d5dc",
-          "published": "Sun, 21 Sep 2025 11:57:24 +0200",
-          "description": "Personer med ”avvikande beteende” i området, enligt Ekot"
+          "title": "Skrev om Trump – stoppas av polis",
+          "link": "https://www.expressen.se/tv/nyheter/varlden/stoppas-av-polis-efter-orden-om-trump",
+          "published": "Sun, 21 Sep 2025 14:18:28 +0200",
+          "description": ""
         },
         {
-          "title": "Misstänkt våldtäkt i Gävle",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0b4c80c2-8a70-4bf0-a78c-3237cfc57162",
-          "published": "Sun, 21 Sep 2025 11:12:34 +0200",
-          "description": "Avspärrat i centrala Gävle"
+          "title": "Ordbråket om abort mellan S och SD inför kyrkovalet",
+          "link": "https://www.expressen.se/nyheter/politik/ordbraket-om-abort-mellan-s-och-sd-infor-kyrkovalet/",
+          "published": "Sun, 21 Sep 2025 14:17:13 +0200",
+          "description": "SD-ledaren Jimmie Åkesson anklagar S för att ”pumpa ut falsk information” om abortfrågan inför kyrkovalet.”De går till val på att ljuga om andra”, skriver han på X.Oseriöst, menar S toppnamn Jesper Eneroth.– Det är uppenbart att Sverigedemokraterna inte tål granskning, säger han. "
         },
         {
-          "title": "Bil voltade utanför Älvdalen",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=942145db-fc6d-494d-8369-283fc280915a",
-          "published": "Sun, 21 Sep 2025 11:11:00 +0200",
-          "description": "Tre till sjukhus utanför Älvdalen"
+          "title": "Freja och Ann-Sofie dog i Laos – nu startas utredning",
+          "link": "https://www.expressen.se/nyheter/varlden/freja-och-ann-sofie-dog-i-laos-nu-startas-utredning-/",
+          "published": "Sun, 21 Sep 2025 12:27:14 +0200",
+          "description": "Två unga danskor dog av misstänkt metanolförgiftning i Laos förra året. Trots familjernas vädjan dröjde det tio månader innan polisen inledde en utredning – och nu hoppas de anhöriga få svar om vad som egentligen hände.– Vi behöver hjälp, säger en av mammorna till danska TV2.  "
         }
       ]
     }
