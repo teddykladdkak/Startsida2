@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-21T04:13:18.417774Z",
+  "lastUpdated": "2025-09-21T06:15:59.793283Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,18 @@
       },
       "items": [
         {
+          "title": "Nu öppnar vallokalerna i kyrkovalet",
+          "link": "https://www.svt.se/nyheter/inrikes/nu-oppnar-vallokalerna-i-kyrkovalet",
+          "published": "Sun, 21 Sep 2025 07:45:15 +0200",
+          "description": "I dag klockan 08.00 öppnar vallokalerna för Svenska kyrkans 4,5 miljoner medlemmar. Följ SVT:s livesändning klockan 12.30 där vi besöker flera vallokaler i landet och får höra olika experter."
+        },
+        {
+          "title": "Tonåring knivskuren vid hemmafest i Mönsterås – sex misstänkta för mordförsök",
+          "link": "https://www.svt.se/nyheter/lokalt/smaland/tonaring-knivskuren-fem-gripna-for-mordforsok-i-monsteras",
+          "published": "Sun, 21 Sep 2025 06:57:43 +0200",
+          "description": "En tonåring har knivskurits vid ett bråk på en hemmafest i Mönsterås. Sex personer misstänks för mordförsök och fem har gripits. Polisen utreder händelsen. – Det dyker upp ett flertal oinbjudna personer, och när man försöker förmå dem att lämna uppstår bråk och målsägande får skadorna, säger Sara Andersson, presstalesperson vid polisen."
+        },
+        {
           "title": "Satellitbilder visar hur palestinska byar försvinner på Västbanken",
           "link": "https://www.svt.se/nyheter/utrikes/satellitbilder-visar-hur-palestinska-byar-forsvinner-pa-vastbanken",
           "published": "Sun, 21 Sep 2025 06:11:54 +0200",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/helsingborg/snabbmatskvittot-avslojade-knarkfabriken-i-gantofta",
           "published": "Sun, 21 Sep 2025 05:30:06 +0200",
           "description": "Att det fanns en stor knarkfabrik i Skånetrakten visste polisen. Men var den fanns var den stora frågan. Efter 18 månader blev det ett kvitto som ledde fram till ligan."
-        },
-        {
-          "title": "Filippa, 26, om kyrkovalet: ”Ska hem och läsa på”",
-          "link": "https://www.svt.se/nyheter/lokalt/vastmanland/filippa-26-om-kyrkovalet-ska-hem-och-lasa-pa",
-          "published": "Sun, 21 Sep 2025 05:30:06 +0200",
-          "description": "Det är tid för kyrkoval. SVT har tagit tempen på domkyrkostaden Västerås. – Det har varit ganska mycket folk just idag, säger kyrkovaktmästaren Albert Joelsson, 19, om lördagens förtidsröstning."
-        },
-        {
-          "title": "De vill få fler unga att rösta – gick tillsammans till vallokalen i Falun: ”Vi är framtiden”",
-          "link": "https://www.svt.se/nyheter/lokalt/dalarna/de-vill-fa-fler-unga-att-rosta-gick-tillsammans-till-vallokalen-i-falun-vi-ar-framtiden",
-          "published": "Sun, 21 Sep 2025 05:30:06 +0200",
-          "description": "Idag är sista dagen att lägga sin röst i kyrkovalet. SVT Dalarna följde med Svenska kyrkans unga i Falun till vallokalen. – Det är vår första chans att vara med och påverka något politiskt, säger Moa Wickström, 17 år."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Iran avbryter samarbete efter FN-omröstning",
-          "link": "https://www.aftonbladet.se/nyheter/a/xmK4Ml/iran-avbryter-samarbete-efter-fn-omrostning?utm_medium=rss",
-          "published": "Sun, 21 Sep 2025 03:10:17 GMT",
-          "description": "Iran kommer avbryta sitt samarbete med FN:s atomenergiorgan IAEA efter att FN:s säkerhetsråd röstat för att återinföra…"
+          "title": "S-kritik mot budget: Lite godis till många",
+          "link": "https://www.aftonbladet.se/nyheter/a/jQozgL/s-kritik-mot-budget-lite-godis-till-manga?utm_medium=rss",
+          "published": "Sun, 21 Sep 2025 06:10:58 GMT",
+          "description": "Socialdemokraterna är kritiska mot regeringens rekordbudget. –Att de delar ut lite godis till många, det förstår…"
         },
         {
-          "title": "Läkarkritik mot Socialstyrelsen",
-          "link": "https://www.aftonbladet.se/nyheter/a/0VP4B2/lakarkritik-mot-socialstyrelsen?utm_medium=rss",
-          "published": "Sun, 21 Sep 2025 02:35:43 GMT",
-          "description": "Socialstyrelsen vill inte sänka åldern för screeningtester för tarmcancer, trots att det rekommenderas av EU."
+          "title": "Hit går miljarderna i Svantessons rekordbudget",
+          "link": "https://www.aftonbladet.se/nyheter/a/Avj3Xr/hit-gar-miljarderna-i-svantessons-rekordbudget?utm_medium=rss",
+          "published": "Sun, 21 Sep 2025 06:09:06 GMT",
+          "description": "Regeringen hoppas att statsbudgeten för 2026 ska märkas i folks plånböcker och få fart på ekonomin."
         },
         {
-          "title": "Många gripna efter upplopp i Haag",
-          "link": "https://www.aftonbladet.se/nyheter/a/bmRzGv/manga-gripna-efter-upplopp-i-haag?utm_medium=rss",
-          "published": "Sun, 21 Sep 2025 00:23:56 GMT",
-          "description": "30 personer har gripits efter att en högerextrem demonstration urartade i Nederländernas huvudstad Haag…"
+          "title": "Fordonsstölderna fortsätter att minska",
+          "link": "https://www.aftonbladet.se/nyheter/a/jQozrL/fordonsstolderna-fortsatter-att-minska?utm_medium=rss",
+          "published": "Sun, 21 Sep 2025 05:43:26 GMT",
+          "description": "Antalet efterlysta personbilar fortsätter att minska. Under det första halvåret 2025 har totalt 2 105 bilar efterlysts."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "280 fick vård vid Oktoberfest",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ced49d8b-637f-4f4c-b39b-95d5a72ea47c",
-          "published": "Sun, 21 Sep 2025 06:03:53 +0200",
-          "description": "Hettan orsakar problem i tyska storstaden"
+          "title": "36 katter dumpades ute mitt i vintern – flera dog",
+          "link": "https://www.expressen.se/nyheter/sverige/36-katter-dumpades-ute-mitt-i-vintern-flera-dog/",
+          "published": "Sun, 21 Sep 2025 08:01:00 +0200",
+          "description": "Tre månader gamla kattungar som används för avling.36 dumpade katter utanför Stockholm – varav tre döda.TV4:s ”Kalla fakta” visar över hundra fall där uppfödare till raskatter inte följt reglerna."
         },
         {
-          "title": "Trumps kryptiska hot",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/trumps-kryptiska-hot",
-          "published": "Sun, 21 Sep 2025 05:50:33 +0200",
-          "description": "Kräver att få tillbaka militärbas • Se ordern i natt"
+          "title": "USA drog sig ur Putins musiktävling Intervision",
+          "link": "https://www.expressen.se/noje/musik/usa-drog-sig-ur-putins-musiktavling/",
+          "published": "Sun, 21 Sep 2025 07:59:26 +0200",
+          "description": "USA drog sig i sista stund ur den ryska musiktävlingen Intervision. Artisten Vassy har inte kommenterat beslutet. Enligt arrangören berodde det på politiska påtryckningar."
         },
         {
-          "title": "På elitskolan byggs ett särskilt språk upp",
-          "link": "https://www.expressen.se/nyheter/sverige/pa-elitskolan-byggs-ett-sarskilt-sprak-upp/",
-          "published": "Sun, 21 Sep 2025 05:00:00 +0200",
-          "description": "Till Campus Manilla och andra så kallade elitskolor söker man inte bara för att undervisningen anses vara högkvalitativ. Minst lika viktigt är det att barnen tillägnar sig ”soft skills” eller ”mjuka färdigheter”, berättar Eric Larsson, som forskar om hur elever formas av skolor med elitprägel.– Man bygger upp ett särskilt språk, menar han."
+          "title": "Flyr när han ser vad som kommer",
+          "link": "https://www.expressen.se/tv/nyheter/varlden/flyr-i-panik-nar-han-ser-vad-som-kommer",
+          "published": "Sun, 21 Sep 2025 07:19:10 +0200",
+          "description": "Förbipasserande ser på i panik • ”Akta dig!”"
         }
       ]
     }
