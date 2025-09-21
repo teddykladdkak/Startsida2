@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-21T18:14:26.121473Z",
+  "lastUpdated": "2025-09-21T20:12:01.604859Z",
   "feeds": [
     {
       "url": {
@@ -66,6 +66,12 @@
       },
       "items": [
         {
+          "title": "Nyheter från dagen: 21 september",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-21-september-u7v8vm",
+          "published": "Sun, 21 Sep 2025 20:20:39 +0200",
+          "description": "Detta har hänt i Skåne söndagen den 21 september."
+        },
+        {
           "title": "Malmöbon Hanna röstar i kyrkovalet: ”Inte läst på skitmycket”",
           "link": "https://www.svt.se/nyheter/lokalt/skane/malmobon-hanna-rostar-i-kyrkovalet-inte-last-pa-skitmycket",
           "published": "Sun, 21 Sep 2025 15:59:12 +0200",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/90-ariga-waltraud-har-fast-anstallning-inom-hemtjansten",
           "published": "Sun, 21 Sep 2025 05:30:06 +0200",
           "description": "90-åriga Waltraud Rothman i Skanör gick i pension men började jobba igen, som vårdbiträde inom hemtjänsten. – Jag var pensionär i några månader men tycker det är roligt att jobba och hjälpa till, säger hon."
-        },
-        {
-          "title": "Nyheter från dagen: 20 september",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-20-september-lbc5xk",
-          "published": "Sat, 20 Sep 2025 20:08:37 +0200",
-          "description": "Detta har hänt i Skåne lördagen den 20 september."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Kirks minnesstund med Trump lockar tusentals",
+          "title": "Så många röstade i kyrkovalet",
+          "link": "https://www.aftonbladet.se/nyheter/a/dR6nwj/sa-manga-rostade-i-kyrkovalet-2025?utm_medium=rss",
+          "published": "Sun, 21 Sep 2025 19:03:46 GMT",
+          "description": "Nu räknas rösterna i kyrkovalet.  Alternativ för Sverige (AfS) gör ett bättre val än sist."
+        },
+        {
+          "title": "Misstänkt farligt föremål i Ljungby",
+          "link": "https://www.aftonbladet.se/nyheter/a/8qeQAE/misstankt-farligt-foremal-i-ljungby?utm_medium=rss",
+          "published": "Sun, 21 Sep 2025 19:02:47 GMT",
+          "description": "Ett misstänkt farligt föremål har hittats i Ljungby i Småland, skriver polisen."
+        },
+        {
+          "title": "Charlie Kirk hyllas som martyr på minnesstund",
           "link": "https://www.aftonbladet.se/nyheter/a/MnzLBR/kirks-minnesstund-med-trump-lockar-tusentals?utm_medium=rss",
           "published": "Sun, 21 Sep 2025 18:06:53 GMT",
-          "description": "USA:s president Donald Trump hedrar tillsammans med andra framstående ”Make america great again”-profiler den mördade…"
-        },
-        {
-          "title": "Handgranat vid lekpark – bombskyddet på plats",
-          "link": "https://www.aftonbladet.se/nyheter/a/25E8gq/handgranat-vid-lekpark-bombskyddet-pa-plats?utm_medium=rss",
-          "published": "Sun, 21 Sep 2025 17:29:19 GMT",
-          "description": "Nationella bombskyddet är på plats vid en lekpark i Västerås där en handgranat hittats. Boende i närheten har inrymts."
-        },
-        {
-          "title": "Stor demonstration för Gaza i Göteborg – protesttåg fyllde Avenyn",
-          "link": "https://www.aftonbladet.se/nyheter/a/3Mr4RM/stor-demonstration-for-gaza-i-goteborg-regeringen-kritiserass?utm_medium=rss",
-          "published": "Sun, 21 Sep 2025 17:16:50 GMT",
-          "description": "GÖTEBORG. Motorcyklar, mindre lastbilar – och tusentals demonstranter."
+          "description": "USA:s president Donald Trump och en publik på tiotusentals människor hedrar den mördade högerprofilen Charlie Kirk på en…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Finska beskedet: Måste vara redo för krig",
-          "link": "https://www.expressen.se/nyheter/varlden/finska-beskedet-maste-vara-redo-for-krig/",
-          "published": "Sun, 21 Sep 2025 20:00:05 +0200",
-          "description": "Säkerhetsgarantier för Ukraina måste innebära att man är redo att gå in i krig mot Ryssland.Det menar Finlands president Alexander Stubb.– Säkerhetsgarantier är i grunden en avskräckande faktor, och den avskräckande faktorn måste vara trovärdig, säger han till The Guardian. "
+          "title": "Ryskt militärflyg över Östersjön",
+          "link": "https://www.expressen.se/nyheter/varlden/ryskt-militarflyg-over-ostersjon/",
+          "published": "Sun, 21 Sep 2025 21:56:22 +0200",
+          "description": "Ett ryskt militärflygplan har observerats över Östersjön, skriver Der Spiegel.Tyskland har skickat ut två jaktplan med anledning av detta."
         },
         {
-          "title": "Polisinsats vid kyrka",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=35028fc6-81d3-4392-86e5-81c409720964",
-          "published": "Sun, 21 Sep 2025 19:40:08 +0200",
-          "description": "Polisinsats i västra Stockholm"
+          "title": "Stor polisinsats i Järfälla – har hittat handgranater",
+          "link": "https://www.expressen.se/nyheter/sverige/stor-polisinsats-i-jarfalla-har-hittat-handgranater/",
+          "published": "Sun, 21 Sep 2025 21:05:22 +0200",
+          "description": "En stor polisinsats pågår vid Järfälla kyrka och nationella bombskyddet är på plats.Enligt uppgifter till Expressen har polisen hittat handgranater. En kille i tonåren har gripits. "
         },
         {
-          "title": "SR-kvinnan Baraa Lafi tackade Hamastoppen",
-          "link": "https://www.expressen.se/nyheter/sverige/sr-kvinnan-baraa-lafi-tackade-hamastoppen/",
-          "published": "Sun, 21 Sep 2025 19:03:01 +0200",
-          "description": "Sveriges Radio avslutar samarbetet med den Gaza-baserade journalisten Baraa Lafi, rapporterar Doku.Beskedet kommer efter sajtens avslöjande att Lafi samarbetat med en högt uppsatt Hamastjänsteman och lett bojkottkampanjer mot Israel.”De uppgifter Doku nu har tagit fram var nya för oss – vilket de förstås inte borde ha varit”, skriver Anders Pontara, utrikeschef på ”Ekot”, till Doku."
+          "title": "Direktrapport: Följ kyrkovalet 2025",
+          "link": "https://www.expressen.se/nyheter/politik/direktrapport-folj-kyrkovalet-2025/",
+          "published": "Sun, 21 Sep 2025 22:05:20 +0200",
+          "description": "Vallokalerna är stängda.Nu ska rösterna i kyrkovalet räknas.Följ utvecklingen här."
         }
       ]
     }
