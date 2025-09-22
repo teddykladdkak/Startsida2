@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-22T08:17:03.697791Z",
+  "lastUpdated": "2025-09-22T10:13:45.568387Z",
   "feeds": [
     {
       "url": {
@@ -28,34 +28,34 @@
       },
       "items": [
         {
+          "title": "Åtalas för mordet på Rawa Majids farbror",
+          "link": "https://www.svt.se/nyheter/lokalt/stockholm/atalas-for-mordet-pa-rawa-majids-farbror",
+          "published": "Mon, 22 Sep 2025 11:33:25 +0200",
+          "description": "En 34-årig man åtalas misstänkt för mordet på gängledaren Rawa Majids farbror."
+        },
+        {
+          "title": "S störst i skånska valet till kyrkomötet – SD backar",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/s-storst-i-skanska-valet-till-kyrkomotet-sd-backar",
+          "published": "Mon, 22 Sep 2025 11:28:07 +0200",
+          "description": "Skåne följde i stort rikstrenden i kyrkovalet. Socialdemokraterna blev största grupp till kyrkomötet. Sverigedemokraterna fick högre andel röster jämfört med riksgenomsnittet, men backade ändå i Skåne."
+        },
+        {
+          "title": "Familjernas ekonomi i fokus när budgeten presenteras",
+          "link": "https://www.svt.se/nyheter/inrikes/familjernas-ekonomi-i-fokus-nar-budgeten-presenteras",
+          "published": "Mon, 22 Sep 2025 10:58:02 +0200",
+          "description": "Sänkt matmoms, jobbskatteavdrag och en mindre förskoleavgift. Det är några av satsningarna i regeringens budget inför valåret – som syftar till att få svenskarna att konsumera sig ur lågkonjunkturen. – Det är familjer och svenskarnas ekonomi som står i fokus, säger finansministern på en pressträff."
+        },
+        {
+          "title": "Kindberg om rättegången: ”Varit i ett förundersökningsfängelse”",
+          "link": "https://www.svt.se/nyheter/lokalt/jamtland/kindberg-om-rattegangen-varit-i-ett-forundersokningsfangelse",
+          "published": "Mon, 22 Sep 2025 10:49:31 +0200",
+          "description": "Nu har hovrättsförhandlingarna inletts i målet om mutbrott som involverar bland andra Östersundshems förre vd Daniel Kindberg."
+        },
+        {
           "title": "Klippte kablar på laddstationer i södra Sverige – döms",
           "link": "https://www.svt.se/nyheter/lokalt/halland/klippte-kablar-pa-laddstationer-i-sodra-sverige-doms",
           "published": "Mon, 22 Sep 2025 10:11:57 +0200",
           "description": "Två personer fångades på en övervakningskamera vid en laddstation för elbilar i Laholm, när de klippte av kablar med hjälp av en stor sax. Nu döms de för stöld vid Halmstads tingsrätt."
-        },
-        {
-          "title": "Kristina, 63, i Akalla mördades i gängkonflikten – nu startar rättegången",
-          "link": "https://www.svt.se/nyheter/lokalt/stockholm/kristina-63-i-akalla-mordades-i-gangkonflikten-nu-startar-rattegangen",
-          "published": "Mon, 22 Sep 2025 09:54:19 +0200",
-          "description": "Den 22 oktober 2024 hittas en kvinna mördad i sitt hem i Akalla i nordvästra Stockholm. Det visar sig snart att hon är mamma till en ung man med gängkriminella kopplingar. Nu åtalas tre personer för mord och mordförsök."
-        },
-        {
-          "title": "Stadsbuss i krock med minibuss och flera fordon – resenärer drabbade",
-          "link": "https://www.svt.se/nyheter/lokalt/orebro/stadsbuss-i-krock-med-minibuss-och-flera-fordon-resenarer-drabbade",
-          "published": "Mon, 22 Sep 2025 08:29:19 +0200",
-          "description": "I en rondell i området Adolfsberg i Örebro har en stadsbuss, minibuss och två personbilar krockat. Platsen var avstängd enligt polisen och en person har fört till sjukhus. – Det var en stadsbuss så det var flera resenärer drabbade, säger Anders Dahlman, polisens presstalesperson."
-        },
-        {
-          "title": "Så blev Kyrkovalet i Östergötland och Gotland",
-          "link": "https://www.svt.se/nyheter/lokalt/ost/sa-blev-kyrkovalet-i-ostergotland-och-gotland",
-          "published": "Mon, 22 Sep 2025 08:21:49 +0200",
-          "description": "POSK-Kyrklig samverkan är störst i både Linköpings och Visby stift och De Gröna i Svenska kyrkan (DGSK) har gått fram starkt i båda stiften."
-        },
-        {
-          "title": "Nu är Daniel Kindberg i hovrätten – rättegången om mutbrott inleds",
-          "link": "https://www.svt.se/nyheter/lokalt/jamtland/nu-ar-daniel-kindberg-i-hovratten-rattegangen-om-mutbrott-inleds",
-          "published": "Mon, 22 Sep 2025 05:30:02 +0200",
-          "description": "För tre år sedan dömdes Daniel Kindberg till fängelse för bland annat mutbrott. Men den tidigare vd:n för Östersundshem tillika ordföranden för Östersunds FK överklagade. I dag inleds förhandlingarna i hovrätten."
         }
       ]
     },
@@ -65,6 +65,18 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "S störst i skånska valet till kyrkomötet – SD backar",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/s-storst-i-skanska-valet-till-kyrkomotet-sd-backar",
+          "published": "Mon, 22 Sep 2025 11:28:07 +0200",
+          "description": "Skåne följde i stort rikstrenden i kyrkovalet. Socialdemokraterna blev största grupp till kyrkomötet. Sverigedemokraterna fick högre andel röster jämfört med riksgenomsnittet, men backade ändå i Skåne."
+        },
+        {
+          "title": "Misstänkt farligt föremål i damm",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/misstankt-farligt-foremal-i-damm",
+          "published": "Mon, 22 Sep 2025 11:03:44 +0200",
+          "description": "Polisen har larmats till en damm i Vintrie i utkanten av Malmö där ett föremål har hittats."
+        },
         {
           "title": "Värner Rydénskolan kämpade med låga resultat – lyckades vända trenden",
           "link": "https://www.svt.se/nyheter/lokalt/skane/varner-rydenskolan-kampade-med-laga-resultat-lyckades-vanda-trenden",
@@ -76,18 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-21-september-u7v8vm",
           "published": "Sun, 21 Sep 2025 20:20:39 +0200",
           "description": "Detta har hänt i Skåne söndagen den 21 september."
-        },
-        {
-          "title": "Malmöbon Hanna röstar i kyrkovalet: ”Inte läst på skitmycket”",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/malmobon-hanna-rostar-i-kyrkovalet-inte-last-pa-skitmycket",
-          "published": "Sun, 21 Sep 2025 15:59:12 +0200",
-          "description": "På kyrkovalsdagen var det stundvis långa köer med personer som ville lägga sin röst. – Ärligt talat har jag inte läst på skitmycket om kyrkovalet, men jag vet vad jag tycker i övrigt, säger Hanna Järgenstedt som röstade i Malmö på valdagen."
-        },
-        {
-          "title": "Se ekorren jaga okänd man utanför Domkyrkan i Lund",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/se-ekorren-jaga-okand-man-utanfor-domkyrkan-i-lund",
-          "published": "Sun, 21 Sep 2025 14:26:39 +0200",
-          "description": "En helt vanlig dag i Lund riktas plötsligt blickarna mot en händelse på Domkyrkoplatsen. En man tycks röra sig fram och tillbaka med en liten skugga efter sig, en efterhängsen ekorre."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Bahnhof måste lämna ut uppgifter till polisen",
-          "link": "https://www.aftonbladet.se/nyheter/a/mPOQkg/bahnhof-maste-lamna-ut-uppgifter-till-polisen?utm_medium=rss",
-          "published": "Mon, 22 Sep 2025 08:12:42 GMT",
-          "description": "Internetleverantören Bahnhof måste lämna ut uppgifter om vilka personer som står bakom vissa IP-adresser till…"
+          "title": "Man åtalas för mord på gängtoppens släkting",
+          "link": "https://www.aftonbladet.se/nyheter/a/qPGPOe/man-atalas-for-mord-pa-gangtoppens-slakting?utm_medium=rss",
+          "published": "Mon, 22 Sep 2025 10:05:08 GMT",
+          "description": "En man i 65-årsåldern sköts ihjäl med sex skott i Husby förra året. Nu åtalas en 34-årig man för mordet."
         },
         {
-          "title": "Jacob, 21, på Kirks minnesceremoni: ”En väckarklocka”",
-          "link": "https://www.aftonbladet.se/nyheter/a/JbkxRJ/jacob-21-pa-kirks-minnesceremoni-en-vackarklocka?utm_medium=rss",
-          "published": "Mon, 22 Sep 2025 08:05:33 GMT",
-          "description": "GLENDALE, ARIZONA. President Trump sa att han ”hatar sina motståndare” – men änkan förlät sin makes mördare."
+          "title": "Evakueringsorder för ett sjukhus i Gaza stad",
+          "link": "https://www.aftonbladet.se/nyheter/a/zAvAAr/evakueringsorder-for-ett-sjukhus-i-gaza-stad?utm_medium=rss",
+          "published": "Mon, 22 Sep 2025 09:43:56 GMT",
+          "description": "Hundratusentals människor har stannat i Gaza stad under Israels pågående offensiv."
         },
         {
-          "title": "C: ”Panikbudget”",
-          "link": "https://www.aftonbladet.se/nyheter/a/QMQ76P/c-panikbudget?utm_medium=rss",
-          "published": "Mon, 22 Sep 2025 07:50:39 GMT",
-          "description": "Centerpartiet är kritiskt till regeringens budget och saknar riktiga reformer."
+          "title": "Stor polisinsats i Uppsala",
+          "link": "https://www.aftonbladet.se/nyheter/a/MnznL5/stor-polisinsats-i-uppsala?utm_medium=rss",
+          "published": "Mon, 22 Sep 2025 09:29:32 GMT",
+          "description": "En stor polisinsats pågår i stadsdelen Sala backe i Uppsala, rapporterar Upsala Nya Tidning."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Kim Jong-Uns drag – kopierar USA:s vapen",
-          "link": "https://www.expressen.se/nyheter/varlden/kim-jong-uns-drag-kopierar-usas-vapen/",
-          "published": "Mon, 22 Sep 2025 09:56:37 +0200",
-          "description": "Nordkorea har börjat använda AI i sin militär.Det uppger diktatorn Kim Jon-Un enligt statskontrollerade medier.Han visar nu upp en ny drönare – som är en kopia av ett amerikanskt system, enligt Newsweek."
+          "title": "Putins avslöjande – nära att dö",
+          "link": "https://www.expressen.se/tv/nyheter/varlden/putins-avslojande-kunde-ha-dott",
+          "published": "Mon, 22 Sep 2025 11:52:50 +0200",
+          "description": "Berättar för krigsgeneralerna mitt under övningen"
         },
         {
-          "title": "Johan Mathias Sommarström lämnar Sveriges Radio",
-          "link": "https://www.expressen.se/nyheter/sverige/aftonbladet-varvar-johan-mathias-sommarstrom-starker-utrikes-och-forsvar/",
-          "published": "Mon, 22 Sep 2025 09:32:36 +0200",
-          "description": "Aftonbladets utrikeskommentator Wolfgang Hansson lämnar. Nu står det klart att SR-profilen Johan Mathias Sommarström ska fylla hans skor. "
+          "title": "Bookbeat höjer priset",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1e2fb2aa-3728-4b92-9580-3dc186b7fdc5",
+          "published": "Mon, 22 Sep 2025 11:45:47 +0200",
+          "description": "Så mycket kommer det kosta"
         },
         {
-          "title": "Slår ut Putins ubåtsflyg",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/slar-till-mot-putins-ubatsflyg",
-          "published": "Mon, 22 Sep 2025 09:56:31 +0200",
-          "description": "Första gången i kriget • Se tillslaget på Krim"
+          "title": "Stor polisinsats i Uppsala",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d98508af-29ef-49ed-955b-1e20f979d200",
+          "published": "Mon, 22 Sep 2025 11:37:19 +0200",
+          "description": "Polisen: ”Anledning att tro att någon form av brott inträffat”"
         }
       ]
     }
