@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-22T20:12:47.061214Z",
+  "lastUpdated": "2025-09-22T22:10:55.384325Z",
   "feeds": [
     {
       "url": {
@@ -28,16 +28,22 @@
       },
       "items": [
         {
+          "title": "Nahir Besara tokhyllas av experterna: ”En ambassadör”",
+          "link": "https://www.svt.se/sport/fotboll/nahir-besara-tokhyllas-av-experterna-en-ambassador",
+          "published": "Mon, 22 Sep 2025 23:44:02 +0200",
+          "description": "Nahir Besara leder den allsvenska skytteligan. Nu tokhyllas 34-åringen. – Det är extremt imponerande, säger SVT:s expert Magnus Eriksson i Fotbollsstudion."
+        },
+        {
           "title": "Jimmy Kimmel live återvänder till Disney",
           "link": "https://www.svt.se/nyheter/utrikes/jimmy-kimmel-live-atervander-till-disney",
           "published": "Mon, 22 Sep 2025 21:45:03 +0200",
           "description": "Jimmy Kimmels talkshow återvänder till Disney, uppger bolaget i ett uttalande. Programmet pausades tidigare på obestämd tid efter att Kimmel antytt att Charlie Kirks misstänkte mördare Tyler Robinson skulle kunna vara en Trumpanhängare."
         },
         {
-          "title": "Drönare över Köpenhamns flygplats – polisinsats på plats",
-          "link": "https://www.svt.se/nyheter/utrikes/dronare-over-kopenhamns-flygplats-polisinsats-pa-plats",
+          "title": "Drönare över Köpenhamns flygplats Kastrup – stor polisinsats",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/dronare-over-kopenhamns-flygplats-polisinsats-pa-plats",
           "published": "Mon, 22 Sep 2025 21:29:05 +0200",
-          "description": "En massiv polisinsats pågår vid Kastrups flygplats på grund av drönare i området, rapporterar Ekstrabladet. Inga flyg kan landa eller lyfta, rapporterar TT."
+          "description": "En massiv polisinsats pågår vid Kastrups flygplats på grund av drönare i området. Inga flyg kan landa eller lyfta, uppger flygplatsen. – De är stora, det är inga hobbydrönare, säger Anette Østenfeldt vid Köpenhamnspolisen."
         },
         {
           "title": "Supertyfon drar in mot Kina – 400 000 evakueras i Shenzhen",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/nyheter/utrikes/ryska-plan-krankte-estlands-luftrum-i-tolv-minuter-en-strategisk-markering",
           "published": "Mon, 22 Sep 2025 20:24:55 +0200",
           "description": "Ryssland skickade stridsflyg över Estland i tolv minuter. Militärexpert Johan Huovinen tolkar det som en provokation mot Nato."
-        },
-        {
-          "title": "Jimmie försökte rädda livet på ambulanskollegan: ”Hon var otroligt stolt över sitt yrke”",
-          "link": "https://www.svt.se/nyheter/lokalt/gavleborg/jimmies-hyllning-till-avlidna-ambulanskollegan-den-snallaste-manniskan",
-          "published": "Mon, 22 Sep 2025 18:08:43 +0200",
-          "description": "En kollega har blivit svårt skadad på ett uppdrag. Det är den enda information sjuksköterskan Jimmie Prahl får – sedan kommer hon in på akutmottagningen i Hudiksvall. Nu sörjer han sin nära vän. – Det kan aldrig bli värre än den dagen."
         }
       ]
     },
@@ -65,6 +65,18 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Efter drönarlarm på Kastrup – resenärer omdirigerades till Malmö airport",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/efter-dronarlarm-pa-kastrup-resenarer-omdirigerades-till-malmo-airport",
+          "published": "Mon, 22 Sep 2025 23:58:18 +0200",
+          "description": "Flera flyg som inte kunde landa på Köpenhamns flygplats, Kastrup, under måndagskvällen fick istället landa på Malmö airport. Resenärer från Bristol som SVT pratade med tog det hela med ro."
+        },
+        {
+          "title": "Drönare över Köpenhamns flygplats Kastrup – stor polisinsats",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/dronare-over-kopenhamns-flygplats-polisinsats-pa-plats",
+          "published": "Mon, 22 Sep 2025 21:29:05 +0200",
+          "description": "En massiv polisinsats pågår vid Kastrups flygplats på grund av drönare i området. Inga flyg kan landa eller lyfta, uppger flygplatsen. – De är stora, det är inga hobbydrönare, säger Anette Østenfeldt vid Köpenhamnspolisen."
+        },
         {
           "title": "Nyheter från dagen: 22 september",
           "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-22-september-8w1ym4",
@@ -76,18 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/amerikansk-domstol-arbetet-med-vindkraftsparken-kan-fortsatta",
           "published": "Mon, 22 Sep 2025 20:12:45 +0200",
           "description": "En federal domare ger tillstånd till det danska företaget Ørsted att återuppta arbetet med en vindkraftspark utanför USA:s kust. Det efter att företaget lämnat in en stämningsansökan mot de amerikanska myndigheterna som stoppade projektet."
-        },
-        {
-          "title": "Hundratals ton vete läckte ut i Åhus hamn",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/hundratals-ton-vete-lackte-ut-i-hamnen",
-          "published": "Mon, 22 Sep 2025 16:23:43 +0200",
-          "description": "Uppemot 300 ton vete har läckt ut i Åhus hamn efter att en spannmålssilo spruckit, rapporterar Kristianstadsbladet."
-        },
-        {
-          "title": "S störst i skånska valet till kyrkomötet – SD backar",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/s-storst-i-skanska-valet-till-kyrkomotet-sd-backar",
-          "published": "Mon, 22 Sep 2025 11:28:07 +0200",
-          "description": "Skåne följde i stort rikstrenden i kyrkovalet. Socialdemokraterna blev största grupp till kyrkomötet. Sverigedemokraterna fick högre andel röster jämfört med riksgenomsnittet, men backade ändå i Skåne."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Vänsterpartister pudlar efter klipp på Hamas-flaggor: ”Inget jag står bakom”",
-          "link": "https://www.aftonbladet.se/nyheter/a/dR64zw/vansterpartister-pudlar-efter-klipp-pa-hamas-flaggor?utm_medium=rss",
-          "published": "Mon, 22 Sep 2025 19:58:40 GMT",
-          "description": "Riksdagsledamöterna Nadja Awad (V) och Tony Haddou (V) delade filmklipp där symboler för terrorstämplade rörelser syntes…"
+          "title": "Stark kritik mot Trumps varning för paracetamol",
+          "link": "https://www.aftonbladet.se/nyheter/a/OowgQE/stark-kritik-mot-trumps-varning-for-paracetamol?utm_medium=rss",
+          "published": "Mon, 22 Sep 2025 21:51:37 GMT",
+          "description": "Donald Trump påstod på måndagen att paracetamol är skadligt för gravida kvinnor och deras foster."
         },
         {
-          "title": "Drönare stoppar flygtrafik till Köpenhamn",
-          "link": "https://www.aftonbladet.se/nyheter/a/LMJ4rp/dronare-stoppar-flygtrafik-till-kopenhamn?utm_medium=rss",
-          "published": "Mon, 22 Sep 2025 19:28:24 GMT",
-          "description": "På måndagskvällen, strax efter klockan 21, kan inga flyg landa eller lyfta på Köpenhamns flygplats."
+          "title": "Stor brand på skrot i Angered",
+          "link": "https://www.aftonbladet.se/nyheter/a/dR67dw/stor-brand-pa-skrot-i-angered?utm_medium=rss",
+          "published": "Mon, 22 Sep 2025 21:15:24 GMT",
+          "description": "En stor brand rasar på en återvinningscentral i Angered i nordöstra Göteborg."
         },
         {
-          "title": "Macron: Vi erkänner Palestina",
-          "link": "https://www.aftonbladet.se/nyheter/a/yEQ5oE/macron-vi-erkanner-palestina?utm_medium=rss",
-          "published": "Mon, 22 Sep 2025 19:23:10 GMT",
-          "description": "Frankrike har officiellt erkänt Palestina som stat. Det meddelar president Emmanuel Macron på en pressträff."
+          "title": "Burkina Faso, Mali och Niger lämnar ICC",
+          "link": "https://www.aftonbladet.se/nyheter/a/OowgbO/burkina-faso-mali-och-niger-lamnar-icc?utm_medium=rss",
+          "published": "Mon, 22 Sep 2025 21:09:19 GMT",
+          "description": "De västafrikanska länderna Burkina Faso, Mali och Niger meddelar att de drar sig ur Internationella brottmålsdomstolen…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Kims ”goda minnen” av Trump",
-          "link": "https://www.expressen.se/nyheter/varlden/kims-goda-minnen-av-trump/",
-          "published": "Mon, 22 Sep 2025 22:09:16 +0200",
-          "description": "Nordkoreas ledare Kim Jong-Un har fortfarande ”goda personliga minnen” av USA:s president Donald Trump.Men han uppmanar USA att släppa kravet på att Nordkorea ska avsluta sitt kärnvapenprogram, skriver ABC News.– Vi kommer aldrig att lägga ner våra kärnvapen, säger Kim."
+          "title": "Radioprofilen: Personalen  sade till mig att skyla mig",
+          "link": "https://www.expressen.se/nyheter/varlden/radioprofilen-personalen--sade-till-mig-att-skyla-mig/",
+          "published": "Tue, 23 Sep 2025 00:04:05 +0200",
+          "description": "Radioprofilen Nikki Osborne blev ”förödmjukad” på flygplatsen.Personalen sade till henne att skyla sig på grund av hennes klädsel, skriver Mirror.”Jag fick känna mig som en slampa i min hemstad”, skriver Osborne."
         },
         {
-          "title": "Mölndals kommun slutar servera mjölk på förskolorna",
-          "link": "https://www.expressen.se/nyheter/sverige/molndals-kommun-slutar-servera-mjolk-pa-forskolorna/",
-          "published": "Mon, 22 Sep 2025 22:07:11 +0200",
-          "description": "Mölndals kommun har beslutat att sluta servera mjölk till lunch på förskolorna.Bakgrunden är riktlinjer från Livsmedelsverket och Jordbruksverket, som kommunen nu väljer att följa, rapporterar P4 Göteborg."
+          "title": "Varnar för paracetamol  – Trump får mothugg",
+          "link": "https://www.expressen.se/nyheter/varlden/varnar-for-paracetamol-trump-far-mothugg/",
+          "published": "Mon, 22 Sep 2025 23:37:12 +0200",
+          "description": "Donald Trump påstår att det finns ett samband mellan paracetamol och autism.– Att ta det är inte bra, säger Trump.Men medicinska experter och läkemedelstillverkare tillbakavisar presidentens påstående, skriver Independent."
         },
         {
-          "title": "Jimmy Kimmel tillbaka i rutan",
-          "link": "https://www.expressen.se/nyheter/varlden/jimmy-kimmel-tillbaka-i-rutan/",
-          "published": "Mon, 22 Sep 2025 21:49:11 +0200",
-          "description": "Förra onsdagen stängdes han av efter orden om Charlie Kirks död.Nu återvänder Jimmy Kimmel till rutan, uppger Disney i ett pressmeddelande.”Vi har tillbringat de senaste dagarna med att ha eftertänksamma samtal med Jimmy, och efter dessa samtal har vi beslutat att återuppta programmet på tisdag”, skriver man. "
+          "title": "Svenskt radarplan i luften",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4e41104e-d6d0-4ae8-bd50-2c01716acb26",
+          "published": "Mon, 22 Sep 2025 23:36:24 +0200",
+          "description": "”Ordinarie verksamhet” • Lyfte efter drönarlarmet på Kastrup"
         }
       ]
     }
