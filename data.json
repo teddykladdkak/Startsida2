@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-22T03:01:47.599699Z",
+  "lastUpdated": "2025-09-22T04:14:27.283309Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,24 @@
       },
       "items": [
         {
+          "title": "Nu är Daniel Kindberg i hovrätten – rättegången om mutbrott inleds",
+          "link": "https://www.svt.se/nyheter/lokalt/jamtland/nu-ar-daniel-kindberg-i-hovratten-rattegangen-om-mutbrott-inleds",
+          "published": "Mon, 22 Sep 2025 05:30:02 +0200",
+          "description": "För tre år sedan dömdes Daniel Kindberg till fängelse för bland annat mutbrott. Men den tidigare vd:n för Östersundshem tillika ordföranden för Östersunds FK överklagade. I dag inleds förhandlingarna i hovrätten."
+        },
+        {
+          "title": "Här är tältet som ska rädda Borlängebor i kris och krig: ”Längst fram i utvecklingen”",
+          "link": "https://www.svt.se/nyheter/lokalt/dalarna/har-ar-taltet-som-ska-radda-borlangebor-i-kris-och-krig-langst-fram-i-utvecklingen",
+          "published": "Mon, 22 Sep 2025 05:30:02 +0200",
+          "description": "Nu drar Beredskapsveckan igång. För kommunerna runt om i Sverige har arbetet med kris och beredskap de senaste åren trappats upp. SVT följde med när Borlänge satte upp sina räddningstält."
+        },
+        {
+          "title": "Sigrid, 87, låg i sina spyor – nu flyttar dottern henne från äldreboendet i Norsjö",
+          "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/sigrid-87-lag-i-sina-spyor-nu-flyttar-dottern-henne-fran-aldreboendet-i-norsjo",
+          "published": "Mon, 22 Sep 2025 05:30:02 +0200",
+          "description": "Det har larmats om missförhållanden på äldreboendet Solbacka i Norsjö under en längre tid. Efter flera allvarliga incidenter har dottern Veronica Isaksson fått nog. Hon väljer nu att flytta sin 87-åriga mamma Sigrid. – Mamma mår inte bra här och hon har inte lång tid kvar. Vi kan inte vänta på att det ska bli bättre, säger Veronica Isaksson."
+        },
+        {
           "title": "Minnesstund för Charlie Kirk – SVT liverapporterar",
           "link": "https://www.svt.se/nyheter/utrikes/minnesstund-for-charlie-kirk-svt-liverapporterar",
           "published": "Sun, 21 Sep 2025 19:53:13 +0200",
@@ -38,24 +56,6 @@
           "link": "https://www.svt.se/nyheter/utrikes/storbritannien-kanada-och-australien-erkanner-palestina",
           "published": "Sun, 21 Sep 2025 16:56:56 +0200",
           "description": "På söndagen meddelade ledarna för Storbritannien, Kanada och Australien att de formellt erkänner Palestina som en självständig stat. I samband med FN:s generalförsamling i New York nästa vecka väntas ytterligare tio länder erkänna en palestinsk stat – med målet att möjliggöra en tvåstatslösning utan Hamas."
-        },
-        {
-          "title": "Omfattande brand på HVB-hem utanför Nordingrå – två personer gripna",
-          "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/omfattande-brand-utanfor-nordingra-raddningstjanst-pa-plats",
-          "published": "Sun, 21 Sep 2025 16:42:41 +0200",
-          "description": "Brandkåren jobbar med kraftiga bränder i två byggnader i Järesta. Byggnaderna ska höra till ett HVB-hem."
-        },
-        {
-          "title": "Efter ambulansfackets kritik: ”Flaggning” av adresser ska ses över",
-          "link": "https://www.svt.se/nyheter/lokalt/gavleborg/efter-ambulansfackets-kritik-flaggning-av-adresser-ska-ses-over",
-          "published": "Sun, 21 Sep 2025 12:21:44 +0200",
-          "description": "Region Gävleborg meddelar på söndagen att de startat en utredning efter lördagens dåd där en ambulanssjukvårdare dödades i tjänsten. Ambulansfacket riktar hård kritik mot sina arbetsgivare och kräver åtgärder som ”flaggning” av adresser – något regionen lovar att utreda."
-        },
-        {
-          "title": "Polis slarvade bort magasin med patroner – nu varnas hon",
-          "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/polis-slarvade-bort-magasin-med-patroner-nu-varnas-hon",
-          "published": "Sun, 21 Sep 2025 11:29:07 +0200",
-          "description": "En polis verksam i Polismyndigheten region Nord har tilldelats en varning. Detta sedan hon glömt två magasin med ammunition på en polisbils tak – och åkt i väg."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Värner Rydénskolan kämpade med låga resultat – lyckades vända trenden",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/varner-rydenskolan-kampade-med-laga-resultat-lyckades-vanda-trenden",
+          "published": "Mon, 22 Sep 2025 05:30:02 +0200",
+          "description": "Värner Rydénskolan i Rosengård, Malmö, har under en tioårsperiod kämpat med låga resultat när det gäller gymnasiebehörighet, vilket har placerat skolan bland de sämsta i Sverige. Men nu har skolan lyckats vända den negativa utvecklingen."
+        },
         {
           "title": "Nyheter från dagen: 21 september",
           "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-21-september-u7v8vm",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/se-ekorren-jaga-okand-man-utanfor-domkyrkan-i-lund",
           "published": "Sun, 21 Sep 2025 14:26:39 +0200",
           "description": "En helt vanlig dag i Lund riktas plötsligt blickarna mot en händelse på Domkyrkoplatsen. En man tycks röra sig fram och tillbaka med en liten skugga efter sig, en efterhängsen ekorre."
-        },
-        {
-          "title": "90-åriga Waltraud jobbar extra inom hemtjänsten",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/90-ariga-waltraud-har-fast-anstallning-inom-hemtjansten",
-          "published": "Sun, 21 Sep 2025 05:30:06 +0200",
-          "description": "90-åriga Waltraud Rothman i Skanör gick i pension men började jobba igen, som vårdbiträde inom hemtjänsten. – Jag var pensionär i några månader men tycker det är roligt att jobba och hjälpa till, säger hon."
         }
       ]
     },
@@ -97,6 +97,12 @@
         "amount": 3
       },
       "items": [
+        {
+          "title": "Här är de viktigaste budgetnyheterna",
+          "link": "https://www.aftonbladet.se/nyheter/a/4ByoEq/har-ar-de-viktigaste-budgetnyheterna?utm_medium=rss",
+          "published": "Mon, 22 Sep 2025 04:00:45 GMT",
+          "description": "Regeringen lägger i dag fram sin budget för 2026 i riksdagen. Här är de viktigaste nya förslagen."
+        },
         {
           "title": "Allvarliga brott mot barn utreds inte i tid",
           "link": "https://www.aftonbladet.se/nyheter/a/jQolaL/allvarliga-brott-mot-barn-utreds-inte-i-tid?utm_medium=rss",
@@ -108,12 +114,6 @@
           "link": "https://www.aftonbladet.se/nyheter/a/yEQ632/ryssland-tre-doda-i-attack-pa-krim?utm_medium=rss",
           "published": "Mon, 22 Sep 2025 00:37:47 GMT",
           "description": "Tre personer har dödats och 16 skadats i en ukrainsk drönarattack mot Krimhalvön, uppger den Moskvatillsatte guvernören…"
-        },
-        {
-          "title": "Kraftigt regnoväder i Spanien – en död",
-          "link": "https://www.aftonbladet.se/nyheter/a/KMdnvM/en-dod-i-regnovader-i-spanien?utm_medium=rss",
-          "published": "Sun, 21 Sep 2025 23:58:54 GMT",
-          "description": "Minst en person har omkommit sedan ett kraftigt regnoväder dragit in över Katalonien i nordöstra Spanien."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Anna skalperades på  jobbet: ”Chockerande”",
-          "link": "https://www.expressen.se/nyheter/varlden/anna-skalperades-pa--jobbet-chockerande/",
-          "published": "Mon, 22 Sep 2025 04:46:08 +0200",
-          "description": "Anna Rachfal skalperades på jobbet på grund av att arbetsgivaren slarvade med säkerhetsrutinerna.– Jag känner inte igen mig själv längre, säger Anna till Mirror. Nu får 29-åringen ett åttasiffrigt belopp i skadestånd."
+          "title": "En död i oväder i Spanien",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=911eb002-b0d3-4d21-bb67-ba2d10814d10",
+          "published": "Mon, 22 Sep 2025 06:11:04 +0200",
+          "description": "Hittades i flod"
         },
         {
-          "title": "Putins mardröm –  våldsvåg av kriget",
-          "link": "https://www.expressen.se/nyheter/varlden/putins-mardrom-valdsvag-av-kriget/",
-          "published": "Mon, 22 Sep 2025 03:24:52 +0200",
-          "description": "Vladimir Putin har hyllat veteranerna från kriget i Ukraina som ”eliten som försvarar fosterlandet”.Men Ryssland står inför en svår utmaning när hundratusentals krigsveteraner återvänder – med en hotande våldsvåg i landet som följd, skriver The Moscow Times.– Kriget kommer oundvikligen att påverka brottsligheten, säger forskaren Villy Maslov."
+          "title": "Far och son Murdoch möjliga investerare i Tiktok",
+          "link": "https://www.expressen.se/ekonomi/far-och-son-murdoch-mojliga-investerare-i-tiktok/",
+          "published": "Mon, 22 Sep 2025 06:00:59 +0200",
+          "description": "Mediemogulen Rupert Murdoch och sonen Lachlan är intresserade av att investera i Tiktok på den amerikanska marknaden, uppger president Donald Trump. "
         },
         {
-          "title": "Så gick det i kyrkovalet",
-          "link": "https://www.expressen.se/nyheter/sverige/sa-gick-det-i-kyrkovalet/",
-          "published": "Mon, 22 Sep 2025 00:50:46 +0200",
-          "description": "Socialdemokraterna ser ut att bli största nomineringsgrupp i kyrkovalet.Valdeltagandet verkar landa på strax över 17 procent – lägre än senaste valet."
+          "title": "Ber om ursäkt till  änkan efter orden",
+          "link": "https://www.expressen.se/tv/nyheter/varlden/ber-om-ursakt-till-ankan-efter-orden",
+          "published": "Mon, 22 Sep 2025 05:39:08 +0200",
+          "description": "Trumps bisarra utspel på Kirks minnesstund • ”Jag hatar ...”"
         }
       ]
     }
