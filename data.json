@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-22T16:14:30.688750Z",
+  "lastUpdated": "2025-09-22T18:16:50.893638Z",
   "feeds": [
     {
       "url": {
@@ -31,7 +31,7 @@
           "title": "Jimmie försökte rädda livet på ambulanskollegan: ”Hon var otroligt stolt över sitt yrke”",
           "link": "https://www.svt.se/nyheter/lokalt/gavleborg/jimmies-hyllning-till-avlidna-ambulanskollegan-den-snallaste-manniskan",
           "published": "Mon, 22 Sep 2025 18:08:43 +0200",
-          "description": "En kollega har blivit svårt skadad på ett uppdrag. Det är den enda information sjuksköterskan Jimmie Prahl får – sedan kommer hon in på akutmottagningen i Hudiksvall. Nu sörjer han sin nära vän. – Det kan aldrig bli värre än i går."
+          "description": "En kollega har blivit svårt skadad på ett uppdrag. Det är den enda information sjuksköterskan Jimmie Prahl får – sedan kommer hon in på akutmottagningen i Hudiksvall. Nu sörjer han sin nära vän. – Det kan aldrig bli värre än den dagen."
         },
         {
           "title": "Jättetapp efter granskningen – så gick kyrkovalet i Stockholms län",
@@ -66,6 +66,18 @@
       },
       "items": [
         {
+          "title": "Nyheter från dagen: 22 september",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-22-september-8w1ym4",
+          "published": "Mon, 22 Sep 2025 20:15:00 +0200",
+          "description": "Detta har hänt i Skåne måndagen den 23 september."
+        },
+        {
+          "title": "Amerikansk domstol: Arbetet med vindkraftsparken kan fortsätta",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/amerikansk-domstol-arbetet-med-vindkraftsparken-kan-fortsatta",
+          "published": "Mon, 22 Sep 2025 20:12:45 +0200",
+          "description": "En federal domare ger tillstånd till det danska företaget Ørsted att återuppta arbetet med en vindkraftspark utanför USA:s kust. Det efter att företaget lämnat in en stämningsansökan mot de amerikanska myndigheterna som stoppade projektet."
+        },
+        {
           "title": "Hundratals ton vete läckte ut i Åhus hamn",
           "link": "https://www.svt.se/nyheter/lokalt/skane/hundratals-ton-vete-lackte-ut-i-hamnen",
           "published": "Mon, 22 Sep 2025 16:23:43 +0200",
@@ -76,18 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/s-storst-i-skanska-valet-till-kyrkomotet-sd-backar",
           "published": "Mon, 22 Sep 2025 11:28:07 +0200",
           "description": "Skåne följde i stort rikstrenden i kyrkovalet. Socialdemokraterna blev största grupp till kyrkomötet. Sverigedemokraterna fick högre andel röster jämfört med riksgenomsnittet, men backade ändå i Skåne."
-        },
-        {
-          "title": "Misstänkt farligt föremål i damm utanför Malmö",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/misstankt-farligt-foremal-i-damm",
-          "published": "Mon, 22 Sep 2025 11:03:44 +0200",
-          "description": "Polisen larmades till en damm i Vintrie i utkanten av Malmö där ett misstänkt farligt föremål hittades under måndagsmorgonen."
-        },
-        {
-          "title": "Värner Rydénskolan kämpade med låga resultat – lyckades vända trenden",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/varner-rydenskolan-kampade-med-laga-resultat-lyckades-vanda-trenden",
-          "published": "Mon, 22 Sep 2025 05:30:02 +0200",
-          "description": "Värner Rydénskolan i Rosengård, Malmö, har under en tioårsperiod kämpat med låga resultat när det gäller gymnasiebehörighet, vilket har placerat skolan bland de sämsta i Sverige. Men nu har skolan lyckats vända den negativa utvecklingen."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Moldavien: Misstänkt plan på ryskstött valkaos",
-          "link": "https://www.aftonbladet.se/nyheter/a/jQo0k9/moldavien-misstankt-plan-pa-ryskstott-valkaos?utm_medium=rss",
-          "published": "Mon, 22 Sep 2025 15:58:04 GMT",
-          "description": "Över 70 personer har på måndagen gripits i polisräder runt om i Moldavien, meddelar landets myndigheter."
+          "title": "Cyklist allvarligt skadad i trafikolycka",
+          "link": "https://www.aftonbladet.se/nyheter/a/3MrpwP/cyklist-allvarligt-skadad-i-trafikolycka?utm_medium=rss",
+          "published": "Mon, 22 Sep 2025 17:54:46 GMT",
+          "description": "En cyklist och en motorcyklist har båda blivit förda med ambulans till sjukhus efter en krock på Kungsholmen i Stockholm."
         },
         {
-          "title": "Varningen till Ryssland: Vi skjuter ner allt",
-          "link": "https://www.aftonbladet.se/nyheter/a/Mnz71m/tuska-varning-till-ryssland-vi-skjuter-ner-allt?utm_medium=rss",
-          "published": "Mon, 22 Sep 2025 15:52:02 GMT",
-          "description": "Polens premiärminister Donald Tusk har fått nog av ryska luftrumskränkningar."
+          "title": "Israel om Gazafartyg: Vi kommer skydda vår blockad",
+          "link": "https://www.aftonbladet.se/nyheter/a/qPG6Xz/israel-om-gazafartyg-vi-kommer-skydda-var-blockad?utm_medium=rss",
+          "published": "Mon, 22 Sep 2025 17:21:46 GMT",
+          "description": "Den fartygskonvoj som seglar mot Gaza med förnödenheter kommer inte få lägga till vid Gazaremsan och därmed bryta…"
         },
         {
-          "title": "”Nato redo att militärt försvara luftrummet”",
-          "link": "https://www.aftonbladet.se/nyheter/a/kw20QQ/nato-redo-att-militart-forsvara-luftrummet?utm_medium=rss",
-          "published": "Mon, 22 Sep 2025 15:38:11 GMT",
-          "description": "Nato är redo att militärt försvara sitt luftrum om Ryssland fortsätter att kränka det."
+          "title": "En till sjukhus efter krock med timmerbil",
+          "link": "https://www.aftonbladet.se/nyheter/a/kw20Bk/frontalkrock-med-timmerbil?utm_medium=rss",
+          "published": "Mon, 22 Sep 2025 16:30:42 GMT",
+          "description": "En person har förts till sjukhus efter att ha krockat med en timmerbil i Marks kommun i Västergötland, uppger…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "V-toppar spred klipp med Hamas-flaggor – backar",
-          "link": "https://www.expressen.se/nyheter/politik/v-toppar-spred-klipp-med-hamas-flaggor-backar/",
-          "published": "Mon, 22 Sep 2025 17:45:29 +0200",
-          "description": "Här delar riksdagsledamöterna Nadja Awad (V) och Tony Haddou (V) en video på terrorstämplade symboler vid en Palestina-demonstration.Nu tar de avstånd från flaggorna – och har tagit bort delningarna:”Det är inget jag vill stå bakom utan jag står bakom Palestina-flaggan och det palestinska folket”, skriver Nadja Awad."
+          "title": "Kravet på regeringen: Flagga farliga adresser för ambulansen",
+          "link": "https://www.expressen.se/nyheter/sverige/kravet-pa-regeringen-flagga-farliga-adresser-for-ambulansen/",
+          "published": "Mon, 22 Sep 2025 20:08:42 +0200",
+          "description": "I helgen mördades en ambulanskvinna under en utryckning.Ambulansen kom till adressen utan polisen, trots att mannen är våldsdömd.Nu kräver S i Region Stockholm att regeringen att agerar för ambulansen ska få tillgång till polisens information om adresser där det kan finnas farliga personer.– Det är oerhört tragiskt att en person ska behöva dö innan det händer något säger personalregionrådet Robert Johansson (S)."
         },
         {
-          "title": "Britterna: Vi står redo",
-          "link": "https://www.expressen.se/nyheter/varlden/britterna-redo-for-krig/",
-          "published": "Mon, 22 Sep 2025 17:24:22 +0200",
-          "description": "Tonläget mot Ryssland och dess kränkningar av Nato-luftrum skruvas upp.Nu uppger även Storbritannien att man är redo för väpnad konfrontation.– Om vi behöver konfrontera flygplan som befinner sig i Natos luftrum utan tillstånd kommer vi att göra det, säger utrikesminister Yvette Cooper."
+          "title": "Mc och cykel i svår olycka på Kungsholmen",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e10cd79d-be50-4147-b218-8df09207b15e",
+          "published": "Mon, 22 Sep 2025 19:54:28 +0200",
+          "description": "Körde mot rött i centrala Stockholm"
         },
         {
-          "title": "Förskola inrymd",
-          "link": "https://www.expressen.se/nyheter/sverige/forskola-inrymd/",
-          "published": "Mon, 22 Sep 2025 17:02:28 +0200",
-          "description": "Polisen har ryckt ut på ett misstänkt farligt föremål i Halmstad, skriver myndigheten på sin hemsida.Nationella bombskyddet är på väg till platsen. Två personer är gripna och polisen jagar nu ytterligare misstänkta."
+          "title": "Oppositionen: Romina Pourmokhtari borde avgå",
+          "link": "https://www.expressen.se/nyheter/politik/oppositionen-romina-pourmokhtari-borde-avga/",
+          "published": "Mon, 22 Sep 2025 19:22:34 +0200",
+          "description": "Regeringen missar flera stora klimatpolitiska mål.Därför borde klimatminister Romina Pourmokhtari (L) avgå, anser oppositionen.– Hon borde ta sig själv på orden, säger Socialdemokraternas ekonomisk-politiska talesperson Mikael Damberg.– Jag skäms inte för svensk klimatpolitik, vi är ett föregångsland, säger finansminister Elisabeth Svantesson (M)."
         }
       ]
     }
