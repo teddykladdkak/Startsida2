@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-23T06:18:02.123684Z",
+  "lastUpdated": "2025-09-23T08:15:44.210221Z",
   "feeds": [
     {
       "url": {
@@ -28,10 +28,22 @@
       },
       "items": [
         {
+          "title": "Riksbanken sänker räntan till 1,75 procent",
+          "link": "https://www.svt.se/nyheter/ekonomi/riksbanken-lamnar-nytt-rantebesked",
+          "published": "Tue, 23 Sep 2025 09:31:16 +0200",
+          "description": "Riksbanken sänker styrräntan till 1,75 procent. Det meddelade Riksbanken i ett pressmeddelande på tisdagsmorgonen. – Jag tycker att det var klokt, därför för att få igång ekonomin och hushållens förtroende för framtiden så behövs det flera signaler som pekar åt samma håll – att nu kan vi sänka axlarna och blicka framåt, säger SVT:s ekonomikommentator Alexander Norén."
+        },
+        {
+          "title": "Drönare i Danmark och Norge – det här vet vi",
+          "link": "https://www.svt.se/nyheter/inrikes/dronare-i-danmark-och-norge-det-har-vet-vi",
+          "published": "Tue, 23 Sep 2025 09:29:09 +0200",
+          "description": "Dansk polis uppger att en ”kapabel aktör” ligger bakom drönarna vid Kastrup. Drönarna befann sig runt flygplatsen i fyra timmar och orsakade stora störningar, men kunde inte skjutas ner. Statsminister Mette Frederiksen kallar det för den ”allvarligaste attacken mot dansk infrastruktur hittills”."
+        },
+        {
           "title": "Ännu en utmärkelse till Britta Marakatt Labba",
           "link": "https://www.svt.se/nyheter/sapmi/annu-en-utmarkelse-till-britta-marakatt-lappa",
           "published": "Tue, 23 Sep 2025 07:50:58 +0200",
-          "description": "Den samiska konstnären Britta Marakatt-Labba har ännu en gång fått ta emot en fin utmärkelse. Hon är numera en av tre nya hedersdoktorer vid Oslo Metropolian University."
+          "description": "Konstnären Britta Marakatt-Labba har ännu en gång fått ta emot en fin utmärkelse. Hon är numera en av tre nya hedersdoktorer vid Oslo Metropolian University."
         },
         {
           "title": "USA:s regering kopplar användande av paracetamol till autism",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/stockholm/skott-mot-port-i-centrala-stockholm",
           "published": "Tue, 23 Sep 2025 05:39:13 +0200",
           "description": "Skott har avlossats mot en port i Vasastan i centrala Stockholm under natten till tisdag. – Vi har inte anträffat någon skadat, däremot har vi hittat hylsor på marken, säger Anna Westberg hos polisen."
-        },
-        {
-          "title": "Region Västerbotten lagrar sjukvårdsmaterial – förvaras i hemliga beredskapslager",
-          "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/region-vasterbotten-lagrar-sjukvardsmaterial-forvaras-i-hemliga-beredskapslager",
-          "published": "Tue, 23 Sep 2025 05:30:06 +0200",
-          "description": "Beredskapen under pandemin var för dålig. Nu har Region Västerbotten byggt upp ett stort beredskapslager på hemlig plats – för att klara kris eller krig. – Beredskapen är betydligt bättre än under covid och vi blir bättre för varje dag, säger Mattias Norman, logistikchef på Region Västerbotten."
-        },
-        {
-          "title": "Hyllade mottagningen i Lund kan läggas ner: ”Blev jättechockad”",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/hyllade-mottagningen-i-lund-kan-laggas-ner-blev-jattechockad",
-          "published": "Tue, 23 Sep 2025 05:30:06 +0200",
-          "description": "Studenten Mira Warensjö Lemming, 22, tycker att mottagningen Unga Vuxna är den bästa upplevelse av svensk psykiatri hon haft. Men i januari planeras mottagningen att stänga i sin nuvarande form. Argumentet: Den gör vården ojämlik i Skåne."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Trump kopplar värktablett till autism",
-          "link": "https://www.aftonbladet.se/nyheter/a/5E9pmK/trump-kopplar-autism-till-paracetamol-ta-inte-tylenol?utm_medium=rss",
-          "published": "Tue, 23 Sep 2025 05:55:03 GMT",
-          "description": "PLUS Donald Trump är på krigsstigen mot paracetamol. På måndagskvällen höll han en presskonferens där han kopplade ämnet till…"
+          "title": "Supertyfon drar in över Hongkong – skolor stänger",
+          "link": "https://www.aftonbladet.se/nyheter/a/XjPobn/supertyfon-drar-in-over-hongkong-skolor-stanger?utm_medium=rss",
+          "published": "Tue, 23 Sep 2025 07:58:41 GMT",
+          "description": "Supertyfonen Ragasa närmar sig Hongkong och södra Kina. Stormen befaras bli den värsta i området på sju år."
         },
         {
-          "title": "Sverige erbjuder stöd till Gazapatienter",
-          "link": "https://www.aftonbladet.se/nyheter/a/0VPB86/sverige-erbjuder-stod-till-gazapatienter?utm_medium=rss",
-          "published": "Tue, 23 Sep 2025 05:38:27 GMT",
-          "description": "Sverige och 24 andra länder erbjuder sig i ett gemensamt uttalande att ge stöd till patienter från Gaza som ska kunna…"
+          "title": "Stark kritik mot Trumps varning för paracetamol",
+          "link": "https://www.aftonbladet.se/nyheter/a/zAv059/stark-kritik-mot-trumps-varning-for-paracetamol?utm_medium=rss",
+          "published": "Tue, 23 Sep 2025 07:17:19 GMT",
+          "description": "Donald Trump påstod på måndagen att paracetamol är skadligt för gravida kvinnor och deras foster."
         },
         {
-          "title": "Så mycket kostade årets första humrar",
-          "link": "https://www.aftonbladet.se/nyheter/a/algOQO/sa-mycket-kostade-arets-forsta-hummer?utm_medium=rss",
-          "published": "Tue, 23 Sep 2025 05:06:38 GMT",
-          "description": "51 000 kronor. Det blev kilopriset för årets första humrar, rapporterar Göteborgs-Posten."
+          "title": "Så lever de i dag – efter Netflix-dokumentären",
+          "link": "https://www.aftonbladet.se/nyheter/a/0V5P22/tonarsparet-trakasserades-i-aratal-sa-avslojade-fbi-gatan?utm_medium=rss",
+          "published": "Tue, 23 Sep 2025 06:57:17 GMT",
+          "description": "PLUS Tonårsflickan hånades och hotades med anonyma sms – från sin egen mamma."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Saftiga prislappen på hummerpremiären",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a114aba9-dd38-4887-8b98-e47b0c5e509a",
-          "published": "Tue, 23 Sep 2025 07:10:39 +0200",
-          "description": "Så mycket kostade årets första hummer"
+          "title": "Mette Frederiksen om drönarkaoset på Kastrup",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=79f09532-9944-4e9f-9090-1a405798448b",
+          "published": "Tue, 23 Sep 2025 09:59:40 +0200",
+          "description": "Statsministern: ”Allvarligaste angreppet”"
         },
         {
-          "title": "Megatyfonen drar in",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/megatyfonen-drar-in-over-hong-kong",
-          "published": "Tue, 23 Sep 2025 08:10:12 +0200",
-          "description": "Larmet från rymden • Se jordens starkaste storm över miljonstaden"
+          "title": "Riksbanken sänker styrräntan",
+          "link": "https://www.expressen.se/ekonomi/privatekonomi/riksbanken-sanker-styrrantan/",
+          "published": "Tue, 23 Sep 2025 09:33:58 +0200",
+          "description": "Riksbanken sänker styrräntan med 0,25 procentenheter till 1,75 procent.Där bedöms den bli kvar.– Inte en dag för tidigt, säger Felicia Schön på Avanza i en kommentar till Expressen. "
         },
         {
-          "title": "Totalstopp för Arlanda Express",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2b3a1902-d3e3-469f-91cb-050dde6e009b",
-          "published": "Tue, 23 Sep 2025 06:48:44 +0200",
-          "description": "Tågstrul norr om Stockholm"
+          "title": "Miljonvinsten på Triss i TV4 – ”Det var inte dåligt”",
+          "link": "https://www.expressen.se/noje/tv-och-streaming/miljonvinsten-i-triss-det-var-inte-daligt/",
+          "published": "Tue, 23 Sep 2025 09:35:46 +0200",
+          "description": "En miljon kronor. Det skrapade Peter från Koskullskulle i Gällivare kommun hem på Triss i TV4:s nyhetsmorgon.– Det var inte dåligt, säger han i direktsändning. "
         }
       ]
     }
