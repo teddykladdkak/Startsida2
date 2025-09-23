@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-23T04:13:37.330675Z",
+  "lastUpdated": "2025-09-23T06:18:02.123684Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,18 @@
       },
       "items": [
         {
+          "title": "Ännu en utmärkelse till Britta Marakatt Labba",
+          "link": "https://www.svt.se/nyheter/sapmi/annu-en-utmarkelse-till-britta-marakatt-lappa",
+          "published": "Tue, 23 Sep 2025 07:50:58 +0200",
+          "description": "Den samiska konstnären Britta Marakatt-Labba har ännu en gång fått ta emot en fin utmärkelse. Hon är numera en av tre nya hedersdoktorer vid Oslo Metropolian University."
+        },
+        {
+          "title": "USA:s regering kopplar användande av paracetamol till autism",
+          "link": "https://www.svt.se/nyheter/utrikes/usas-regering-kopplar-anvandande-av-paracetamol-till-autism",
+          "published": "Tue, 23 Sep 2025 07:35:05 +0200",
+          "description": "USA:s regering menar att autism bland barn kan kopplas till användandet av läkemedel med paracetamol bland gravida kvinnor. Men uttalandet har mötts av stor kritik. – Det är chockerande och egentligen helt galet. Vi är ju rörande överens om att den ökande diagnostiken av autism är på grund av att vi förändrat diagnoskriterierna och fått en ökad medvetenhet, säger Viktor H. Ahlqvist, postdoktor vid Karolinska Institutet."
+        },
+        {
           "title": "Skott mot port i centrala Stockholm",
           "link": "https://www.svt.se/nyheter/lokalt/stockholm/skott-mot-port-i-centrala-stockholm",
           "published": "Tue, 23 Sep 2025 05:39:13 +0200",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/hyllade-mottagningen-i-lund-kan-laggas-ner-blev-jattechockad",
           "published": "Tue, 23 Sep 2025 05:30:06 +0200",
           "description": "Studenten Mira Warensjö Lemming, 22, tycker att mottagningen Unga Vuxna är den bästa upplevelse av svensk psykiatri hon haft. Men i januari planeras mottagningen att stänga i sin nuvarande form. Argumentet: Den gör vården ojämlik i Skåne."
-        },
-        {
-          "title": "Oväntade hinder för Joakim Medin – kan stoppas från att vittna",
-          "link": "https://www.svt.se/kultur/ovantade-hinder-for-joakim-medin-kan-stoppas-fran-att-vittna",
-          "published": "Tue, 23 Sep 2025 05:30:06 +0200",
-          "description": "Den svenske journalisten Joakim Medin är åtalad för terrorbrott i Turkiet. Om han inte deltar i rättegången riskerar han att bli internationellt efterlyst. Därför vill han vittna. Men Sverige tillåter sällan medverkan i politiskt motiverade rättegångar – och ännu finns ingen formell ansökan från Turkiet att ta ställning till."
-        },
-        {
-          "title": "Då kan du behöva flytta ihop med grannen om krisen kommer",
-          "link": "https://www.svt.se/nyheter/lokalt/sodertalje/da-kan-du-behova-flytta-ihop-med-grannen",
-          "published": "Tue, 23 Sep 2025 05:30:06 +0200",
-          "description": "Vid en kris kan du stå utan el, värme och vatten. Då kan grannen vara din räddning. – Det kan vara folk som inte klarar sig själva, säger Daniel Sundin, energirådgivare i Södertälje och Nykvarn"
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Maha dog efter magoperation  i Malmö – idag kommer domen mot läkaren",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/maha-dog-under-magoperation-i-malmo-idag-kommer-domen-mot-lakaren",
+          "published": "Tue, 23 Sep 2025 07:45:32 +0200",
+          "description": "Trebarnsmamman Maha vaknade inte upp efter en bukplastikoperation på en privat klinik i Malmö. Under tisdagen kommer domen mot läkaren som utförde narkosen."
+        },
         {
           "title": "Hyllade mottagningen i Lund kan läggas ner: ”Blev jättechockad”",
           "link": "https://www.svt.se/nyheter/lokalt/skane/hyllade-mottagningen-i-lund-kan-laggas-ner-blev-jattechockad",
@@ -81,13 +87,7 @@
           "title": "Drönare över Köpenhamns flygplats Kastrup – stor polisinsats",
           "link": "https://www.svt.se/nyheter/lokalt/skane/dronare-over-kopenhamns-flygplats-polisinsats-pa-plats",
           "published": "Mon, 22 Sep 2025 21:29:05 +0200",
-          "description": "Drönare över Kastrup tvingade Danmarks största flygplats att stänga och ledde till en omfattande polisinsats under måndagskvällen. Först vid 00.30-tiden kunde flygplatsen öppna igen. – Vi önskar att vi visste var drönarna befann sig vid det här laget, säger Jakob Hansen vid polisen på en presskonferens natten till tisdag."
-        },
-        {
-          "title": "Nyheter från dagen: 22 september",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-22-september-8w1ym4",
-          "published": "Mon, 22 Sep 2025 20:15:00 +0200",
-          "description": "Detta har hänt i Skåne måndagen den 22 september."
+          "description": "Polisen i Danmark vet fortfarande inte vem eller vilka som flög drönarna vid Kastrup eller vart de tog vägen efteråt. – Vi tror att det är en kapabel aktör, säger polisen Jens Jespersen på en pressträff på tisdag morgon. Kastrup tvingades att stänga under en omfattade polisinsats på måndagskvällen."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Mat och medicin prioriteras på sargad järnväg",
-          "link": "https://www.aftonbladet.se/nyheter/a/wgw3kG/mat-och-medicin-prioriteras-pa-sargad-jarnvag?utm_medium=rss",
-          "published": "Tue, 23 Sep 2025 04:00:55 GMT",
-          "description": "Det blir tuffa prioriteringar när tågtrafiken på Stambanan och Ådalsbanan i Västernorrland kan börja släppas på igen."
+          "title": "Trump kopplar värktablett till autism",
+          "link": "https://www.aftonbladet.se/nyheter/a/5E9pmK/trump-kopplar-autism-till-paracetamol-ta-inte-tylenol?utm_medium=rss",
+          "published": "Tue, 23 Sep 2025 05:55:03 GMT",
+          "description": "PLUS Donald Trump är på krigsstigen mot paracetamol. På måndagskvällen höll han en presskonferens där han kopplade ämnet till…"
         },
         {
-          "title": "Brand på skrot i Göteborg – VMA utfärdat",
-          "link": "https://www.aftonbladet.se/nyheter/a/zAvle1/brand-pa-skrot-i-goteborg-vma-utfardat?utm_medium=rss",
-          "published": "Tue, 23 Sep 2025 03:52:45 GMT",
-          "description": "Det brinner på en återvinningsstation i Agnesberg i norra Göteborg. Ett VMA utfärdades under tisdagsmorgonen."
+          "title": "Sverige erbjuder stöd till Gazapatienter",
+          "link": "https://www.aftonbladet.se/nyheter/a/0VPB86/sverige-erbjuder-stod-till-gazapatienter?utm_medium=rss",
+          "published": "Tue, 23 Sep 2025 05:38:27 GMT",
+          "description": "Sverige och 24 andra länder erbjuder sig i ett gemensamt uttalande att ge stöd till patienter från Gaza som ska kunna…"
         },
         {
-          "title": "Tunga G7-länder erkänner Palestina: ”Har betydelse”",
-          "link": "https://www.aftonbladet.se/nyheter/a/73b7Jo/tunga-g7-lander-erkanner-palestina-har-betydelse?utm_medium=rss",
-          "published": "Tue, 23 Sep 2025 03:50:53 GMT",
-          "description": "Australien, Storbritannien, Kanada och Frankrike. Samtidigt som den så kallade FN-veckan i New York drar i gång erkänner…"
+          "title": "Så mycket kostade årets första humrar",
+          "link": "https://www.aftonbladet.se/nyheter/a/algOQO/sa-mycket-kostade-arets-forsta-hummer?utm_medium=rss",
+          "published": "Tue, 23 Sep 2025 05:06:38 GMT",
+          "description": "51 000 kronor. Det blev kilopriset för årets första humrar, rapporterar Göteborgs-Posten."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Putins hot efter upptrappningen: ”Påtvingat”",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/putins-hot-efter-upptrappningen-patvingat",
-          "published": "Tue, 23 Sep 2025 06:05:52 +0200",
-          "description": "Kremls nya robotbeslut • ”Inget ska tvivla”"
+          "title": "Saftiga prislappen på hummerpremiären",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a114aba9-dd38-4887-8b98-e47b0c5e509a",
+          "published": "Tue, 23 Sep 2025 07:10:39 +0200",
+          "description": "Så mycket kostade årets första hummer"
         },
         {
-          "title": "Skott i Vasastan i Stockholm",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4d1ffac3-3ee2-4b2e-9d5c-49543ab84f27",
-          "published": "Tue, 23 Sep 2025 05:29:41 +0200",
-          "description": "Flera larm om smällar"
+          "title": "Megatyfonen drar in",
+          "link": "https://www.expressen.se/tv/nyheter/varlden/megatyfonen-drar-in-over-hong-kong",
+          "published": "Tue, 23 Sep 2025 08:10:12 +0200",
+          "description": "Larmet från rymden • Se jordens starkaste storm över miljonstaden"
         },
         {
-          "title": "Storbrand – VMA utfärdat",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2043890e-6eeb-4bda-acbf-8807701ca86b",
-          "published": "Tue, 23 Sep 2025 05:50:56 +0200",
-          "description": "Uppmaningen till boende i Göteborg"
+          "title": "Totalstopp för Arlanda Express",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2b3a1902-d3e3-469f-91cb-050dde6e009b",
+          "published": "Tue, 23 Sep 2025 06:48:44 +0200",
+          "description": "Tågstrul norr om Stockholm"
         }
       ]
     }
