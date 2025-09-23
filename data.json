@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-23T16:14:41.916694Z",
+  "lastUpdated": "2025-09-23T18:17:22.174223Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,24 @@
       },
       "items": [
         {
+          "title": "Kristersson: ”Sverige har rätt att försvara sitt luftrum, med våld om det behövs”",
+          "link": "https://www.svt.se/nyheter/inrikes/kristersson-sverige-har-ratt-att-forsvara-sitt-luftrum-med-vald-om-det-behovs",
+          "published": "Tue, 23 Sep 2025 19:11:59 +0200",
+          "description": "”Vi har rätt att försvara varje centimeter Natos-territorium och vi kommer också att göra det”, säger statsminister Ulf Kristersson (M) efter den senaste tidens luftrumskränkningar i Natoländer och gårdagskvällens drönarlarm vid Oslos och Köpenhamns flygplatser."
+        },
+        {
+          "title": "Larm om misstänkt farligt föremål i Kista",
+          "link": "https://www.svt.se/nyheter/lokalt/stockholm/larm-om-misstankt-farligt-foremal-i-kista",
+          "published": "Tue, 23 Sep 2025 18:48:11 +0200",
+          "description": "Polis är på plats vid ett flerfamiljshus i Kista i norra Stockholm efter att ett misstänkt farligt föremål hittats."
+        },
+        {
+          "title": "Jon Dahl Tomasson: ”Säger åt min fru och mina barn att inte läsa”",
+          "link": "https://www.svt.se/sport/fotboll/jon-dahl-tomasson-sager-at-min-fru-och-mina-barn-att-inte-lasa",
+          "published": "Tue, 23 Sep 2025 18:28:50 +0200",
+          "description": "Efter förlusten mot Kosovo i VM-kvalet fick förbundskapten Jon Dahl Tomasson och Svenska fotbollförbundet ta emot massiv kritik på sociala medier. En del inlägg var så hotfulla att SvFF valde att polisanmäla. – Verbalt våld är vidrigt. Jag säger alltid åt min fru och mina barn att inte läsa kommentarer, berättar Dahl Tomasson för SVT Sport."
+        },
+        {
           "title": "Ny avdelning öppnar på Norrlands universitetssjukhus: ”Som på julafton”",
           "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/ny-avdelning-oppnar-pa-norrlands-universitetssjukhus-som-pa-julafton",
           "published": "Tue, 23 Sep 2025 17:52:08 +0200",
@@ -38,24 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/norrbotten/svenska-flygvapnet-deltar-i-finlands-storsta-flygovning",
           "published": "Tue, 23 Sep 2025 16:52:15 +0200",
           "description": "Just nu pågår Finlands största flygövning Protective Fence 25. Med på övningen är 50 flygplan och 1 200 soldater från Finland, Sverige och Danmark. – Vi genomför själva striden och understödjer den i luften, säger chefen på F 21 Peter Greberg."
-        },
-        {
-          "title": "”Risk att Ryssland vill trigga igång en respons”",
-          "link": "https://www.svt.se/nyheter/utrikes/risk-att-ryssland-vill-trigga-igang-en-respons",
-          "published": "Tue, 23 Sep 2025 16:51:46 +0200",
-          "description": "Den senaste tiden har Ryssland kränkt luftrum i flera Natoländer. Enligt SVT:s säkerhetsreporter John Granlund innebär det här att Ryssland ”ger sig in på en alltmer eskalerande stig”."
-        },
-        {
-          "title": "SR avslutar samarbete med frilansare i Gaza",
-          "link": "https://www.svt.se/kultur/sr-avslutar-samarbete-med-frilansare-i-gaza",
-          "published": "Tue, 23 Sep 2025 16:26:18 +0200",
-          "description": "Sveriges Radio Ekot avbryter samarbetet med en frilansmedarbetare i Gaza efter en granskning av sajten Doku. – Vi brast i vår research, säger utrikeschefen Anders Pontara till SVT Kulturnyheterna."
-        },
-        {
-          "title": "Kvinna död efter trafikolycka i Norrtälje",
-          "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-dod-efter-trafikolycka-i-norrtalje",
-          "published": "Tue, 23 Sep 2025 16:18:50 +0200",
-          "description": "En kvinna i 70-årsåldern har avlidit efter en frontalkrock med en lastbil i Norrtälje."
         }
       ]
     },
@@ -65,6 +65,18 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Nyheter från dagen: 23 september",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-23-september-e8xqu8",
+          "published": "Tue, 23 Sep 2025 20:15:02 +0200",
+          "description": "Detta har hänt i Skåne tisdagen den 23 september."
+        },
+        {
+          "title": "Malmöbon: ”Såg en större drönare som blinkade med starka ljus”",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/malmobon-sag-en-storre-dronare-som-blinkade-med-starka-ljus",
+          "published": "Tue, 23 Sep 2025 18:46:46 +0200",
+          "description": "Polisen i Malmö har fått samtal och tips om att drönare även synts över Malmö, Lund och över Öresundsbron under måndagskvällen och under natten till tisdagen."
+        },
         {
           "title": "Experten: Svårt att spåra drönare",
           "link": "https://www.svt.se/nyheter/lokalt/skane/experten-svart-att-spara-dronare",
@@ -76,18 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/kopenhamnare-man-kanner-att-kriget-kommer-narmare",
           "published": "Tue, 23 Sep 2025 15:40:47 +0200",
           "description": "På måndagskvällen observerades tre drönare vid Kastrups flygplats utanför Köpenhamn. Skrämmande och oroväckande, tycker köpenhamnare efter gårdagens händelser."
-        },
-        {
-          "title": "Flyget stod still i flera timmar: ”Tänkte nu dör vi”",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/flyget-stod-still-i-flera-timmar-tankte-nu-dor-vi",
-          "published": "Tue, 23 Sep 2025 11:56:02 +0200",
-          "description": "För Lilian Le och Tomine Bellesen blev hemresan till Oslo kraftigt försenad. Vännerna fick spendera natten på Kastrup. – Vi fick inga besked, säger Tomine Bellesen."
-        },
-        {
-          "title": "Drönare i Danmark och Norge",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/dronare-i-danmark-och-norge-det-har-vet-vi",
-          "published": "Tue, 23 Sep 2025 09:29:09 +0200",
-          "description": "Dansk polis uppger att en ”kapabel aktör” ligger bakom drönarna vid Kastrup. Drönarna befann sig runt flygplatsen i fyra timmar och orsakade stora störningar, men kunde inte skjutas ner. Statsminister Mette Frederiksen kallar det för den ”allvarligaste attacken mot dansk infrastruktur hittills”."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Trump: Klimatförändringarna tidernas bluff",
-          "link": "https://www.aftonbladet.se/nyheter/a/Avj7yj/trump-klimatforandringarna-tidernas-bluff?utm_medium=rss",
-          "published": "Tue, 23 Sep 2025 15:57:17 GMT",
-          "description": "Klimatförändringarna är ”den största bluff” som människan någonsin hittat på."
+          "title": "Polen öppnar sin gräns mot Belarus",
+          "link": "https://www.aftonbladet.se/nyheter/a/xmKOA8/polen-oppnar-sin-grans-mot-belarus?utm_medium=rss",
+          "published": "Tue, 23 Sep 2025 17:50:30 GMT",
+          "description": "Polen kommer att öppna sin gräns mot Belarus den här veckan, säger premiärminister Donald Tusk."
         },
         {
-          "title": "Trump: Ska träffa Lula nästa vecka",
-          "link": "https://www.aftonbladet.se/nyheter/a/QMQ5zq/trump-ska-traffa-lula-nasta-vecka?utm_medium=rss",
-          "published": "Tue, 23 Sep 2025 15:52:56 GMT",
-          "description": "Donald Trump och Lula da Silva har legat i luven på varandra i flera månader."
+          "title": "Värmeböljorna skördade tusentals liv",
+          "link": "https://www.aftonbladet.se/nyheter/a/eMAalM/varmeboljorna-skordade-tusentals-liv?utm_medium=rss",
+          "published": "Tue, 23 Sep 2025 17:41:58 GMT",
+          "description": "Över 62 000 personer i Europa kan ha avlidit till följd av värmeböljor sommaren 2024."
         },
         {
-          "title": "Guldgruva har kollapsat – 25 arbetare fast",
-          "link": "https://www.aftonbladet.se/nyheter/a/63xo7W/guldgruva-har-kollapsat-25-arbetare-fast?utm_medium=rss",
-          "published": "Tue, 23 Sep 2025 15:16:23 GMT",
-          "description": "En guldgruva i Colombia har kollapsat och 25 gruvarbetare sitter fast 80 meter under jord, uppger lokala myndigheter för…"
+          "title": "Stridspiloten: Då får jag skjuta ner ett ryskt flygplan",
+          "link": "https://www.aftonbladet.se/nyheter/a/rPkz5a/da-far-en-svensk-stridpilot-skjuta-ner-ett-ryskt-flygplan?utm_medium=rss",
+          "published": "Tue, 23 Sep 2025 17:15:06 GMT",
+          "description": "PLUS Regelverket är tydligt: Ytterst har han rätt att skjuta. När stridspiloten ”Dreamer” går upp för att möta ett ryskt plan…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Anderssons krav på regeringen: Återuppta stödet till Unrwa",
-          "link": "https://www.expressen.se/nyheter/politik/anderssons-krav-pa-regeringen-ateruppta-stodet-till-unrwa/",
-          "published": "Tue, 23 Sep 2025 18:01:50 +0200",
-          "description": "Magdalena Andersson och Ulf Kristersson möts i debatt.Då kräver S-ledaren åter att regeringen ska återuppta sitt stöd till Unrwa.– Det är bara ett pennstreck bort, säger hon."
+          "title": "Glöm gymmet – att träna i naturen är mycket bättre",
+          "link": "https://www.expressen.se/nyheter/varlden/glom-gymmet-att-trana-i-naturen-ar-mycket-battre/",
+          "published": "Tue, 23 Sep 2025 19:30:46 +0200",
+          "description": "Att motionera på gymmets löpband är bra.Men att motionera i skogen är bättre.– Folk är mindre stressade efter att ha tränat i naturen, säger Stefano De Dominicis vis Köpenhamns universitet."
         },
         {
-          "title": "Uppgift: Skjutning riktad mot musikbolaget Warner",
-          "link": "https://www.expressen.se/nyheter/sverige/uppgift-skjutning-riktad-mot-musikbolaget-warner--/",
-          "published": "Tue, 23 Sep 2025 17:34:15 +0200",
-          "description": "Nattens skjutning mot en port i Stockholm tros ha varit riktad mot Warner Music Sweden, enligt uppgifter till Expressen.Skjutningen ska vara ett slags straff för att bolaget gett ut den mördade rapparen C. Gambinos musik."
+          "title": "Stanislav Petrov räddade världen – behövs igen",
+          "link": "https://www.expressen.se/kronikorer/mats-larsson/stanislav-petrov-raddade-varlden-behovs-igen/",
+          "published": "Tue, 23 Sep 2025 19:13:39 +0200",
+          "description": "Överstelöjtnant Stanislav Petrov räddade världen den 26 september 1983.Vi behöver sådana som han igen.Om nya misstag begås i det alltmer spända läget mellan Ryssland och Nato. "
         },
         {
-          "title": "Guldgruva har kollapsat – 25 arbetare fast",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=90d5804f-ef51-4802-90f0-ae68ec754cc9",
-          "published": "Tue, 23 Sep 2025 17:23:08 +0200",
-          "description": "25 arbetare fast i Colombia"
+          "title": "Professorn: Därför trappar Ryssland upp",
+          "link": "https://www.expressen.se/nyheter/varlden/professorn-darfor-trappar-ryssland-upp/",
+          "published": "Tue, 23 Sep 2025 19:13:09 +0200",
+          "description": "Ryssland har på kort tid kränkt europeiska länders luftrum med drönare och stridsflyg.Varför trappar man upp de fientliga aktiviteterna nu? Vilka konsekvenser kan det få?Kjell Engelbrekt, professor vid Försvarshögskolan, ger några möjliga förklaringar."
         }
       ]
     }
