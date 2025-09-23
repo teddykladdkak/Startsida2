@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-23T00:52:45.158267Z",
+  "lastUpdated": "2025-09-23T02:53:02.323156Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,24 @@
       },
       "items": [
         {
+          "title": "Brand på skrotanläggning i Angered – VMA utfärdat",
+          "link": "https://www.svt.se/nyheter/lokalt/vast/brand-pa-skrotanlaggning-i-angered-vma-utfardat",
+          "published": "Tue, 23 Sep 2025 04:41:08 +0200",
+          "description": "En brand rasar på en återvinningscentral i Agnesberg i Angered. Ett VMA har utfärdats till allmänheten i Göteborg, där boende i området uppmanas hålla sig inne och stänga dörrar och fönster."
+        },
+        {
+          "title": "Här är miljardärerna som kan ta över amerikanska Tiktok",
+          "link": "https://www.svt.se/nyheter/utrikes/har-ar-miljardarerna-som-kan-ta-over-amerikanska-tiktok",
+          "published": "Tue, 23 Sep 2025 04:25:18 +0200",
+          "description": "Amerikanska miljardärer visar intresse för TikTok – även algoritmen kan hamna under USA-kontroll enligt presschef Karoline Leavitt."
+        },
+        {
+          "title": "Oslos flygplats stängdes – drönare i luftrummet",
+          "link": "https://www.svt.se/nyheter/utrikes/oslos-flygplats-stangd-efter-dronarlarm",
+          "published": "Tue, 23 Sep 2025 01:28:16 +0200",
+          "description": "Alla flyg omdirigerades från Oslos flygplats natten till tisdag efter att drönare observerats i luftrummet nära flygplatsen. Beskedet kommer bara timmar efter att Köpenhamns flygplats Kastrup blev tvungen att stänga på grund av att oidentifierade drönare rört sig i området."
+        },
+        {
           "title": "Nahir Besara tokhyllas av experterna: ”En ambassadör”",
           "link": "https://www.svt.se/sport/fotboll/nahir-besara-tokhyllas-av-experterna-en-ambassador",
           "published": "Mon, 22 Sep 2025 23:44:02 +0200",
@@ -38,24 +56,6 @@
           "link": "https://www.svt.se/nyheter/utrikes/jimmy-kimmel-live-atervander-till-disney",
           "published": "Mon, 22 Sep 2025 21:45:03 +0200",
           "description": "Jimmy Kimmels talkshow återvänder till Disney, uppger bolaget i ett uttalande. Programmet pausades tidigare på obestämd tid efter att Kimmel antytt att Charlie Kirks misstänkte mördare Tyler Robinson skulle kunna vara en Trumpanhängare."
-        },
-        {
-          "title": "Drönare över Köpenhamns flygplats Kastrup – stor polisinsats",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/dronare-over-kopenhamns-flygplats-polisinsats-pa-plats",
-          "published": "Mon, 22 Sep 2025 21:29:05 +0200",
-          "description": "Drönare över Kastrup tvingade Danmarks största flygplats att stänga och ledde till en omfattande polisinsats under måndagskvällen. Först vid 00.30-tiden kunde flygplatsen öppna igen. – Vi önskar att vi visste var drönarna befann sig vid det här laget, säger Jakob Hansen vid polisen på en presskonferens natten till tisdag."
-        },
-        {
-          "title": "Supertyfon drar in mot Kina – 400 000 evakueras i Shenzhen",
-          "link": "https://www.svt.se/nyheter/utrikes/supertyfon-drar-in-mot-kina-400-000-evakueras-i-shenzhen",
-          "published": "Mon, 22 Sep 2025 20:34:39 +0200",
-          "description": "Supertyfonen Ragasa drar in mot södra Kina och myndigheter i staden Shenzhen har inlett evakuering av 400 000 personer, rapporterar AFP. Samtidigt har drygt 10 000 invånare i norra Filippinerna sökt skydd från stormarna som dragit in på måndagen."
-        },
-        {
-          "title": "Ryska plan kränkte Estlands luftrum i tolv minuter: ”En strategisk markering”",
-          "link": "https://www.svt.se/nyheter/utrikes/ryska-plan-krankte-estlands-luftrum-i-tolv-minuter-en-strategisk-markering",
-          "published": "Mon, 22 Sep 2025 20:24:55 +0200",
-          "description": "Ryssland skickade stridsflyg över Estland i tolv minuter. Militärexpert Johan Huovinen tolkar det som en provokation mot Nato."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "USA terrorklassar Antifa",
-          "link": "https://www.aftonbladet.se/nyheter/a/pP71BE/usa-terrorklassar-antifa?utm_medium=rss",
-          "published": "Mon, 22 Sep 2025 23:27:53 GMT",
-          "description": "USA:s president Donald Trump har skrivit under ett presidentdekret som betecknar grupper inom extremvänstern, kända som…"
+          "title": "Flera barn dödade i attack i Haiti",
+          "link": "https://www.aftonbladet.se/nyheter/a/Oowgaw/flera-barn-dodade-i-attack-i-haiti?utm_medium=rss",
+          "published": "Tue, 23 Sep 2025 02:16:47 GMT",
+          "description": "Minst åtta barn har dödats och sex skadats i en drönarattack i Haitis huvudstad Port-au-Prince på lördagskvällen."
         },
         {
-          "title": "Danskt och norskt samarbete efter drönardrama",
-          "link": "https://www.aftonbladet.se/nyheter/a/4ByO7g/dronare-pa-kopenhamns-flygplats?utm_medium=rss",
-          "published": "Mon, 22 Sep 2025 22:32:36 GMT",
-          "description": "Luftrummet över Oslos flygplats har stängts efter att flera drönare observerats i området, rapporterar VG."
+          "title": "Kvinna kastade kniv på sitt ex – tio års fängelse",
+          "link": "https://www.aftonbladet.se/nyheter/a/B0oM6e/tio-ars-fangelse-for-knivkast?utm_medium=rss",
+          "published": "Tue, 23 Sep 2025 01:37:20 GMT",
+          "description": "En kvinna kastade en kniv i bröstet på en man i Vänersborg – hennes tidigare partner."
         },
         {
-          "title": "Stark kritik mot Trumps varning för paracetamol",
-          "link": "https://www.aftonbladet.se/nyheter/a/OowgQE/stark-kritik-mot-trumps-varning-for-paracetamol?utm_medium=rss",
-          "published": "Mon, 22 Sep 2025 21:51:37 GMT",
-          "description": "Donald Trump påstod på måndagen att paracetamol är skadligt för gravida kvinnor och deras foster."
+          "title": "Fler länder erkänner Palestina",
+          "link": "https://www.aftonbladet.se/nyheter/a/bmR84k/fler-lander-erkanner-palestina?utm_medium=rss",
+          "published": "Tue, 23 Sep 2025 01:32:19 GMT",
+          "description": "Monaco, Belgien, Malta, San Marino och Luxemburg har alla erkänt en palestinsk stat."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Ryska ilskan – mot finska orden",
-          "link": "https://www.expressen.se/nyheter/varlden/ryska-ilskan-mot-finska-orden/",
-          "published": "Tue, 23 Sep 2025 01:43:33 +0200",
-          "description": "Uttalanden av Finlands president väcker stor uppmärksamhet i Ryssland.Ord som ”idiot” och ”absurt” används om Alexander Stubbs uttalanden, skriver finska Satakunnan Kansa."
+          "title": "Storbrand – VMA utfärdat",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2043890e-6eeb-4bda-acbf-8807701ca86b",
+          "published": "Tue, 23 Sep 2025 04:48:59 +0200",
+          "description": "Uppmaningen till boende i Göteborg"
         },
         {
-          "title": "Larmet: Putin bunkrar  – för krig mot Nato",
-          "link": "https://www.expressen.se/nyheter/varlden/larmet-putin-bunkrar-for-krig-mot-nato/",
-          "published": "Tue, 23 Sep 2025 01:43:14 +0200",
-          "description": "Ryssland bygger upp en ny reserv för eventuell strid mot Nato.Det visar en ny rapport från tankesmedjan ISW.Reserven tyder också på att Ryssland ”planerar att eskalera” sin offensiv i Ukraina, enligt ISW."
+          "title": "Moské brinner i Hultsfred – misstänkt mordbrand",
+          "link": "https://www.expressen.se/nyheter/sverige/moske-brinner-i-hultsfred-misstankt-mordbrand/",
+          "published": "Tue, 23 Sep 2025 04:21:29 +0200",
+          "description": "Det brinner i en moské i centrala Hultsfred.Polisen har inlett en förundersökning om mordbrand."
         },
         {
-          "title": "Dubbla drönarlarm – stoppad flygtrafik",
-          "link": "https://www.expressen.se/nyheter/varlden/dubbla-dronarlarm-stoppad-flygtrafik/",
-          "published": "Tue, 23 Sep 2025 00:42:55 +0200",
-          "description": "Drönare störde flygtrafiken i både Köpenhamn och Oslo på måndagskvällen. Vid Kastrup fick inga plan landa eller lyfta under flera timmar, vilket ledde till stora förseningar.Vid Oslo flygplats flyttades flygtrafiken först till en landningsbana, senare stängdes all trafik ner även där.– Luftrummet över Oslo flygplats är stängt på grund av en ny drönarobservation, säger flygplatsens kommunikationschef Monica Fasting till VG."
+          "title": "Udda dödsorsaken för  försvunna älgjägarna",
+          "link": "https://www.expressen.se/nyheter/varlden/udda-dodsorsaken-for--forsvunna-algjagarna/",
+          "published": "Tue, 23 Sep 2025 03:02:25 +0200",
+          "description": "Två 25-åriga älgjägare har hittats döda efter att ha varit försvunna.Rättsläkaren Richard Martin har nu uttalat sig om vad som var dödsorsaken.– Det var bara några små märken, säger Martin till People."
         }
       ]
     }
