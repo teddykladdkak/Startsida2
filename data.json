@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-23T12:22:29.625275Z",
+  "lastUpdated": "2025-09-23T14:12:01.992708Z",
   "feeds": [
     {
       "url": {
@@ -28,34 +28,34 @@
       },
       "items": [
         {
+          "title": "Stopp i tågtrafiken mellan Södertälje och Flemingsberg",
+          "link": "https://www.svt.se/nyheter/lokalt/stockholm/stopp-i-tagtrafiken-mellan-sodertalje-och-flemingsberg",
+          "published": "Tue, 23 Sep 2025 15:36:56 +0200",
+          "description": "Det är stopp i tågtrafiken mellan Södertälje syd och Flemingsberg sedan strax innan klockan 15. Det på grund av ett fordonsfel på ett SJ-tåg, som stannat på sträckan."
+        },
+        {
+          "title": "Jon Dahl Tomasson: ”Jag har inte varit tillräckligt bra”",
+          "link": "https://www.svt.se/sport/fotboll/jon-dahl-tomasson-jag-har-inte-varit-tillrackligt-bra",
+          "published": "Tue, 23 Sep 2025 15:32:39 +0200",
+          "description": "95:e-rankade Kosovo besegrade Sverige. Nu talar Jon Dahl Tomasson ut om debaclet i VM-kvalet. – Jag har inte varit tillräckligt bra, måste vara tydligare, säger förbundskaptenen exklusivt till SVT Sport."
+        },
+        {
+          "title": "Allt färre gårdar: ”Tyvärr ett faktum”",
+          "link": "https://www.svt.se/nyheter/lokalt/ost/allt-farre-gardar-tyvarr-ett-faktum",
+          "published": "Tue, 23 Sep 2025 15:19:15 +0200",
+          "description": "Att lantbrukarna blir allt färre och större oroar branschen i en tid när egenförsörjning och beredskap blir allt viktigare."
+        },
+        {
+          "title": "Nya busslinjer i Stockholm – på tvären: ”Alla ska inte till city”",
+          "link": "https://www.svt.se/nyheter/lokalt/stockholm/nya-busslinjer-i-stockholm-pa-tvaren-alla-ska-inte-till-city",
+          "published": "Tue, 23 Sep 2025 14:54:43 +0200",
+          "description": "Tre nya busslinjer, längre tunnelbanetåg och utökad nattrafik är några av de åtgärder som regionen justerar i kollektivtrafiken under 2026. – Vi vill framförallt underlätta resandet på tvären. Alla människor ska inte in till Stockholm city, säger Jakop Dalunde (MP) som är blivande ansvarigt regionråd för kollektivtrafiken i Stockholms län."
+        },
+        {
           "title": "Lastbil och personbil i kollision utanför Övertorneå – tre skadade",
           "link": "https://www.svt.se/nyheter/lokalt/norrbotten/lastbil-och-personbil-i-krock-tre-inblandade",
           "published": "Tue, 23 Sep 2025 13:35:52 +0200",
-          "description": "En lastbil och en personbil har krockat på väg 99 utanför Övertorneå. En ambulanshelikopter och två ambulanser är på plats och samtliga kommer att föras till sjukhus. – Det är tre skadade och en av dem är allvarligt skadad, berättar inre ambulansbefäl."
-        },
-        {
-          "title": "Lyckat besök på Astrid Lindgrens Värld",
-          "link": "https://www.svt.se/kultur/lyckat-besok-pa-astrid-lindgrens-varld",
-          "published": "Tue, 23 Sep 2025 13:32:03 +0200",
-          "description": "I helgen fick Märtha, 5 år äntligen besöka Astrid Lindgrens värld och uppleva en föreställning med teckenspråkstolk."
-        },
-        {
-          "title": "Mark Rutte: ”Redo att försvara varenda tum av Natos territorium”",
-          "link": "https://www.svt.se/nyheter/utrikes/mark-rutte-haller-presskonferens-om-de-ryska-krankningarna",
-          "published": "Tue, 23 Sep 2025 12:37:59 +0200",
-          "description": "Efter flera ryska kränkningar av Natoländers luftrum samlas representanter från Nato för att diskutera hur alliansen ska agera. Efter mötet höll Natos generalsekreterare Mark Rutte en presskonferens. – Vi är redo och villiga att fortsätta försvara varenda tum av Natos territorium, säger Rutte."
-        },
-        {
-          "title": "Här hittades handgranat i Fyrisån – och mordvapnet",
-          "link": "https://www.svt.se/nyheter/lokalt/uppsala/har-hittades-handgranat-i-fyrisan-och-mordvapnet",
-          "published": "Tue, 23 Sep 2025 12:11:51 +0200",
-          "description": "Först gjorde 15-åringen ett prov i skolan, därefter ska han ha rest till Uppsala med uppdrag att döda någon. Mordbeställaren ska ha styrt skytten över telefon – som efter mordet kastade en handgranat och pistol i Fyrisån."
-        },
-        {
-          "title": "Flyget stod still i flera timmar: ”Tänkte nu dör vi”",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/flyget-stod-still-i-flera-timmar-tankte-nu-dor-vi",
-          "published": "Tue, 23 Sep 2025 11:56:02 +0200",
-          "description": "För Lilian Le och Tomine Bellesen blev hemresan till Oslo kraftigt försenad. Vännerna fick spendera natten på Kastrup. – Vi fick inga besked, säger Tomine Bellesen."
+          "description": "En lastbil och en personbil har krockat på riksväg 99 utanför Övertorneå. En ambulanshelikopter och två ambulanser skickades till olycksplatsen samtliga inblandade kommer att föras till sjukhus. – Det är tre skadade och en av dem är allvarligt skadad, berättar inre ambulansbefäl."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Köpenhamnare: ”Man känner att kriget kommer närmare”",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/kopenhamnare-man-kanner-att-kriget-kommer-narmare",
+          "published": "Tue, 23 Sep 2025 15:40:47 +0200",
+          "description": "På måndagskvällen observerades tre drönare vid Kastrups flygplats utanför Köpenhamn. Skrämmande och oroväckande, tycker köpenhamnare efter gårdagens händelser."
+        },
         {
           "title": "Flyget stod still i flera timmar: ”Tänkte nu dör vi”",
           "link": "https://www.svt.se/nyheter/lokalt/skane/flyget-stod-still-i-flera-timmar-tankte-nu-dor-vi",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/maha-dog-under-magoperation-i-malmo-idag-kommer-domen-mot-lakaren",
           "published": "Tue, 23 Sep 2025 07:45:32 +0200",
           "description": "Trebarnsmamman Maha vaknade inte upp efter en bukplastikoperation på en privat klinik i Malmö. Nu döms läkaren till fängelse i två år för vållande till annans död."
-        },
-        {
-          "title": "Hyllade mottagningen i Lund kan läggas ner: ”Blev jättechockad”",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/hyllade-mottagningen-i-lund-kan-laggas-ner-blev-jattechockad",
-          "published": "Tue, 23 Sep 2025 05:30:06 +0200",
-          "description": "Studenten Mira Warensjö Lemming, 22, tycker att mottagningen Unga Vuxna är den bästa upplevelse av svensk psykiatri hon haft. Men i januari planeras mottagningen att stänga i sin nuvarande form. Argumentet: Den gör vården ojämlik i Skåne."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Källor: Israelisk militär har omringat Gaza stad",
-          "link": "https://www.aftonbladet.se/nyheter/a/Gy40Ql/kallor-israelisk-militar-har-omringat-gaza-stad?utm_medium=rss",
-          "published": "Tue, 23 Sep 2025 12:21:17 GMT",
-          "description": "Israelisk militär har omringat hela Gaza stad under tisdagen, uppger militära källor."
+          "title": "Kvinna död efter frontalkrock med lastbil",
+          "link": "https://www.aftonbladet.se/nyheter/a/Oow6m1/kvinna-dod-efter-frontalkrock-med-lastbil?utm_medium=rss",
+          "published": "Tue, 23 Sep 2025 13:59:35 GMT",
+          "description": "En kvinna i 70-årsåldern har omkommit i en trafikolycka i Norrtälje, uppger polisen."
         },
         {
-          "title": "Minst 1 000 personer har avrättats i Iran i år",
-          "link": "https://www.aftonbladet.se/nyheter/a/algvPd/minst-1000-personer-har-avrattats-i-iran-i-ar?utm_medium=rss",
-          "published": "Tue, 23 Sep 2025 12:18:24 GMT",
-          "description": "Iran har avrättat minst 1 000 personer hittills under 2025, enligt Norgebaserade Iran Human Rights (IHR)."
+          "title": "Skjutning mot musikjättens kontor i Stockholm",
+          "link": "https://www.aftonbladet.se/nyheter/a/algv8O/skjutning-mot-musikjattens-kontor-i-stockholm?utm_medium=rss",
+          "published": "Tue, 23 Sep 2025 13:41:30 GMT",
+          "description": "Flera skott har avlossats mot porten till skivbolaget Warner Musics kontor i centrala Stockholm och företagets anställda…"
         },
         {
-          "title": "Försvunna: Åtta av Sveriges glaciärer",
-          "link": "https://www.aftonbladet.se/nyheter/a/bmRkpg/atta-av-sveriges-glaciarer-sparlost-forsvunna-har-smalt-bort?utm_medium=rss",
-          "published": "Tue, 23 Sep 2025 11:26:51 GMT",
-          "description": "”Kommer läsa om glaciärer i historieböcker”"
+          "title": "Mystiska auktionsfyndet: ”Varför var en ful noshörning så dyr?”",
+          "link": "https://www.aftonbladet.se/nyheter/a/PpKoqz/lillemors-69-mystiska-auktionsfynd-graslig?utm_medium=rss",
+          "published": "Tue, 23 Sep 2025 12:57:57 GMT",
+          "description": "En noshörning såldes nyligen för 216 000 kronor. Något som förvånade auktionssurfaren Lillemor Hjelmar."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Turistön under vatten",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/turiston-under-vatten",
-          "published": "Tue, 23 Sep 2025 14:11:22 +0200",
-          "description": "Flera saknas i Italien • Larmet: Gå inte ut • Se bilar svepas bort"
+          "title": "”Ministerns hälsolarm hotar folkhälsan”",
+          "link": "https://www.expressen.se/podcast/ministerns-halsolarm-hotar-folkhalsan/",
+          "published": "Tue, 23 Sep 2025 16:10:16 +0200",
+          "description": "Paracetamol orsakar autism, det påstår USA:s hälsominister Robert F Kennedy. Trump kallar den nya rapporten historisk. Men vad säger egentligen vetenskapen? "
         },
         {
-          "title": "Legionella på badhus i Holmsund",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=71e960a4-175a-448e-88e0-8606494cb647",
-          "published": "Tue, 23 Sep 2025 14:04:52 +0200",
-          "description": "Hålls stängt, rapporterar SVT Västerbotten"
+          "title": "Larmar om ”blobben”: Kan bli extremvärme",
+          "link": "https://www.expressen.se/nyheter/varlden/larmar-om-blobben-kan-bli-extremvarme/",
+          "published": "Tue, 23 Sep 2025 15:49:41 +0200",
+          "description": "”Blobben” är tillbaka. Nu större än tidigare – och riskerar att skada både människor och djur.– Det är en stark varning om klimatkrisen, säger forskare till CNN."
         },
         {
-          "title": "Läkaren Akram Ghazal döms för 49-åriga Mahas död",
-          "link": "https://www.expressen.se/nyheter/krim/lakaren-akram-ghazal-doms-for-49-ariga-mahas-dod/",
-          "published": "Tue, 23 Sep 2025 14:00:12 +0200",
-          "description": "Maha Kadoura, 49, skulle göra en bukplastikoperation.Hon vaknade aldrig. Läkaren Akram Ghazal, 64, använde fel läkemedel, anpassade inte doseringen och brast i sin övervakning. På tisdagen dömdes han för grovt vållande till annans död.  "
+          "title": "Flygplan tvingades nödlanda på Arlanda",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=5e3737f6-c2a3-489d-81eb-67b0e38368a6",
+          "published": "Tue, 23 Sep 2025 15:30:00 +0200",
+          "description": "”Problem med trycket i kabinen”"
         }
       ]
     }
