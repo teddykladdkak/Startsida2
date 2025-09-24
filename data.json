@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-24T04:14:15.926653Z",
+  "lastUpdated": "2025-09-24T06:17:34.391654Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,24 @@
       },
       "items": [
         {
+          "title": "Lytens köp av Northvolt är godkänt",
+          "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/lytens-kop-av-northvolt-ar-godkant",
+          "published": "Wed, 24 Sep 2025 08:04:34 +0200",
+          "description": "Myndigheten ISP har godkänt amerikanska Lytens köp av konkursade Northvolt, uppger konkursförvaltaren Mikael Kubu för Ekot."
+        },
+        {
+          "title": "Brand på förskola i Umeå –  misstänks vara anlagd",
+          "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/forskola-i-umea-brinner-med-oppna-lagor",
+          "published": "Wed, 24 Sep 2025 06:16:33 +0200",
+          "description": "Förskolan Växthuset i Umeå eldhärjades på onsdagsmorgonen. Polisen misstänker att branden var anlagd."
+        },
+        {
+          "title": "Brand i lägenhetshus i Borlänge – lågor slår ut från taket",
+          "link": "https://www.svt.se/nyheter/lokalt/dalarna/brand-i-flerfamiljshus-i-borlange-zhn74m",
+          "published": "Wed, 24 Sep 2025 06:10:57 +0200",
+          "description": "Det brinner i ett flerfamiljshus på Tjärna Ängar i Borlänge på onsdagsmorgonen."
+        },
+        {
           "title": "Jon Dahl Tomassons svar på kritiken mot spelsättet: ”Spelarna vill det”",
           "link": "https://www.svt.se/sport/fotboll/jon-dahl-tomassons-svar-pa-kritiken-mot-spelsattet-spelarna-vill-det",
           "published": "Wed, 24 Sep 2025 06:09:37 +0200",
@@ -38,24 +56,6 @@
           "link": "https://www.svt.se/nyheter/granskning/ug/pekade-ut-adam-som-farlig-for-andra-barn-med-falska-meriter",
           "published": "Wed, 24 Sep 2025 06:00:01 +0200",
           "description": "Terapeuten hos Off Clinic behandlade sjuårige Adam i över ett år för övergrepp han påstods ha begått, och pekade ut honom som farlig för andra barn. Hon hade ”flerårig erfarenhet” av att arbeta med barn som är förövare, enligt vårdbolaget. Men det stämmer inte, avslöjar Uppdrag granskning."
-        },
-        {
-          "title": "Gav tobakstillstånd till brottsdömd – trots polisens invändning",
-          "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/gav-tobakstillstand-till-brottsdomd-trots-polisens-invandning",
-          "published": "Wed, 24 Sep 2025 05:30:04 +0200",
-          "description": "En näringsidkare i Kramfors beviljades tillstånd av kommunen att sälja tobak. Trots att hen var dömd för att tullbrott med tobak och trots att polisen såg det som en försvårande omständighet."
-        },
-        {
-          "title": "Här får barnen på Hertsön gratis skolfrukost",
-          "link": "https://www.svt.se/nyheter/lokalt/norrbotten/har-pa-hertson-far-barnen-gratis-skolfrukost",
-          "published": "Wed, 24 Sep 2025 05:30:04 +0200",
-          "description": "Varje måndag och fredag serveras det frukostbuffé på Hertsöskolan i Luleå. Innan skolan börjar öppnar serveringen och många barn kommer hit."
-        },
-        {
-          "title": "Gårdsförsäljning en succé för gintillverkaren i Rejmyre: ”Fantastiskt för oss”",
-          "link": "https://www.svt.se/nyheter/lokalt/ost/gardsforsaljning-en-succe-for-gintillverkaren-i-rejmyre-fantastiskt-for-oss",
-          "published": "Wed, 24 Sep 2025 05:30:04 +0200",
-          "description": "Sedan 1 juni är det tillåtet med gårdsförsäljning. Bex Almqvist satsade hårt med både nyanställning och nytt ”brand home” i Rejmyre. – Gårdsförsäljning har varit fantastisk för oss, säger hon."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Fel sändning gick ut – vi beklagar",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/fel-sandning-gick-ut-vi-beklagar",
+          "published": "Wed, 24 Sep 2025 06:40:08 +0200",
+          "description": "Av misstag gick en avbruten inspelad lokal sändning för Skåne ut igår. Vi beklagar detta. Sändningarna kl 18.33 och 19.55 som är kompletta finns att se på SVT Play."
+        },
         {
           "title": "Trump-effekt får fler amerikaner att söka jobb på Lunds universitet",
           "link": "https://www.svt.se/nyheter/lokalt/skane/trump-effekt-far-fler-amerikaner-att-soka-jobb-pa-lunds-universitet",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-23-september-e8xqu8",
           "published": "Tue, 23 Sep 2025 20:15:02 +0200",
           "description": "Detta har hänt i Skåne tisdagen den 23 september."
-        },
-        {
-          "title": "Malmöbon: ”Såg en större drönare som blinkade med starka ljus”",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/malmobon-sag-en-storre-dronare-som-blinkade-med-starka-ljus",
-          "published": "Tue, 23 Sep 2025 18:46:46 +0200",
-          "description": "Polisen i Malmö har fått samtal och tips om att drönare även synts över Malmö, Lund och över Öresundsbron under måndagskvällen och under natten till tisdagen."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Ministern: ”Kan inte vänta på nya lagar”",
-          "link": "https://www.aftonbladet.se/nyheter/a/gw5zPA/ministern-kan-inte-vanta-pa-nya-lagar?utm_medium=rss",
-          "published": "Wed, 24 Sep 2025 04:01:14 GMT",
-          "description": "Regeringen utesluter inte lagändringar efter dådet där en ambulanssjukvårdare dödades."
+          "title": "Så vände Trump om Putin – ett ord saknas helt",
+          "link": "https://www.aftonbladet.se/nyheter/a/kw2pLA/sa-vande-trump-om-putin-och-ukraina?utm_medium=rss",
+          "published": "Wed, 24 Sep 2025 05:27:16 GMT",
+          "description": "PLUS I månader satte Trump press på Zelenskyj och pratade om att få slut på kriget."
         },
         {
-          "title": "Adam anklagades för sexövergrepp som 7-åring: ”De tog sex år av mitt liv”",
-          "link": "https://www.aftonbladet.se/nyheter/a/3MrqEL/uppdrag-granskning-adam-om-hur-han-bestals-pa-sin-barndom?utm_medium=rss",
-          "published": "Wed, 24 Sep 2025 04:00:02 GMT",
-          "description": "Adam var 7 år när han felaktigt pekades ut som sexförbrytare av socialtjänsten."
+          "title": "Lavrov i New York – ska träffa Rubio",
+          "link": "https://www.aftonbladet.se/nyheter/a/W0nkvg/lavrov-i-new-york-ska-traffa-rubio?utm_medium=rss",
+          "published": "Wed, 24 Sep 2025 05:22:56 GMT",
+          "description": "Rysslands utrikesminister Sergej Lavrov har anlänt till New York för FN:s generalförsamling, rapporterar statliga ryska…"
         },
         {
-          "title": "Svenske journalisten riskerar terrordom i Turkiet",
-          "link": "https://www.aftonbladet.se/nyheter/a/Oowjbb/svenske-journalisten-riskerar-terrordom-i-turkiet?utm_medium=rss",
-          "published": "Wed, 24 Sep 2025 03:45:24 GMT",
-          "description": "Joakim Medins öde ligger i händerna på en turkisk domstol. På torsdag inleds rättegången om terrorbrott mot den svenske…"
+          "title": "Svenskarna med störst skulder där du bor",
+          "link": "https://www.aftonbladet.se/nyheter/a/xm24VR/lista-svenskarna-med-storst-skulder-dar-du-bor?utm_medium=rss",
+          "published": "Wed, 24 Sep 2025 04:43:12 GMT",
+          "description": "PLUS Svenskarna blir skyldiga mer och mer pengar för varje år som går. Här är listan över de tio mest skuldsatta personerna…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Jimmy Kimmels ord i återkomsten i rutan – Trump hotar tv-bolaget",
-          "link": "https://www.expressen.se/nyheter/varlden/jimmy-kimmels-ord-i-aterkomsten-i-rutan-trump-hotar-tv-bolaget/",
-          "published": "Wed, 24 Sep 2025 05:47:29 +0200",
-          "description": "Jimmy Kimmel blev avstängd av sitt tv-bolag efter orden om mördade Charlie Kirk. Natten mot onsdag var programledaren tillbaka i tv-rutan.– Jag är glad över att vara här i kväll, säger Kimmel.En upprörd Donald Trump ”kan inte fatta” att Kimmel fått komma tillbaka – och riktade ett hot mot tv-bolaget."
+          "title": "Larmet i öst: ”Situationen är mycket farlig”",
+          "link": "https://www.expressen.se/nyheter/varlden/larmet-i-ost-situationen-ar-mycket-farlig/",
+          "published": "Wed, 24 Sep 2025 07:20:34 +0200",
+          "description": "De ryska kräkningarna i Östersjöområdet oroar i Baltikum.Nu vill baltländerna att Nato stärker sin luftförsvarskapacitet i regionen.– Situationen är mycket farlig. Vi måste ta dessa kränkningar på största allvar, säger säkerhetsexperten Maria Martisiute till litauiska TV3."
         },
         {
-          "title": "Systrar försvann – har  hittats vid liv efter 36 år",
-          "link": "https://www.expressen.se/nyheter/varlden/systrar-forsvann-har--hittats-vid-liv-efter-36-ar/",
-          "published": "Wed, 24 Sep 2025 04:34:22 +0200",
-          "description": "Kvinnan hittades mördad i öknen och hennes två små döttrar var spårlöst försvunna.36 år senare har båda systrarna hittats vid liv, skriver Fox News.– Det är svårt att beskriva känslan när man har jobbat så hårt i så många år, och så når man inte bara ett avslut utan det visar sig bli ett lyckligt sådant, säger polisutredaren Lori Miller."
+          "title": "Hotar Danmark i ryska tv-kanalen",
+          "link": "https://www.expressen.se/tv/nyheter/varlden/hotet-mot-danmark-maste-forstora-dem",
+          "published": "Wed, 24 Sep 2025 07:13:46 +0200",
+          "description": "Putin-vännens raseri: ”Legitimt mål”"
         },
         {
-          "title": "Ryska ilskan mot  EU: ”Ockupation”",
-          "link": "https://www.expressen.se/nyheter/varlden/ryska-ilskan-mot--eu-ockupation/",
-          "published": "Wed, 24 Sep 2025 01:03:13 +0200",
-          "description": "Ryske underrättelsechefen Sergej Narysjkin anklagar EU för planer på att ”ockupera” Moldavien med Nato-trupper, trots att han inte lägger fram några bevis för sitt påstående, skriver litauiska LRT.Han hävdar att unionen är ”ryskfobisk”.– De avser att göra detta till varje pris, säger Narysjkin."
+          "title": "Fullt utvecklad lägenhetsbrand",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0e5ae526-2945-4625-84cb-f84d62ba4460",
+          "published": "Wed, 24 Sep 2025 08:05:17 +0200",
+          "description": "Boende utryms i Borlänge"
         }
       ]
     }
