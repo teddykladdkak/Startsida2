@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-24T16:14:55.502656Z",
+  "lastUpdated": "2025-09-24T18:16:38.351739Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,24 @@
       },
       "items": [
         {
+          "title": "Efter kritiken – förändringar på FHM",
+          "link": "https://www.svt.se/nyheter/inrikes/efter-kritiken-forandringar-pa-myndighet",
+          "published": "Wed, 24 Sep 2025 19:32:26 +0200",
+          "description": "Magnus Gisslén riktade skarp kritik mot Folkhälsomyndigheten när han slutade som statsepidemiolog. Nu presenterar myndigheten ett förslag på en ny avdelning för smittskydd och beredskap."
+        },
+        {
+          "title": "Guide: Allt om Ryder Cup 2025",
+          "link": "https://www.svt.se/sport/golf/guide-allt-om-ryder-cup-2023",
+          "published": "Wed, 24 Sep 2025 19:19:48 +0200",
+          "description": "Med Ludvig Åberg i spetsen jagar Europa en sällsynt bortaseger mot USA i Ryder Cup. Här är allt du behöver veta inför stortävlingen."
+        },
+        {
+          "title": "Systrarna försökte rädda livet på ambulanssjukvårdaren",
+          "link": "https://www.svt.se/nyheter/lokalt/gavleborg/systrarna-forsokte-radda-livet-pa-ambulanssjukvardaren",
+          "published": "Wed, 24 Sep 2025 18:45:31 +0200",
+          "description": "När ambulanssjukvårdaren attackeras hör systrarna Hanna och Rebecca Johansson som befinner sig 50 meter därifrån att något är fel och rusar dit. – Jag förstod att det var allvarligt för hon sa ingenting, säger Hanna Johansson."
+        },
+        {
           "title": "Carola sov med öppna fönster under skrotbranden i Göteborg – fick söka vård",
           "link": "https://www.svt.se/nyheter/lokalt/vast/carola-sov-med-oppna-fonster-under-skrotbranden-fick-soka-vard",
           "published": "Wed, 24 Sep 2025 17:34:32 +0200",
@@ -38,24 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/norrbotten/nato-ovar-mot-hybridattacker-i-lulea-fornybar-energi-kanslig",
           "published": "Wed, 24 Sep 2025 17:15:32 +0200",
           "description": "Även ett mindre angrepp mot vindkraft eller solceller skulle kunna få stora konsekvenser och slå ut viktiga samhällsfunktioner. Under en Natoövning i Luleå prövas nu olika möjliga scenarier."
-        },
-        {
-          "title": "Vården i Värmland mobiliserade för övning på flygplatsen i Karlstad",
-          "link": "https://www.svt.se/nyheter/lokalt/varmland/varden-i-varmland-mobiliserade-for-ovning-pa-flygplatsen-i-karlstad",
-          "published": "Wed, 24 Sep 2025 17:06:28 +0200",
-          "description": "Nu är den igång, beredskapsövningen Resilient Care 25 där skadade människor från ett krigsdrabbat område I Europa förts med flyg till Karlstad för vård. – Som omvärlden ser ut tror jag att vi behöver förbereda oss på att det här kan hända, säger Helene Löveström, chefssjuksköterska i Karlstad."
-        },
-        {
-          "title": "Emma och Natalie kan byta jobb om inget förändras: ”Inte värt att riskera sitt liv”",
-          "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/emma-och-natalie-vill-byta-jobb-om-inget-forandras-inte-vart-att-riskera-sitt-liv",
-          "published": "Wed, 24 Sep 2025 17:02:18 +0200",
-          "description": "Efter dådet där en ambulanspersonal dödades i Harmånger överväger nu kollegor att lämna yrket – om inget förändras. – Det är ju med tanke på att man har småbarn, säger Emma Forsberg på ambulansen i Sundsvall."
-        },
-        {
-          "title": "”Trump triggar ursäkt till grönländare”",
-          "link": "https://www.svt.se/nyheter/utrikes/trump-triggar-ursakt-till-gronlandare",
-          "published": "Wed, 24 Sep 2025 17:00:02 +0200",
-          "description": "Den komplicerade relationen mellan Danmark och Grönland ställs på sin spets i och med spiralskandalen och hur grönländare blivit behandlade av den danska staten. Nu vill Mette Frederiksen gjuta olja på vågorna – så att grönländarna inte vänder sig till USA istället."
         }
       ]
     },
@@ -65,6 +65,18 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Nyheter från dagen: 24 september",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-24-september-qbl8xt",
+          "published": "Wed, 24 Sep 2025 20:15:05 +0200",
+          "description": "Detta har hänt i Skåne onsdagen den 24 september."
+        },
+        {
+          "title": "Så kan Sveriges försvar mot drönare stärkas",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/sa-kan-sveriges-forsvar-mot-dronare-starkas",
+          "published": "Wed, 24 Sep 2025 20:12:43 +0200",
+          "description": "För att hantera framtida drönarangrepp mot Sverige behövs ett starkare försvar. Tekniken finns, men utmaningarna är flera och kräver många olika lösningar enligt Hans Liwång, som är professor i försvarssystem."
+        },
         {
           "title": "UFO Sverige avfärdar observationer: ”Ingen drönarinvasion”",
           "link": "https://www.svt.se/nyheter/lokalt/skane/ufo-sverige-avfardar-observationer-ingen-dronarinvasion",
@@ -76,18 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/riksbanken-kommer-tillbaka-till-malmo",
           "published": "Wed, 24 Sep 2025 14:03:52 +0200",
           "description": "Riksbanken gör comeback i Malmö. Nu har man öppnat kontor igen efter stängningen på 90-talet."
-        },
-        {
-          "title": "Lista: Tre målare kartlagda i Malmös trapphus",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/lista-tre-malare-kartlagda-i-malmos-trapphus",
-          "published": "Wed, 24 Sep 2025 11:45:01 +0200",
-          "description": "I över ett år har Tobias Hultén och Olga Schlyter identifierat trapphusmålare i 270 byggnader i Malmö och synliggör en tidigare okänd konstform."
-        },
-        {
-          "title": "Unik kartläggning – följ med på konsttur i Malmös trapphus",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/unika-kartlaggning-folj-med-pa-konsttur-i-malmos-trapphus",
-          "published": "Wed, 24 Sep 2025 11:45:01 +0200",
-          "description": "Tobias Hultén och Olga Schlyter har gjort något unikt: de har kartlagt konsten i Malmös 270 trapphus. – Ingen har tittat på trapphuskonst i Malmö, knappt ens i Sverige, säger Tobias Hultén."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Vänsterpartiet KU-anmäler ministrar: ”Ett svek”",
-          "link": "https://www.aftonbladet.se/nyheter/a/zAvx4O/vansterpartiet-ku-anmaler-ministrar-ett-svek?utm_medium=rss",
-          "published": "Wed, 24 Sep 2025 15:36:33 GMT",
-          "description": "Vänsterpartiet anmäler tre ministrar till konstitutionsutskottet (KU) för regeringens kommunikation om…"
+          "title": "Ovanligt kylig september",
+          "link": "https://www.aftonbladet.se/nyheter/a/alg3zO/ovanligt-kylig-september-det-sticker-ut?utm_medium=rss",
+          "published": "Wed, 24 Sep 2025 17:26:37 GMT",
+          "description": "Kylan har slagit till med ovanligt låga temperaturer och tidig snö. I Småland noterades i går minus 4,2 grader."
         },
         {
-          "title": "Flera skadade i drönarattack mot södra Israel",
-          "link": "https://www.aftonbladet.se/nyheter/a/9358bq/flera-skadade-i-dronarattack-mot-sodra-israel?utm_medium=rss",
-          "published": "Wed, 24 Sep 2025 15:27:13 GMT",
-          "description": "Minst 20 personer har skadats i en drönarattack vid badorten Eilat i södra Israel, enligt israelisk räddningstjänst."
+          "title": "Matteo, 1,5 år fick en stroke: Trodde inte det var sant",
+          "link": "https://www.aftonbladet.se/nyheter/a/XjPowx/matteo-1-5-ar-fick-en-stroke-trodde-inte-det-var-sant?utm_medium=rss",
+          "published": "Wed, 24 Sep 2025 17:10:41 GMT",
+          "description": "Plötsligt kunde lille Matteo inte stå upp.  Två timmar senare kom beskedet – han hade fått en stroke."
         },
         {
-          "title": "Olof K svårt sjuk i fängelset: ”Nära döden”",
-          "link": "https://www.aftonbladet.se/nyheter/a/mPOM0p/domde-olof-k-gustafsson-svart-sjuk-i-fangelset-i-los-angeles?utm_medium=rss",
-          "published": "Wed, 24 Sep 2025 15:15:59 GMT",
-          "description": "Olof K Gustafsson drabbades av andningsbesvär i cellen i Los Angeles. I ett mess inifrån fängelset skriver 31-åringen…"
+          "title": "Pensionärernas demonstration stoppas av polis – efter 14 år",
+          "link": "https://www.aftonbladet.se/nyheter/a/RzvK5r/grand-panthers-demonstration-utanfor-riksdagen-stoppas-av-polis?utm_medium=rss",
+          "published": "Wed, 24 Sep 2025 16:45:46 GMT",
+          "description": "Grand Panthers har klimatdemonstrerat utanför riksdagen sedan 2011. På onsdagen stoppades de för första gången av polis."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Zelenskyjs varning",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=159eff7d-2aa7-41b6-af84-1c471efa1c11",
-          "published": "Wed, 24 Sep 2025 18:10:54 +0200",
-          "description": "Risk för ”utvidgat” krig"
+          "title": "Olycka vid McDonald's i Uppsala",
+          "link": "https://www.expressen.se/nyheter/sverige/olycka-vid-mcdonalds-i-uppsala/",
+          "published": "Wed, 24 Sep 2025 19:49:58 +0200",
+          "description": "En bil har kört in i en fasad vid McDonald's i Uppsala.Bilen hade en övningskörningskylt på sig, enligt bilder från platsen.Två personer har förts till sjukhus."
         },
         {
-          "title": "Victorias och Daniels kärlekslycka på Mykonos",
-          "link": "https://www.expressen.se/nyheter/kungligt/victorias-och-daniels-karlekslycka-pa-mykonos/",
-          "published": "Wed, 24 Sep 2025 17:47:02 +0200",
-          "description": "Kärleken spirar för kronprinsessan Victoria och prins Daniel.I helgen var de på en romantisk resa på den grekiska ön Mykonos när de fångades på video av en tysk influencer.Skrattandes, kramandes och dansandes. "
+          "title": "Advokatsamfundet säljer  in uteslutna advokater",
+          "link": "https://www.expressen.se/kronikorer/fredrik-sjoshult/advokatsamfundet-saljer--in-uteslutna-advokater/",
+          "published": "Wed, 24 Sep 2025 19:40:46 +0200",
+          "description": "Advokatsamfundets löfte: Uteslutna advokater ska inte arbeta vidare på advokatbyrå.Trots det hittar jag exempel efter exempel på på uteslutna som gör det – och till och med marknadsförs på Advokatsamfundets hemsida.Detta är ännu ett exempel på att Advokatsamfundet inte klarar av att hantera advokatrötan."
         },
         {
-          "title": "Drönarattack mot Israel",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=83dcde7c-4c6b-46a0-810b-711d7189e87d",
-          "published": "Wed, 24 Sep 2025 17:31:25 +0200",
-          "description": "Militären: Avfyrades från Jemen"
+          "title": "Zelenskyjs tal i FN: Gud räddade Trump",
+          "link": "https://www.expressen.se/nyheter/varlden/zelenskyjs-tal-i-fn-gud-raddade-trump-/",
+          "published": "Wed, 24 Sep 2025 19:36:24 +0200",
+          "description": "Zelenskyj varnar för Putins krigsplaner i sitt tal i FN.Dessutom säger att han att Trump har skydd från ovan. – Gud räddade honom, säger den ukrainske presidenten."
         }
       ]
     }
