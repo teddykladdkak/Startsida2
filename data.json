@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-24T06:17:34.391654Z",
+  "lastUpdated": "2025-09-24T08:16:26.626872Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,24 @@
       },
       "items": [
         {
+          "title": "Ny drönarlag på väg i Danmark",
+          "link": "https://www.svt.se/nyheter/utrikes/ny-dronarlag-pa-vag-i-danmark",
+          "published": "Wed, 24 Sep 2025 10:08:43 +0200",
+          "description": "Danmarks regering planerar att klubba igenom en lag som ger flygplatser och hamnar rätt att skjuta ner drönare som kan utgöra ett hot, rapporterar DR."
+        },
+        {
+          "title": "Så reagerade flygtrafiken på drönarlarmen i Oslo och Köpenhamn",
+          "link": "https://www.svt.se/nyheter/utrikes/sa-reagerade-flygtrafiken-pa-dronarlarmen-i-oslo-och-kopenhamn",
+          "published": "Wed, 24 Sep 2025 09:45:15 +0200",
+          "description": "Totalt 61 plan dirigerades om efter drönarlarmen vid Kastrup och Gardermoen. SVT Verifierar har granskat öppen flygdata och flygledningskommunikation från de turbulenta timmarna."
+        },
+        {
+          "title": "Efter mordet på Kirk – storserie stoppas",
+          "link": "https://www.svt.se/kultur/efter-mordet-pa-kirk-storserie-stoppas",
+          "published": "Wed, 24 Sep 2025 09:24:13 +0200",
+          "description": "Den nya tv-serien ”The savant” med Hollywoodstjärnan Jessica Chastain i huvudrollen stoppas av AppleTv+ med kort varsel. Thrillerserien om en analytiker som jagar högerextrema på nätet anses vara kontroversiell efter mordet på Charlie Kirk, skriver Variety."
+        },
+        {
           "title": "Lytens köp av Northvolt är godkänt",
           "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/lytens-kop-av-northvolt-ar-godkant",
           "published": "Wed, 24 Sep 2025 08:04:34 +0200",
@@ -38,24 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/forskola-i-umea-brinner-med-oppna-lagor",
           "published": "Wed, 24 Sep 2025 06:16:33 +0200",
           "description": "Förskolan Växthuset i Umeå eldhärjades på onsdagsmorgonen. Polisen misstänker att branden var anlagd."
-        },
-        {
-          "title": "Brand i lägenhetshus i Borlänge – lågor slår ut från taket",
-          "link": "https://www.svt.se/nyheter/lokalt/dalarna/brand-i-flerfamiljshus-i-borlange-zhn74m",
-          "published": "Wed, 24 Sep 2025 06:10:57 +0200",
-          "description": "Det brinner i ett flerfamiljshus på Tjärna Ängar i Borlänge på onsdagsmorgonen."
-        },
-        {
-          "title": "Jon Dahl Tomassons svar på kritiken mot spelsättet: ”Spelarna vill det”",
-          "link": "https://www.svt.se/sport/fotboll/jon-dahl-tomassons-svar-pa-kritiken-mot-spelsattet-spelarna-vill-det",
-          "published": "Wed, 24 Sep 2025 06:09:37 +0200",
-          "description": "Sverige exponerades tydligt i defensiven mot Kosovo i VM-kvalet. Men Jon Dahl Tomasson kommer inte byta spelsätt. – Viktigt att se på vad vi har gjort bra och återgå till det, säger Sveriges förbundskapten till SVT Sport."
-        },
-        {
-          "title": "Pekade ut Adam som farlig för andra barn – med falska meriter",
-          "link": "https://www.svt.se/nyheter/granskning/ug/pekade-ut-adam-som-farlig-for-andra-barn-med-falska-meriter",
-          "published": "Wed, 24 Sep 2025 06:00:01 +0200",
-          "description": "Terapeuten hos Off Clinic behandlade sjuårige Adam i över ett år för övergrepp han påstods ha begått, och pekade ut honom som farlig för andra barn. Hon hade ”flerårig erfarenhet” av att arbeta med barn som är förövare, enligt vårdbolaget. Men det stämmer inte, avslöjar Uppdrag granskning."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Så vände Trump om Putin – ett ord saknas helt",
-          "link": "https://www.aftonbladet.se/nyheter/a/kw2pLA/sa-vande-trump-om-putin-och-ukraina?utm_medium=rss",
-          "published": "Wed, 24 Sep 2025 05:27:16 GMT",
-          "description": "PLUS I månader satte Trump press på Zelenskyj och pratade om att få slut på kriget."
+          "title": "Drönarincidenter ökar vid norska flygplatser",
+          "link": "https://www.aftonbladet.se/nyheter/a/lwBO57/dronarincidenter-okar-vid-norska-flygplatser?utm_medium=rss",
+          "published": "Wed, 24 Sep 2025 07:37:23 GMT",
+          "description": "Under 2024 registrerades 503 incidenter då drönare flugit över eller i närheten av en flygplats i Norge."
         },
         {
-          "title": "Lavrov i New York – ska träffa Rubio",
-          "link": "https://www.aftonbladet.se/nyheter/a/W0nkvg/lavrov-i-new-york-ska-traffa-rubio?utm_medium=rss",
-          "published": "Wed, 24 Sep 2025 05:22:56 GMT",
-          "description": "Rysslands utrikesminister Sergej Lavrov har anlänt till New York för FN:s generalförsamling, rapporterar statliga ryska…"
+          "title": "I dag firas skiljetecknets dag",
+          "link": "https://www.aftonbladet.se/nyheter/a/qPGk8g/skiljetecknets-dag?utm_medium=rss",
+          "published": "Wed, 24 Sep 2025 07:29:33 GMT",
+          "description": "Grattis alla skiljetecken!  Men – varför?  Jo: I dag är det ju, faktiskt, er dag."
         },
         {
-          "title": "Svenskarna med störst skulder där du bor",
-          "link": "https://www.aftonbladet.se/nyheter/a/xm24VR/lista-svenskarna-med-storst-skulder-dar-du-bor?utm_medium=rss",
-          "published": "Wed, 24 Sep 2025 04:43:12 GMT",
-          "description": "PLUS Svenskarna blir skyldiga mer och mer pengar för varje år som går. Här är listan över de tio mest skuldsatta personerna…"
+          "title": "Pourmokhtari (L) slår ifrån sig avgångs­kravet: ”Möt mig i debatt i stället”",
+          "link": "https://www.aftonbladet.se/nyheter/a/Oow6kq/pourmokhtari-l-slar-ifran-sig-avgangskravet-mot-mig-i-debatt-i-stallet?utm_medium=rss",
+          "published": "Wed, 24 Sep 2025 06:44:50 GMT",
+          "description": "NEW YORK. Klimatminister Romina Pourmokhtari (L) lovade upprepade gånger att avgå om Sverige missade klimatmålen."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Larmet i öst: ”Situationen är mycket farlig”",
-          "link": "https://www.expressen.se/nyheter/varlden/larmet-i-ost-situationen-ar-mycket-farlig/",
-          "published": "Wed, 24 Sep 2025 07:20:34 +0200",
-          "description": "De ryska kräkningarna i Östersjöområdet oroar i Baltikum.Nu vill baltländerna att Nato stärker sin luftförsvarskapacitet i regionen.– Situationen är mycket farlig. Vi måste ta dessa kränkningar på största allvar, säger säkerhetsexperten Maria Martisiute till litauiska TV3."
+          "title": "30 risksupportrar identifierade",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=22f7a3a2-007b-4533-ab6c-a68e31163bfe",
+          "published": "Wed, 24 Sep 2025 10:09:37 +0200",
+          "description": "Polisen: Kopplas till grov brottslighet"
         },
         {
-          "title": "Hotar Danmark i ryska tv-kanalen",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/hotet-mot-danmark-maste-forstora-dem",
-          "published": "Wed, 24 Sep 2025 07:13:46 +0200",
-          "description": "Putin-vännens raseri: ”Legitimt mål”"
+          "title": "Christer Dahlgren och Lennart Håkansson dog i flygkraschen",
+          "link": "https://www.expressen.se/nyheter/sverige/christer-dahlgren-och-lennart-hakansson-dog-i-flygkraschen/",
+          "published": "Wed, 24 Sep 2025 09:57:50 +0200",
+          "description": "Eldsjälar, färgstarka och duktiga piloter.Så beskrivs Christer Dahlgren och Lennart Håkansson – de två piloter som avled i kraschen i Limmaren i början av september.– Vi har förlorat två stycken duktiga piloter. Men vi har förlorat två vänner, två kompisar, framför allt, säger vännen och kollegan Per Winberg."
         },
         {
-          "title": "Fullt utvecklad lägenhetsbrand",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0e5ae526-2945-4625-84cb-f84d62ba4460",
-          "published": "Wed, 24 Sep 2025 08:05:17 +0200",
-          "description": "Boende utryms i Borlänge"
+          "title": "KI: Svenska konjunkturen vänder upp",
+          "link": "https://www.expressen.se/ekonomi/ki-svenska-konjunkturen-vander-upp/",
+          "published": "Wed, 24 Sep 2025 09:13:36 +0200",
+          "description": "Den svenska konjunkturen vänder uppåt i september, enligt Konjunkturinstitutets (KI) månatliga konjunkturbarometer. Stämningsläget är dock fortsatt något sämre än normalt. "
         }
       ]
     }
