@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-24T00:53:27.914453Z",
+  "lastUpdated": "2025-09-24T02:54:13.301260Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "Flera döda i supertyfon – drar in över Kina",
+          "link": "https://www.svt.se/nyheter/utrikes/flera-doda-i-supertyfon-i-taiwan",
+          "published": "Wed, 24 Sep 2025 02:58:10 +0200",
+          "description": "Minst 14 personer har dött och ytterligare 124 saknas efter att supertyfonen Ragasa orsakat kraftiga översvämningar i Taiwan. Under natten drog den vidare mot södra Kina."
+        },
+        {
           "title": "Explosion vid flerfamiljshus i Rosengård",
           "link": "https://www.svt.se/nyheter/lokalt/skane/explosion-vid-flerfamiljshus-i-rosengard",
           "published": "Wed, 24 Sep 2025 00:13:49 +0200",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/sport/fotboll/jon-dahl-tomasson-sager-at-min-fru-och-mina-barn-att-inte-lasa",
           "published": "Tue, 23 Sep 2025 18:28:50 +0200",
           "description": "Efter förlusten mot Kosovo i VM-kvalet fick förbundskapten Jon Dahl Tomasson och Svenska fotbollförbundet ta emot massiv kritik på sociala medier. En del inlägg var så hotfulla att SvFF valde att polisanmäla. – Verbalt våld är vidrigt. Jag säger alltid åt min fru och mina barn att inte läsa kommentarer, berättar Dahl Tomasson för SVT Sport."
-        },
-        {
-          "title": "Ny avdelning öppnar på Norrlands universitetssjukhus: ”Som på julafton”",
-          "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/ny-avdelning-oppnar-pa-norrlands-universitetssjukhus-som-pa-julafton",
-          "published": "Tue, 23 Sep 2025 17:52:08 +0200",
-          "description": "Norrlands universitetssjukhus i Umeå har fått en helt ny avdelning för de som är för friska för intensivvård men för sjuka för en vanlig vårdavdelning. Avdelningen ska bidra till kortare vårdköer och ökad patientsäkerhet. – Känslan är som på julafton, säger överläkare Ritva Kiiski Berggren."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
+          "title": "Australien kan spärra fler plattformar för unga",
+          "link": "https://www.aftonbladet.se/nyheter/a/63xBx3/australien-kan-sparra-fler-plattformar-for-unga?utm_medium=rss",
+          "published": "Wed, 24 Sep 2025 02:29:05 GMT",
+          "description": "Den australiska regeringen har utökat listan över plattformar som kan komma att spärras för personer under 16 år."
+        },
+        {
+          "title": "Många döda när supertyfonen drar fram",
+          "link": "https://www.aftonbladet.se/nyheter/a/rPknqe/manga-doda-nar-supertyfon-drar-fram?utm_medium=rss",
+          "published": "Wed, 24 Sep 2025 01:00:03 GMT",
+          "description": "Minst 14 personer har omkommit sedan en fördämd sjö översvämmats när supertyfonen Ragasa passerat över Taiwan."
+        },
+        {
           "title": "Colombia: Utred Trump efter båtattackerna",
           "link": "https://www.aftonbladet.se/nyheter/a/pP7naV/colombia-utred-trump-efter-batattackerna?utm_medium=rss",
           "published": "Wed, 24 Sep 2025 00:37:19 GMT",
           "description": "Colombias president Gustavo Petro vill att en brottsutredning ska startas mot USA:s president Donald Trump."
-        },
-        {
-          "title": "Thunbergs konvoj: Hör explosioner",
-          "link": "https://www.aftonbladet.se/nyheter/a/bmRLx3/thunbergs-konvoj-hor-explosioner?utm_medium=rss",
-          "published": "Tue, 23 Sep 2025 23:38:45 GMT",
-          "description": "Konvojen som, med Greta Thunberg och andra aktivister ombord, seglar mot Gaza med förnödenheter uppges åter igen vara…"
-        },
-        {
-          "title": "Macron: Fredpris till Trump hänger på Gaza",
-          "link": "https://www.aftonbladet.se/nyheter/a/vg032j/macron-fredpris-till-trump-hanger-pa-gaza?utm_medium=rss",
-          "published": "Tue, 23 Sep 2025 23:32:38 GMT",
-          "description": "Donald Trump har upprepade gånger sagt att han vill få Nobels fredspris."
         }
       ]
     },
@@ -123,6 +123,12 @@
         "amount": 3
       },
       "items": [
+        {
+          "title": "Systrar försvann – har  hittats vid liv efter 36 år",
+          "link": "https://www.expressen.se/nyheter/varlden/systrar-forsvann-har--hittats-vid-liv-efter-36-ar/",
+          "published": "Wed, 24 Sep 2025 04:34:22 +0200",
+          "description": "Kvinnan hittades mördad i öknen och hennes två små döttrar var spårlöst försvunna.36 år senare har båda systrarna hittats vid liv, skriver Fox News.– Det är svårt att beskriva känslan när man har jobbat så hårt i så många år, och så når man inte bara ett avslut utan det visar sig bli ett lyckligt sådant, säger polisutredaren Lori Miller."
+        },
         {
           "title": "Ryska ilskan mot  EU: ”Ockupation”",
           "link": "https://www.expressen.se/nyheter/varlden/ryska-ilskan-mot--eu-ockupation/",
@@ -134,12 +140,6 @@
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=958a3e9a-90b7-416e-95c5-c6d9dc84fa41",
           "published": "Wed, 24 Sep 2025 00:01:38 +0200",
           "description": "Bombskyddet på väg, enligt Sydsvenskan"
-        },
-        {
-          "title": "Vann 1,3 miljarder på Eurojackpot",
-          "link": "https://www.expressen.se/nyheter/varlden/vann-13-miljarder-pa-eurojackpot/",
-          "published": "Wed, 24 Sep 2025 01:52:34 +0200",
-          "description": "En Berlinbo kammade hem 1 318 800 000 kronor på Eurojackpot under tisdagskvällen, skriver RBB24.Det är högsta möjliga jackpotten man kan vinna i lotteriet.Två svenskar blev miljonärer under dragningen, skriver Svenska Spel."
         }
       ]
     }
