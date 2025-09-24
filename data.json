@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-23T20:12:44.594492Z",
+  "lastUpdated": "2025-09-24T00:53:27.914453Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "Explosion vid flerfamiljshus i Rosengård",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/explosion-vid-flerfamiljshus-i-rosengard",
+          "published": "Wed, 24 Sep 2025 00:13:49 +0200",
+          "description": "Något har exploderat på en innergård i stadsdelen Rosengård i Malmö. Ingen har skadats, uppger polisen. – Vi har spärrat av och har tekniker och bombskyddet på väg, säger Jerker Olsson, vakthavande befäl vid polisen."
+        },
+        {
           "title": "Kristersson: ”Sverige har rätt att försvara sitt luftrum, med våld om det behövs”",
           "link": "https://www.svt.se/nyheter/inrikes/kristersson-sverige-har-ratt-att-forsvara-sitt-luftrum-med-vald-om-det-behovs",
           "published": "Tue, 23 Sep 2025 19:11:59 +0200",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/ny-avdelning-oppnar-pa-norrlands-universitetssjukhus-som-pa-julafton",
           "published": "Tue, 23 Sep 2025 17:52:08 +0200",
           "description": "Norrlands universitetssjukhus i Umeå har fått en helt ny avdelning för de som är för friska för intensivvård men för sjuka för en vanlig vårdavdelning. Avdelningen ska bidra till kortare vårdköer och ökad patientsäkerhet. – Känslan är som på julafton, säger överläkare Ritva Kiiski Berggren."
-        },
-        {
-          "title": "Svenska flygvapnet deltar i Finlands största flygövning",
-          "link": "https://www.svt.se/nyheter/lokalt/norrbotten/svenska-flygvapnet-deltar-i-finlands-storsta-flygovning",
-          "published": "Tue, 23 Sep 2025 16:52:15 +0200",
-          "description": "Just nu pågår Finlands största flygövning Protective Fence 25. Med på övningen är 50 flygplan och 1 200 soldater från Finland, Sverige och Danmark. – Vi genomför själva striden och understödjer den i luften, säger chefen på F 21 Peter Greberg."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Explosion vid flerfamiljshus i Rosengård",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/explosion-vid-flerfamiljshus-i-rosengard",
+          "published": "Wed, 24 Sep 2025 00:13:49 +0200",
+          "description": "Något har exploderat på en innergård i stadsdelen Rosengård i Malmö. Ingen har skadats, uppger polisen. – Vi har spärrat av och har tekniker och bombskyddet på väg, säger Jerker Olsson, vakthavande befäl vid polisen."
+        },
         {
           "title": "Nyheter från dagen: 23 september",
           "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-23-september-e8xqu8",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/experten-svart-att-spara-dronare",
           "published": "Tue, 23 Sep 2025 17:42:11 +0200",
           "description": "De som flög drönarna vid Kastrup på måndagskvällen ville att dessa skulle synas. Det menar Rikard Tyllström, chef för drönarlabbet på Lunds universitet. – Den är större än vad man till vardags köper på hyllan, säger han när han får se ett klipp på drönaren."
-        },
-        {
-          "title": "Köpenhamnare: ”Man känner att kriget kommer närmare”",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/kopenhamnare-man-kanner-att-kriget-kommer-narmare",
-          "published": "Tue, 23 Sep 2025 15:40:47 +0200",
-          "description": "På måndagskvällen observerades tre drönare vid Kastrups flygplats utanför Köpenhamn. Skrämmande och oroväckande, tycker köpenhamnare efter gårdagens händelser."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Expert: Trumps FN-tal riktat till hemmapubliken",
-          "link": "https://www.aftonbladet.se/nyheter/a/yEQ8O2/expert-trumps-fn-tal-riktat-till-hemmapubliken?utm_medium=rss",
-          "published": "Tue, 23 Sep 2025 19:35:57 GMT",
-          "description": "Donald Trumps skrytsamma tal i FN speglar hans vilja att dominera världspolitiken."
+          "title": "Colombia: Utred Trump efter båtattackerna",
+          "link": "https://www.aftonbladet.se/nyheter/a/pP7naV/colombia-utred-trump-efter-batattackerna?utm_medium=rss",
+          "published": "Wed, 24 Sep 2025 00:37:19 GMT",
+          "description": "Colombias president Gustavo Petro vill att en brottsutredning ska startas mot USA:s president Donald Trump."
         },
         {
-          "title": "Trump: Ukraina kan vinna",
-          "link": "https://www.aftonbladet.se/nyheter/a/8qe9EG/trump-ukraina-kan-vinna?utm_medium=rss",
-          "published": "Tue, 23 Sep 2025 19:31:33 GMT",
-          "description": "Ukraina, med stöd av EU, är i en position där de kan kämpa och vinna tillbaka hela Ukraina som det såg ut före Rysslands…"
+          "title": "Thunbergs konvoj: Hör explosioner",
+          "link": "https://www.aftonbladet.se/nyheter/a/bmRLx3/thunbergs-konvoj-hor-explosioner?utm_medium=rss",
+          "published": "Tue, 23 Sep 2025 23:38:45 GMT",
+          "description": "Konvojen som, med Greta Thunberg och andra aktivister ombord, seglar mot Gaza med förnödenheter uppges åter igen vara…"
         },
         {
-          "title": "Trump: Ukraina kan vinna tillbaka allt – och lite till",
-          "link": "https://www.aftonbladet.se/nyheter/a/QMQP5J/trump-ukraina-kan-vinna-tillbaka-allt?utm_medium=rss",
-          "published": "Tue, 23 Sep 2025 19:15:10 GMT",
-          "description": "Trump tror att Ukraina kan vinna tillbaka det territorium som förlorats till Ryssland."
+          "title": "Macron: Fredpris till Trump hänger på Gaza",
+          "link": "https://www.aftonbladet.se/nyheter/a/vg032j/macron-fredpris-till-trump-hanger-pa-gaza?utm_medium=rss",
+          "published": "Tue, 23 Sep 2025 23:32:38 GMT",
+          "description": "Donald Trump har upprepade gånger sagt att han vill få Nobels fredspris."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Explosion i centrala Oslo",
-          "link": "https://www.expressen.se/nyheter/varlden/explosion-i-centrala-oslo-fk5nj/",
-          "published": "Tue, 23 Sep 2025 21:22:24 +0200",
-          "description": "En explosion har inträffat i centrala Oslo, rapporterar norska medier.– Det var en kraftig smäll, säger ett vittne till NRK. "
+          "title": "Ryska ilskan mot  EU: ”Ockupation”",
+          "link": "https://www.expressen.se/nyheter/varlden/ryska-ilskan-mot--eu-ockupation/",
+          "published": "Wed, 24 Sep 2025 01:03:13 +0200",
+          "description": "Ryske underrättelsechefen Sergej Narysjkin anklagar EU för planer på att ”ockupera” Moldavien med Nato-trupper, trots att han inte lägger fram några bevis för sitt påstående, skriver litauiska LRT.Han hävdar att unionen är ”ryskfobisk”.– De avser att göra detta till varje pris, säger Narysjkin."
         },
         {
-          "title": "Kristersson och Andersson debatterar i ”Aktuellt”",
-          "link": "https://www.expressen.se/nyheter/politik/kristersson-och-andersson-debatterar-i-aktuellt/",
-          "published": "Tue, 23 Sep 2025 21:47:53 +0200",
-          "description": "Det är ett år kvar till riksdagsvalet. Nu möts Ulf Kristersson och Magdalena Andersson i en debattduell i SVT:s ”Aktuellt”. När Ulf Kristersson hävdar att det finns en ”terrorromantik” i Socialdemokraterna biter Magdalena Andersson ifrån: – Det är en befängd anklagelse."
+          "title": "Explosion i Rosengård",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=958a3e9a-90b7-416e-95c5-c6d9dc84fa41",
+          "published": "Wed, 24 Sep 2025 00:01:38 +0200",
+          "description": "Bombskyddet på väg, enligt Sydsvenskan"
         },
         {
-          "title": "Trump: Ukraina kan ta tillbaka allt – och mer",
-          "link": "https://www.expressen.se/nyheter/varlden/trump-oppnar-for-att-ukraina-ska-ta-tillbaka-allt/",
-          "published": "Tue, 23 Sep 2025 21:14:23 +0200",
-          "description": "Donald Trump har pratat med Volodymyr Zelenskyj på FN-mötet i New York.Nu meddelar Trump att han tror Ukraina kan ta tillbaka samtliga ockuperade områden.”De kan till och med gå längre än så”, skriver han på Truth Social."
+          "title": "Vann 1,3 miljarder på Eurojackpot",
+          "link": "https://www.expressen.se/nyheter/varlden/vann-13-miljarder-pa-eurojackpot/",
+          "published": "Wed, 24 Sep 2025 01:52:34 +0200",
+          "description": "En Berlinbo kammade hem 1 318 800 000 kronor på Eurojackpot under tisdagskvällen, skriver RBB24.Det är högsta möjliga jackpotten man kan vinna i lotteriet.Två svenskar blev miljonärer under dragningen, skriver Svenska Spel."
         }
       ]
     }
