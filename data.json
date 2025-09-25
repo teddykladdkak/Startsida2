@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-25T04:14:25.568714Z",
+  "lastUpdated": "2025-09-25T06:18:16.332656Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "Hjärtsjuka barn felaktigt friskförklarade av Jönköpingsläkare",
+          "link": "https://www.svt.se/nyheter/lokalt/jonkoping/hjartsjuka-barn-felaktigt-friskforklarade-av-jonkopingslakare",
+          "published": "Thu, 25 Sep 2025 07:30:36 +0200",
+          "description": "Ett 80-tal barn som vårdats på länssjukhuset Ryhov i Jönköping har felaktigt blivit friskförklarade. Det visar en granskning som P4 Jönköping gjort."
+        },
+        {
           "title": "GPS-spåren leder till rysk militärbas vid Östersjön",
           "link": "https://www.svt.se/nyheter/inrikes/gps-sparen-leder-till-rysk-militarbas-vid-ostersjon",
           "published": "Thu, 25 Sep 2025 06:03:27 +0200",
@@ -37,7 +43,7 @@
           "title": "Två till sjukhus efter brand i boende i Sunne",
           "link": "https://www.svt.se/nyheter/lokalt/varmland/tva-till-sjukhus-efter-brand-i-boende-i-sunne",
           "published": "Thu, 25 Sep 2025 05:35:18 +0200",
-          "description": "Två personer har förts till sjukhus efter att en brand brutit ut i ett serviceboende i Sunne."
+          "description": "Två personer har förts till sjukhus efter att en brand brutit ut i ett serviceboende i Sunne. Polisen har inlett förundersökning om grov mordbrand skriver de på sin sajt. – Det handlar om storleken branden och för att vi ska kunna utreda om det finns någon misstanke om brott, säger Gabriel Henning, presstalesperson på polisen."
         },
         {
           "title": "Moa om en tunnel genom Örnsköldsvik: ”Det är väl på tiden”",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/hotande-trafikinfarkt-och-halsovadlig-luft-privata-pengar-ska-ordna-tunnel-i-ovik",
           "published": "Thu, 25 Sep 2025 05:30:05 +0200",
           "description": "I decennier har Örnsköldsvik på olika sätt försökt få staten att bygga bort stadens stora huvudvärk – den tungt trafikerade E4:an som delar staden på mitten. Hittills har kommunen fått nobben och andra stora vägprojekt har gått före. Nu hoppas kommunen att ett pilotprojekt med privata pengar ska få Trafikverket att tänka om."
-        },
-        {
-          "title": "Norrbottens bönder blev bönhörda – miljonregn på väg",
-          "link": "https://www.svt.se/nyheter/lokalt/norrbotten/norrbottens-bonder-blev-bonhord-miljonregn-pa-vag",
-          "published": "Thu, 25 Sep 2025 05:30:05 +0200",
-          "description": "I höstbudgeten fick bönderna i Norrbotten ett ökat stöd på 120 miljoner. Ett beslut som landat i god jord bland lantbrukarna. Men trots detta finns det en löpande fråga kvar, hur ska de få lönsamhet i deras verksamhet?"
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Gapet minskar – lägsta siffran på 1,5 år",
-          "link": "https://www.aftonbladet.se/nyheter/a/Oowj2b/gapet-minskar-lagsta-siffran-pa-1-5-ar?utm_medium=rss",
-          "published": "Thu, 25 Sep 2025 04:11:06 GMT",
-          "description": "Gapet mellan blocken är nu det minsta på 1,5 år, visar en ny mätning från Aftonbladet/Demoskop."
+          "title": "Drönare vid fyra danska flygplatser – försvaret och polisen i insats",
+          "link": "https://www.aftonbladet.se/nyheter/a/dR6GmJ/danmark-dronare-vid-alborgs-flygplats-flera-andra-larm?utm_medium=rss",
+          "published": "Thu, 25 Sep 2025 06:14:14 GMT",
+          "description": "PLUS Som på en given signal flög drönarna in över fyra danska flygplatser. En av dem är en viktig militärbas där de danska…"
         },
         {
-          "title": "M: Begränsa vinster av brottslig ”gangsterrap”",
-          "link": "https://www.aftonbladet.se/nyheter/a/8qeXKQ/m-begransa-vinster-av-brottslig-gangsterrap?utm_medium=rss",
-          "published": "Thu, 25 Sep 2025 03:45:53 GMT",
-          "description": "Moderaterna vill motverka att kriminella tjänar pengar på musik och annan kultur som skildrar deras grova brott – utan…"
+          "title": "Larmet: Nordkorea kan ha två ton höganrikat uran",
+          "link": "https://www.aftonbladet.se/nyheter/a/LMJ9wV/larmet-nordkorea-kan-ha-tva-ton-hoganrikat-uran?utm_medium=rss",
+          "published": "Thu, 25 Sep 2025 06:02:04 GMT",
+          "description": "Nordkorea kan ha upp till två ton höganrikat uran, uppger Sydkorea. Det är nog för att tillverka ”ett enormt…"
         },
         {
-          "title": "Storbrand i boende – 100 evakuerade",
-          "link": "https://www.aftonbladet.se/nyheter/a/dR6G0o/tva-till-sjukhus-efter-brand-i-boende?utm_medium=rss",
-          "published": "Thu, 25 Sep 2025 03:27:01 GMT",
-          "description": "Två personer har förts till sjukhus efter att en brand brutit ut i ett serviceboende i Sunne."
+          "title": "Tidigare riksåklagaren: ”Norge är inte som Sverige”",
+          "link": "https://www.aftonbladet.se/nyheter/a/VzWdnV/tidigare-riksaklagaren-norge-ar-inte-som-sverige?utm_medium=rss",
+          "published": "Thu, 25 Sep 2025 05:52:08 GMT",
+          "description": "Norges tidigare riksåklagaren Tor-Aksel Busch är tydlig.  Han slår fast att skillnaderna mellan kriminaliteten i Sverige…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
+          "title": "Socialdemokraterna: Öka säkerheten i riksdagen – efter Nick Alinias besök",
+          "link": "https://www.expressen.se/nyheter/politik/socialdemokraterna-oka-sakerheten-i-riksdagen-efter-nick-alinias-besok/",
+          "published": "Thu, 25 Sep 2025 07:33:20 +0200",
+          "description": "Socialdemokraterna vill stoppa personer med kopplingar till extremistiska miljöer från riksdagens lokaler.Det skriver vice gruppledaren i ett brev till talmannen, efter nyheten att den högerextrema aktivisten Nick Alinia besökt SD-toppen Jessica Stegrud i riksdagen."
+        },
+        {
           "title": "Storbrand på boende i Sunne",
           "link": "https://www.expressen.se/nyheter/sverige/storbrand-pa-boende-i-sunne-/",
-          "published": "Thu, 25 Sep 2025 05:42:01 +0200",
-          "description": "Det brinner på ett serviceboende i Sunne.Branden är fullt utvecklad och inte under kontroll. Omkring 100 personer har evakuerats och två personer har förts till sjukhus.  "
+          "published": "Thu, 25 Sep 2025 06:53:56 +0200",
+          "description": "Det brinner på ett serviceboende i Sunne.Branden var fullt utvecklad och hann sprida sig till stora delar av taket. Omkring 100 personer har evakuerats och två personer har förts till sjukhus. "
         },
         {
           "title": "Storbrand på boende",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=da5066b4-c003-4370-8c37-331736d241c5",
           "published": "Thu, 25 Sep 2025 05:26:44 +0200",
           "description": "Två till sjukhus i Sunne"
-        },
-        {
-          "title": "Barn dödade i attack i Gaza",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=b2e97877-311a-4a3a-b48b-f1b7da72d466",
-          "published": "Thu, 25 Sep 2025 05:03:03 +0200",
-          "description": "Många saknas i Gaza"
         }
       ]
     }
