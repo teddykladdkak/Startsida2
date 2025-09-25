@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-25T00:53:40.099835Z",
+  "lastUpdated": "2025-09-25T02:56:46.899986Z",
   "feeds": [
     {
       "url": {
@@ -28,10 +28,16 @@
       },
       "items": [
         {
-          "title": "Drönare över nya danska flygplatser – luftrum stängt över Ålborg",
+          "title": "Kina sätter mål för minskningar av utsläpp för första gången",
+          "link": "https://www.svt.se/nyheter/utrikes/kina-satter-mal-for-minskningar-av-utslapp-for-forsta-gangen",
+          "published": "Thu, 25 Sep 2025 04:54:13 +0200",
+          "description": "Världens största utsläppare av växthusgaser har för första gången satt upp konkreta mål för att minska sina utsläpp. – Global klimatstyrning går nu in i en avgörande fas, säger president Xi Jinping till FN:s generalförsamling i New York."
+        },
+        {
+          "title": "Drönare över nya danska flygplatser – luftrum stängdes över Ålborg",
           "link": "https://www.svt.se/nyheter/utrikes/dronare-stanger-luftrum-over-aalborgs-flygplats",
           "published": "Wed, 24 Sep 2025 23:04:48 +0200",
-          "description": "Luftrummet över Ålborgs flygplats har stängts efter att flera drönare upptäckts i området. – Aktiviteten liknar den som stoppade flygtrafiken till och från Köpenhamn för två dagar sen, säger rikspolischef Thorkild Fogde vid en pressträff. Under natten bekräftades drönare på ytterligare tre danska flygplatser."
+          "description": "Luftrummet över Ålborgs flygplats i Danmark fick stängas efter att flera drönare upptäckts i området. – Aktiviteten liknar den som stoppade flygtrafiken till och från Köpenhamn för två dagar sen, säger rikspolischef Thorkild Fogde vid en pressträff. Under natten bekräftades drönare på ytterligare tre flygplatser."
         },
         {
           "title": "Efter kritiken – förändringar på FHM",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/gavleborg/systrarna-forsokte-radda-livet-pa-ambulanssjukvardaren",
           "published": "Wed, 24 Sep 2025 18:45:31 +0200",
           "description": "När ambulanssjukvårdaren attackeras hör systrarna Hanna och Rebecca Johansson som befinner sig 50 meter därifrån att något är fel och rusar dit. – Jag förstod att det var allvarligt för hon sa ingenting, säger Hanna Johansson."
-        },
-        {
-          "title": "Carola sov med öppna fönster under skrotbranden i Göteborg – fick söka vård",
-          "link": "https://www.svt.se/nyheter/lokalt/vast/carola-sov-med-oppna-fonster-under-skrotbranden-fick-soka-vard",
-          "published": "Wed, 24 Sep 2025 17:34:32 +0200",
-          "description": "Hon vaknar av att det känns som att det brinner i halsen. Orsaken visar sig vara storbranden i en skrotanläggning – fem kilometer därifrån. Och vidöppna fönster. Men Carola Ankar fick inget VMA i mobilen – och nu är hon kritisk. – Jag har ju legat och dragit in det här hela natten, säger hon."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Explosion vid port i Malmö",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/explosion-vid-port-i-malmo-nnei2o",
+          "published": "Thu, 25 Sep 2025 03:22:10 +0200",
+          "description": "En explosion har inträffat vid ett flerfamiljshus i centrala Malmö under natten mot torsdagen."
+        },
         {
           "title": "Nyheter från dagen: 24 september",
           "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-24-september-qbl8xt",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/ufo-sverige-avfardar-observationer-ingen-dronarinvasion",
           "published": "Wed, 24 Sep 2025 16:21:17 +0200",
           "description": "Polisen har blivit tipsad om att drönare synts till i Malmö, Lund och över Öresundsbron efter drönarlarmen vid Kastrup. Men UFO Sverige avfärdar drönarobservationerna."
-        },
-        {
-          "title": "Riksbanken kommer tillbaka till Malmö",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/riksbanken-kommer-tillbaka-till-malmo",
-          "published": "Wed, 24 Sep 2025 14:03:52 +0200",
-          "description": "Riksbanken gör comeback i Malmö. Nu har man öppnat kontor igen efter stängningen på 90-talet."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Man våldtog barn under flera år",
-          "link": "https://www.aftonbladet.se/nyheter/a/bmR4eB/man-valdtog-barn-under-flera-ar?utm_medium=rss",
-          "published": "Thu, 25 Sep 2025 00:39:12 GMT",
-          "description": "En man i 70-årsåldern i Örebro län fälls för att ha våldtagit och utsatt en flicka för en mängd sexuella…"
+          "title": "Protester när Netanyahu reste mot FN",
+          "link": "https://www.aftonbladet.se/nyheter/a/vg09yL/protester-da-netanyahu-reste-mot-fn?utm_medium=rss",
+          "published": "Thu, 25 Sep 2025 02:16:49 GMT",
+          "description": "Israel kommer inte att tillåta en självständig palestinsk stat, meddelar landets premiärminister Benjamin Netanyahu…"
         },
         {
-          "title": "Kina lovar att minska sina koldioxidutsläpp",
-          "link": "https://www.aftonbladet.se/nyheter/a/3MrVVe/kina-lovar-att-minska-sina-koldioxidutslapp?utm_medium=rss",
-          "published": "Thu, 25 Sep 2025 00:17:18 GMT",
-          "description": "Kina ska minska sina koldioxidutsläpp med 7 till 10 procent till år 2035, meddelar landets president Xi Jinping…"
+          "title": "Explosion vid port i Malmö",
+          "link": "https://www.aftonbladet.se/nyheter/a/gw5JB5/explosion-vid-port-i-malmo?utm_medium=rss",
+          "published": "Thu, 25 Sep 2025 01:20:13 GMT",
+          "description": "En explosion inträffade vid ett flerfamiljshus i centrala Malmö under natten mot torsdagen."
         },
         {
-          "title": "Drönare stoppar flyg i Ålborg: ”Ingen fara”",
-          "link": "https://www.aftonbladet.se/nyheter/a/Avjx7j/dronare-stoppar-flyg-i-alborg?utm_medium=rss",
-          "published": "Wed, 24 Sep 2025 22:38:55 GMT",
-          "description": "Flera drönare har siktats i närheten av Ålborgs flygplats. Trafiken till och från flygplatsen är stoppad tills vidare."
+          "title": "Många dödade i israelisk attack",
+          "link": "https://www.aftonbladet.se/nyheter/a/pP794R/manga-dodade-i-israelisk-attack?utm_medium=rss",
+          "published": "Thu, 25 Sep 2025 00:57:21 GMT",
+          "description": "Minst elva personer uppges ha dödats i en israelisk attack mot ett bostadshus i centrala Gazaremsan, uppger det…"
         }
       ]
     },
@@ -123,6 +123,12 @@
         "amount": 3
       },
       "items": [
+        {
+          "title": "Explosion i Malmö",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a06b2e8a-2018-4acf-83ab-20e03eb31746",
+          "published": "Thu, 25 Sep 2025 03:47:58 +0200",
+          "description": "”Hög smäll”"
+        },
         {
           "title": "Jimmy Kimmel slår rekord – efter Trumps försök att tysta",
           "link": "https://www.expressen.se/noje/jimmy-kimmel-slar-rekord-efter-trumps-forsok-att-tysta/",
@@ -134,12 +140,6 @@
           "link": "https://www.expressen.se/nyheter/varlden/donald-trump-hanar-biden-i-hyllningen/",
           "published": "Thu, 25 Sep 2025 00:25:24 +0200",
           "description": "Här är presidenternas ”Walk of fame”.Donald Trump visade upp skapelsen – med bilder på 44 av USA:s presidenter.Den 45:e – Joe Biden – representerades av en så kallad auto-pen."
-        },
-        {
-          "title": "Ryska plan flög lågt över tysk fregatt under Natoövning",
-          "link": "https://www.expressen.se/nyheter/varlden/ryska-plan-flog-lagt-over-tysk-fregatt-under-natoovning/",
-          "published": "Thu, 25 Sep 2025 00:21:22 +0200",
-          "description": "Två ryska militärplan flög över en tysk fregatt på låg höjd under en Natoövning.Händelsen väcker nu ilska i Tyskland.– Putin vill provocera, säger försvarsminister Boris Pistorius."
         }
       ]
     }
