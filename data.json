@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-25T18:17:33.526544Z",
+  "lastUpdated": "2025-09-25T20:12:59.274484Z",
   "feeds": [
     {
       "url": {
@@ -28,10 +28,22 @@
       },
       "items": [
         {
-          "title": "HV71:s drömstart – tar ledningen efter 54 sekunder",
+          "title": "Här bygger Kina vindkraftverk för hundratals miljarder",
+          "link": "https://www.svt.se/nyheter/utrikes/har-bygger-kina-vindkraftverk-for-hundratals-miljarder",
+          "published": "Thu, 25 Sep 2025 21:15:12 +0200",
+          "description": "I östra Kina finns symbolerna för Kinas satsning på förnyelsebar energi: några av världens största vindkraftverk. Här investerar kommunistpartiet hundratals miljarder dollar. Men parallellt pågår en utbyggnad av kolkraften."
+        },
+        {
+          "title": "Duplantis golfsving hyllas av stjärncoachen: ”Gillar det jag ser”",
+          "link": "https://www.svt.se/sport/golf/duplantis-golfsving-hyllas-av-stjarncoachen-gillar-det-jag-ser",
+          "published": "Thu, 25 Sep 2025 20:51:50 +0200",
+          "description": "Hans Larsson har skolat en av världens mest älskade golfsvingar. SVT Sport lät stjärncoachen reagera på en video med Armand Duplantis sving. – Jag gillar det jag ser, säger Larsson."
+        },
+        {
+          "title": "Ny förlust för HV71 – sämsta starten någonsin: ”Frustrerande”",
           "link": "https://www.svt.se/sport/ishockey/hv71s-dromstart-tar-ledningen-efter-54-sekunder",
           "published": "Thu, 25 Sep 2025 19:12:07 +0200",
-          "description": "Noll poäng hittills. Men efter 54 sekunder har HV71 tagit ledningen efter självmål av Timrå."
+          "description": "De tog ledningen efter 54 sekunder, men förlorade ändå. HV71 har därmed gjort sin sämsta inledningen någonsin i SHL. – Frustrerande, säger Anton Blomqvist, huvudtränare i HV71."
         },
         {
           "title": "Beskedet: Per Engström slutar som polis",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/kultur/erotikredaktoren-listar-de-basta-sexskildringarna-underbart-om-bdsm",
           "published": "Thu, 25 Sep 2025 18:31:14 +0200",
           "description": "Kärlek och lust är ett av Bokmässans teman i år och sexskildringar är ämne för seminarium. Medverkar gör bland andra Saskia Vogel, översättare och redaktör för tidskriften ”Erotic Review”. Hon berättar för Kulturnyheterna om varför det är så svårt att skriva bra om sex."
-        },
-        {
-          "title": "Allvarlig olycka på Markstridsskolan – en allvarligt skadad",
-          "link": "https://www.svt.se/nyheter/lokalt/ost/allvarlig-olycka-under-polisovning-utanfor-motala",
-          "published": "Thu, 25 Sep 2025 18:15:14 +0200",
-          "description": "En allvarlig olycka ska ha inträffat på militäranläggningen Kvarn under torsdagen, rapporterar Motala Vadstena Tidning."
-        },
-        {
-          "title": "Misstänkt vrakplundring på 1600-talsskepp: Här dyker polisen och arkeologer",
-          "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-vrakplundring-pa-1600-talsskepp-har-dyker-polisen-och-arkeologer",
-          "published": "Thu, 25 Sep 2025 18:05:45 +0200",
-          "description": "På havsbottnen utanför Dalarö ligger fartyget Bodekull, som gick på grund 1678. Nu misstänker polisen och marinarkeologer vrakplundring och dyker för att samla bevis. – Som att riva ur sidor ur en bok, då går en del av historien förlorad, säger Jim Hansson, marinarkeolog."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Nyheter från dagen: 25 september",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-25-september-rtblpf",
+          "published": "Thu, 25 Sep 2025 20:20:01 +0200",
+          "description": "Detta har hänt i Skåne torsdagen den 25 september."
+        },
         {
           "title": "Så försöker Malmö lösa arbetslösheten – unga lockas till Svedala",
           "link": "https://www.svt.se/nyheter/lokalt/skane/sa-forsoker-malmo-losa-arbetslosheten-unga-lockas-till-svedala",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/tagstopp-mellan-malmo-och-kopenhamn-p6ncwn",
           "published": "Thu, 25 Sep 2025 14:29:38 +0200",
           "description": "Tågtrafiken mellan Malmö och Köpenhamn stoppades i två timmar under torsdagseftermiddagen efter en befarad olycka med ett godståg. – Det finns inga tecken på att någon person eller ett djur ska ha skadats, säger Leif Fransson vid polisens presscenter."
-        },
-        {
-          "title": "Nytorgsmannen får djurförbud – vanvårdade sina ankor",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/nytorgsmannen-far-djurforbud-vanvardade-sina-ankor",
-          "published": "Thu, 25 Sep 2025 12:55:25 +0200",
-          "description": "Nytorgsmannen Fredrik Lundgren var känd som Ankmannen under tiden han bodde i Hörby. Nu har han fått djurförbud av länsstyrelsen som menar att han vanvårdade sina fåglar."
         }
       ]
     },
@@ -97,6 +97,12 @@
         "amount": 3
       },
       "items": [
+        {
+          "title": "Microsoft blockerar Israel från molntjänst",
+          "link": "https://www.aftonbladet.se/nyheter/a/o348xK/microsoft-blockerar-israel-fran-molntjanst?utm_medium=rss",
+          "published": "Thu, 25 Sep 2025 19:03:05 GMT",
+          "description": "Den israeliska militären förlorar tillgång till vissa av Microsofts tjänster efter uppgifter om massövervakning av…"
+        },
         {
           "title": "100 smittade av bakterie – sprids på sjukhus",
           "link": "https://www.aftonbladet.se/nyheter/a/jQopww/100-smittade-av-bakterie-sprids-pa-sjukhus?utm_medium=rss",
@@ -108,12 +114,6 @@
           "link": "https://www.aftonbladet.se/nyheter/a/0VPX9B/ytterligare-sjutton-doda-i-fangelsevald-i-ecuador?utm_medium=rss",
           "published": "Thu, 25 Sep 2025 17:25:47 GMT",
           "description": "Sjutton personer har dödats i våldsamma sammandrabbningar mellan rivaliserande gäng på ett fängelse i staden Esmeraldas…"
-        },
-        {
-          "title": "Jennie och Emelies barn hade hjärtfel – friskförklarades av samma läkare",
-          "link": "https://www.aftonbladet.se/nyheter/a/JbkLP7/barn-friskforklarades-felaktigt-av-samma-lakare-i-jonkoping?utm_medium=rss",
-          "published": "Thu, 25 Sep 2025 17:11:16 GMT",
-          "description": "Jennies son Oliver, 11, och Emelies dotter Eliza, 8. Det är två av de ungefär 80 hjärtsjuka barnen som felaktigt…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "USA:s toppmilitärer kallas till möte – utan förklaring",
-          "link": "https://www.expressen.se/nyheter/varlden/usas-toppmilitarer-kallas-till-mote-utan-forklaring/",
-          "published": "Thu, 25 Sep 2025 19:54:07 +0200",
-          "description": "USA:s försvarsminister Pete Hegseth kallar till sig hundratals generaler och amiraler till Virginia.Men syftet med mötet är fortfarande okänt.– Folk är väldigt oroliga. De har ingen aning om vad det betyder, säger en källa till Washington Post. "
+          "title": "Volkswagen stoppar produktion i två fabriker",
+          "link": "https://www.expressen.se/ekonomi/volkswagen-stoppar-produktion-i-tva-fabriker/",
+          "published": "Thu, 25 Sep 2025 22:03:44 +0200",
+          "description": "Fordonskoncernen Volkswagen minskar volymerna och inför tillfälligt produktionsstopp i två tyska fabriker, skriver Bloomberg. Orsaken är en oväntat trögt växande efterfrågan på elbilar"
         },
         {
-          "title": "Tysk turist hyrde hus – har försvunnit",
-          "link": "https://www.expressen.se/nyheter/sverige/tysk-turist-hyrde-hus-har-forsvunnit/",
-          "published": "Thu, 25 Sep 2025 19:45:13 +0200",
-          "description": "En tysk turist har försvunnit från ett hus han hyrt strax norr om Ulricehamn.Nu trappar polisen upp sin sökinsats.– Han har redan varit bort i uppemot en vecka, säger Adam Isaksson Samara vid polisen i region väst."
+          "title": "Orden om Erdogan – när han sitter bredvid",
+          "link": "https://www.expressen.se/tv/nyheter/varlden/trumps-ord-om-erdogan-nar-han-sitter-bredvid",
+          "published": "Thu, 25 Sep 2025 21:18:19 +0200",
+          "description": "Skarpa uppmaningen"
         },
         {
-          "title": "Ryskt fartyg utanför Danmark",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=74fe2045-cd2a-4395-b256-78bb8398105b",
-          "published": "Thu, 25 Sep 2025 19:53:03 +0200",
-          "description": "Legat gömt i dagar enligt Ekstra Bladet"
+          "title": "Sjuksköterskor säger upp sig i protest",
+          "link": "https://www.expressen.se/nyheter/sverige/sjukskoterskor-sager-upp-sig-i-protest-/",
+          "published": "Thu, 25 Sep 2025 20:49:19 +0200",
+          "description": "Ob-ersättningen minskar kraftigt på S:t Görans sjukhus i Stockholm. Nu säger flera sjuksköterskor upp sig i protest och förlossningsavdelningen riskerar att stå utan personal.– Man känner sig inte värdesatt av arbetsgivaren, säger Anna Linder Axeheim, huvudskyddsombud för Vårdförbundet Capio St Göran."
         }
       ]
     }
