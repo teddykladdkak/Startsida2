@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-26T04:14:04.405808Z",
+  "lastUpdated": "2025-09-26T06:17:18.350878Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,24 @@
       },
       "items": [
         {
+          "title": "Anställda tvingas pendla när Skatteverket stänger",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/anstallda-tvingas-pendla-nar-skatteverket-stanger",
+          "published": "Fri, 26 Sep 2025 08:07:59 +0200",
+          "description": "Skatteverket stänger sitt kontor i Simrishamn. Från april nästa år måste de drygt 40 anställda pendla till Malmö eller Kristianstad. – Det känns väldigt tufft, säger Mathilda Henningsson, som flyttade till Simrishamn för jobbet på Skatteverket."
+        },
+        {
+          "title": "Personuppgifter om över 8000 barn på darknet efter cyberattacken",
+          "link": "https://www.svt.se/nyheter/lokalt/smaland/personuppgifter-om-tusentals-barn-i-almhult-lackta",
+          "published": "Fri, 26 Sep 2025 07:39:06 +0200",
+          "description": "Personuppgifter om över 8000 barn har spridits på darknet efter cyberattacken mot företaget Miljödata i slutet av augusti. En stor del av alla barns uppgifter kommer från Älmhults kommun."
+        },
+        {
+          "title": "Recension: ”One battle after another” av Paul Thomas Anderson",
+          "link": "https://www.svt.se/kultur/recension-one-battle-after-another-av-paul-thomas-anderson",
+          "published": "Fri, 26 Sep 2025 06:43:04 +0200",
+          "description": "Auteuren Paul Thomas Andersons trycker gasen i botten med ”One battle after another”, och Leonardo Dicaprio är helgjuten som avdankad revolutionär. Så bra att den klistrar fast ett leende i ditt ansikte i flera dagar, tycker filmkritiker Kristoffer Viita."
+        },
+        {
           "title": "Oron i riksdagen: Rädd att någon mördas",
           "link": "https://www.svt.se/nyheter/inrikes/oron-i-riksdagen-radd-att-nagon-mordas",
           "published": "Fri, 26 Sep 2025 05:55:35 +0200",
@@ -38,24 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/vast/explosion-vid-flerfamiljshus-i-goteborg-l0s9ar",
           "published": "Fri, 26 Sep 2025 05:39:08 +0200",
           "description": "Natten mot fredag inträffade en explosion vid ett flerfamiljshus i Linnéstaden i Göteborg, rapporterar GP."
-        },
-        {
-          "title": "Polisens kritik: Har inte kunnat använda släktforskarmetod för kalla fall",
-          "link": "https://www.svt.se/nyheter/lokalt/uppsala/kritiken-har-inte-kunnat-anvanda-hajpade-slaktforskar-metoden",
-          "published": "Fri, 26 Sep 2025 05:30:04 +0200",
-          "description": "Att använda släktbaserat DNA i polisens utredningsarbete målades upp som revolutionerande – inte minst när det gäller kalla fall. Men metoden har inte kunnat användas fullt ut. – Man känner ”vad fan? Det här blev inte som vi har tänkt”, säger kriminalkommissarie Mikael Eriksson."
-        },
-        {
-          "title": "Sunnebon Magnus blev påkörd av tåg: ”Glad att jag lever”",
-          "link": "https://www.svt.se/nyheter/lokalt/varmland/sunnebon-magnus-blev-pakord-av-tag-glad-att-jag-lever",
-          "published": "Fri, 26 Sep 2025 05:30:04 +0200",
-          "description": "Trafikverkets utredning om olyckan i Sunne i augusti, då en så kallad mätvagn körde in i en personbil, är i slutfasen och orsaken till kollisionen kan snart presenteras. I bilen satt Magnus Olsson och hans kollega och trots skadorna hade de två änglavakt. – Jag är glad att jag lever, säger Magnus Olsson."
-        },
-        {
-          "title": "Här bygger Kina vindkraftverk för hundratals miljarder",
-          "link": "https://www.svt.se/nyheter/utrikes/har-bygger-kina-vindkraftverk-for-hundratals-miljarder",
-          "published": "Thu, 25 Sep 2025 21:15:12 +0200",
-          "description": "I östra Kina finns symbolerna för Kinas satsning på förnyelsebar energi: några av världens största vindkraftverk. Här investerar kommunistpartiet hundratals miljarder dollar. Men parallellt pågår en utbyggnad av kolkraften."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Anställda tvingas pendla när Skatteverket stänger",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/anstallda-tvingas-pendla-nar-skatteverket-stanger",
+          "published": "Fri, 26 Sep 2025 08:07:59 +0200",
+          "description": "Skatteverket stänger sitt kontor i Simrishamn. Från april nästa år måste de drygt 40 anställda pendla till Malmö eller Kristianstad. – Det känns väldigt tufft, säger Mathilda Henningsson, som flyttade till Simrishamn för jobbet på Skatteverket."
+        },
         {
           "title": "Här blir Nicolas Lunabbas succébok film – följ med på inspelningen i Malmö",
           "link": "https://www.svt.se/nyheter/lokalt/skane/har-blir-nicolas-lunabbas-succebok-film-folj-med-pa-inspelningen-i-malmo",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/sa-forsoker-malmo-losa-arbetslosheten-unga-lockas-till-svedala",
           "published": "Thu, 25 Sep 2025 16:49:48 +0200",
           "description": "Malmö har näst högst arbetslöshet i hela landet, och de unga är värst drabbade. Nu försöker staden, i ett samarbete med Arbetsförmedlingen och Svedala kommun, hjälpa dem att få jobb i Svedala."
-        },
-        {
-          "title": "Jobbintervjuns sju dödssynder: ”Det hade vi inte accepterat”",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/jobbintervjuns-sju-dodssynder-det-hade-vi-inte-accepterat",
-          "published": "Thu, 25 Sep 2025 16:48:29 +0200",
-          "description": "Söker du jobb på jobb på jobb utan att något går loss? Första intrycket är ofta a och o i mötet med arbetsgivaren. Se vilka fällor du ska se upp för i videon."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Krismöte i EU: Måste bygga drönarmur",
-          "link": "https://www.aftonbladet.se/nyheter/a/qPGbQg/krismote-i-eu-maste-bygga-dronarmur?utm_medium=rss",
-          "published": "Fri, 26 Sep 2025 03:45:37 GMT",
-          "description": "Hur ska vi bygga en drönarmur? EU samlas till krismöte efter den senaste tidens uppmärksammade inflygningar från öst."
+          "title": "Sverige ger Gaza 420 miljoner i stöd",
+          "link": "https://www.aftonbladet.se/nyheter/a/EyOq2j/sverige-ger-gaza-420-miljoner-i-stod?utm_medium=rss",
+          "published": "Fri, 26 Sep 2025 05:46:59 GMT",
+          "description": "Regeringen går fram med ett nytt stödpaket till Gaza om 420 miljoner kronor."
         },
         {
-          "title": "Explosion i Göteborg: ”Tyder på handgranat”",
-          "link": "https://www.aftonbladet.se/nyheter/a/B0oqwE/explosion-i-goteborg?utm_medium=rss",
-          "published": "Fri, 26 Sep 2025 03:45:20 GMT",
-          "description": "En explosion har skett utanför ett flerfamiljshus i Linné i Göteborg natten mot fredag, rapporterar GP."
+          "title": "Tusentals barns personuppgifter läckt på darknet",
+          "link": "https://www.aftonbladet.se/nyheter/a/25EJwx/tusentals-barns-personuppgifter-lackt-pa-darknet?utm_medium=rss",
+          "published": "Fri, 26 Sep 2025 05:37:39 GMT",
+          "description": "Över 8 000 barns personuppgifter fanns med bland det som publicerades på darknet i samband med attacken mot…"
         },
         {
-          "title": "Kvinna gripen – hade sin dotter i frysen",
-          "link": "https://www.aftonbladet.se/nyheter/a/73bQmo/kvinna-gripen-hade-sin-dotter-i-frysen?utm_medium=rss",
-          "published": "Fri, 26 Sep 2025 03:01:24 GMT",
-          "description": "En 75-årig kvinna har gripits i Japan sedan hon erkänt att hon i två årtionden haft sin döda dotter i frysen."
+          "title": "Ny storm i Filippinerna: Hundratusentals evakuerade",
+          "link": "https://www.aftonbladet.se/nyheter/a/LMJqQ4/ny-storm-i-filippinerna-hundratusentals-evakuerade?utm_medium=rss",
+          "published": "Fri, 26 Sep 2025 05:33:06 GMT",
+          "description": "400 000 människor har evakuerats och en handfull dödsoffer bekräftats i Filippinerna på fredagen i samband med att en ny…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Explosion",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=80dc8fc4-ef11-49fe-8197-fa800ae81e99",
-          "published": "Fri, 26 Sep 2025 05:46:06 +0200",
-          "description": "Insats i Göteborg: ”Verkar ha varit en handgranat”"
+          "title": "Svenska forskaren sågar Trump: ”Skambelägger mammor”",
+          "link": "https://www.expressen.se/nyheter/sverige/svenska-forskaren-sagar-trump-skambelagger-mammor-/",
+          "published": "Fri, 26 Sep 2025 08:05:23 +0200",
+          "description": "Trump påstod att det finns ett samband mellan värktabletter och autism.En svensk studie motbevisar det och forskaren bakom studien sågar Trumps påstående.– Man skambelägger mammor, säger Viktor Ahlqvist. "
         },
         {
-          "title": "Utrikesministern till FN: Var som Pippi",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=3e7677d2-52f8-484a-81e8-a80de399257a",
-          "published": "Fri, 26 Sep 2025 05:41:07 +0200",
-          "description": "Malmer Stenergard talade i FN"
+          "title": "Svimmar i SVT: ”Vi får avbryta!”",
+          "link": "https://www.expressen.se/tv/nyheter/svimmar-i-svts-morgonstudion",
+          "published": "Fri, 26 Sep 2025 08:03:14 +0200",
+          "description": "Kulturredaktören faller ihop i ”Morgonstudion” • ”Mår bra”"
         },
         {
-          "title": "Kuppen mot Thunbergs båt – spelade Abba-låtar",
-          "link": "https://www.expressen.se/nyheter/varlden/kuppen-mot-thunbergs-bat-spelade-abba-latar/",
-          "published": "Fri, 26 Sep 2025 03:50:46 +0200",
-          "description": "Greta Thunberg och Global Sumud Flotilla seglar just nu mot Gaza.Men någon har hackat båtens radio – och spelar Abba–låtar oavbrutet.– Vi bevittnar dessa psykologiska operationer på nära håll, säger Thunberg enligt New York Post."
+          "title": "Kollapsar i ”Morgonstudion”",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1a5bf217-65f0-4792-917a-a418a5e7bfab",
+          "published": "Fri, 26 Sep 2025 07:43:27 +0200",
+          "description": "Föll ihop under intervjun • Mår bra"
         }
       ]
     }
