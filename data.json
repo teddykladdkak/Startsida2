@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-26T00:53:08.446604Z",
+  "lastUpdated": "2025-09-26T02:54:41.404807Z",
   "feeds": [
     {
       "url": {
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Utrikesministern talade i FN",
+          "title": "Tyskland storsatsar på rymdförsvar",
+          "link": "https://www.aftonbladet.se/nyheter/a/8qev5G/tyskland-storsatsar-pa-rymdforsvar?utm_medium=rss",
+          "published": "Fri, 26 Sep 2025 01:50:06 GMT",
+          "description": "Hot från Ryssland och Kina gör att Tyskland satsar 35 miljarder euro på rymdförsvar."
+        },
+        {
+          "title": "Utrikesministern till FN: Var som Pippi",
           "link": "https://www.aftonbladet.se/nyheter/a/RzvqGO/utrikesministern-talade-i-fn?utm_medium=rss",
           "published": "Fri, 26 Sep 2025 00:18:10 GMT",
-          "description": "Utrikesminister Maria Malmer Stenergard (M) talade inför FN:s generalförsamling natten till fredag svensk tid."
+          "description": "Utrikesminister Maria Malmer Stenergard (M) talade inför FN:s generalförsamling i New York natten till fredag svensk tid."
         },
         {
           "title": "Tidigare FBI-chefen Comey anklagas för brott",
           "link": "https://www.aftonbladet.se/nyheter/a/LMJqAq/tidigare-fbi-chef-anklagas-for-brott?utm_medium=rss",
           "published": "Thu, 25 Sep 2025 23:19:18 GMT",
-          "description": "Den tidigare FBI-chefen i USA, James Comey, anklagas formellt för förhindrande av rättvisan och för att ha lämnat falska…"
-        },
-        {
-          "title": "Utbilda barnen – föräldrars önskan mot gängen",
-          "link": "https://www.aftonbladet.se/nyheter/a/4ByXn9/utbilda-barnen-foraldrars-onskan-mot-gangen?utm_medium=rss",
-          "published": "Thu, 25 Sep 2025 22:40:41 GMT",
-          "description": "En av fem storstadsföräldrar är oroliga för att deras egna barn ska komma i kontakt med gängkriminella, visar en enkät…"
+          "description": "Den tidigare FBI-chefen i USA, James Comey, anklagas formellt för att ha lämnat falska uppgifter till senaten."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
+          "title": "Utrikesministern till FN: Var som Pippi",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=3e7677d2-52f8-484a-81e8-a80de399257a",
+          "published": "Fri, 26 Sep 2025 04:38:52 +0200",
+          "description": "”Rysslands krig mot Ukraina är en uppenbar överträdelse”"
+        },
+        {
+          "title": "Kuppen mot Thunbergs båt – spelade Abba-låtar",
+          "link": "https://www.expressen.se/nyheter/varlden/kuppen-mot-thunbergs-bat-spelade-abba-latar/",
+          "published": "Fri, 26 Sep 2025 03:50:46 +0200",
+          "description": "Greta Thunberg och Global Sumud Flotilla seglar just nu mot Gaza.Men någon har hackat båtens radio – och spelar Abba–låtar oavbrutet.– Vi bevittnar dessa psykologiska operationer på nära håll, säger Thunberg enligt New York Post."
+        },
+        {
           "title": "Sara Jane Moore död",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=26d649b6-f8ea-4c55-ab74-b80aa3e289b8",
           "published": "Fri, 26 Sep 2025 02:45:23 +0200",
           "description": "Försökte mörda president Ford"
-        },
-        {
-          "title": "Officiellt: James Comey åtalad",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0b062319-e0ec-4c1c-968e-03deb17c527d",
-          "published": "Fri, 26 Sep 2025 01:14:03 +0200",
-          "description": "Åklagaren: Ljög om för kongressen 2020"
-        },
-        {
-          "title": "Grovt brott på Rosengård",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=08ad79c3-bced-4be4-891b-44917d46685f",
-          "published": "Fri, 26 Sep 2025 00:49:33 +0200",
-          "description": "Flera polispatruller på plats"
         }
       ]
     }
