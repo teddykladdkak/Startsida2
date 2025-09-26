@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-26T16:14:05.268030Z",
+  "lastUpdated": "2025-09-26T18:14:56.086211Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,24 @@
       },
       "items": [
         {
+          "title": "Svenska turister i båtolycka i Norge – en saknas",
+          "link": "https://www.svt.se/nyheter/utrikes/svenska-turister-i-batolycka-i-norge-en-saknas",
+          "published": "Fri, 26 Sep 2025 19:50:14 +0200",
+          "description": "En sjöräddare har omkommit under en räddningsinsats sedan en båt kantrat i Lofoten i Norge. Ombord på båten fanns sju personer, varav sex svenska turister, skriver tidningen VG."
+        },
+        {
+          "title": "Protester i FN när Netanyahu höll tal: ”Israel blir allt mer isolerade”",
+          "link": "https://www.svt.se/nyheter/utrikes/protester-i-fn-nar-netanyahu-holl-tal-israel-blir-allt-mer-isolerade",
+          "published": "Fri, 26 Sep 2025 19:46:08 +0200",
+          "description": "Mängder av FN-delegater lämnade i protest när Israels premiärminister Benjamin Netanyahu höll tal vid FN:s generalförsamling. – Israel och Netanyahu blir allt mer isolerade, säger SVT:s Mellanösternkorrespondent Samir Abu Eid."
+        },
+        {
+          "title": "Här dyker Donald Trump upp på Ryder Cup",
+          "link": "https://www.svt.se/sport/golf/har-dyker-donald-trump-upp-pa-ryder-cup",
+          "published": "Fri, 26 Sep 2025 18:19:57 +0200",
+          "description": "Nu har världens mäktigaste person landat. Donald Trump, 79, är på plats på Ryder Cup i New York. – Han är rolig, han älskar golf, säger världsettan Scottie Scheffler."
+        },
+        {
           "title": "Oro för norskt bajsvatten i Strömstad",
           "link": "https://www.svt.se/nyheter/lokalt/vast/oro-for-norskt-bajsvatten-i-stromstad",
           "published": "Fri, 26 Sep 2025 17:53:53 +0200",
@@ -38,24 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/ost/kostnaderna-for-hyrpersonal-minskar-mest-i-ostergotland",
           "published": "Fri, 26 Sep 2025 17:38:16 +0200",
           "description": "Kostnaderna för hyrpersonal fortsätter att minska och mest har kostnaderna minskat i bland annat Östergötland. Det visar nya siffror från SKR. – Det här är något som vi har eftersträvat under en lång tid, säger Marie Morell (M), regionråd."
-        },
-        {
-          "title": "Kräver skadestånd av Kungsbacka kommun för läckta personuppgifter",
-          "link": "https://www.svt.se/nyheter/lokalt/halland/kraver-skadestand-av-kungsbacka-kommun-for-lackta-personuppgifter",
-          "published": "Fri, 26 Sep 2025 17:19:22 +0200",
-          "description": "Ett tiotal anställda och före detta anställda i Kungsbacka kommun kräver nu skadestånd av kommunen efter cyberangreppet mot Miljödata, då personuppgifter lades ut på darknet. – Det är väldigt komplext, det är en ny situation som vi står inför, konstaterar Jesper Edlind, HR- och säkerhetschef på Kungsbacka kommun."
-        },
-        {
-          "title": "Jonsson på Bokmässan: ”Omöjligt att göra en bok tvåspråkig”",
-          "link": "https://www.svt.se/nyheter/sapmi/jonsson-pa-bokmassan-omojligt-att-gora-en-bok-tvasprakig",
-          "published": "Fri, 26 Sep 2025 17:15:34 +0200",
-          "description": "Årets bokmässa är i full gång i Göteborg. Medan mässans tema i fjol var samiskt litteratur, får man i år leta efter den varan. SVT Sápmi besökte ett seminarium, som handlade om översättares roll i utvecklingen av ursprungsspråk."
-        },
-        {
-          "title": "Allsvenska krislagets mörka siffror: ”Det förvånar”",
-          "link": "https://www.svt.se/sport/fotboll/allsvenska-krislagets-morka-siffror-det-forvanar",
-          "published": "Fri, 26 Sep 2025 17:00:15 +0200",
-          "description": "Ett lag i kris. Här är allsvenskans mörkaste facit de senaste matcherna. – Sista tiden har varit under all kritik, säger SVT Sports expert Magnus Eriksson om Elfsborg."
         }
       ]
     },
@@ -66,10 +66,10 @@
       },
       "items": [
         {
-          "title": "Farligt föremål på Näsby – området avspärrat",
+          "title": "Föremålet på Näsby var ofarligt",
           "link": "https://www.svt.se/nyheter/lokalt/skane/farligt-foremal-pa-nasby-polis-pa-plats",
           "published": "Fri, 26 Sep 2025 16:43:18 +0200",
-          "description": "En privatperson hittade föremålet i en plastpåse på Näsby i Kristianstad och polisen bedömer det som farligt. Området är avspärrat och nationella bombskyddet är plats för undersökning. – Respektera avspärrningarna, säger Leif Fransson vid polisens presscenter."
+          "description": "En privatperson hittade ett föremål i en plastpåse på Näsby i Kristianstad och polisen bedömde det som farligt. Området spärrades av och nationella bombskyddet tillkallades och konstaterade att det var ofarligt."
         },
         {
           "title": "Barnläkare i Lund stoppas – missade hjärtfel hos barn i Jönköping",
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Kristersson efter drönarna: ”Behöver inte vara oroliga”",
-          "link": "https://www.aftonbladet.se/nyheter/a/VzWLX1/kristersson-efter-dronarna-behover-inte-vara-oroliga?utm_medium=rss",
-          "published": "Fri, 26 Sep 2025 16:12:24 GMT",
-          "description": "Drönarlarmen har haglat över Natos luftrum. På fredagen träffades Sveriges säkerhetstoppar för att prata om läget."
+          "title": "Marte blev vittne till olyckan i Lofoten",
+          "link": "https://www.aftonbladet.se/nyheter/a/kw21gB/marte-leitman-sblev-vittne-till-batolyckan-i-norge?utm_medium=rss",
+          "published": "Fri, 26 Sep 2025 18:01:38 GMT",
+          "description": "En båt med sju svenskar ombord kapsejsade i dag i Norge. Marte Heitman såg räddningsaktionen."
         },
         {
-          "title": "Inför akutskola för barn i riskzon för gängen",
-          "link": "https://www.aftonbladet.se/nyheter/a/kw21PQ/infor-akutskola-for-barn-i-riskzon-for-gangen?utm_medium=rss",
-          "published": "Fri, 26 Sep 2025 15:57:15 GMT",
-          "description": "Göteborg har drabbats av flera våldsdåd senaste dygnen och våldet kryper ner i åldrarna."
+          "title": "Svenska turister i båtolycka – sjöräddare död",
+          "link": "https://www.aftonbladet.se/nyheter/a/jQoMez/svenska-turister-i-batolycka-i-norge?utm_medium=rss",
+          "published": "Fri, 26 Sep 2025 17:26:09 GMT",
+          "description": "En sjöräddare har omkommit under en räddningsinsats sedan en båt kapsejsat i Nappstraumen i Lofoten i Norge."
         },
         {
-          "title": "Ukraina anklagar Ungern för drönarintrång",
-          "link": "https://www.aftonbladet.se/nyheter/a/RzvQQW/ukraina-anklagar-ungern-for-dronarintrang?utm_medium=rss",
-          "published": "Fri, 26 Sep 2025 15:38:43 GMT",
-          "description": "Kiev sade på fredagen att flera så kallade rekognoseringsdrönare har trängt in på ukrainskt luftrum, och att drönarna…"
+          "title": "Läkare utan gränser lämnar Gaza stad: Inget val",
+          "link": "https://www.aftonbladet.se/nyheter/a/wgw525/lakare-utan-granser-lamnar-gaza-stad?utm_medium=rss",
+          "published": "Fri, 26 Sep 2025 17:18:06 GMT",
+          "description": "Läkare utan gränser (MSF) lämnar Gaza stad på grund av Israels utökade militära offensiv."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Ryska svaret efter Natos anklagelse: ”Allvarlig eskalering”",
-          "link": "https://www.expressen.se/nyheter/varlden/ryska-svaret-efter-natos-anklagelse-allvarlig-eskalering/",
-          "published": "Fri, 26 Sep 2025 18:05:46 +0200",
-          "description": "Ryssland fortsätter att kränka Natos luftrum. Europa och Nato varnar i sin tur för att skjuta ner ryska plan.Nu reagerar Kreml och kallar det en ”allvarlig eskalering”. – Uttalandena är vårdslösa och oansvariga, säger talespersonen Dmitrij Peskov. "
+          "title": "Isbjörnar har tagit  över ryska basen",
+          "link": "https://www.expressen.se/tv/nyheter/varlden/isbjornar-har-tagit-over-rysk-forskningsstation",
+          "published": "Fri, 26 Sep 2025 20:09:51 +0200",
+          "description": "Vaktar ingångarna – markerar mot filmande drönare"
         },
         {
-          "title": "Danmark tackar ja",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=99b6747a-c1b4-41cc-9439-9ba001bf71e4",
-          "published": "Fri, 26 Sep 2025 17:46:25 +0200",
-          "description": "Vill få Sveriges hjälp efter larmen"
+          "title": "Misstänkt farligt föremål i Kristianstad var lösvagina",
+          "link": "https://www.expressen.se/nyheter/sverige/misstankt-farligt-foremal-i-kristianstad-var-losvagina/",
+          "published": "Fri, 26 Sep 2025 19:59:09 +0200",
+          "description": "Nationella bombskyddet larmades till Kristianstad på grund av ett misstänkt farligt föremål.Det visade sig vara en lösvagina, skriver TV4. "
         },
         {
-          "title": "Trump om Gaza: Tror vi har en deal",
-          "link": "https://www.expressen.se/nyheter/varlden/trump-om-gaza-tror-vi-har-en-deal/",
-          "published": "Fri, 26 Sep 2025 17:41:37 +0200",
-          "description": "USA:s president ”tror” att en överenskommelse har nåtts om ett frisläppande av dem som har tagits som gisslan samt om ett avslutande av kriget i Gaza.– Det ser ut som att vi har en deal om Gaza. Jag tror att det är en deal som innebär att gisslan kommer tillbaka och kriget avslutas, säger Donald Trump till reportrar utanför Vita huset på fredagen, utan att gå in på detaljer."
+          "title": "Svensk familj i allvarlig båtolycka i Lofoten i Norge",
+          "link": "https://www.expressen.se/nyheter/varlden/svensk-familj-i-allvarlig-batolycka-i-lofoten-i-norge/",
+          "published": "Fri, 26 Sep 2025 19:48:52 +0200",
+          "description": "En person saknas efter att en svensk familj har kapsejsat med en båt i norra Norge.Det skriver norska medier.Under räddningsarbetet har en person dött."
         }
       ]
     }
