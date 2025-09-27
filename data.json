@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-27T14:09:43.409986Z",
+  "lastUpdated": "2025-09-27T16:12:02.306695Z",
   "feeds": [
     {
       "url": {
@@ -28,10 +28,16 @@
       },
       "items": [
         {
-          "title": "Brand vid Oljehamnen i Malmö: ”Kraftig rökutveckling”",
+          "title": "En kvinna har dött efter storbranden på äldreboendet i Sunne",
+          "link": "https://www.svt.se/nyheter/lokalt/varmland/en-kvinna-har-omkommit-efter-branden-hade-sma-chanser-att-overleva",
+          "published": "Sat, 27 Sep 2025 16:06:18 +0200",
+          "description": "En kvinna har dött efter branden på äldreboendet i Sunne. – Vi har samarbetat med brännskadeenheten på Akademiska sjukhuset i Uppsala, men hennes liv gick inte att rädda, säger Stephan Axer, överläkare på kirurgen på Torsby sjukhuset."
+        },
+        {
+          "title": "Branden vid Oljehamnen i Malmö släckt",
           "link": "https://www.svt.se/nyheter/lokalt/skane/brand-vid-oljehamnen-i-malmo-kraftig-rokutveckling",
           "published": "Sat, 27 Sep 2025 15:53:53 +0200",
-          "description": "Det brinner i en industrifastighet på Hemsögatan i området Oljehamnen i Malmö. Det pågår just nu ett intensivt släckningsarbete, uppger räddningstjänsten."
+          "description": "Det brann i en industrifastighet på Hemsögatan vid Oljehamnen i Malmö, med rök som kunde ses på långt håll. Vid 16.30-tiden uppgav räddningstjänsten att branden var under kontroll."
         },
         {
           "title": "I fokus: Varför ger inte Hamas upp?",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/nyheter/utrikes/nya-dronare-har-observerats-over-flygplats-i-danmark",
           "published": "Sat, 27 Sep 2025 10:18:10 +0200",
           "description": "En eller flera drönare observerades vid Karup flygbas i Danmark på fredagskvällen, rapporterar danska Ekstrabladet."
-        },
-        {
-          "title": "Galna siffrorna i Lidingöloppet: 70 000 gifflar och 204 kg saltgurka",
-          "link": "https://www.svt.se/sport/lopning/galna-siffran-i-lidingoloppet-70-000-gifflar-och-204-kg-saltgurka",
-          "published": "Sat, 27 Sep 2025 09:49:45 +0200",
-          "description": "12 000 liter vatten, 70 000 gifflar bananer och 204 kg saltgurka. I dag är det dags för Lidingöloppet – och då väntas det gå åt rejält med mat och dricka. – Gifflar och saltgurka tror jag att jag hoppar över, säger fjolårstrean Evelina Henriksson."
         }
       ]
     },
@@ -66,10 +66,16 @@
       },
       "items": [
         {
-          "title": "Brand vid Oljehamnen i Malmö: ”Kraftig rökutveckling”",
+          "title": "Ett sista farväl till Malmö stadion innan rivning",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/ett-sista-farval-till-malmo-stadion-innan-rivning",
+          "published": "Sat, 27 Sep 2025 18:02:37 +0200",
+          "description": "Här har SM-guld säkrats, världsrekord slagits och konserter hållits. Men i november påbörjas rivningen av det 67 år gamla Malmö stadion. På lördagen fick Malmöbor tillfälle att se arenan en sista gång."
+        },
+        {
+          "title": "Branden vid Oljehamnen i Malmö släckt",
           "link": "https://www.svt.se/nyheter/lokalt/skane/brand-vid-oljehamnen-i-malmo-kraftig-rokutveckling",
           "published": "Sat, 27 Sep 2025 15:53:53 +0200",
-          "description": "Det brinner i en industrifastighet på Hemsögatan i området Oljehamnen i Malmö. Det pågår just nu ett intensivt släckningsarbete, uppger räddningstjänsten."
+          "description": "Det brann i en industrifastighet på Hemsögatan vid Oljehamnen i Malmö, med rök som kunde ses på långt håll. Vid 16.30-tiden uppgav räddningstjänsten att branden var under kontroll."
         },
         {
           "title": "Tog emot praoelever – nu polisanmäls hyllade Malmöföreningen för misstänkt bedrägeri",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/hog-explosion-i-malmo",
           "published": "Fri, 26 Sep 2025 20:26:53 +0200",
           "description": "Vid 20-tiden på fredagskvällen hördes en kraftig explosion vid ett trapphus på Rosengård i Malmö. Enligt polisen rörde det sig om en handgranat."
-        },
-        {
-          "title": "Nyheter från dagen: 26 september",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-26-september-l8yzo8",
-          "published": "Fri, 26 Sep 2025 20:15:02 +0200",
-          "description": "Detta har hänt i Skåne fredagen den 26 september."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Ukraina: Kärnkraftverket i Zaporizjzja utan el",
-          "link": "https://www.aftonbladet.se/nyheter/a/zAvwxv/ukraina-karnkraftverket-i-zaporizjzja-utan-el?utm_medium=rss",
-          "published": "Sat, 27 Sep 2025 14:01:32 GMT",
-          "description": "Ukraina uppger att kärnkraftverket i den av Ryssland ockuperade delen av Zaporizjzja har varit strömlöst i fyra dagar."
+          "title": "Polisens uppmaning till pappan: Döda dina flickor",
+          "link": "https://www.aftonbladet.se/nyheter/a/0VPz7J/polisens-uppmaning-till-pappan-doda-dina-flickor?utm_medium=rss",
+          "published": "Sat, 27 Sep 2025 16:02:52 GMT",
+          "description": "Systrarna al-Otaibi vägrar att hålla tyst om orättvisorna i hemlandet Saudiarabien. För det har de straffats hårt."
         },
         {
-          "title": "Ida, 37, har ALS: ”Saknar att äta min mans mat”",
-          "link": "https://www.aftonbladet.se/nyheter/a/3Mv1pq/ida-37-har-als-saknar-att-ata-min-mans-mat?utm_medium=rss",
-          "published": "Sat, 27 Sep 2025 13:32:21 GMT",
-          "description": "För två år sedan kunde ALS-sjuka Ida Ahlnér prata. Nu är rösten borta, liksom förmågan att gå och äta."
+          "title": "Ukraina får amerikanskt luftvärn från Israel",
+          "link": "https://www.aftonbladet.se/nyheter/a/Jbkw26/ukraina-far-amerikanskt-luftvarn-fran-israel?utm_medium=rss",
+          "published": "Sat, 27 Sep 2025 15:50:59 GMT",
+          "description": "Ukrainas militär har tagit emot luftvärnssystem av typen Patriot från Israel, enligt president Volodymyr Zelenskyj."
         },
         {
-          "title": "Man död i singelolycka",
-          "link": "https://www.aftonbladet.se/nyheter/a/LMJQPV/man-dod-i-singelolycka?utm_medium=rss",
-          "published": "Sat, 27 Sep 2025 13:26:19 GMT",
-          "description": "En man har omkommit i en singelolycka utanför Gällivare. Larmet om olyckan kom vid 16.45 i fredags."
+          "title": "Ny studie: Den skogen binder mest koldioxid",
+          "link": "https://www.aftonbladet.se/nyheter/a/zAvwXK/ny-studie-den-skogen-binder-mest-koldioxid?utm_medium=rss",
+          "published": "Sat, 27 Sep 2025 15:46:31 GMT",
+          "description": "Det finns en typ av skog som kan ta upp åtta gånger mer koldioxid än andra skogar. En ny stor studie visar var den finns."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Våg fick båten att gira – kan ha orsakat olyckan",
-          "link": "https://www.expressen.se/nyheter/varlden/vag-fick-baten-att-gira-kan-ha-orsakat-olyckan/",
-          "published": "Sat, 27 Sep 2025 16:01:58 +0200",
-          "description": "En strömsjö akterifrån kan ha fått en av Norges största sportfiskebåtar att kantra. Strömmen fick den sprillans nya båten att gira styrbord och skära rakt in i vågen framför dem.– Guiden lyckats ta sig ner till kabinen igen och dra ut det ena barnet, men hade inte krafter nog till att få ut det andra, säger Jimmy Andersson, vd för Nordic Sea Angling, som arrangerade resan."
+          "title": "Höjda kreditbetyg för Spanien",
+          "link": "https://www.expressen.se/ekonomi/hojda-kreditbetyg-for-spanien/",
+          "published": "Sat, 27 Sep 2025 17:58:36 +0200",
+          "description": "De ledande kreditvärderingsinstituten Moodys och Fitch höjer båda tydligt kreditbetyget för Spanien. Landets kreditbetyg är nu på den högsta nivån sedan 2012. "
         },
         {
-          "title": "Man död efter olycka",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=8cf1711c-6025-4982-bcfe-1fcf3b509cec",
-          "published": "Sat, 27 Sep 2025 15:23:25 +0200",
-          "description": "Inträffade under fredagen"
+          "title": "Trump redo att skicka soldater till Portland",
+          "link": "https://www.expressen.se/nyheter/varlden/trump-redo-att-skicka-soldater-till-portland/",
+          "published": "Sat, 27 Sep 2025 17:47:36 +0200",
+          "description": "Donald Trump hävdar att migrationsmyndigheten ICE:s anläggningar i Portland belägras av Antifa.Nu ger han försvarsministern grönt ljus att skicka soldater till staden.”Jag godkänner även användning av full kraft”, skriver presidenten på Truth Social."
         },
         {
-          "title": "Larm om skärmflygare",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=10b5da09-d397-4f70-8713-6f1c54795354",
-          "published": "Sat, 27 Sep 2025 15:26:44 +0200",
-          "description": "Räddningstjänsten på väg"
+          "title": "USA:s plan i Oslo",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=795366a1-bd9a-4f65-a7f1-7eb48b66a756",
+          "published": "Sat, 27 Sep 2025 17:45:03 +0200",
+          "description": "”Stöttar allierade”"
         }
       ]
     }
