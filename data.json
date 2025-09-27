@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-27T10:11:06.856698Z",
+  "lastUpdated": "2025-09-27T12:19:17.461023Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,18 @@
       },
       "items": [
         {
+          "title": "I fokus: Varför ger inte Hamas upp?",
+          "link": "https://www.svt.se/nyheter/utrikes/i-fokus-varfor-ger-inte-hamas-upp",
+          "published": "Sat, 27 Sep 2025 12:26:06 +0200",
+          "description": "Israels framryckningar i Gaza stad ökar ytterligare pressen på Hamas att lägga ned sina vapen och släppa den israeliska gisslan. Men trots Israels militära dominans visar terrororganisationen inga tecken på att ge upp. – De är inte rädda för att dö, säger SVT:s Mellanösternkommentator Samir Abu Eid."
+        },
+        {
+          "title": "Nya drönare har observerats över militär flygbas i Danmark",
+          "link": "https://www.svt.se/nyheter/utrikes/nya-dronare-har-observerats-over-flygplats-i-danmark",
+          "published": "Sat, 27 Sep 2025 10:18:10 +0200",
+          "description": "En eller flera drönare observerades vid Karup flygbas i Danmark på fredagskvällen, rapporterar danska Ekstrabladet."
+        },
+        {
           "title": "Galna siffrorna i Lidingöloppet: 70 000 gifflar och 204 kg saltgurka",
           "link": "https://www.svt.se/sport/lopning/galna-siffran-i-lidingoloppet-70-000-gifflar-och-204-kg-saltgurka",
           "published": "Sat, 27 Sep 2025 09:49:45 +0200",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/kultur/palestinska-poeter-om-protesterna-pa-bokmassan-bra-att-folk-kritiserar",
           "published": "Sat, 27 Sep 2025 08:00:03 +0200",
           "description": "De palestinska poeterna Asmaa Azaizeh och Dalia Taha har tagit sig till Bokmässan för att berätta om att skriva under brinnande krig. Samtidigt har ett 70-tal författare riktat kraftig kritik mot en programpunkt som ifrågasätter svälten i Gaza. – Jag är glad att folk är modiga nog att höja sina röster och kritisera det här, säger Asmaa Azaizeh."
-        },
-        {
-          "title": "Källor: USA planerar för att angripa narkotikamål i Venezuela",
-          "link": "https://www.svt.se/nyheter/utrikes/kallor-usa-planerar-for-att-angripa-narkotikamal-i-venezuela",
-          "published": "Sat, 27 Sep 2025 07:52:19 +0200",
-          "description": "Efter amerikanska militära attacker mot påstådda ”knarkbåtar” från Venezuela trappar USA nu upp ytterligare och planerar att angripa narkotikasmugglare inne i landet. De militära attackerna kan inledas redan om några veckor, uppger källor för NBC News."
-        },
-        {
-          "title": "Drönarna regerar i Ukrainas ingenmansland",
-          "link": "https://www.svt.se/nyheter/utrikes/dronarna-regerar-i-ukrainas-ingenmansland",
-          "published": "Sat, 27 Sep 2025 05:50:50 +0200",
-          "description": "Kriget vid fronten har nu definitivt förändrats. Själva frontlinjen rör sig bara marginellt, det har blivit ännu svårare än förut att röra sig framåt med förband. – Det gör att det inte går att genomföra några större offensiver, det är små grupper som försöker avancera numera, menar militärexperten Joakim Paasikivi som nyligen var vid fronten i Ukraina tillsammans med SVT:s team."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Vapenvilan mellan Thailand och Kambodja bruten",
-          "link": "https://www.aftonbladet.se/nyheter/a/Avj5zA/vapenvilan-mellan-thailand-och-kambodja-bruten?utm_medium=rss",
-          "published": "Sat, 27 Sep 2025 10:03:06 GMT",
-          "description": "Thailändsk och kambodjansk militär har drabbat samman i gränsområdet i nordöstra Thailand."
+          "title": "Hemvärnet sörjer kollega efter polisolyckan",
+          "link": "https://www.aftonbladet.se/nyheter/a/PpKLp0/hemvarnet-sorjer-kollega-efter-polisolyckan?utm_medium=rss",
+          "published": "Sat, 27 Sep 2025 12:11:42 GMT",
+          "description": "Den man i 55-års åldern som avled under en polisövning i Borensberg var hemvärnssoldat, skriver Hemvärnet på Facebook."
         },
         {
-          "title": "Ivo stoppar HVB-hem: ”Fara för liv och hälsa”",
-          "link": "https://www.aftonbladet.se/nyheter/a/ny8rRn/ivo-stoppar-hvb-hem-fara-for-liv-och-halsa?utm_medium=rss",
-          "published": "Sat, 27 Sep 2025 09:58:42 GMT",
-          "description": "Inspektionen för vård och omsorg (Ivo) har sedan i september i fjol beslutat om förbud eller återkallat tillstånd för 24…"
+          "title": "Arresteringsorder mot expresident al-Assad",
+          "link": "https://www.aftonbladet.se/nyheter/a/VzWr9r/arresteringsorder-mot-expresident-al-assad?utm_medium=rss",
+          "published": "Sat, 27 Sep 2025 11:32:16 GMT",
+          "description": "Syrien har utfärdat en arresteringsorder mot den tidigare syriske presidenten Bashar al-Assad, vilket banar väg för en…"
         },
         {
-          "title": "Ansvarig för båten: Olyckan är oförklarlig",
-          "link": "https://www.aftonbladet.se/nyheter/a/vg0dWV/ansvarig-for-baten-olyckan-ar-oforklarlig?utm_medium=rss",
-          "published": "Sat, 27 Sep 2025 09:56:55 GMT",
-          "description": "Det var inget oroväckande väder när sportfiskebåten lämnade land på fredagen."
+          "title": "Man gripen för mord i Helsingborg",
+          "link": "https://www.aftonbladet.se/nyheter/a/8qeLBx/man-gripen-for-mord-i-helsingborg?utm_medium=rss",
+          "published": "Sat, 27 Sep 2025 11:08:28 GMT",
+          "description": "En kvinna har hittats död i en bostad i Helsingborg. Det finns oklara omständigheter kring dödsfallet och en…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Miniubåt söker i vattnet efter försvunna flickan i Lofoten",
-          "link": "https://www.expressen.se/nyheter/sverige/miniubat-soker-i-vattnet-efter-forsvunna-flickan-i-lofoten/",
-          "published": "Sat, 27 Sep 2025 11:33:12 +0200",
-          "description": "Räddningsarbetaren Adrian Willyson Brask, 36, dog under räddningsinsatsen efter båtolyckan i Lofoten.Det berättar Grete Herlofson, chef vid norska Redningsselskapet, på en pressträff. Den 12-åriga svenska flickan saknas fortfarande.En intensiv sökinsats pågår – bland annat med undervattensfarkost. – Den har tagit bilder och filmat. Det materialet analyseras nu, säger Örjan Delbekk, vid norska Hovedredningssentralen. "
+          "title": "Man som dog under polisövning var med i hemvärnet",
+          "link": "https://www.expressen.se/nyheter/sverige/man-som-dog-under-polisovning-var-med-i-hemvarnet/",
+          "published": "Sat, 27 Sep 2025 14:06:05 +0200",
+          "description": "Den man i 55-årsåldern som dog under en polisövning i Motala var soldat i hemvärnet.Det skriver hemvärnet i ett uttalande. ”Stridskraften hemvärnet beklagar det djupaste då vi förlorat en vän och kollega,” skriver man. "
         },
         {
-          "title": "Björn Borg-hysteri på Bokmässan",
-          "link": "https://www.expressen.se/nyheter/sverige/bjorn-borg-hysteri-pa-bokmassan-/",
-          "published": "Sat, 27 Sep 2025 11:14:21 +0200",
-          "description": "Björn Borg är på plats på Bokmässan i Göteborg. Och det råder hysteri. – Han visar sig inte så ofta så här, säger hustrun Patricia Borg. "
+          "title": "Putin hjälper Xi förbereda för Taiwan",
+          "link": "https://www.expressen.se/nyheter/varlden/putin-hjalper-xi-forbereda-for-taiwan/",
+          "published": "Sat, 27 Sep 2025 14:05:41 +0200",
+          "description": "President Xi Jinping och Kina har backat Vladimir Putin under anfallskriget mot Ukraina. Nu återgäldar han tjänsten. 800 sidor läckta dokument visar att Ryssland säljer militär utrustning och teknologi som Kina kan använda för en luftinvasion av Taiwan, rapporterar nyhetsbyrån AP. "
         },
         {
-          "title": "”Jag vet inte vad jag ska  göra med Englas saker”",
-          "link": "https://www.expressen.se/nyheter/sverige/jag-vet-inte-vad-jag-ska--gora-med-englas-saker/",
-          "published": "Sat, 27 Sep 2025 11:00:00 +0200",
-          "description": "STJÄRNSUND. Flickrummet med den blå tapeten är orört. Barncykeln står kvar i förrådet.Carina Höglund, vars 10-åriga dotter Engla mördades 2008, bor kvar i samma villa. De mörka dagarna kommer. Samtidigt har hon funnit mening i en ny tillvaro.– Jag är oftast glad, säger hon.Expressen besöker en idyll som inte glömt."
+          "title": "Förklaringen till Pete Hegseths oväntade order",
+          "link": "https://www.expressen.se/nyheter/varlden/forklaringen-till-pete-hegseths-ovantade-order/",
+          "published": "Sat, 27 Sep 2025 13:51:15 +0200",
+          "description": "Hundratals generaler kallas hem till USA – utan att veta varför.Nu kommer nya detaljer om försvarsminister Pete Hegseths oväntade order.Han vill helt enkelt ha en imponerande publik när han håller tal om ”krigarandan”."
         }
       ]
     }
