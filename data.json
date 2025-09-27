@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-27T08:13:26.836539Z",
+  "lastUpdated": "2025-09-27T10:11:06.856698Z",
   "feeds": [
     {
       "url": {
@@ -28,10 +28,16 @@
       },
       "items": [
         {
+          "title": "Galna siffrorna i Lidingöloppet: 70 000 gifflar och 204 kg saltgurka",
+          "link": "https://www.svt.se/sport/lopning/galna-siffran-i-lidingoloppet-70-000-gifflar-och-204-kg-saltgurka",
+          "published": "Sat, 27 Sep 2025 09:49:45 +0200",
+          "description": "12 000 liter vatten, 70 000 gifflar bananer och 204 kg saltgurka. I dag är det dags för Lidingöloppet – och då väntas det gå åt rejält med mat och dricka. – Gifflar och saltgurka tror jag att jag hoppar över, säger fjolårstrean Evelina Henriksson."
+        },
+        {
           "title": "Ryssland och Belarus får tävla i Paralympics",
-          "link": "https://www.svt.se/sport/artikel/ryssland-och-belarus-far-tavla-i-paralympics",
+          "link": "https://www.svt.se/sport/dovidrott/ryssland-och-belarus-far-tavla-i-paralympics",
           "published": "Sat, 27 Sep 2025 09:10:03 +0200",
-          "description": "Ryska och belarusiska idrottare får återigen tävla under sina respektive nationsflaggor i Paralympics. Avstängningen mot länderna har hävts."
+          "description": "Ryska och belarusiska idrottare får återigen tävla under sina respektive nationsflaggor i Paralympics. Avstängningen mot länderna har hävts. – Det känns speciellt, det har inte känts aktuellt och så plötsligt så händer det, säger svenske paralympicsstjärnan Zebastian Modin till SVT Sport."
         },
         {
           "title": "Palestinska poeter om protesterna på Bokmässan: ”Bra att folk kritiserar”",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/nyheter/utrikes/dronarna-regerar-i-ukrainas-ingenmansland",
           "published": "Sat, 27 Sep 2025 05:50:50 +0200",
           "description": "Kriget vid fronten har nu definitivt förändrats. Själva frontlinjen rör sig bara marginellt, det har blivit ännu svårare än förut att röra sig framåt med förband. – Det gör att det inte går att genomföra några större offensiver, det är små grupper som försöker avancera numera, menar militärexperten Joakim Paasikivi som nyligen var vid fronten i Ukraina tillsammans med SVT:s team."
-        },
-        {
-          "title": "Chimamanda Ngozi Adichie i intervju med Babel",
-          "link": "https://www.svt.se/kultur/chimamanda-ngozi-adichie-i-intervju-med-babel",
-          "published": "Sat, 27 Sep 2025 05:30:03 +0200",
-          "description": "Hon har samplats av Beyoncé och är kompis med paret Obama. I helgen befinner sig den litterära superstjärnan Chimamanda Ngozi Adichie i Göteborg för att ta emot priset Sjöjungfrun. Till SVT:s Babel säger hon: – Jag vill inte vara en plikttrogen litterär dotter."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Plan tvingades nödlanda på Landvetter",
-          "link": "https://www.aftonbladet.se/nyheter/a/LMJXKx/plan-tvingades-nodlanda-pa-landvetter?utm_medium=rss",
-          "published": "Sat, 27 Sep 2025 07:59:15 GMT",
-          "description": "Ett Ryanair-plan med 152 passagerare har nödlandat på Landvetter."
+          "title": "Vapenvilan mellan Thailand och Kambodja bruten",
+          "link": "https://www.aftonbladet.se/nyheter/a/Avj5zA/vapenvilan-mellan-thailand-och-kambodja-bruten?utm_medium=rss",
+          "published": "Sat, 27 Sep 2025 10:03:06 GMT",
+          "description": "Thailändsk och kambodjansk militär har drabbat samman i gränsområdet i nordöstra Thailand."
         },
         {
-          "title": "Källor: Hamas har gått med på fredsplan",
-          "link": "https://www.aftonbladet.se/nyheter/a/4Byl2q/kallor-hamas-har-gatt-med-pa-fredsplan?utm_medium=rss",
-          "published": "Sat, 27 Sep 2025 07:48:26 GMT",
-          "description": "Hamas ska ha gått med på huvuddragen i USA:s president Donald Trumps plan för att få ett slut på kriget i Gaza, uppger…"
+          "title": "Ivo stoppar HVB-hem: ”Fara för liv och hälsa”",
+          "link": "https://www.aftonbladet.se/nyheter/a/ny8rRn/ivo-stoppar-hvb-hem-fara-for-liv-och-halsa?utm_medium=rss",
+          "published": "Sat, 27 Sep 2025 09:58:42 GMT",
+          "description": "Inspektionen för vård och omsorg (Ivo) har sedan i september i fjol beslutat om förbud eller återkallat tillstånd för 24…"
         },
         {
-          "title": "Ny analys: Så kan en rysk attack mot Sverige se ut",
-          "link": "https://www.aftonbladet.se/nyheter/a/AvjGjA/ny-rapport-sa-kan-en-rysk-attack-mot-sverige-se-ut?utm_medium=rss",
-          "published": "Sat, 27 Sep 2025 07:37:52 GMT",
-          "description": "PLUS Blixtattack, hybridkrig eller lufträd med drönare. Så kan ett angrepp mot Sverige gå till."
+          "title": "Ansvarig för båten: Olyckan är oförklarlig",
+          "link": "https://www.aftonbladet.se/nyheter/a/vg0dWV/ansvarig-for-baten-olyckan-ar-oforklarlig?utm_medium=rss",
+          "published": "Sat, 27 Sep 2025 09:56:55 GMT",
+          "description": "Det var inget oroväckande väder när sportfiskebåten lämnade land på fredagen."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Plan tvingades nödlanda",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=fedb63ef-0f80-4654-beef-14e393249487",
-          "published": "Sat, 27 Sep 2025 09:53:42 +0200",
-          "description": "Ryanair-plan gick ner på Landvetter"
+          "title": "Miniubåt söker i vattnet efter försvunna flickan i Lofoten",
+          "link": "https://www.expressen.se/nyheter/sverige/miniubat-soker-i-vattnet-efter-forsvunna-flickan-i-lofoten/",
+          "published": "Sat, 27 Sep 2025 11:33:12 +0200",
+          "description": "Räddningsarbetaren Adrian Willyson Brask, 36, dog under räddningsinsatsen efter båtolyckan i Lofoten.Det berättar Grete Herlofson, chef vid norska Redningsselskapet, på en pressträff. Den 12-åriga svenska flickan saknas fortfarande.En intensiv sökinsats pågår – bland annat med undervattensfarkost. – Den har tagit bilder och filmat. Det materialet analyseras nu, säger Örjan Delbekk, vid norska Hovedredningssentralen. "
         },
         {
-          "title": "Hamas går med på fredsförslag",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2c08c86a-711f-4781-8db1-4eb80b379731",
-          "published": "Sat, 27 Sep 2025 09:45:01 +0200",
-          "description": "Källor: Accepterar \"i princip\" Trumps förslag"
+          "title": "Björn Borg-hysteri på Bokmässan",
+          "link": "https://www.expressen.se/nyheter/sverige/bjorn-borg-hysteri-pa-bokmassan-/",
+          "published": "Sat, 27 Sep 2025 11:14:21 +0200",
+          "description": "Björn Borg är på plats på Bokmässan i Göteborg. Och det råder hysteri. – Han visar sig inte så ofta så här, säger hustrun Patricia Borg. "
         },
         {
-          "title": "Hasan, 48, om återvandringsbidraget: Ska flytta tillbaka",
-          "link": "https://www.expressen.se/nyheter/politik/hasan-48-om-atervandringsbidraget-ska-flytta-tillbaka/",
-          "published": "Sat, 27 Sep 2025 09:15:14 +0200",
-          "description": "1,4 miljarder kronor, så mycket har regeringen budgeterat för återvandring.Tenstabon Hasan, 48, flyttar gärna till Somalia om han får betalt. Andra menar att det nya bidraget inte räcker:– En miljon kronor, då skulle det kanske gå, säger en sexbarnspappa."
+          "title": "”Jag vet inte vad jag ska  göra med Englas saker”",
+          "link": "https://www.expressen.se/nyheter/sverige/jag-vet-inte-vad-jag-ska--gora-med-englas-saker/",
+          "published": "Sat, 27 Sep 2025 11:00:00 +0200",
+          "description": "STJÄRNSUND. Flickrummet med den blå tapeten är orört. Barncykeln står kvar i förrådet.Carina Höglund, vars 10-åriga dotter Engla mördades 2008, bor kvar i samma villa. De mörka dagarna kommer. Samtidigt har hon funnit mening i en ny tillvaro.– Jag är oftast glad, säger hon.Expressen besöker en idyll som inte glömt."
         }
       ]
     }
