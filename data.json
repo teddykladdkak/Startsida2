@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-27T18:14:23.587513Z",
+  "lastUpdated": "2025-09-27T20:11:20.051861Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,18 @@
       },
       "items": [
         {
+          "title": "Han hjälpte till i sökinsatsen efter båtolyckan: ”Meterhöga vågor”",
+          "link": "https://www.svt.se/nyheter/utrikes/han-hjalpte-till-i-sokandet-efter-batolyckan-meterhoga-vagor",
+          "published": "Sat, 27 Sep 2025 21:04:45 +0200",
+          "description": "Trots vind och höga vågor erbjöd sig Frode Nygård frivilligt att hjälpa till i räddningsinsatsen efter båtolyckan i Lofoten. Både på fredagskvällen och lördagsmorgonen var han ute med sin båt och sökte efter den försvunna svenska flickan. – Förhållandena var utmanande, det var förstås mörkt och det var flera meter höga vågor och starka vindar, säger Nygård."
+        },
+        {
+          "title": "Ryskt stridsfartyg avslöjat nära danskt vatten – utreds i samband med drönarkaoset",
+          "link": "https://www.svt.se/nyheter/utrikes/ryskt-stridsfartyg-avslojat-nara-danskt-vatten-utreds-i-samband-med-dronarkaoset",
+          "published": "Sat, 27 Sep 2025 20:33:08 +0200",
+          "description": "Ett ankrat ryskt militärfartyg upptäcktes strax utanför danskt territorium av tidningen Ekstrabladet i veckan. Fartygets eventuella koppling till de drönare som kränkt danskt luftrum den senaste tiden utreds nu. Enligt experter kan fartygets placering ses som en del i Rysslands hybridkrig mot väst."
+        },
+        {
           "title": "Hanna Lundberg spurtade hem segern till Sverige",
           "link": "https://www.svt.se/sport/orientering/hanna-lundberg-spurtade-hem-segern-till-sverige",
           "published": "Sat, 27 Sep 2025 18:40:54 +0200",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/brand-vid-oljehamnen-i-malmo-kraftig-rokutveckling",
           "published": "Sat, 27 Sep 2025 15:53:53 +0200",
           "description": "Det brann i en industrifastighet på Hemsögatan vid Oljehamnen i Malmö, med rök som kunde ses på långt håll. Senare greps en man i 65-årsåldern misstänkt för mordbrand."
-        },
-        {
-          "title": "I fokus: Varför ger inte Hamas upp?",
-          "link": "https://www.svt.se/nyheter/utrikes/i-fokus-varfor-ger-inte-hamas-upp",
-          "published": "Sat, 27 Sep 2025 12:26:06 +0200",
-          "description": "Israels framryckningar i Gaza stad ökar ytterligare pressen på Hamas att lägga ned sina vapen och släppa den israeliska gisslan. Men trots Israels militära dominans visar terrororganisationen inga tecken på att ge upp. – De är inte rädda för att dö, säger SVT:s Mellanösternkommentator Samir Abu Eid."
-        },
-        {
-          "title": "Misstänkt mordförsök i Västervik – skärskadad man uppsökte sjukhus",
-          "link": "https://www.svt.se/nyheter/lokalt/smaland/misstankt-mordforsok-i-vastervik-skarskadad-man-uppsokte-sjukhus",
-          "published": "Sat, 27 Sep 2025 11:59:35 +0200",
-          "description": "En skärskadad man uppsökte på lördagen Västerviks sjukhus. Han misstänks ha blivit utsatt för brott och en förundersökning gällande försök till mord har inletts."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
+          "title": "Oroliga flygresenärer efter drönarkaos: ”De testar våra gränser”",
+          "link": "https://www.aftonbladet.se/nyheter/a/Jbkw8m/oroliga-flygresenarer-efter-dronarkaos-de-testar-vara-granser?utm_medium=rss",
+          "published": "Sat, 27 Sep 2025 20:08:03 GMT",
+          "description": "Nato placerar ut en luftförsvarsfregatt i Östersjön – som ett svar på den senaste tidens drönarkaos."
+        },
+        {
+          "title": "Hizbollahs ledare: Kommer inte låta oss avväpnas",
+          "link": "https://www.aftonbladet.se/nyheter/a/yEQp1A/hizbollahs-ledare-kommer-inte-lata-oss-avvapnas?utm_medium=rss",
+          "published": "Sat, 27 Sep 2025 19:32:24 GMT",
+          "description": "Något frivilligt överlämnande av vapen kommer inte på fråga för Hizbollahrörelsen."
+        },
+        {
           "title": "Nato stärker övervakningen i Östersjön",
           "link": "https://www.aftonbladet.se/nyheter/a/xmKzaQ/nato-starker-overvakningen-i-ostersjon?utm_medium=rss",
           "published": "Sat, 27 Sep 2025 18:12:31 GMT",
-          "description": "Nato ökar övervakningen i Östersjön efter drönarlarmen i Danmark, rapporterar Reuters enligt danska medier."
-        },
-        {
-          "title": "Ny analys: Så kan en rysk attack mot Sverige se ut",
-          "link": "https://www.aftonbladet.se/nyheter/a/AvjGjA/ny-rapport-sa-kan-en-rysk-attack-mot-sverige-se-ut?utm_medium=rss",
-          "published": "Sat, 27 Sep 2025 18:09:28 GMT",
-          "description": "PLUS Blixtattack, hybridkrig eller lufträd med drönare. Så kan ett angrepp mot Sverige gå till."
-        },
-        {
-          "title": "Många gruvarbetare saknas efter olycka i Nigeria",
-          "link": "https://www.aftonbladet.se/nyheter/a/KMdKVe/manga-gruvarbetare-saknas-efter-olycka-i-nigeria?utm_medium=rss",
-          "published": "Sat, 27 Sep 2025 17:40:06 GMT",
-          "description": "Minst 18 personer omkom och många saknas efter en olycka vid en illegal gruva i Nigeria."
+          "description": "Nato ökar övervakningen i Östersjöregionen efter drönarlarmen i Danmark, rapporterar Reuters enligt danska medier."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Nato stärker beredskapen",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=163a7df0-c4e2-41ad-9836-e9110bf6bb1e",
-          "published": "Sat, 27 Sep 2025 20:07:20 +0200",
-          "description": "Efter drönarlarmen"
+          "title": "Kvinna hittad död i Helsingborg – man anhållen",
+          "link": "https://www.expressen.se/nyheter/krim/kvinna-hittad-dod-i-helsingborg-man-anhallen/",
+          "published": "Sat, 27 Sep 2025 21:37:50 +0200",
+          "description": "En man har anhållits sedan en kvinna hittats död i en bostad i Helsingborg på lördagen."
         },
         {
-          "title": "Mamma svälte nyfödda dottern – straffet skärps",
-          "link": "https://www.expressen.se/nyheter/krim/mamma-svalte-nyfodda-dottern-straffet-skarps/",
-          "published": "Sat, 27 Sep 2025 19:15:32 +0200",
-          "description": "Mamman svälte och förgiftade sin nyfödda bebis enligt Münchhausen by proxy.Hon dömdes till fängelse – vilket hon överklagade.Nu skärper hovrätten för Västra Sverige hennes straff."
+          "title": "Chocken i direktsändning – efterlyst går rakt förbi",
+          "link": "https://www.expressen.se/tv/nyheter/jagas-av-polisen-dyker-upp-framfor-kameran",
+          "published": "Sat, 27 Sep 2025 21:32:30 +0200",
+          "description": "Reporterns reaktion – står och rapporterar om fallet"
         },
         {
-          "title": "Tåg stoppas – av ballong",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=be4b7827-4d27-414b-9ab4-614cf619e21d",
-          "published": "Sat, 27 Sep 2025 19:53:59 +0200",
-          "description": "Förseningar väntas"
+          "title": "E4 avstängd",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7e1fac77-d7c1-4739-8cb8-86a708201e30",
+          "published": "Sat, 27 Sep 2025 21:44:12 +0200",
+          "description": "Seriekrock • Två till sjukhus"
         }
       ]
     }
