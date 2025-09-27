@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-27T12:19:17.461023Z",
+  "lastUpdated": "2025-09-27T14:09:43.409986Z",
   "feeds": [
     {
       "url": {
@@ -28,10 +28,22 @@
       },
       "items": [
         {
+          "title": "Brand vid Oljehamnen i Malmö: ”Kraftig rökutveckling”",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/brand-vid-oljehamnen-i-malmo-kraftig-rokutveckling",
+          "published": "Sat, 27 Sep 2025 15:53:53 +0200",
+          "description": "Det brinner i en industrifastighet på Hemsögatan i området Oljehamnen i Malmö. Det pågår just nu ett intensivt släckningsarbete, uppger räddningstjänsten."
+        },
+        {
           "title": "I fokus: Varför ger inte Hamas upp?",
           "link": "https://www.svt.se/nyheter/utrikes/i-fokus-varfor-ger-inte-hamas-upp",
           "published": "Sat, 27 Sep 2025 12:26:06 +0200",
           "description": "Israels framryckningar i Gaza stad ökar ytterligare pressen på Hamas att lägga ned sina vapen och släppa den israeliska gisslan. Men trots Israels militära dominans visar terrororganisationen inga tecken på att ge upp. – De är inte rädda för att dö, säger SVT:s Mellanösternkommentator Samir Abu Eid."
+        },
+        {
+          "title": "Misstänkt mordförsök i Västervik – skärskadad man uppsökte sjukhus",
+          "link": "https://www.svt.se/nyheter/lokalt/smaland/misstankt-mordforsok-i-vastervik-skarskadad-man-uppsokte-sjukhus",
+          "published": "Sat, 27 Sep 2025 11:59:35 +0200",
+          "description": "En skärskadad man uppsökte på lördagen Västerviks sjukhus. Han misstänks ha blivit utsatt för brott och en förundersökning gällande försök till mord har inletts."
         },
         {
           "title": "Nya drönare har observerats över militär flygbas i Danmark",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/sport/lopning/galna-siffran-i-lidingoloppet-70-000-gifflar-och-204-kg-saltgurka",
           "published": "Sat, 27 Sep 2025 09:49:45 +0200",
           "description": "12 000 liter vatten, 70 000 gifflar bananer och 204 kg saltgurka. I dag är det dags för Lidingöloppet – och då väntas det gå åt rejält med mat och dricka. – Gifflar och saltgurka tror jag att jag hoppar över, säger fjolårstrean Evelina Henriksson."
-        },
-        {
-          "title": "Ryssland och Belarus får tävla i Paralympics",
-          "link": "https://www.svt.se/sport/dovidrott/ryssland-och-belarus-far-tavla-i-paralympics",
-          "published": "Sat, 27 Sep 2025 09:10:03 +0200",
-          "description": "Ryska och belarusiska idrottare får återigen tävla under sina respektive nationsflaggor i Paralympics. Avstängningen mot länderna har hävts. – Det känns speciellt, det har inte känts aktuellt och så plötsligt så händer det, säger svenske paralympicsstjärnan Zebastian Modin till SVT Sport."
-        },
-        {
-          "title": "Palestinska poeter om protesterna på Bokmässan: ”Bra att folk kritiserar”",
-          "link": "https://www.svt.se/kultur/palestinska-poeter-om-protesterna-pa-bokmassan-bra-att-folk-kritiserar",
-          "published": "Sat, 27 Sep 2025 08:00:03 +0200",
-          "description": "De palestinska poeterna Asmaa Azaizeh och Dalia Taha har tagit sig till Bokmässan för att berätta om att skriva under brinnande krig. Samtidigt har ett 70-tal författare riktat kraftig kritik mot en programpunkt som ifrågasätter svälten i Gaza. – Jag är glad att folk är modiga nog att höja sina röster och kritisera det här, säger Asmaa Azaizeh."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Brand vid Oljehamnen i Malmö: ”Kraftig rökutveckling”",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/brand-vid-oljehamnen-i-malmo-kraftig-rokutveckling",
+          "published": "Sat, 27 Sep 2025 15:53:53 +0200",
+          "description": "Det brinner i en industrifastighet på Hemsögatan i området Oljehamnen i Malmö. Det pågår just nu ett intensivt släckningsarbete, uppger räddningstjänsten."
+        },
         {
           "title": "Tog emot praoelever – nu polisanmäls hyllade Malmöföreningen för misstänkt bedrägeri",
           "link": "https://www.svt.se/nyheter/lokalt/skane/praoelever-och-praktikanter-placeras-hos-fuskande-malmoforening",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-26-september-l8yzo8",
           "published": "Fri, 26 Sep 2025 20:15:02 +0200",
           "description": "Detta har hänt i Skåne fredagen den 26 september."
-        },
-        {
-          "title": "Föremålet på Näsby var ofarligt",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/farligt-foremal-pa-nasby-polis-pa-plats",
-          "published": "Fri, 26 Sep 2025 16:43:18 +0200",
-          "description": "En privatperson hittade ett föremål i en plastpåse på Näsby i Kristianstad och polisen bedömde det som farligt. Området spärrades av och nationella bombskyddet tillkallades och konstaterade att det var ofarligt."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Hemvärnet sörjer kollega efter polisolyckan",
-          "link": "https://www.aftonbladet.se/nyheter/a/PpKLp0/hemvarnet-sorjer-kollega-efter-polisolyckan?utm_medium=rss",
-          "published": "Sat, 27 Sep 2025 12:11:42 GMT",
-          "description": "Den man i 55-års åldern som avled under en polisövning i Borensberg var hemvärnssoldat, skriver Hemvärnet på Facebook."
+          "title": "Ukraina: Kärnkraftverket i Zaporizjzja utan el",
+          "link": "https://www.aftonbladet.se/nyheter/a/zAvwxv/ukraina-karnkraftverket-i-zaporizjzja-utan-el?utm_medium=rss",
+          "published": "Sat, 27 Sep 2025 14:01:32 GMT",
+          "description": "Ukraina uppger att kärnkraftverket i den av Ryssland ockuperade delen av Zaporizjzja har varit strömlöst i fyra dagar."
         },
         {
-          "title": "Arresteringsorder mot expresident al-Assad",
-          "link": "https://www.aftonbladet.se/nyheter/a/VzWr9r/arresteringsorder-mot-expresident-al-assad?utm_medium=rss",
-          "published": "Sat, 27 Sep 2025 11:32:16 GMT",
-          "description": "Syrien har utfärdat en arresteringsorder mot den tidigare syriske presidenten Bashar al-Assad, vilket banar väg för en…"
+          "title": "Ida, 37, har ALS: ”Saknar att äta min mans mat”",
+          "link": "https://www.aftonbladet.se/nyheter/a/3Mv1pq/ida-37-har-als-saknar-att-ata-min-mans-mat?utm_medium=rss",
+          "published": "Sat, 27 Sep 2025 13:32:21 GMT",
+          "description": "För två år sedan kunde ALS-sjuka Ida Ahlnér prata. Nu är rösten borta, liksom förmågan att gå och äta."
         },
         {
-          "title": "Man gripen för mord i Helsingborg",
-          "link": "https://www.aftonbladet.se/nyheter/a/8qeLBx/man-gripen-for-mord-i-helsingborg?utm_medium=rss",
-          "published": "Sat, 27 Sep 2025 11:08:28 GMT",
-          "description": "En kvinna har hittats död i en bostad i Helsingborg. Det finns oklara omständigheter kring dödsfallet och en…"
+          "title": "Man död i singelolycka",
+          "link": "https://www.aftonbladet.se/nyheter/a/LMJQPV/man-dod-i-singelolycka?utm_medium=rss",
+          "published": "Sat, 27 Sep 2025 13:26:19 GMT",
+          "description": "En man har omkommit i en singelolycka utanför Gällivare. Larmet om olyckan kom vid 16.45 i fredags."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Man som dog under polisövning var med i hemvärnet",
-          "link": "https://www.expressen.se/nyheter/sverige/man-som-dog-under-polisovning-var-med-i-hemvarnet/",
-          "published": "Sat, 27 Sep 2025 14:06:05 +0200",
-          "description": "Den man i 55-årsåldern som dog under en polisövning i Motala var soldat i hemvärnet.Det skriver hemvärnet i ett uttalande. ”Stridskraften hemvärnet beklagar det djupaste då vi förlorat en vän och kollega,” skriver man. "
+          "title": "Våg fick båten att gira – kan ha orsakat olyckan",
+          "link": "https://www.expressen.se/nyheter/varlden/vag-fick-baten-att-gira-kan-ha-orsakat-olyckan/",
+          "published": "Sat, 27 Sep 2025 16:01:58 +0200",
+          "description": "En strömsjö akterifrån kan ha fått en av Norges största sportfiskebåtar att kantra. Strömmen fick den sprillans nya båten att gira styrbord och skära rakt in i vågen framför dem.– Guiden lyckats ta sig ner till kabinen igen och dra ut det ena barnet, men hade inte krafter nog till att få ut det andra, säger Jimmy Andersson, vd för Nordic Sea Angling, som arrangerade resan."
         },
         {
-          "title": "Putin hjälper Xi förbereda för Taiwan",
-          "link": "https://www.expressen.se/nyheter/varlden/putin-hjalper-xi-forbereda-for-taiwan/",
-          "published": "Sat, 27 Sep 2025 14:05:41 +0200",
-          "description": "President Xi Jinping och Kina har backat Vladimir Putin under anfallskriget mot Ukraina. Nu återgäldar han tjänsten. 800 sidor läckta dokument visar att Ryssland säljer militär utrustning och teknologi som Kina kan använda för en luftinvasion av Taiwan, rapporterar nyhetsbyrån AP. "
+          "title": "Man död efter olycka",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=8cf1711c-6025-4982-bcfe-1fcf3b509cec",
+          "published": "Sat, 27 Sep 2025 15:23:25 +0200",
+          "description": "Inträffade under fredagen"
         },
         {
-          "title": "Förklaringen till Pete Hegseths oväntade order",
-          "link": "https://www.expressen.se/nyheter/varlden/forklaringen-till-pete-hegseths-ovantade-order/",
-          "published": "Sat, 27 Sep 2025 13:51:15 +0200",
-          "description": "Hundratals generaler kallas hem till USA – utan att veta varför.Nu kommer nya detaljer om försvarsminister Pete Hegseths oväntade order.Han vill helt enkelt ha en imponerande publik när han håller tal om ”krigarandan”."
+          "title": "Larm om skärmflygare",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=10b5da09-d397-4f70-8713-6f1c54795354",
+          "published": "Sat, 27 Sep 2025 15:26:44 +0200",
+          "description": "Räddningstjänsten på väg"
         }
       ]
     }
