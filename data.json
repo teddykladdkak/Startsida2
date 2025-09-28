@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-28T12:20:16.523032Z",
+  "lastUpdated": "2025-09-28T14:08:31.044530Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,18 @@
       },
       "items": [
         {
+          "title": "Kvinna i Eskilstuna fick över 200 000 kronor i bidrag – ska betala tillbaka",
+          "link": "https://www.svt.se/nyheter/lokalt/sormland/kvinna-i-eskilstuna-fick-over-200-000-kronor-i-bidrag-ska-betala-tillbaka",
+          "published": "Sun, 28 Sep 2025 14:53:12 +0200",
+          "description": "En kvinna i Eskilstuna krävs betala tillbaka över 200 000 kronor som hon fått i felaktigt utbetalt underhållsstöd från Försäkringskassan."
+        },
+        {
+          "title": "Hennes son var Foxtrots bombmakare – nu föreläser hon om erfarenheterna",
+          "link": "https://www.svt.se/nyheter/lokalt/sodertalje/hennes-son-var-foxtrots-bombmakare-nu-forelaser-hon-om-erfarenheterna",
+          "published": "Sun, 28 Sep 2025 14:43:40 +0200",
+          "description": "Pernilla Pernsjös son är dömd till 12 års fängelse för att ha byggt bomber åt Foxtrotnätverket. Nu är hon ute och föreläser, för bland annat lärare i Södertälje, om sin erfarenhet av att ha ett barn som varit gängkriminell. – Det värsta är maktlösheten, att inte kunna komma fram till sin son med ord."
+        },
+        {
           "title": "Omfattande attack mot Ukraina – över 500 ryska drönare användes",
           "link": "https://www.svt.se/nyheter/utrikes/omfattande-attack-mot-ukraina-over-500-ryska-dronare-anvandes",
           "published": "Sun, 28 Sep 2025 13:58:14 +0200",
@@ -43,19 +55,7 @@
           "title": "Brand i industribyggnad i Trollhättan – VMA utfärdat",
           "link": "https://www.svt.se/nyheter/lokalt/vast/brand-i-industribyggnad-i-trollhattan",
           "published": "Sun, 28 Sep 2025 11:26:10 +0200",
-          "description": "Ett viktigt meddelande till allmänheten, VMA, har utfärdats för Trollhättan på grund av en brand i Hojums industriområde. Branden beskrivs som fullt utvecklad och räddningstjänsten är på plats. – Det brinner med ganska stor kraft, säger Ulrik Olsson, vakthavande befäl på räddningstjänsten."
-        },
-        {
-          "title": "Svensk flicka förmodas omkommit i båtolycka – norsk polis inleder nytt sökande",
-          "link": "https://www.svt.se/nyheter/utrikes/svensk-flicka-formodas-omkommit-i-batolycka-norsk-polis-inleder-nytt-sokande",
-          "published": "Sun, 28 Sep 2025 10:52:08 +0200",
-          "description": "Polisen i Norge avbröt räddningsinsatsen efter båtolyckan i Lofoten på lördagen. Den svenska flickan som fortfarande saknas förmodas vara död. Nu meddelar polisen att man kommer göra en ny sökinsats under söndagen."
-        },
-        {
-          "title": "Verifieringshjälpen granskar ”bildbeviset” från Ölandsbron",
-          "link": "https://www.svt.se/nyheter/inrikes/verifieringshjalpen-granskar-bildbeviset-fran-olandsbron",
-          "published": "Sun, 28 Sep 2025 10:33:55 +0200",
-          "description": "På ett gammalt svartvitt foto, som cirkulerat på nätet i decennier, ser det ut som att två stridsflyg passerar under Ölandsbron. Men har det verkligen hänt? Det undrade Anette Json Pihl i Älmhult som skickade in tipset till Verifieringshjälpen. Följ med på vår resa genom Sverige där vi söker svar om det spektakulära fotot."
+          "description": "Ett viktigt meddelande till allmänheten, VMA, har utfärdats i Trollhättan på grund av en brand i Hojums industriområde. Branden är fullt utvecklad och det finns risk att taket på den brinnande byggnaden rasar. – Det brinner intensivt och vi arbetar med att minska spridningsrisken, säger Pontus Olsson vid räddningstjänsten."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
+          "title": "Emilia, 19, dog i kraschen i Bollnäs: ”Fanns alltid där”",
+          "link": "https://www.aftonbladet.se/nyheter/a/lwBkAe/emilia-hansson-19-dog-i-bilolyckan-utanfor-bollnas?utm_medium=rss",
+          "published": "Sun, 28 Sep 2025 13:18:25 GMT",
+          "description": "RÖSTE. Emilia Hansson, 19, dog i bilolyckan utanför Bollnäs natten mot söndagen."
+        },
+        {
+          "title": "Hamas: Har tappat kontakten med två gisslan",
+          "link": "https://www.aftonbladet.se/nyheter/a/rPkKla/hamas-har-tappat-kontakten-med-tva-gisslan?utm_medium=rss",
+          "published": "Sun, 28 Sep 2025 13:13:34 GMT",
+          "description": "Hamas har tappat kontakten med två ur gisslan till , uppger den terrorstämplade rörelsen."
+        },
+        {
           "title": "Minnesstund i Bollnäs kyrka efter dödsolyckan",
           "link": "https://www.aftonbladet.se/nyheter/a/vg01mm/minnesstund-i-bollnas-kyrka-efter-dodsolyckan?utm_medium=rss",
           "published": "Sun, 28 Sep 2025 11:48:23 GMT",
           "description": "Bollnäs Kyrka står öppen för den som vill sörja och minnas de två unga kvinnor som omkom i den svåra trafikolyckan…"
-        },
-        {
-          "title": "Santiago, 19, vill att Demokraterna ska ta strid: Ge unga makt",
-          "link": "https://www.aftonbladet.se/nyheter/a/lwBex7/santiago-19-vill-att-demokraterna-ska-ta-strid-ge-unga-makt?utm_medium=rss",
-          "published": "Sun, 28 Sep 2025 11:33:19 GMT",
-          "description": "NEW YORK. Uselt förtroende, splittring och ingen självklar ledare.  När Kamala Harris startar sin bokturné blottas ungas…"
-        },
-        {
-          "title": "”Jag minns exakt orden: ’Sanna är försvunnen i Paris och det är allvarligt’”",
-          "link": "https://www.aftonbladet.se/nyheter/a/mPAkM0/foraldrarna-om-sorgen-17-ar-efter-mordet-pa-sanna-zetterberg?utm_medium=rss",
-          "published": "Sun, 28 Sep 2025 11:08:03 GMT",
-          "description": "PLUS En våldtäktsman tar deras dotter ifrån dem. Sanna Zetterberg hittas brinnande i en skog utanför Paris."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "12-åringens desperata flykt mitt i bombregnet",
-          "link": "https://www.expressen.se/nyheter/varlden/12-aringens-desperata-flykt-mitt-i-bombregnet/",
-          "published": "Sun, 28 Sep 2025 14:08:47 +0200",
-          "description": "En pappa går till fots genom kriget.Han skjutsar två av sina barn på en kärra.Det tredje bär han.I sina minnen för alltid."
+          "title": "Brand på balkong",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=396b1503-fea5-4484-b62f-93f27b1f72ed",
+          "published": "Sun, 28 Sep 2025 16:01:24 +0200",
+          "description": "En till sjukhus"
         },
         {
-          "title": "Danmark stoppar flygning med civila drönare",
-          "link": "https://www.expressen.se/nyheter/varlden/danmark-stoppar-flygning-med-civila-dronare/",
-          "published": "Sun, 28 Sep 2025 13:44:49 +0200",
-          "description": "Under natten har drönare observerats vid flera av det danska försvarets anläggningar, meddelar försvarsmakten. Danmark stänger nu luftrummet för civila drönare i en vecka. "
+          "title": "Presidenten har röstat i Moldaviens ödesval",
+          "link": "https://www.expressen.se/nyheter/varlden/presidenten-har-rostat-i-moldaviens-odesval/",
+          "published": "Sun, 28 Sep 2025 15:44:05 +0200",
+          "description": "Klockan klämtar för Moldavien. Ryssland anklagas för massiv hybridkrigföring inför dagens parlamentsval. Ett val som premiärminister Dorin Recean beskriver som ”den sista striden för vårt lands framtid”. Klockan åtta i kväll stänger vallokalerna. "
         },
         {
-          "title": "Wollter och Dufvenius om debatten efter boken: ”Ledsen”",
-          "link": "https://www.expressen.se/nyheter/sverige/wollter-och-dufvenius-om-debatten-efter-boken-ledsen/",
-          "published": "Sun, 28 Sep 2025 13:38:34 +0200",
-          "description": "Det har stormat rejält kring Julia Dufvenius och Christopher Wollters bok ”Välkomna till vårt äktenskap”. Och under Bokmässan kommenterar paret för första gången den livliga debatten. – Den här polariseringen är direkt skadlig, säger Dufvenius. "
+          "title": "Magdalena Anderssons pingispik: ”Märklig prioritering”",
+          "link": "https://www.expressen.se/nyheter/politik/magdalena-anderssons-pingispik-marklig-prioritering/",
+          "published": "Sun, 28 Sep 2025 15:30:06 +0200",
+          "description": "Socialdemokraterna riktar kritik mot statsminister Ulf Kristersson efter att han ännu en gång valt att inte delta på FN:s generalförsamling i New York. Istället gick han bland annat på en pingisturnering i Eskilstuna.– Det är en väldigt märklig prioritering, säger Magdalena Andersson (S)."
         }
       ]
     }
