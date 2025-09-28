@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-28T10:10:48.357684Z",
+  "lastUpdated": "2025-09-28T12:20:16.523032Z",
   "feeds": [
     {
       "url": {
@@ -28,10 +28,22 @@
       },
       "items": [
         {
-          "title": "Nya drönare observerade över Danmark",
+          "title": "Omfattande attack mot Ukraina – över 500 ryska drönare användes",
+          "link": "https://www.svt.se/nyheter/utrikes/omfattande-attack-mot-ukraina-over-500-ryska-dronare-anvandes",
+          "published": "Sun, 28 Sep 2025 13:58:14 +0200",
+          "description": "Under natten till söndagen genomförde Ryssland ett massivt luftangrepp mot Ukraina. Ukrainas president Volodymyr Zelenskyj uppger att attacken pågick i över tolv timmar och involverade mer än 500 drönare och ett 40-tal robotar."
+        },
+        {
+          "title": "Nya drönare vid försvarsanläggningar i Danmark",
           "link": "https://www.svt.se/nyheter/utrikes/nya-dronare-observerade-over-danmark",
           "published": "Sun, 28 Sep 2025 11:51:46 +0200",
-          "description": "Drönare har observerats vid flera danska försvarsanläggningar under natten, bekräftar det danska försvaret i ett kort pressmeddelande."
+          "description": "Drönare har observerats vid flera danska försvarsanläggningar under natten, bekräftar det danska försvaret i ett kort pressmeddelande. Danmarks transportministerium meddelar på söndagen att det danska luftrummet kommer att vara stängt för civila drönare under nästa vecka."
+        },
+        {
+          "title": "Brand i industribyggnad i Trollhättan – VMA utfärdat",
+          "link": "https://www.svt.se/nyheter/lokalt/vast/brand-i-industribyggnad-i-trollhattan",
+          "published": "Sun, 28 Sep 2025 11:26:10 +0200",
+          "description": "Ett viktigt meddelande till allmänheten, VMA, har utfärdats för Trollhättan på grund av en brand i Hojums industriområde. Branden beskrivs som fullt utvecklad och räddningstjänsten är på plats. – Det brinner med ganska stor kraft, säger Ulrik Olsson, vakthavande befäl på räddningstjänsten."
         },
         {
           "title": "Svensk flicka förmodas omkommit i båtolycka – norsk polis inleder nytt sökande",
@@ -43,19 +55,7 @@
           "title": "Verifieringshjälpen granskar ”bildbeviset” från Ölandsbron",
           "link": "https://www.svt.se/nyheter/inrikes/verifieringshjalpen-granskar-bildbeviset-fran-olandsbron",
           "published": "Sun, 28 Sep 2025 10:33:55 +0200",
-          "description": "På ett gammalt svartvitt foto, som cirkulerat på nätet i decennier, ser det ut som att två stridsflyg passerar under Ölandsbron. Men har det verkligen hänt? Det undrade Annette Json Pihl i Älmhult som skickade in tipset till Verifieringshjälpen. Följ med på vår resa genom Sverige där vi söker svar om det spektakulära fotot."
-        },
-        {
-          "title": "Förvarade elva handgranater bredvid flickvännen – döms till fängelse",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/forvarade-elva-handgranater-bredvid-flickvannen-doms-till-fangelse",
-          "published": "Sun, 28 Sep 2025 08:46:28 +0200",
-          "description": "En obetald tågresa ledde till en husrannsakan där polisen hittade elva handgranater och tre pistoler på soffan. Nu döms en man i 30-årsåldern vid Malmö tingsrätt för flera grova brott."
-        },
-        {
-          "title": "Här dyker Vanessa Kamga upp  – och lär alpina landslaget kasta diskus",
-          "link": "https://www.svt.se/sport/friidrott/har-dyker-vanessa-kamga-upp-och-lar-alpina-landslaget-kasta-diskus",
-          "published": "Sun, 28 Sep 2025 08:22:02 +0200",
-          "description": "För två veckor sedan kom hon fyra på friidrotts-VM. Men under lördagen dök Vanessa Kamga upp på Bosön utanför Stockholm – och lärde det alpina landslaget att kasta diskus. – Jag är fortfarande jetlaggad från VM i Tokyo, säger Kamga när hon dyker upp."
+          "description": "På ett gammalt svartvitt foto, som cirkulerat på nätet i decennier, ser det ut som att två stridsflyg passerar under Ölandsbron. Men har det verkligen hänt? Det undrade Anette Json Pihl i Älmhult som skickade in tipset till Verifieringshjälpen. Följ med på vår resa genom Sverige där vi söker svar om det spektakulära fotot."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Nya drönarlarm vid danska försvarsanläggningar",
-          "link": "https://www.aftonbladet.se/nyheter/a/Jbk2mX/tyskland-hjalper-danmark-med-dronarforsvar?utm_medium=rss",
-          "published": "Sun, 28 Sep 2025 09:03:10 GMT",
-          "description": "Under natten har drönare observerats vid flera av det danska försvarets anläggningar, meddelar försvarsmakten."
+          "title": "Minnesstund i Bollnäs kyrka efter dödsolyckan",
+          "link": "https://www.aftonbladet.se/nyheter/a/vg01mm/minnesstund-i-bollnas-kyrka-efter-dodsolyckan?utm_medium=rss",
+          "published": "Sun, 28 Sep 2025 11:48:23 GMT",
+          "description": "Bollnäs Kyrka står öppen för den som vill sörja och minnas de två unga kvinnor som omkom i den svåra trafikolyckan…"
         },
         {
-          "title": "83 kriminalvårdare som åkt fast – och straffats",
-          "link": "https://www.aftonbladet.se/nyheter/a/rPoGme/lista-83-kriminalvardare-som-akt-fast-och-straffats?utm_medium=rss",
-          "published": "Sun, 28 Sep 2025 09:01:54 GMT",
-          "description": "PLUS Våld, slarv, sex, narkotika, fusk och fel. Antalet fall med kriminalvårdare som missköter sig ökar kraftigt."
+          "title": "Santiago, 19, vill att Demokraterna ska ta strid: Ge unga makt",
+          "link": "https://www.aftonbladet.se/nyheter/a/lwBex7/santiago-19-vill-att-demokraterna-ska-ta-strid-ge-unga-makt?utm_medium=rss",
+          "published": "Sun, 28 Sep 2025 11:33:19 GMT",
+          "description": "NEW YORK. Uselt förtroende, splittring och ingen självklar ledare.  När Kamala Harris startar sin bokturné blottas ungas…"
         },
         {
-          "title": "Ödesval väntar i Moldavien",
-          "link": "https://www.aftonbladet.se/nyheter/a/QMQWEW/massivt-forsok-fran-ryssland-attpaverka-valet-i-moldavien?utm_medium=rss",
-          "published": "Sun, 28 Sep 2025 08:13:54 GMT",
-          "description": "I dag är det val i Moldavien, men betydligt mer än platser i parlamentet står på spel."
+          "title": "”Jag minns exakt orden: ’Sanna är försvunnen i Paris och det är allvarligt’”",
+          "link": "https://www.aftonbladet.se/nyheter/a/mPAkM0/foraldrarna-om-sorgen-17-ar-efter-mordet-pa-sanna-zetterberg?utm_medium=rss",
+          "published": "Sun, 28 Sep 2025 11:08:03 GMT",
+          "description": "PLUS En våldtäktsman tar deras dotter ifrån dem. Sanna Zetterberg hittas brinnande i en skog utanför Paris."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Nya drönarlarm",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=789c41ac-90e7-49c3-ae8d-98c48ff93495",
-          "published": "Sun, 28 Sep 2025 11:57:57 +0200",
-          "description": "Över danska försvarsanläggningar "
+          "title": "12-åringens desperata flykt mitt i bombregnet",
+          "link": "https://www.expressen.se/nyheter/varlden/12-aringens-desperata-flykt-mitt-i-bombregnet/",
+          "published": "Sun, 28 Sep 2025 14:08:47 +0200",
+          "description": "En pappa går till fots genom kriget.Han skjutsar två av sina barn på en kärra.Det tredje bär han.I sina minnen för alltid."
         },
         {
-          "title": "Prins Alexander går i pappas spår – tävlar i gokart",
-          "link": "https://www.expressen.se/nyheter/kungligt/prins-alexander-gar-i-pappas-spar-tavlar-i-gokart-/",
-          "published": "Sun, 28 Sep 2025 11:36:29 +0200",
-          "description": "Här är den senaste i raden av Kungahusets många generationer motorprinsar. Under söndagen tävlade prins Alexander, 9, i gokart – i pappa Carl Philips egen tävling. "
+          "title": "Danmark stoppar flygning med civila drönare",
+          "link": "https://www.expressen.se/nyheter/varlden/danmark-stoppar-flygning-med-civila-dronare/",
+          "published": "Sun, 28 Sep 2025 13:44:49 +0200",
+          "description": "Under natten har drönare observerats vid flera av det danska försvarets anläggningar, meddelar försvarsmakten. Danmark stänger nu luftrummet för civila drönare i en vecka. "
         },
         {
-          "title": "Fiskeridirektören som  mördade sin mäklare",
-          "link": "https://www.expressen.se/podcast/krimrummet/fiskeridirektoren-som--mordade-sin-maklare/",
-          "published": "Sun, 28 Sep 2025 10:38:37 +0200",
-          "description": "Fiskeridirektören Olof Lessmark, 75, gick i pension och sålde sitt hus. Men han ångrade sig och åkte hem till husmäklaren med ett gevär.Nu avtjänar han ett 16-årigt fängelsestraff för mord på Skogomeanstalten i Göteborg. I ”Krimrummet i fängelse” berättar han för Expressens reporter Niklas Svensson.– Livet är slut. Så är det bara. Lyssna på avsnittet ”Fiskeridirektören som mördade sin mäklare” här nedan, exklusivt för dig med Premium."
+          "title": "Wollter och Dufvenius om debatten efter boken: ”Ledsen”",
+          "link": "https://www.expressen.se/nyheter/sverige/wollter-och-dufvenius-om-debatten-efter-boken-ledsen/",
+          "published": "Sun, 28 Sep 2025 13:38:34 +0200",
+          "description": "Det har stormat rejält kring Julia Dufvenius och Christopher Wollters bok ”Välkomna till vårt äktenskap”. Och under Bokmässan kommenterar paret för första gången den livliga debatten. – Den här polariseringen är direkt skadlig, säger Dufvenius. "
         }
       ]
     }
