@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-28T03:02:44.451542Z",
+  "lastUpdated": "2025-09-28T04:13:25.967299Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,24 @@
       },
       "items": [
         {
+          "title": "Ämnet TPO i nagellack förbjuds – kopplas till infertilitet",
+          "link": "https://www.svt.se/nyheter/lokalt/sormland/amnet-tpo-i-nagellack-forbjuds-kopplas-till-infertilitet",
+          "published": "Sun, 28 Sep 2025 05:30:09 +0200",
+          "description": "Sedan 1 september är ämnet TPO, som används i gellack, förbjudet i hela EU. Lina Andersson på en nagelsalong i Eskilstuna ser positivt på beslutet. – Det är det bästa för både oss och kunden, säger hon."
+        },
+        {
+          "title": "Från kattvind till vapensuccé – så fick Dennis, 32, företaget i Valskog att peaka",
+          "link": "https://www.svt.se/nyheter/lokalt/vastmanland/fran-kattvind-till-vapensucce-sa-fick-dennis-32-foretaget-i-kungsor-att-peaka",
+          "published": "Sun, 28 Sep 2025 05:30:09 +0200",
+          "description": "Det började på kattvinden där han skissade på vapendelar. Nu driver Daniel Husell ett framgångsrikt företag som producerar till kunder rund om i världen. Och när han får tid över klurar han på uppfinningar för att skjuta ned drönare."
+        },
+        {
+          "title": "”Släp-Nisse” går i pension – summerar sitt sista travlopp",
+          "link": "https://www.svt.se/nyheter/lokalt/norrbotten/75-aringen-summerar-sitt-sista-travlopp-forstar-narkomaner",
+          "published": "Sun, 28 Sep 2025 05:30:09 +0200",
+          "description": "Nu lägger Nils Nyström travkuskhjälmen på hyllan. I samband med det förevigas ”Släp-Nisse” på Fotografiska museet i Stockholm."
+        },
+        {
           "title": "Pokémon-låt användes i Vita huset-video om utvisningar – företaget tar avstånd",
           "link": "https://www.svt.se/nyheter/utrikes/pokemon-lat-anvandes-i-vita-huset-video-om-utvisningar-foretaget-tar-avstand",
           "published": "Sun, 28 Sep 2025 00:17:30 +0200",
@@ -38,24 +56,6 @@
           "link": "https://www.svt.se/nyheter/utrikes/han-hjalpte-till-i-sokandet-efter-batolyckan-meterhoga-vagor",
           "published": "Sat, 27 Sep 2025 21:04:45 +0200",
           "description": "Trots vind och höga vågor erbjöd sig Frode Nygård frivilligt att hjälpa till i räddningsinsatsen efter båtolyckan i Lofoten. Både på fredagskvällen och lördagsmorgonen var han ute med sin båt och sökte efter den försvunna svenska flickan. – Förhållandena var utmanande, det var förstås mörkt och det var flera meter höga vågor och starka vindar, säger Nygård."
-        },
-        {
-          "title": "Ryskt stridsfartyg avslöjat nära danskt vatten – utreds i samband med drönarkaoset",
-          "link": "https://www.svt.se/nyheter/utrikes/ryskt-stridsfartyg-avslojat-nara-danskt-vatten-utreds-i-samband-med-dronarkaoset",
-          "published": "Sat, 27 Sep 2025 20:33:08 +0200",
-          "description": "Ett ankrat ryskt militärfartyg upptäcktes strax utanför danskt territorium av tidningen Ekstrabladet i veckan. Fartygets eventuella koppling till de drönare som kränkt danskt luftrum den senaste tiden utreds nu. Enligt experter kan fartygets placering ses som en del i Rysslands hybridkrig mot väst."
-        },
-        {
-          "title": "Hanna Lundberg spurtade hem segern till Sverige",
-          "link": "https://www.svt.se/sport/orientering/hanna-lundberg-spurtade-hem-segern-till-sverige",
-          "published": "Sat, 27 Sep 2025 18:40:54 +0200",
-          "description": "Det blev superdramatik i sprintstafetten i Schweiz. Allt avgjordes på den avslutande sträckan – då visade Hanna Lundberg klass och säkrade segern till Sverige. – När jag bestämmer mig finns det ingen som kan springa ifrån mig, säger hon till SVT."
-        },
-        {
-          "title": "En kvinna har dött efter storbranden på äldreboendet i Sunne",
-          "link": "https://www.svt.se/nyheter/lokalt/varmland/en-kvinna-har-omkommit-efter-branden-hade-sma-chanser-att-overleva",
-          "published": "Sat, 27 Sep 2025 16:06:18 +0200",
-          "description": "En kvinna har dött efter branden på äldreboendet i Sunne. – Vi har samarbetat med brännskadeenheten på Akademiska sjukhuset i Uppsala, men hennes liv gick inte att rädda, säger Stephan Axer, överläkare på kirurgen på Torsby sjukhuset."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "”Magiska svampar” testas mot anorexi i Lund",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/magiska-svampar-testas-mot-anorexi-i-lund",
+          "published": "Sun, 28 Sep 2025 05:30:09 +0200",
+          "description": "I en världsunik studie på Lunds universitet ska forskare testa om psykedeliska läkemedel, så kallade magiska svampar, kan gynna patienter med anorexi. Förhoppningen är att det hallucinogena preparatet ska hjälpa till att bryta rigida tankemönster."
+        },
         {
           "title": "Nyheter från dagen: 27 september",
           "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-27-september-hhz90y",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/brand-vid-oljehamnen-i-malmo-kraftig-rokutveckling",
           "published": "Sat, 27 Sep 2025 15:53:53 +0200",
           "description": "Det brann i en industrifastighet på Hemsögatan vid Oljehamnen i Malmö, med rök som kunde ses på långt håll. Senare greps en man i 65-årsåldern misstänkt för mordbrand."
-        },
-        {
-          "title": "Tog emot praoelever – nu polisanmäls hyllade Malmöföreningen för misstänkt bedrägeri",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/praoelever-och-praktikanter-placeras-hos-fuskande-malmoforening",
-          "published": "Sat, 27 Sep 2025 05:30:03 +0200",
-          "description": "Hundratals barn och unga har placerats i prao och praktik på en förening i Malmö som misstänks ha fuskat med bidragspengar. Föreningen har hyllats av Malmöpolitiker och har fått flera miljoner i bidrag. – Det känns ju inte bra att placera ungdomar och barn när vi misstänker brott, säger Graziela Zibner, enhetschef på Malmö stad."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
+          "title": "Nya lagen – könsord mot polis döms olika",
+          "link": "https://www.aftonbladet.se/nyheter/a/algdya/nya-lagen-konsord-mot-polis-doms-olika?utm_medium=rss",
+          "published": "Sun, 28 Sep 2025 04:00:15 GMT",
+          "description": "En tonåring döms för att ha kallat en polis ”kuksugare”, medan en pensionär frias för ”jävla polisfitta”."
+        },
+        {
+          "title": "Del av polskt luftrum stängt – ”militäraktivitet”",
+          "link": "https://www.aftonbladet.se/nyheter/a/rPkyV0/del-av-polskt-luftrum-stangt-militaraktivitet?utm_medium=rss",
+          "published": "Sun, 28 Sep 2025 03:28:04 GMT",
+          "description": "Luftrum nära de polska städerna Lublin och Rzeszow har stängts efter ”oplanerad militäraktivitet kopplat till att säkra…"
+        },
+        {
           "title": "Schimpanser får i sig ”två drinkar” om dagen",
           "link": "https://www.aftonbladet.se/nyheter/a/o34m1R/schimpanser-far-i-sig-tva-drinkar-om-dagen?utm_medium=rss",
           "published": "Sun, 28 Sep 2025 02:30:18 GMT",
           "description": "Människans närmaste släktingar sätter i sig motsvarande två alkoholhaltiga drinkar varje dag."
-        },
-        {
-          "title": "FN-sanktioner mot Iran återinförs",
-          "link": "https://www.aftonbladet.se/nyheter/a/PpK2PR/fn-sanktioner-mot-iran-aterinfors?utm_medium=rss",
-          "published": "Sun, 28 Sep 2025 00:16:09 GMT",
-          "description": "Omfattande FN-sanktioner mot Iran har återinförts – för första gången på ett årtionde."
-        },
-        {
-          "title": "Selena Gomez har gift sig",
-          "link": "https://www.aftonbladet.se/nyheter/a/xmKpMl/selena-gomez-har-gift-sig?utm_medium=rss",
-          "published": "Sat, 27 Sep 2025 23:56:09 GMT",
-          "description": "Den amerikanska skådespelaren och sångaren Selena Gomez har gift sig med musikproducenten Benny Blanco."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
+          "title": "Grovt brott i Tierp",
+          "link": "https://www.expressen.se/nyheter/sverige/grovt-brott-i-tierp-jgdgt/",
+          "published": "Sun, 28 Sep 2025 06:03:47 +0200",
+          "description": "Polisen utreder ett ”grovt brott” i Tobo i Tierps kommun.En större insats genomförs av polis på platsen."
+        },
+        {
+          "title": "Luftrum över Polen stängt",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=71b94458-bd2a-48e1-a821-b12853cc8a6b",
+          "published": "Sun, 28 Sep 2025 05:25:49 +0200",
+          "description": "”Oplanerad militär aktivitet”"
+        },
+        {
           "title": "Mördaren Gudmundur Mogensen i Avicii-video",
           "link": "https://www.expressen.se/nyheter/krim/mordaren-gudmundur-mogensen-i-avicii-video-/",
           "published": "Sun, 28 Sep 2025 05:00:00 +0200",
           "description": "Gudmundur Mogensen, 41, har erkänt mordet på en gängmans mamma i Akalla – och misstänks tidigare samma dag ha försökt mörda en annan.Hans livsresa – från tiden då han var huvudkaraktär i en musikvideo av Avicii och välkänd indieprofil i Stockholmskretsar till rättssalen – är lång.  "
-        },
-        {
-          "title": "”Grovt brott” i Tierp",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c529955f-12c6-4e8e-8780-966b595166f0",
-          "published": "Sun, 28 Sep 2025 04:22:09 +0200",
-          "description": "Flera personer skadade "
-        },
-        {
-          "title": "Donald Trumps falska påstående om FBI och 6 januari",
-          "link": "https://www.expressen.se/nyheter/varlden/donald-trumps-falska-pastaende-om-fbi-och-6-januari/",
-          "published": "Sun, 28 Sep 2025 02:21:39 +0200",
-          "description": "I ett inlägg på Truth Social påstår Donald Trump att FBI bär skulden till stormningen av Kapitolium den 6 januari 2021.I inlägget skriver han att FBI skickat in 274 agenter i folksamlingen innan oroligheterna – och att de ”troligen” agerade som provokatörer.Påståendet är inte sant."
         }
       ]
     }
