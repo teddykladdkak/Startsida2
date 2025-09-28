@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-28T06:15:48.574799Z",
+  "lastUpdated": "2025-09-28T08:13:12.887854Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,18 @@
       },
       "items": [
         {
+          "title": "Förvarade elva handgranater bredvid flickvännen – döms till fängelse",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/forvarade-elva-handgranater-bredvid-flickvannen-doms-till-fangelse",
+          "published": "Sun, 28 Sep 2025 08:46:28 +0200",
+          "description": "En obetald tågresa ledde till en husrannsakan där polisen hittade elva handgranater och tre pistoler på soffan. Nu döms en man i 30-årsåldern vid Malmö tingsrätt för flera grova brott."
+        },
+        {
+          "title": "Här dyker Vanessa Kamga upp  – och lär alpina landslaget kasta diskus",
+          "link": "https://www.svt.se/sport/friidrott/har-dyker-vanessa-kamga-upp-och-lar-alpina-landslaget-kasta-diskus",
+          "published": "Sun, 28 Sep 2025 08:22:02 +0200",
+          "description": "För två veckor sedan kom hon fyra på friidrotts-VM. Men under lördagen dök Vanessa Kamga upp på Bosön utanför Stockholm – och lärde det alpina landslaget att kasta diskus. – Jag är fortfarande jetlaggad från VM i Tokyo, säger Kamga när hon dyker upp."
+        },
+        {
           "title": "Moldaviens vägval: EU eller rysk gråzon: ”Viktigast att bryta sig loss från ryssarna”",
           "link": "https://www.svt.se/nyheter/utrikes/moldaviens-vagval-eu-eller-rysk-grazon-viktigast-att-bryta-sig-loss-fran-ryssarna",
           "published": "Sun, 28 Sep 2025 08:10:51 +0200",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/nyheter/ekonomi/nu-slapps-nya-elpriset-el-kan-kopas-per-kvart",
           "published": "Sun, 28 Sep 2025 07:20:20 +0200",
           "description": "Från 1 oktober kan du köpa el per kvart, inte bara per timme som nu. Kanske ingen jätterevolution, men för elnörden finns pengar att spara. – Med ett automatiserat system kan man se till att elbilsladdningen sker när det är som billigast, säger elanalytiker Christian Holtz."
-        },
-        {
-          "title": "Ung man allvarligt skadad i bilolycka i Västerås",
-          "link": "https://www.svt.se/nyheter/lokalt/vastmanland/ung-man-allvarligt-skadad-efter-bilolycka-i-vasteras",
-          "published": "Sun, 28 Sep 2025 06:44:28 +0200",
-          "description": "Vid strax innan 3-tiden natten mot söndagen körde en bil av vägen på Björnövägen i Hässlö i Västerås. Tre personer har förts till sjukhus varav en med allvarliga skador."
-        },
-        {
-          "title": "Ämnet TPO i nagellack förbjuds – kopplas till infertilitet",
-          "link": "https://www.svt.se/nyheter/lokalt/sormland/amnet-tpo-i-nagellack-forbjuds-kopplas-till-infertilitet",
-          "published": "Sun, 28 Sep 2025 05:30:09 +0200",
-          "description": "Sedan 1 september är ämnet TPO, som används i gellack, förbjudet i hela EU. Lina Andersson på en nagelsalong i Eskilstuna ser positivt på beslutet. – Det är det bästa för både oss och kunden, säger hon."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Förvarade elva handgranater bredvid flickvännen – döms till fängelse",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/forvarade-elva-handgranater-bredvid-flickvannen-doms-till-fangelse",
+          "published": "Sun, 28 Sep 2025 08:46:28 +0200",
+          "description": "En obetald tågresa ledde till en husrannsakan där polisen hittade elva handgranater och tre pistoler på soffan. Nu döms en man i 30-årsåldern vid Malmö tingsrätt för flera grova brott."
+        },
         {
           "title": "”Magiska svampar” testas mot anorexi i Lund",
           "link": "https://www.svt.se/nyheter/lokalt/skane/magiska-svampar-testas-mot-anorexi-i-lund",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/ett-sista-farval-till-malmo-stadion-innan-rivning",
           "published": "Sat, 27 Sep 2025 18:02:37 +0200",
           "description": "Här har SM-guld säkrats, världsrekord slagits och konserter hållits. Men i november påbörjas rivningen av det 67 år gamla Malmö stadion. På lördagen fick Malmöbor tillfälle att se arenan en sista gång."
-        },
-        {
-          "title": "Man gripen – misstänkt mordbrand vid Oljehamnen i Malmö",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/brand-vid-oljehamnen-i-malmo-kraftig-rokutveckling",
-          "published": "Sat, 27 Sep 2025 15:53:53 +0200",
-          "description": "Det brann i en industrifastighet på Hemsögatan vid Oljehamnen i Malmö, med rök som kunde ses på långt håll. Senare greps en man i 65-årsåldern misstänkt för mordbrand."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Flera döda i översvämning i Arizona",
-          "link": "https://www.aftonbladet.se/nyheter/a/4ByKQq/flera-doda-i-oversvamning-i-arizona?utm_medium=rss",
-          "published": "Sun, 28 Sep 2025 05:30:17 GMT",
-          "description": "Fyra personer har omkommit i kraftiga översvämningar i Arizona, bland annat i gruvorter där vatten dragit in och tvingat…"
+          "title": "Även lite alkohol kan öka risken för demens",
+          "link": "https://www.aftonbladet.se/nyheter/a/wgwpzn/aven-lite-alkohol-kan-oka-risken-for-demens?utm_medium=rss",
+          "published": "Sun, 28 Sep 2025 07:57:04 GMT",
+          "description": "Det tycks räcka med att dricka ganska lite alkohol innan risken för demens ökar."
         },
         {
-          "title": "Olyckor vid polisövningar ovanliga",
-          "link": "https://www.aftonbladet.se/nyheter/a/qPGrxz/olyckor-vid-polisovningar-ovanliga?utm_medium=rss",
-          "published": "Sun, 28 Sep 2025 05:27:30 GMT",
-          "description": "Under de senaste tio åren har totalt sex personer omkommit i samband med polis- eller militärövningar i…"
+          "title": "Tyfon på väg mot Vietnam – enorm evakuering",
+          "link": "https://www.aftonbladet.se/nyheter/a/Oow2d3/tyfon-pa-vag-mot-vietnam-enorm-evakuering?utm_medium=rss",
+          "published": "Sun, 28 Sep 2025 07:44:31 GMT",
+          "description": "Över 250 000 människor ska evakueras i Vietnam, där tyfonen Bualoi väntas dra fram under dagen."
         },
         {
-          "title": "Stor polisinsats i Tierp - flera till sjukhus",
-          "link": "https://www.aftonbladet.se/nyheter/a/mPOnxp/stor-polisinsats-i-tierp-flera-till-sjukhus?utm_medium=rss",
-          "published": "Sun, 28 Sep 2025 05:17:12 GMT",
-          "description": "Flera personer för förts till sjukhus efter ett misstänkt grovt brott i Tierp, skriver Upsala Nya Tidning."
+          "title": "Stor vattenläcka – sjukhuset i Kalix i stabsläge",
+          "link": "https://www.aftonbladet.se/nyheter/a/Oow2BE/stor-vattenlacka-sjukhuset-i-kalix-i-stabslage?utm_medium=rss",
+          "published": "Sun, 28 Sep 2025 06:30:18 GMT",
+          "description": "En omfattande vattenläcka har drabbat akutmottagningen vid Kalix sjukhus på söndagsmorgonen."
         }
       ]
     },
@@ -123,6 +123,12 @@
         "amount": 3
       },
       "items": [
+        {
+          "title": "Hundratals drönare mot Ukraina – riksdagsledamot i skyddsbunker",
+          "link": "https://www.expressen.se/nyheter/varlden/hundratals-dronare-mot-ukraina-riksdagsledamot-i-skyddsbunker/",
+          "published": "Sun, 28 Sep 2025 08:19:18 +0200",
+          "description": "Under natten har Ryssland skickat hundratals drönare mot Kiev i en attack som president Zelenskyj kallar för ”barbarisk”.Riksdagsledamoten Erik Ottoson (M) är på plats och har tillbringat sex timmar i ett underjordiskt skyddsrum. – Det har varit en lång natt, säger han till Expressen. "
+        },
         {
           "title": "Jan Guillou om mångmiljonaffären",
           "link": "https://www.expressen.se/nyheter/sverige/jan-guillou-om-mangmiljonaffaren/",
@@ -134,12 +140,6 @@
           "link": "https://www.expressen.se/nyheter/varlden/vandningen-for-erik-torstensson-i-braket-med-natalie-massenet/",
           "published": "Sun, 28 Sep 2025 06:55:03 +0200",
           "description": "Det som kallades ”modevärldens största fejd” är över.Svenska Erik Torstensson stämdes av miljardären Natalie Massenet med hårda anklagelser om svineri och svindleri. Torstensson svarade med en egen, lika hård, stämning.Nu är allting nerlagt, skriver New York Post."
-        },
-        {
-          "title": "Luftrum över Polen stängt – efter ryska attacker i Ukraina",
-          "link": "https://www.expressen.se/nyheter/varlden/luftrum-over-polen-stangt-efter-ryska-attacker-i-ukraina/",
-          "published": "Sun, 28 Sep 2025 07:26:08 +0200",
-          "description": "Luftrummet över sydöstra Polen har stängts efter ryska attacker i Ukraina. Polens markbaserade luftvärns- och radarspaningssystem är aktiverat på högsta beredskapsnivå, skriver polska militären. "
         }
       ]
     }
