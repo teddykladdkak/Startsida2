@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-28T00:59:05.642927Z",
+  "lastUpdated": "2025-09-28T03:02:44.451542Z",
   "feeds": [
     {
       "url": {
@@ -98,6 +98,12 @@
       },
       "items": [
         {
+          "title": "Schimpanser får i sig ”två drinkar” om dagen",
+          "link": "https://www.aftonbladet.se/nyheter/a/o34m1R/schimpanser-far-i-sig-tva-drinkar-om-dagen?utm_medium=rss",
+          "published": "Sun, 28 Sep 2025 02:30:18 GMT",
+          "description": "Människans närmaste släktingar sätter i sig motsvarande två alkoholhaltiga drinkar varje dag."
+        },
+        {
           "title": "FN-sanktioner mot Iran återinförs",
           "link": "https://www.aftonbladet.se/nyheter/a/PpK2PR/fn-sanktioner-mot-iran-aterinfors?utm_medium=rss",
           "published": "Sun, 28 Sep 2025 00:16:09 GMT",
@@ -108,12 +114,6 @@
           "link": "https://www.aftonbladet.se/nyheter/a/xmKpMl/selena-gomez-har-gift-sig?utm_medium=rss",
           "published": "Sat, 27 Sep 2025 23:56:09 GMT",
           "description": "Den amerikanska skådespelaren och sångaren Selena Gomez har gift sig med musikproducenten Benny Blanco."
-        },
-        {
-          "title": "Oregons guvernör: Behövs inte militär",
-          "link": "https://www.aftonbladet.se/nyheter/a/KMd2r7/guvernoren-behovs-inte-militar?utm_medium=rss",
-          "published": "Sat, 27 Sep 2025 23:09:43 GMT",
-          "description": "Oregons guvernör Tina Kotek säger att hon pratat med USA:s president Donald Trump som inte gav några detaljer om den…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
+          "title": "Mördaren Gudmundur Mogensen i Avicii-video",
+          "link": "https://www.expressen.se/nyheter/krim/mordaren-gudmundur-mogensen-i-avicii-video-/",
+          "published": "Sun, 28 Sep 2025 05:00:00 +0200",
+          "description": "Gudmundur Mogensen, 41, har erkänt mordet på en gängmans mamma i Akalla – och misstänks tidigare samma dag ha försökt mörda en annan.Hans livsresa – från tiden då han var huvudkaraktär i en musikvideo av Avicii och välkänd indieprofil i Stockholmskretsar till rättssalen – är lång.  "
+        },
+        {
+          "title": "”Grovt brott” i Tierp",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c529955f-12c6-4e8e-8780-966b595166f0",
+          "published": "Sun, 28 Sep 2025 04:22:09 +0200",
+          "description": "Flera personer skadade "
+        },
+        {
           "title": "Donald Trumps falska påstående om FBI och 6 januari",
           "link": "https://www.expressen.se/nyheter/varlden/donald-trumps-falska-pastaende-om-fbi-och-6-januari/",
           "published": "Sun, 28 Sep 2025 02:21:39 +0200",
           "description": "I ett inlägg på Truth Social påstår Donald Trump att FBI bär skulden till stormningen av Kapitolium den 6 januari 2021.I inlägget skriver han att FBI skickat in 274 agenter i folksamlingen innan oroligheterna – och att de ”troligen” agerade som provokatörer.Påståendet är inte sant."
-        },
-        {
-          "title": "Prins Harrys raseri mot ”källorna”: Vill bara förstöra",
-          "link": "https://www.expressen.se/nyheter/kungligt/prins-harrys-raseri-mot-kallorna-vill-bara-forstora/",
-          "published": "Sun, 28 Sep 2025 02:16:28 +0200",
-          "description": "Prins Harry slår tillbaka mot uppgifterna om hans senaste möte med sin pappa.Samtalet var inte alls kallt och opersonligt.– Källorna vill sabotera en försoning, säger en talesperson för prinsen. "
-        },
-        {
-          "title": "Allvarlig trafikolycka i Bollnäs – bil har fattat eld",
-          "link": "https://www.expressen.se/nyheter/sverige/allvarlig-trafikolycka-i-bollnas-bil-har-fattat-eld/",
-          "published": "Sat, 27 Sep 2025 23:18:55 +0200",
-          "description": "Räddningstjänsten har larmats till en flerbilskrock i Bollnäs.Totalt ska åtta personer vara inblandade – varav två kvinnor är kritiskt skadade.– Det är en mycket allvarlig olycka, säger Jimmy Andersson Taylor vid räddningstjänsten."
         }
       ]
     }
