@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-28T18:14:11.326961Z",
+  "lastUpdated": "2025-09-28T20:11:47.273317Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "VHS-band och Pokémonkort kan vara värda tusentals kronor",
+          "link": "https://www.svt.se/nyheter/ekonomi/vhs-band-och-pokemonkort-kan-vara-varda-tusentals-kronor",
+          "published": "Sun, 28 Sep 2025 20:24:43 +0200",
+          "description": "Popkulturella investeringar kan löna sig. Vissa Pokémonkort har till exempel slagit Stockholmsbörsen med tusentals procent. – Där kan vi snacka om extrem värdeutveckling. Många av korten från 90-talet kostar flera hundratusen och ett par kort har gått för många miljoner, säger Fredrik Strage till Ekonomibyrån."
+        },
+        {
           "title": "Man död efter drunkningsolycka i Vetlanda",
           "link": "https://www.svt.se/nyheter/lokalt/jonkoping/man-dod-efter-drunkningsolycka-i-vetlanda",
           "published": "Sun, 28 Sep 2025 19:39:02 +0200",
@@ -43,19 +49,13 @@
           "title": "Flera skjutna i mormonkyrka i Michigan, USA – byggnaden brinner",
           "link": "https://www.svt.se/nyheter/utrikes/flera-skjutna-vid-mormonkyrka-i-usa-byggnaden-brinner",
           "published": "Sun, 28 Sep 2025 17:50:26 +0200",
-          "description": "Minst en person har dödats och nio skadats i en skjutning i en mormonkyrka i Michigan i USA, uppger polisen. I samband med skjutningen startades en brand och polisen befarar att antalet offer kan komma att stiga. Enligt en källa till CNN ska flera av de skadade vara barn."
+          "description": "Minst två personer har dödats och åtta skadats i en skjutning i en mormonkyrka i Michigan, USA, uppger polisen. Enligt en källa till CNN ska flera av de skadade vara barn. I samband med skjutningen startades en brand och polisen befarar att antalet offer kan komma att stiga."
         },
         {
           "title": "Svensk flicka som försvann i båtolycka i Norge har hittats död",
           "link": "https://www.svt.se/nyheter/utrikes/svensk-flicka-som-forsvann-i-batolycka-i-norge-har-hittats-dod",
           "published": "Sun, 28 Sep 2025 17:19:02 +0200",
           "description": "Den 11-åriga svenska flickan som försvann i samband med en båtolycka i Lofoten har hittats död, meddelar norsk polis."
-        },
-        {
-          "title": "Mjällby allt närmare guldet – vann trots rött kort",
-          "link": "https://www.svt.se/sport/fotboll/mjallby-allt-narmare-guldet-vann-trots-rott-kort",
-          "published": "Sun, 28 Sep 2025 15:58:10 +0200",
-          "description": "Det börjar nog planeras för guldfirande i Blekinge. Borta mot BP tog Mjällby nämligen tre nya poäng – nu kan laget säkra guldet i nästa omgång. – Det är inte många andra som hade klarat det, säger Mjällbymålvakten Noel Törnqvist till SVT Sport."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Nyheter från dagen: 28 september",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-28-september-ec1b4x",
+          "published": "Sun, 28 Sep 2025 20:22:31 +0200",
+          "description": "Detta har hänt i Skåne söndagen den 28 september."
+        },
         {
           "title": "Demonstranternas krav: Fred innan Thailand får Jas Gripen-plan",
           "link": "https://www.svt.se/nyheter/lokalt/skane/demonstranternas-krav-fred-innan-thailand-far-jas-gripen-plan",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/magiska-svampar-testas-mot-anorexi-i-lund",
           "published": "Sun, 28 Sep 2025 05:30:09 +0200",
           "description": "I en världsunik studie på Lunds universitet ska forskare testa om psykedeliska läkemedel, så kallade magiska svampar, kan gynna patienter med anorexi. Förhoppningen är att det hallucinogena preparatet ska hjälpa till att bryta rigida tankemönster."
-        },
-        {
-          "title": "Nyheter från dagen: 27 september",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-27-september-hhz90y",
-          "published": "Sat, 27 Sep 2025 19:30:29 +0200",
-          "description": "Detta har hänt i Skåne lördagen den 27 september."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Fängslad amerikan släppt av talibanerna",
-          "link": "https://www.aftonbladet.se/nyheter/a/kw2GrB/fangslad-amerikan-slappt-av-talibanerna?utm_medium=rss",
-          "published": "Sun, 28 Sep 2025 17:52:13 GMT",
-          "description": "En amerikansk medborgare som suttit fängslad i Afghanistan har släppts av talibanerna."
+          "title": "Tomma ledningar efter rysk ockupation: ”Folk kommer döda för vatten”",
+          "link": "https://www.aftonbladet.se/nyheter/a/73b14B/katastrofal-situation-i-ryskockuperade-donetsk-far-vatten-var-tredje-dag?utm_medium=rss",
+          "published": "Sun, 28 Sep 2025 19:27:33 GMT",
+          "description": "Ryskockuperade Donetsk har drabbats av akut dricksvattenbrist. Orsaken: år av misskötsel och krig."
         },
         {
-          "title": "Man död i drunkningsolycka i Vetlanda",
-          "link": "https://www.aftonbladet.se/nyheter/a/OowB9E/man-dod-i-drunkningsolycka-i-vetlanda?utm_medium=rss",
-          "published": "Sun, 28 Sep 2025 17:51:47 GMT",
-          "description": "En man i 70-årsåldern har omkommit i en drunkningsolycka i Vetlanda, rapporterar P4 Jönköping."
+          "title": "Över 66 000 dödade i Gaza",
+          "link": "https://www.aftonbladet.se/nyheter/a/4Byg2o/over-66000-dodade-i-gaza?utm_medium=rss",
+          "published": "Sun, 28 Sep 2025 19:21:58 GMT",
+          "description": "Antalet palestinier som dödats av Israels attacker i Gaza är nu uppe totalt i 66 005 sedan Hamas terrorattack den 7…"
         },
         {
-          "title": "Utdragen väntan väntas i Moldavienval",
-          "link": "https://www.aftonbladet.se/nyheter/a/OowBBO/utdragen-vantan-vantas-i-moldavienval?utm_medium=rss",
-          "published": "Sun, 28 Sep 2025 17:08:05 GMT",
-          "description": "Över en miljon röstberättigade i Moldavien har lagt sina röster i parlamentsvalet, men väntan på slutresultat kan dra ut…"
+          "title": "Unga smala kvinnor syns mest i reklamen",
+          "link": "https://www.aftonbladet.se/nyheter/a/vg01BL/unga-smala-kvinnor-syns-mest-i-reklamen?utm_medium=rss",
+          "published": "Sun, 28 Sep 2025 18:42:12 GMT",
+          "description": "I reklamens värld dominerar kvinnan. Åtminstone hon som är ung och smal, enligt en ny undersökning."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Krögare fick ställa in torgfest – efter dom om otillåten dans",
-          "link": "https://www.expressen.se/nyheter/sverige/krogare-fick-stalla-in-torgfest-efter-dom-om-otillaten-dans/",
-          "published": "Sun, 28 Sep 2025 20:11:32 +0200",
-          "description": "När krögaren Torbjörn Jonsson inte beviljades alkoholtillstånd fick han skrota sin planerade oktoberfest.Orsaken är en gammal dom – om otillåten dans.Krögaren kritiserar nu danslagen, och i veckan har frågan väckt uppmärksamhet långt utanför Karlskrona."
+          "title": "Explosion",
+          "link": "https://www.expressen.se/nyheter/sverige/explosion-69wkk/",
+          "published": "Sun, 28 Sep 2025 22:10:36 +0200",
+          "description": "Polisen på plats"
         },
         {
-          "title": "Strul med nätet",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d1c7a056-17b9-4ac6-878d-f41ca98a1607",
-          "published": "Sun, 28 Sep 2025 19:47:32 +0200",
-          "description": "Störningar hos stora operatörerna"
+          "title": "Bil körde in i vägarbete",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ce79bcd6-9634-43ed-8caa-0d7deb4534be",
+          "published": "Sun, 28 Sep 2025 21:50:36 +0200",
+          "description": "Olycka på E4"
         },
         {
-          "title": "Här lämnar försvaret Expressen på berget",
-          "link": "https://www.expressen.se/tv/nyheter/har-lamnar-forsvaret-expressen-pa-berget",
-          "published": "Sun, 28 Sep 2025 19:34:40 +0200",
-          "description": "Expressen testar militärens superhelikopter • ”Coolaste jag gjort”"
+          "title": "Felicias chock: Fick inte returnera kläder från Booztlet",
+          "link": "https://www.expressen.se/ekonomi/privatekonomi/felicias-chock-fick-inte-returnera-klader-fran-booztlet/",
+          "published": "Sun, 28 Sep 2025 21:36:08 +0200",
+          "description": "När Felicia, 33, skulle skicka tillbaka sina jeans fick hon en obehaglig överraskning:Booztlet godkände inte returen.– Jag har aldrig varit med om något sådant förut, säger Felicia.Nu vill hon varna andra."
         }
       ]
     }
