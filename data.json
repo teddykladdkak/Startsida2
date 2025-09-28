@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-28T08:13:12.887854Z",
+  "lastUpdated": "2025-09-28T10:10:48.357684Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,24 @@
       },
       "items": [
         {
+          "title": "Nya drönare observerade över Danmark",
+          "link": "https://www.svt.se/nyheter/utrikes/nya-dronare-observerade-over-danmark",
+          "published": "Sun, 28 Sep 2025 11:51:46 +0200",
+          "description": "Drönare har observerats vid flera danska försvarsanläggningar under natten, bekräftar det danska försvaret i ett kort pressmeddelande."
+        },
+        {
+          "title": "Svensk flicka förmodas omkommit i båtolycka – norsk polis inleder nytt sökande",
+          "link": "https://www.svt.se/nyheter/utrikes/svensk-flicka-formodas-omkommit-i-batolycka-norsk-polis-inleder-nytt-sokande",
+          "published": "Sun, 28 Sep 2025 10:52:08 +0200",
+          "description": "Polisen i Norge avbröt räddningsinsatsen efter båtolyckan i Lofoten på lördagen. Den svenska flickan som fortfarande saknas förmodas vara död. Nu meddelar polisen att man kommer göra en ny sökinsats under söndagen."
+        },
+        {
+          "title": "Verifieringshjälpen granskar ”bildbeviset” från Ölandsbron",
+          "link": "https://www.svt.se/nyheter/inrikes/verifieringshjalpen-granskar-bildbeviset-fran-olandsbron",
+          "published": "Sun, 28 Sep 2025 10:33:55 +0200",
+          "description": "På ett gammalt svartvitt foto, som cirkulerat på nätet i decennier, ser det ut som att två stridsflyg passerar under Ölandsbron. Men har det verkligen hänt? Det undrade Annette Json Pihl i Älmhult som skickade in tipset till Verifieringshjälpen. Följ med på vår resa genom Sverige där vi söker svar om det spektakulära fotot."
+        },
+        {
           "title": "Förvarade elva handgranater bredvid flickvännen – döms till fängelse",
           "link": "https://www.svt.se/nyheter/lokalt/skane/forvarade-elva-handgranater-bredvid-flickvannen-doms-till-fangelse",
           "published": "Sun, 28 Sep 2025 08:46:28 +0200",
@@ -38,24 +56,6 @@
           "link": "https://www.svt.se/sport/friidrott/har-dyker-vanessa-kamga-upp-och-lar-alpina-landslaget-kasta-diskus",
           "published": "Sun, 28 Sep 2025 08:22:02 +0200",
           "description": "För två veckor sedan kom hon fyra på friidrotts-VM. Men under lördagen dök Vanessa Kamga upp på Bosön utanför Stockholm – och lärde det alpina landslaget att kasta diskus. – Jag är fortfarande jetlaggad från VM i Tokyo, säger Kamga när hon dyker upp."
-        },
-        {
-          "title": "Moldaviens vägval: EU eller rysk gråzon: ”Viktigast att bryta sig loss från ryssarna”",
-          "link": "https://www.svt.se/nyheter/utrikes/moldaviens-vagval-eu-eller-rysk-grazon-viktigast-att-bryta-sig-loss-fran-ryssarna",
-          "published": "Sun, 28 Sep 2025 08:10:51 +0200",
-          "description": "Rysslands invasionskrig i Ukraina öppnade ett snabbspår också för Moldavien att förhandla om medlemskap i EU. Men redan i valet idag kan allt stoppas, ifall de pro-ryska partierna vinner. – För mig är det viktigaste att bryta oss loss från ryssarna. Det kommer först, säger Valeriu Butnaru, boende vid gränsen till EU."
-        },
-        {
-          "title": "Moldavien går till val – EU-frågan splittrar landet",
-          "link": "https://www.svt.se/nyheter/utrikes/moldavien-gar-till-val-eu-fragan-splittrar-landet",
-          "published": "Sun, 28 Sep 2025 08:10:01 +0200",
-          "description": "På söndagsmorgonen öppnade Moldaviens vallokaler. Valkampanjen i landet har präglats av anklagelser om rysk inblandning – och EU-frågan väntas vara avgörande i det stundande parlamentsvalet."
-        },
-        {
-          "title": "Nu släpps nya elpriset – el kan köpas per kvart",
-          "link": "https://www.svt.se/nyheter/ekonomi/nu-slapps-nya-elpriset-el-kan-kopas-per-kvart",
-          "published": "Sun, 28 Sep 2025 07:20:20 +0200",
-          "description": "Från 1 oktober kan du köpa el per kvart, inte bara per timme som nu. Kanske ingen jätterevolution, men för elnörden finns pengar att spara. – Med ett automatiserat system kan man se till att elbilsladdningen sker när det är som billigast, säger elanalytiker Christian Holtz."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Även lite alkohol kan öka risken för demens",
-          "link": "https://www.aftonbladet.se/nyheter/a/wgwpzn/aven-lite-alkohol-kan-oka-risken-for-demens?utm_medium=rss",
-          "published": "Sun, 28 Sep 2025 07:57:04 GMT",
-          "description": "Det tycks räcka med att dricka ganska lite alkohol innan risken för demens ökar."
+          "title": "Nya drönarlarm vid danska försvarsanläggningar",
+          "link": "https://www.aftonbladet.se/nyheter/a/Jbk2mX/tyskland-hjalper-danmark-med-dronarforsvar?utm_medium=rss",
+          "published": "Sun, 28 Sep 2025 09:03:10 GMT",
+          "description": "Under natten har drönare observerats vid flera av det danska försvarets anläggningar, meddelar försvarsmakten."
         },
         {
-          "title": "Tyfon på väg mot Vietnam – enorm evakuering",
-          "link": "https://www.aftonbladet.se/nyheter/a/Oow2d3/tyfon-pa-vag-mot-vietnam-enorm-evakuering?utm_medium=rss",
-          "published": "Sun, 28 Sep 2025 07:44:31 GMT",
-          "description": "Över 250 000 människor ska evakueras i Vietnam, där tyfonen Bualoi väntas dra fram under dagen."
+          "title": "83 kriminalvårdare som åkt fast – och straffats",
+          "link": "https://www.aftonbladet.se/nyheter/a/rPoGme/lista-83-kriminalvardare-som-akt-fast-och-straffats?utm_medium=rss",
+          "published": "Sun, 28 Sep 2025 09:01:54 GMT",
+          "description": "PLUS Våld, slarv, sex, narkotika, fusk och fel. Antalet fall med kriminalvårdare som missköter sig ökar kraftigt."
         },
         {
-          "title": "Stor vattenläcka – sjukhuset i Kalix i stabsläge",
-          "link": "https://www.aftonbladet.se/nyheter/a/Oow2BE/stor-vattenlacka-sjukhuset-i-kalix-i-stabslage?utm_medium=rss",
-          "published": "Sun, 28 Sep 2025 06:30:18 GMT",
-          "description": "En omfattande vattenläcka har drabbat akutmottagningen vid Kalix sjukhus på söndagsmorgonen."
+          "title": "Ödesval väntar i Moldavien",
+          "link": "https://www.aftonbladet.se/nyheter/a/QMQWEW/massivt-forsok-fran-ryssland-attpaverka-valet-i-moldavien?utm_medium=rss",
+          "published": "Sun, 28 Sep 2025 08:13:54 GMT",
+          "description": "I dag är det val i Moldavien, men betydligt mer än platser i parlamentet står på spel."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Hundratals drönare mot Ukraina – riksdagsledamot i skyddsbunker",
-          "link": "https://www.expressen.se/nyheter/varlden/hundratals-dronare-mot-ukraina-riksdagsledamot-i-skyddsbunker/",
-          "published": "Sun, 28 Sep 2025 08:19:18 +0200",
-          "description": "Under natten har Ryssland skickat hundratals drönare mot Kiev i en attack som president Zelenskyj kallar för ”barbarisk”.Riksdagsledamoten Erik Ottoson (M) är på plats och har tillbringat sex timmar i ett underjordiskt skyddsrum. – Det har varit en lång natt, säger han till Expressen. "
+          "title": "Nya drönarlarm",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=789c41ac-90e7-49c3-ae8d-98c48ff93495",
+          "published": "Sun, 28 Sep 2025 11:57:57 +0200",
+          "description": "Över danska försvarsanläggningar "
         },
         {
-          "title": "Jan Guillou om mångmiljonaffären",
-          "link": "https://www.expressen.se/nyheter/sverige/jan-guillou-om-mangmiljonaffaren/",
-          "published": "Sun, 28 Sep 2025 07:56:40 +0200",
-          "description": "Jan Guillou har sålt av en majoritetsdel av Piratförlaget, bokförlaget han grundat tillsammans med hustrun Ann-Marie Skarp. Anledningen: – Vi har olämpliga arvingar, säger Guillou. "
+          "title": "Prins Alexander går i pappas spår – tävlar i gokart",
+          "link": "https://www.expressen.se/nyheter/kungligt/prins-alexander-gar-i-pappas-spar-tavlar-i-gokart-/",
+          "published": "Sun, 28 Sep 2025 11:36:29 +0200",
+          "description": "Här är den senaste i raden av Kungahusets många generationer motorprinsar. Under söndagen tävlade prins Alexander, 9, i gokart – i pappa Carl Philips egen tävling. "
         },
         {
-          "title": "Vändningen för Erik Torstensson – i bråket med Natalie Massenet",
-          "link": "https://www.expressen.se/nyheter/varlden/vandningen-for-erik-torstensson-i-braket-med-natalie-massenet/",
-          "published": "Sun, 28 Sep 2025 06:55:03 +0200",
-          "description": "Det som kallades ”modevärldens största fejd” är över.Svenska Erik Torstensson stämdes av miljardären Natalie Massenet med hårda anklagelser om svineri och svindleri. Torstensson svarade med en egen, lika hård, stämning.Nu är allting nerlagt, skriver New York Post."
+          "title": "Fiskeridirektören som  mördade sin mäklare",
+          "link": "https://www.expressen.se/podcast/krimrummet/fiskeridirektoren-som--mordade-sin-maklare/",
+          "published": "Sun, 28 Sep 2025 10:38:37 +0200",
+          "description": "Fiskeridirektören Olof Lessmark, 75, gick i pension och sålde sitt hus. Men han ångrade sig och åkte hem till husmäklaren med ett gevär.Nu avtjänar han ett 16-årigt fängelsestraff för mord på Skogomeanstalten i Göteborg. I ”Krimrummet i fängelse” berättar han för Expressens reporter Niklas Svensson.– Livet är slut. Så är det bara. Lyssna på avsnittet ”Fiskeridirektören som mördade sin mäklare” här nedan, exklusivt för dig med Premium."
         }
       ]
     }
