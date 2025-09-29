@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-29T14:12:31.385013Z",
+  "lastUpdated": "2025-09-29T16:12:24.173992Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,18 @@
       },
       "items": [
         {
+          "title": "Två personer hittade döda i bostad på Värmdö",
+          "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-personer-hittade-doda-i-bostad-pa-varmdo",
+          "published": "Mon, 29 Sep 2025 18:05:42 +0200",
+          "description": "Två äldre personer har hittats döda i en bostad i Gustavsberg på Värmdö. – I nuläget kan vi inte utesluta brott. Personerna ska obduceras för att vi ska få reda på dödsorsaken, säger Nadya Norton på polisen."
+        },
+        {
+          "title": "Jimmy Åhlvik korsade Vänern på rekordtid: ”Jag älskar när det går fort”",
+          "link": "https://www.svt.se/nyheter/lokalt/varmland/jimmy-ahlvik-korsade-vanern-pa-rekordtid-jag-alskar-nar-det-gar-fort",
+          "published": "Mon, 29 Sep 2025 17:29:36 +0200",
+          "description": "Med en snitthastighet på 81 knop så slog Jimmy Åhlvik från Kristinehamn med besättning i helgen det inofficiella hastighetsrekordet i att korsa Vänern – från Vänersborg till Kristinehamn. – Det är jättekul, säger han."
+        },
+        {
           "title": "Efter drönarkaoset – ökad medvetenhet på flygplatserna",
           "link": "https://www.svt.se/nyheter/lokalt/ost/efter-dronarkaoset-okad-medvetenhet-pa-flygplatserna",
           "published": "Mon, 29 Sep 2025 15:45:23 +0200",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/varmland/johan-kristofferssons-nya-satsning-klar-chans-pa-en-ny-vm-titel",
           "published": "Mon, 29 Sep 2025 15:03:57 +0200",
           "description": "Johan Kristoffersson och Mikaela Åhlin Kottulinsky är klara för en ny världsunik motorsportsatsning – Extreme H. Racingbilar som drivs av vätgas. I dag presenterades teamet. Om ett par veckor delas VM-titeln ut. – Det blir speciellt. Jag har inte kört en meter med bilen, säger Johan Kristoffersson till SVT Nyheter Värmland."
-        },
-        {
-          "title": "Nytt system lokaliserade drönarpilot vid Sundsvall-Timrå flygplats",
-          "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/nytt-system-lokaliserade-dronarpilot-vid-sundsvall-timra-flygplats",
-          "published": "Mon, 29 Sep 2025 15:03:04 +0200",
-          "description": "Allt som är i vägen i luften är potentiellt farligt menar Frank Olofsson, flygplatschef i Sundsvall-Timrå. Därför har man varit den första civila flygplatsen i Sverige att införa ett nytt övervakningssystem för att upptäcka drönare. – Vi har en situation som är ganska pressad i samhället just nu, säger Frank Olofsson."
-        },
-        {
-          "title": "Mikroaggressioner och egen osäkerhet kan orsaka en språkspärr",
-          "link": "https://www.svt.se/nyheter/uutiset/svenska/mikroaggressioner-och-egen-osakerhet-kan-orsaka-en-spraksparr",
-          "published": "Mon, 29 Sep 2025 14:36:28 +0200",
-          "description": "En språkspärr hindrar människor från att tala sitt modersmål. Språkspärren orsakas av talarens egna osäkerhet och upprepade negativa reaktioner från omgivningen."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "”Blixtinköpet” av drönarskydd har dröjt – i månader",
-          "link": "https://www.aftonbladet.se/nyheter/a/25Ebzx/blixtinkopet-av-dronarskydd-har-drojt-i-manader?utm_medium=rss",
-          "published": "Mon, 29 Sep 2025 13:51:51 GMT",
-          "description": "Redan i juni begärde Försvarsmakten att snabbt få köpa nya system för att möta drönarhotet."
+          "title": "Landsomfattande telekomproblem i Afghanistan",
+          "link": "https://www.aftonbladet.se/nyheter/a/Gy4A8Q/landsomfattande-telekomproblem-i-afghanistan?utm_medium=rss",
+          "published": "Mon, 29 Sep 2025 16:08:13 GMT",
+          "description": "Rapporter om omfattande problem med telekommunikationer och kabelöverförd kommunikation rapporteras från stora delar av…"
         },
         {
-          "title": "Misstänkt mord i Bengtsfors – två anhållna",
-          "link": "https://www.aftonbladet.se/nyheter/a/935AEr/misstankt-mord-i-bengtsfors-tva-anhallna?utm_medium=rss",
-          "published": "Mon, 29 Sep 2025 13:26:28 GMT",
-          "description": "Två personer har anhållits misstänkta för mord på en man som hittats död i Bengtsfors kommun, uppger polisen."
+          "title": "Lina, 24, dog i bilolyckan utanför Bollnäs: ” Var full av liv”",
+          "link": "https://www.aftonbladet.se/nyheter/a/8qeAGA/lina-jonhansas-24-fran-jarvso-dog-i-bilolyckan-utanfor-bollnas?utm_medium=rss",
+          "published": "Mon, 29 Sep 2025 16:02:49 GMT",
+          "description": "Lina Jonhansas, 24, dog i en svår bilolycka utanför Bollnäs i lördags."
         },
         {
-          "title": "Polisen stoppar distraktionsgranater efter olycka",
-          "link": "https://www.aftonbladet.se/nyheter/a/0VPAn6/polisen-stoppar-distraktionsgranater?utm_medium=rss",
-          "published": "Mon, 29 Sep 2025 13:12:55 GMT",
-          "description": "Polisen pausar användandet av distraktionsgranater efter förra veckans dödsolycka vid en övning för polisanställda…"
+          "title": "64-årig man mördad i Husby – rättegång inledd",
+          "link": "https://www.aftonbladet.se/nyheter/a/Gy4bkm/atalas-for-mord-pa-rawa-majids-slakting-skot-mot-polis?utm_medium=rss",
+          "published": "Mon, 29 Sep 2025 15:48:36 GMT",
+          "description": "En 34-årig man står åtalad för att ha mördat Rawa Majids 64-åriga släkting i Husby."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Statsministerns pik mot S-kravet: ”Lite sent ute”",
-          "link": "https://www.expressen.se/nyheter/politik/statsministerns-pik-mot-s-kravet-lite-sent-ute/",
-          "published": "Mon, 29 Sep 2025 15:36:45 +0200",
-          "description": "Socialdemokraterna kräver att regeringen tar ledartröjan i bygget av EU:s drönarmur mot Ryssland.Statsminister Ulf Kristersson tycker att kravet är senkommet.– Om man kommer på det nu är man lite sent ute, säger han."
+          "title": "Test: Iphone Air – en lyxig telefon med oklar målgrupp",
+          "link": "https://www.expressen.se/ekonomi/tech/test-iphone-air-en-lyxig-telefon-med-oklar-malgrupp/",
+          "published": "Mon, 29 Sep 2025 18:02:52 +0200",
+          "description": "Den är galet tunn och den känns lyxigare än alla sina syskon. Men en sämre kamera och ett klenare batteri kan vara en dealbreaker för många.  ✓ Alla kompromisserna.✓ Så står den sig mot Iphone 17.✓ Så står den sig mot Pro-modellerna."
         },
         {
-          "title": "Två anhållna för misstänkt mord i Bengtsfors",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7d60622c-d364-43dc-b640-c3d3ad80182a",
-          "published": "Mon, 29 Sep 2025 15:33:32 +0200",
-          "description": "Misstänkt mord i Bengtsfors i helgen"
+          "title": "Två döda i Gustavsberg",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9db8ce24-cb96-4587-b015-341f1000a43a",
+          "published": "Mon, 29 Sep 2025 17:58:54 +0200",
+          "description": "Polisen utreder mord i Gustavsberg"
         },
         {
-          "title": "Svenska Ebba Torstensson, 11, dog i båtolyckan i Lofoten",
-          "link": "https://www.expressen.se/nyheter/sverige/svenska-ebba-torstensson-11-dog-i-batolyckan-i-lofoten/",
-          "published": "Mon, 29 Sep 2025 14:37:08 +0200",
-          "description": "Svenska Ebba Torstensson, 11, dog i båtolyckan i Lofoten.Hon hittades på söndagen efter att ha varit försvunnen i närmare två dygn."
+          "title": "Klassiska pralinerna försvinner från Alladin-asken",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d81aacb7-0902-48da-a1df-52b5175589bd",
+          "published": "Mon, 29 Sep 2025 17:31:54 +0200",
+          "description": "Klassiska pralinerna försvinner"
         }
       ]
     }
