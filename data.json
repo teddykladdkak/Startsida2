@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-29T18:17:39.071414Z",
+  "lastUpdated": "2025-09-29T20:12:23.427629Z",
   "feeds": [
     {
       "url": {
@@ -66,6 +66,18 @@
       },
       "items": [
         {
+          "title": "Imam i Skåne predikade om hur män ska slå sina fruar",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/imam-predikade-om-hur-man-ska-sla-sina-fruar",
+          "published": "Mon, 29 Sep 2025 21:22:18 +0200",
+          "description": "– Förmana dem, undvik dem i sängen och slå dem. Så sade en imam under en predikan i en moské i Skåne i somras, rapporterar Expressen."
+        },
+        {
+          "title": "Nyheter från dagen: 29 september",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-29-september-wzv38q",
+          "published": "Mon, 29 Sep 2025 20:43:19 +0200",
+          "description": "Detta har hänt i Skåne måndagen den 29 september."
+        },
+        {
           "title": "Åtal: Flickor sexuellt utnyttjade via Snapchat",
           "link": "https://www.svt.se/nyheter/lokalt/skane/atal-flickor-sexuellt-utnyttjade-via-snapchat",
           "published": "Mon, 29 Sep 2025 14:12:13 +0200",
@@ -76,18 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/beckmorkt-i-kavlinge-nar-kommunen-ovar-for-kris",
           "published": "Mon, 29 Sep 2025 13:18:34 +0200",
           "description": "Plötsligt blir allt mörkt i restaurangen Billingshäll som tillreder mat till Kävlinges kommunala äldreomsorg. Under beredskapsveckan får kökspersonalen oväntat testa på att klara uppgiften utan el."
-        },
-        {
-          "title": "Larmet från Fosieanstalten: Personal vittnar om tystnadskultur och otillåtna relationer",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/larmet-fran-fosieanstalten-personal-vittnar-om-tystnadskultur-och-otillatna-relationer",
-          "published": "Mon, 29 Sep 2025 05:30:07 +0200",
-          "description": "Personal på Fosieanstalten vittnar om dålig behandling från chefer och tystnadskultur i en ny undersökning från fackförbundet ST. Kriminalvårdschefen menar att de flesta ändå är nöjda."
-        },
-        {
-          "title": "Nyheter från dagen: 28 september",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-28-september-ec1b4x",
-          "published": "Sun, 28 Sep 2025 20:22:31 +0200",
-          "description": "Detta har hänt i Skåne söndagen den 28 september."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
+          "title": "83 kriminalvårdare som åkt fast – och straffats",
+          "link": "https://www.aftonbladet.se/nyheter/a/rPoGme/lista-83-kriminalvardare-som-akt-fast-och-straffats?utm_medium=rss",
+          "published": "Mon, 29 Sep 2025 19:55:00 GMT",
+          "description": "PLUS Våld, slarv, sex, narkotika, fusk och fel. Antalet fall med kriminalvårdare som missköter sig ökar kraftigt."
+        },
+        {
+          "title": "Så rundas sanktionerna – genom andra länder",
+          "link": "https://www.aftonbladet.se/nyheter/a/gwooAk/trots-sanktionerna-sa-hittar-kullager-fran-skf-till-putins-hander?utm_medium=rss",
+          "published": "Mon, 29 Sep 2025 19:51:31 GMT",
+          "description": "Trots sanktionerna importeras dagligen SKF-produkter till Ryssland, enligt tulldata Aftonbladet tagit del av."
+        },
+        {
           "title": "Israelisk ursäkt till Qatar – sågas av Smotrich",
           "link": "https://www.aftonbladet.se/nyheter/a/wgwjBL/israelisk-ursakt-till-qatar-sagas-av-smotrich?utm_medium=rss",
           "published": "Mon, 29 Sep 2025 18:08:26 GMT",
-          "description": "Israels premiärminister Benjamin Netanyahu har bett om ursäkt till Qatar för attacken mot landet tidigare i…"
-        },
-        {
-          "title": "Familjen lever i skräck för gänget: ”Sover inte”",
-          "link": "https://www.aftonbladet.se/nyheter/a/vg06pj/familjen-lever-i-skrack-for-ganget-en-standig-oro?utm_medium=rss",
-          "published": "Mon, 29 Sep 2025 17:48:21 GMT",
-          "description": "PLUS Mitt på Värnhemstorget i Malmö örfilas Leo, 17 – han ska tvingas att begå mord, misstänker polisen."
-        },
-        {
-          "title": "Krav inför nya flytten – ”Kiruna fick ta risken”",
-          "link": "https://www.aftonbladet.se/nyheter/a/JbkA56/krav-infor-nya-flytten-kiruna-fick-ta-risken?utm_medium=rss",
-          "published": "Mon, 29 Sep 2025 17:43:40 GMT",
-          "description": "”Gränsen för vad en liten kommun kan belastas med har redan passerats”, skriver Kiruna kommunfullmäktige och riktar en…"
+          "description": "Israels premiärminister Benjamin Netanyahu har bett om ursäkt till Qatar för attacken mot landets huvudstad tidigare i…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Två döda i Gustavsberg – mordutredning inledd",
-          "link": "https://www.expressen.se/nyheter/sverige/tva-doda-i-gustavsberg-mordutredning-inledd/",
-          "published": "Mon, 29 Sep 2025 18:47:54 +0200",
-          "description": "Polisen har inlett en mordutredning efter att två personer hittats döda under oklara omständigheter i en bostad i Gustavsberg.– Väldigt obehagligt, säger Anders Rydén, boende i området, om det misstänkta dubbelmordet."
+          "title": "Regeringen inför samordningsfunktion för vissa brottsoffer",
+          "link": "https://www.expressen.se/nyheter/sverige/regeringen-infor-samordningsfunktion-for-vissa-brottsoffer-/",
+          "published": "Mon, 29 Sep 2025 22:03:00 +0200",
+          "description": "Två och ett halvt år har gått sedan familjen fick sitt radhus i Hässelby förstört av en kraftig explosion. De har precis avslutat en civilrättslig process som slutade i förlikning. – Man har behövt kämpa för exakt allt själv, säger pappan i familjen. Regeringen inrättar nu en särskild funktion för att stödja brottsoffer som exempelvis har fått sina hem förstört i ett sprängdåd. "
         },
         {
-          "title": "Svensk imam i Kristianstad i predikan: Så ska du slå din fru",
-          "link": "https://www.expressen.se/nyheter/sverige/svensk-imam-i-kristianstad-i-predikan-sa-ska-du-sla-din-fru/",
-          "published": "Mon, 29 Sep 2025 18:15:14 +0200",
-          "description": "Inför en fullsatt moské i Skåne beskriver imamen hur och när mannen ska ha rätt att slå sin fru.Tipset till kvinnorna som blir slagna: ”Var tålmodig, ty din make är antingen ditt paradis eller din eld”.I efterhand menar imamen Saleh Abouelenen att hans ord är tagna ur sitt sammanhang.– Hustrun är inte något som man ska utöva makt över. Tvärtom. Kvinnan är en mor, hustru, dotter och syster."
+          "title": "EU:s problem: 96 km stort hål i ”drönarmuren”",
+          "link": "https://www.expressen.se/nyheter/varlden/eus-problem-96-km-stort-hal-i-dronarmuren/",
+          "published": "Mon, 29 Sep 2025 21:41:47 +0200",
+          "description": "EU vill införa en ”drönarmur” längs med alliansens östra gräns.Men det finns ett 96 kilometer långt hål i väggen: Ungern.– Utan Ungern skulle EU:s drönarmur i praktiken vara en Maginotlinje i skyn, säger försvarsexperten Jessica Berlin till The Telegraph. "
         },
         {
-          "title": "Integrationsministern rasar mot imamen efter predikan om våld i nära relationer",
-          "link": "https://www.expressen.se/nyheter/sverige/integrationsministern-rasar-mot-imamen-efter-predikan-om-vald-i-nara-relationer/",
-          "published": "Mon, 29 Sep 2025 18:15:09 +0200",
-          "description": "En imam i Skåne predikar om mäns rätt att slå sina fruar.Integrationsminister Simona Mohamsson (L) har ett rakt budskap:– Förstår man inte att vi har nolltolerans mot våld i nära relation i Sverige så har man inget i Sverige att göra, säger hon."
+          "title": "Ukrainska toppmilitären: Vi förväntar oss Gripen",
+          "link": "https://www.expressen.se/nyheter/varlden/ukrainska-toppmilitaren-vi-forvantar-oss-gripen/",
+          "published": "Mon, 29 Sep 2025 21:41:32 +0200",
+          "description": "Frågan om att skicka Jas Gripen till Ukraina har legat på is i över ett års tid.Nu säger den ukrainske generalen Ivan Havryljuk att man ”förväntar sig” en leverans i närtid.– När ni ser dem i luften över Ukraina, då vet ni, säger han till ukrainska BBC.Samtidigt uppger svenska försvarsdepartementet att det ”inte finns några nya besked”."
         }
       ]
     }
