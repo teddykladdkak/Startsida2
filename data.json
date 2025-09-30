@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-30T10:12:19.816179Z",
+  "lastUpdated": "2025-09-30T12:23:50.870450Z",
   "feeds": [
     {
       "url": {
@@ -28,34 +28,34 @@
       },
       "items": [
         {
+          "title": "Tornedalingar väntar ännu på regeringens ursäkt",
+          "link": "https://www.svt.se/nyheter/uutiset/svenska/tornedalingar-vantar-annu-pa-regeringens-ursakt",
+          "published": "Tue, 30 Sep 2025 14:11:04 +0200",
+          "description": "Regeringens minoritetspolitik har fått ovanligt hård kritik från minoritetsorganisationer. Tornedalingar, kväner och lantalaiset har väntar nästan två år för regeringens ursäkt för de orättvisor de har upplevt. Sannings- och försoningskommissionen föreslog detta redan i november 2023 när de överlämnade sitt slutbetänkande till kulturminister Parisa Liljestrand."
+        },
+        {
+          "title": "Herman Johansson sätter skräck i motståndarna: ”Vill inte möta honom”",
+          "link": "https://www.svt.se/sport/fotboll/herman-johansson-satter-skrack-i-motstandarna-vill-inte-mota-honom",
+          "published": "Tue, 30 Sep 2025 13:38:27 +0200",
+          "description": "Här är Mjällbystjärnan som motståndarna fruktar. Herman Johansson, 27, har gjort stor succé. – Man vill inte möta honom, säger SVT:s expert Magnus Eriksson i ”Fotbollsstudion”."
+        },
+        {
+          "title": "Ukrainsk man gripen för inblandning i sabotage mot Nord Stream",
+          "link": "https://www.svt.se/nyheter/utrikes/ukrainsk-man-gripen-for-inblandning-i-nord-stream",
+          "published": "Tue, 30 Sep 2025 13:03:11 +0200",
+          "description": "En ukrainsk man har gripits i Polen misstänkt för inblandning i sprängningarna som gjordes på Nord Streams gasledning i Östersjön, rapporterar Reuters."
+        },
+        {
+          "title": "”Trumps fredsplan kan bli en krigsplan”",
+          "link": "https://www.svt.se/nyheter/utrikes/trumps-fredsplan-kan-bli-en-krigsplan",
+          "published": "Tue, 30 Sep 2025 12:35:00 +0200",
+          "description": "Enligt USA:s president Trump måste Hamas acceptera hans fredsplan för Gaza. Om Hamas inte gör det kommer Trump ge sitt fulla stöd till Israel att förgöra Hamas."
+        },
+        {
           "title": "Kravet från Vänsterpartiet: Ministerposter eller röd knapp",
           "link": "https://www.svt.se/nyheter/inrikes/kravet-fran-vansterpartiet-ministerposter-eller-rod-knapp",
           "published": "Tue, 30 Sep 2025 11:52:00 +0200",
           "description": "Vänsterpartiet kommer rösta rött till alla regeringskonstellationer där Vänsterpartiet inte ingår. Det säger V-ledaren Nooshi Dagdogstar. – Om våra mandat krävs för en regeringsbildning så kommer vi sitta med i regering."
-        },
-        {
-          "title": "Kirunapolitiker enade: Här är kravlistan för nya stadsflytten",
-          "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kirunapolitiker-enade-har-ar-kravlistan-for-nya-stadsflytten",
-          "published": "Tue, 30 Sep 2025 11:49:00 +0200",
-          "description": "Kirunapolitikerna visade upp en nästan total enighet för en kravlista som riktas mot staten och LKAB inför den nya stadsflytten. Bland annat förnyas kraven på en centrumnära järnvägsstation."
-        },
-        {
-          "title": "Glada studenter när SL sänker biljettpriserna – men pensionärerna får vänta",
-          "link": "https://www.svt.se/nyheter/lokalt/stockholm/glada-studenter-nar-sl-sanker-biljettpriserna-men-pensionarerna-far-vanta",
-          "published": "Tue, 30 Sep 2025 10:38:28 +0200",
-          "description": "Redan inför valet 2022 lovade Miljöpartiet i Region Stockholm billigare SL-biljetter för studenter och pensionärer. I september sänks priset, men än så länge bara för studenter. – Det här är den enda nyheten jag har idag, säger Jakop Dalunde (MP) trafiknämndens ordförande och blivande trafikregionråd."
-        },
-        {
-          "title": "EU:s klimattjänst Copernicus: Trippel attack mot haven",
-          "link": "https://www.svt.se/nyheter/inrikes/eus-klimattjanst-copernicus-trippel-attack-mot-haven",
-          "published": "Tue, 30 Sep 2025 10:05:22 +0200",
-          "description": "Alla delar av haven är under en trippel attack, enligt EU:s klimattjänst Copernicus stora årliga havsrapport. – De här förändringarna påverkar oss alla – ekosystemen, samhället och ekonomin, säger oceanografen Karina von Schuckmann."
-        },
-        {
-          "title": "Kvinna allvarligt skadad efter älgkrock i Råneå",
-          "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kvinna-allvarligt-skadad-efter-algkrock-i-ranea",
-          "published": "Tue, 30 Sep 2025 10:01:43 +0200",
-          "description": "Sent under måndagen inträffade en viltolycka på E4 i Råneå. En kvinna vårdas på Sunderby sjukhus med allvarliga skador."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Trafikverkets Skåneplan: Mindre buller, mer kapacitet",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/trafikverkets-skaneplan-mindre-buller-mer-kapacitet",
+          "published": "Tue, 30 Sep 2025 13:32:00 +0200",
+          "description": "Trafikverket avsätter 20 miljarder kronor till 27 särskilda projekt som ska förbättra landets vägar och järnvägar. I Skåne ligger fokus på att minska buller och öka kapaciteten. Samtidigt skrotas dyra projekt för att hitta billigare lösningar."
+        },
         {
           "title": "M-reaktionen: ”Kommunen måste bli bättre på att upptäcka fusk”",
           "link": "https://www.svt.se/nyheter/lokalt/skane/m-reaktionen-kommunen-maste-bli-battre-pa-att-upptacka-fusk",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/en-person-till-sjukhus-efter-kraftig-brand-i-vedupplag",
           "published": "Tue, 30 Sep 2025 06:24:10 +0200",
           "description": "En person fick föras till sjukhus under natten till tisdag efter en kraftig brand i en lagerlokal med ved i Hörup utanför Löderup. Vägen förbi branden fick stängas av och byggnaden gick inte att rädda."
-        },
-        {
-          "title": "Malmö erbjuder ”skolträning” – lyckades få hemmasittare att börja gymnasiet",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/de-ska-fa-malmos-hemmasittare-att-atervanda-till-skolan",
-          "published": "Tue, 30 Sep 2025 05:30:04 +0200",
-          "description": "Elever som varit borta en längre period från skolan erbjuds ”skolträning”. Målet är att malmöungdomarna ska börja på gymnasiet. – Vi ser stora framgångar, säger Magnus Jervill på grundskoleförvaltningen."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "V-ledarens kritik mot Hatt: Velar och kan inte välja",
-          "link": "https://www.aftonbladet.se/nyheter/a/vg021X/kravet-fran-dadgostar-inga-i-en-framtida-regering?utm_medium=rss",
-          "published": "Tue, 30 Sep 2025 10:11:11 GMT",
-          "description": "Nooshi Dadgostar vill att oppositionen samlar sig kring en valplattform."
+          "title": "Centern vill införa ny miljöbilsbonus",
+          "link": "https://www.aftonbladet.se/nyheter/a/B0oPGw/centern-vill-infora-ny-miljobilsbonus?utm_medium=rss",
+          "published": "Tue, 30 Sep 2025 12:19:49 GMT",
+          "description": "Centerpartiet föreslår en bonus för leasing av miljövänliga bilar, så att kostnaden blir 1 500 kronor i månaden per…"
         },
         {
-          "title": "Hundratals palestinier har dött av undernäring",
-          "link": "https://www.aftonbladet.se/nyheter/a/W0nMMj/hundratals-palestinier-har-dott-av-undernaring?utm_medium=rss",
-          "published": "Tue, 30 Sep 2025 09:49:44 GMT",
-          "description": "Fler än 450 människor har avlidit till följd av svält och undernäring i Gaza, uppger hälsomyndigheterna i det…"
+          "title": "Åtalad advokat företräder mordmisstänkt man",
+          "link": "https://www.aftonbladet.se/nyheter/a/8qeMMd/atalad-advokat-foretrader-mordmisstankt-man?utm_medium=rss",
+          "published": "Tue, 30 Sep 2025 11:51:03 GMT",
+          "description": "En advokat företräder just nu en mordåtalad man i en rättegång. För några veckor sedan åtalades han själv för grov…"
         },
         {
-          "title": "Vårdbolag anlitas av Kriminalvården – trots att ägare åtalas för brott",
-          "link": "https://www.aftonbladet.se/nyheter/a/bmRx8B/skandalbolaget-medcura-anlitas-av-transportstyrelsen-trots-atal-visste-inte-det?utm_medium=rss",
-          "published": "Tue, 30 Sep 2025 09:38:26 GMT",
-          "description": "En av vårdbolaget Medcuras ägare misstänks ha åkt på lyxresor på företagets bekostnad och använt falska fakturor – nu är…"
+          "title": "Qatar: Möte med Hamas om Trumps fredsplan",
+          "link": "https://www.aftonbladet.se/nyheter/a/LMJRnp/qatar-mote-med-hamas-om-trumps-fredsplan?utm_medium=rss",
+          "published": "Tue, 30 Sep 2025 11:30:55 GMT",
+          "description": "I dag möts företrädare för Hamas, Qatar och Turkiet för samtal om USA:s Gazaplan."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Harry Styles i shorts – en dröm för det lilla företaget",
-          "link": "https://www.expressen.se/noje/musik/harry-styles-i-shorts--en-drom-for-det-lilla-foretaget/",
-          "published": "Tue, 30 Sep 2025 11:13:43 +0200",
-          "description": "Popstjärnan Harry Styles sprang Berlin Marathon på en supertid.Vilket inneburit ett superklipp för en amerikansk klädtillverkare – som försökt tacka Styles för hjälpen utan att få svar."
+          "title": "Svår krock utanför Åmål – ambulanshelikopter landat",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=dcaa7da1-e238-46dd-b501-10ebcfea20f5",
+          "published": "Tue, 30 Sep 2025 14:03:03 +0200",
+          "description": "Ambulanshelikopter har landat utanför Åmål"
         },
         {
-          "title": "Turisternas jagas – efter förbjudna akten",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/parets-karleksakt-sker-mitt-framfor-badgasterna-",
-          "published": "Tue, 30 Sep 2025 11:09:40 +0200",
-          "description": "Sker mitt framför badfamiljer i Thailand • Polisens vädjan"
+          "title": "Larmet från Ibiza",
+          "link": "https://www.expressen.se/tv/nyheter/varlden/larmet-fran-ibiza",
+          "published": "Tue, 30 Sep 2025 13:48:44 +0200",
+          "description": "Spanska ön under vatten • Se flygplatsen svämma över "
         },
         {
-          "title": "Imamen Saleh Abouelenen sparkas av moskén i Kristianstad",
-          "link": "https://www.expressen.se/nyheter/sverige/imamen-saleh-abouelenen-far-sluta-efter-avslojandet/",
-          "published": "Tue, 30 Sep 2025 11:01:53 +0200",
-          "description": "Imamen Saleh Abouelenen, som predikat om våld mot kvinnor, får sluta.”Styrelsen har nu beslutat att avsluta hans frivilliga tjänst som bönledare”, skriver församlingen i ett pressmeddelande."
+          "title": "Daniel Ek slutar som vd på Spotify",
+          "link": "https://www.expressen.se/ekonomi/tech/daniel-ek-slutar-som-spotify-vd/",
+          "published": "Tue, 30 Sep 2025 13:46:31 +0200",
+          "description": "Spotify-grundaren Daniel Ek lämnar rollen som vd för bolaget. Han ersätts av två nya vd:ar.Beskedet kommer samtidigt som flera artister valt att bojkotta Spotify – på grund av Eks koppling till vapenaffärer.Aktien faller efter beskedet. "
         }
       ]
     }
