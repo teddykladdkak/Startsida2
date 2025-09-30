@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-30T20:12:38.005022Z",
+  "lastUpdated": "2025-09-30T22:10:24.478728Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,18 @@
       },
       "items": [
         {
+          "title": "Liverpools tunga kväll – förlust och dubbla skador",
+          "link": "https://www.svt.se/sport/fotboll/liverpools-tunga-kvall-forlust-och-dubbla-skador",
+          "published": "Tue, 30 Sep 2025 23:12:33 +0200",
+          "description": "En förlust, en poänglös Alexander Isak och dubbla skador. Liverpool hade en mardrömskväll i Istanbul. Galatasaray vann med 1–0."
+        },
+        {
+          "title": "Dadgostar om järnvägen: ”Ett monumentalt svek mot tågresenärer”",
+          "link": "https://www.svt.se/nyheter/inrikes/dadgostar-om-jarnvagen-ett-monumentalt-svek-mot-tagresenarer",
+          "published": "Tue, 30 Sep 2025 23:00:08 +0200",
+          "description": "Det kommer att ta 25 år att åtgärda Sveriges järnvägar, enligt Trafikverket. Vänsterpartiets partiledare Nooshi Dadgostar kallar det för ett ”monumentalt svek”, medan infrastruktur- och bostadsministern menar att regeringens upprustningsarbete är igång. – Det här har skjutits på i decennier, man har struntat i helt nödvändigt underhåll, säger Andreas Carlson (KD)."
+        },
+        {
           "title": "Man död i motorcykelolycka utanför Kälarne i Bräcke kommun",
           "link": "https://www.svt.se/nyheter/lokalt/jamtland/motorcykelforare-dod-i-trafikolycka-utanfor-kalarne-i-bracke-kommun",
           "published": "Tue, 30 Sep 2025 20:45:31 +0200",
@@ -44,18 +56,6 @@
           "link": "https://www.svt.se/nyheter/inrikes/trafikverket-tiondel-av-jarnvagsunderhallet-klart-2037",
           "published": "Tue, 30 Sep 2025 19:53:12 +0200",
           "description": "Trots satsningar på hundratals miljarder kronor kommer stora delar av järnvägen fortsatt att vara eftersatt under lång tid. Trafikverket bedömer att endast omkring 10 procent av underhållsskulden är åtgärdad år 2037."
-        },
-        {
-          "title": "”Bekräftad rysk påverkan – det kan omvärlden lära av valet i Moldavien”",
-          "link": "https://www.svt.se/nyheter/utrikes/bekraftad-rysk-paverkan-det-kan-omvarlden-lara-av-valet-i-moldavien",
-          "published": "Tue, 30 Sep 2025 19:18:24 +0200",
-          "description": "Trots en massiv rysk påverkanskampanj för att styra valutgången segrade EU-vänliga regeringspartiet PAS i Moldavien. Under valrörelsen har en lång rad olagliga försök att påverka de moldaviska väljarna avslöjats. Regeringen lovar nu att genomföra nödvändiga reformer för att kunna gå med i unionen under den kommande mandatperioden."
-        },
-        {
-          "title": "Nya krav på amerikansk militär – skäggförbud och ”manlig standard”",
-          "link": "https://www.svt.se/nyheter/utrikes/nya-krav-pa-amerikansk-militar-skaggforbud-och-manlig-standard",
-          "published": "Tue, 30 Sep 2025 17:59:12 +0200",
-          "description": "Under ett militärt toppmöte skärper krigsministern Pete Hegseth tonen mot vad han menar har försvagat den amerikanska militären. Politisk korrekthet och ”wokeness” ska inte längre påverka ledarskap inom armén. – I dag avslutas kriget mot krigare, meddelar han."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
+          "title": "Tiden rinner ut – då stänger USA: ”Gisslandrama”",
+          "link": "https://www.aftonbladet.se/nyheter/a/kw29EX/kamp-mot-klockan-for-att-radda-nedstangningen?utm_medium=rss",
+          "published": "Tue, 30 Sep 2025 21:04:19 GMT",
+          "description": "Klockan tickar.  USA:s statsapparat är på väg att stängas ned. Vid 00:01, amerikansk tid, löper tidsfristen ut."
+        },
+        {
+          "title": "Trump: Överens med Harvard",
+          "link": "https://www.aftonbladet.se/nyheter/a/vg0BK5/trump-overens-med-harvard?utm_medium=rss",
+          "published": "Tue, 30 Sep 2025 20:36:37 GMT",
+          "description": "USA:s president Donald Trump säger att han ”nått en överenskommelse” med universitetet Harvard."
+        },
+        {
           "title": "FN ställer sig bakom utökad styrka till Haiti",
           "link": "https://www.aftonbladet.se/nyheter/a/1MmA0K/fn-staller-sig-bakom-utokad-styrka-till-haiti?utm_medium=rss",
           "published": "Tue, 30 Sep 2025 20:03:30 GMT",
           "description": "FN:s säkerhetsråd har beslutat att omvandla en begränsad säkerhetstrupp i det svårt våldshärjade Haiti till en…"
-        },
-        {
-          "title": "SKF: ”Kullagren hittade i drönarna är piratkopior”",
-          "link": "https://www.aftonbladet.se/nyheter/a/4By4WE/skf-produkter-i-ryssland-ar-piratkopior-enligt-skf-s-egna-experter?utm_medium=rss",
-          "published": "Tue, 30 Sep 2025 19:33:09 GMT",
-          "description": "Aftonbladet har kunnat avslöja att SKF-produkter för 500 miljoner hamnat i Ryssland, trots sanktioner."
-        },
-        {
-          "title": "Meloni till Thunbergs flotta: Avbryt färden",
-          "link": "https://www.aftonbladet.se/nyheter/a/zAvBQv/meloni-till-thunbergs-flotta-avbryt-farden?utm_medium=rss",
-          "published": "Tue, 30 Sep 2025 19:18:27 GMT",
-          "description": "Greta Thunberg och de andra som befinner sig ombord båtarna i flottan som närmar sig Gaza bör avbryta sin färd."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Uppgifter: Hamas ratar Trumps fredsplan",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6cc211a2-970d-4b1f-926e-6c3286a04768",
-          "published": "Tue, 30 Sep 2025 22:08:21 +0200",
-          "description": "Uppges rata fredsplan"
+          "title": "Drönarlarm på Ronneby flygplats",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1ddb8d7c-0474-4d53-af33-f0cc6c69a7ed",
+          "published": "Tue, 30 Sep 2025 23:50:44 +0200",
+          "description": "Polisen larmad i Ronneby"
         },
         {
-          "title": "Hegseth rasar mot ”feta generaler”",
-          "link": "https://www.expressen.se/nyheter/varlden/hegseth-rasar-mot-feta-generaler/",
-          "published": "Tue, 30 Sep 2025 22:07:36 +0200",
-          "description": "USA:s försvarsminister Pete Hegseth inför nya fyskrav som gäller för alla militärer – även de allra högst placerade, skriver The Hill.– Det är oacceptabelt att se feta generaler och amiraler i Pentagon, säger Hegseth.Befälhavare som inte stöder Hegseths beslut uppmanades att sluta, skriver France 24."
+          "title": "Afghanistan utan internet – FN: ”Extremt allvarlig kränkning”",
+          "link": "https://www.expressen.se/nyheter/varlden/afghanistan-utan-internet-fn-extremt-allvarlig-krankning/",
+          "published": "Tue, 30 Sep 2025 23:16:48 +0200",
+          "description": "Det talibanska styret har stängt ned internet i Afghanistan.Detta har lett till stora problem i landet. Nu kräver FN att blockaden hävs och menar att det är en ”extremt allvarlig kränkning av mänskliga rättigheter”. "
         },
         {
-          "title": "Illaluktande mysteriet löst – därför stank Slussen",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=73ff0bd2-8269-4359-ad08-92deb21e10a6",
-          "published": "Tue, 30 Sep 2025 22:03:09 +0200",
-          "description": "Därför stank Slussen"
+          "title": "Qanon-shamanen stämmer Trump – på 40 biljoner dollar",
+          "link": "https://www.expressen.se/nyheter/varlden/qanon-shamanen-stammer-trump-pa-40-biljoner-dollar/",
+          "published": "Tue, 30 Sep 2025 23:12:40 +0200",
+          "description": "Han blev symbolen för stormningen av kongressen 2021.Nu har ”Qanon-shamanen” vänt Donald Trump ryggen och skickat in en stämningsansökan mot honom.Det begärda skadeståndet? 40 000 000 000 000 dollar. "
         }
       ]
     }
