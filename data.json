@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-30T08:16:40.940453Z",
+  "lastUpdated": "2025-09-30T10:12:19.816179Z",
   "feeds": [
     {
       "url": {
@@ -8,16 +8,16 @@
       },
       "items": [
         {
+          "title": "Tekniskt problem med mejlutskick från tjänsten Upphandlat",
+          "link": "https://skaneskommuner.se/news/tekniskt-problem-med-mejlutskick-fran-tjansten-upphandlat/",
+          "published": "2025-09-30T09:35:50Z",
+          "description": "The post Tekniskt problem med mejlutskick från tjänsten Upphandlat appeared first on Skånes Kommuner."
+        },
+        {
           "title": "Gymnasieantagningssystem Indra",
           "link": "https://skaneskommuner.se/news/gymnasieantagningssystem-indra/",
           "published": "2025-07-01T05:30:29Z",
           "description": "The post Gymnasieantagningssystem Indra appeared first on Skånes Kommuner."
-        },
-        {
-          "title": "Sommarhälsning från FoU Skola",
-          "link": "https://skaneskommuner.se/news/sommarhalsning-fran-fou-skola-2/",
-          "published": "2025-06-05T14:03:06Z",
-          "description": "The post Sommarhälsning från FoU Skola appeared first on Skånes Kommuner."
         }
       ]
     },
@@ -27,6 +27,24 @@
         "amount": 5
       },
       "items": [
+        {
+          "title": "Kravet från Vänsterpartiet: Ministerposter eller röd knapp",
+          "link": "https://www.svt.se/nyheter/inrikes/kravet-fran-vansterpartiet-ministerposter-eller-rod-knapp",
+          "published": "Tue, 30 Sep 2025 11:52:00 +0200",
+          "description": "Vänsterpartiet kommer rösta rött till alla regeringskonstellationer där Vänsterpartiet inte ingår. Det säger V-ledaren Nooshi Dagdogstar. – Om våra mandat krävs för en regeringsbildning så kommer vi sitta med i regering."
+        },
+        {
+          "title": "Kirunapolitiker enade: Här är kravlistan för nya stadsflytten",
+          "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kirunapolitiker-enade-har-ar-kravlistan-for-nya-stadsflytten",
+          "published": "Tue, 30 Sep 2025 11:49:00 +0200",
+          "description": "Kirunapolitikerna visade upp en nästan total enighet för en kravlista som riktas mot staten och LKAB inför den nya stadsflytten. Bland annat förnyas kraven på en centrumnära järnvägsstation."
+        },
+        {
+          "title": "Glada studenter när SL sänker biljettpriserna – men pensionärerna får vänta",
+          "link": "https://www.svt.se/nyheter/lokalt/stockholm/glada-studenter-nar-sl-sanker-biljettpriserna-men-pensionarerna-far-vanta",
+          "published": "Tue, 30 Sep 2025 10:38:28 +0200",
+          "description": "Redan inför valet 2022 lovade Miljöpartiet i Region Stockholm billigare SL-biljetter för studenter och pensionärer. I september sänks priset, men än så länge bara för studenter. – Det här är den enda nyheten jag har idag, säger Jakop Dalunde (MP) trafiknämndens ordförande och blivande trafikregionråd."
+        },
         {
           "title": "EU:s klimattjänst Copernicus: Trippel attack mot haven",
           "link": "https://www.svt.se/nyheter/inrikes/eus-klimattjanst-copernicus-trippel-attack-mot-haven",
@@ -38,24 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kvinna-allvarligt-skadad-efter-algkrock-i-ranea",
           "published": "Tue, 30 Sep 2025 10:01:43 +0200",
           "description": "Sent under måndagen inträffade en viltolycka på E4 i Råneå. En kvinna vårdas på Sunderby sjukhus med allvarliga skador."
-        },
-        {
-          "title": "Samisk musik på stark frammarsch – Ajnnak på japansk scen: ”Stort!”",
-          "link": "https://www.svt.se/nyheter/sapmi/samisk-musik-pa-stark-frammarsch-ajnnak-pa-japansk-scen-stort",
-          "published": "Tue, 30 Sep 2025 10:00:06 +0200",
-          "description": "Knappt har applådåskorna tystnat efter Katarina Barruks hyllade framträdande i Royal Albert Hall i London, innan nästa samiska artist åker på internationell turné. Sara Ajnnak är redo för Japan."
-        },
-        {
-          "title": "Saudiarabien köper Electronic Arts i historisk miljardaffär",
-          "link": "https://www.svt.se/kultur/saudiarabien-koper-electronic-arts-i-historisk-miljardaffar",
-          "published": "Tue, 30 Sep 2025 09:21:24 +0200",
-          "description": "Saudiarabien och Jared Kushners bolag köper upp den amerikanska speljätten Electronic Arts för drygt 500 miljarder kronor. EA är ett av världens största spelbolag och ger ut flera av världens största speltitlar, som NHL-spelen, The Sims och svenska spelsuccén Battlefield."
-        },
-        {
-          "title": "Tusen miljarder till infrastruktur – så ska de fördelas",
-          "link": "https://www.svt.se/nyheter/inrikes/tusen-miljarder-till-infrastruktur-sa-ska-de-fordelas",
-          "published": "Tue, 30 Sep 2025 08:31:16 +0200",
-          "description": "1 171 miljarder kronor – så mycket kommer gå till underhåll och utveckling av statliga vägar, järnvägar samt sjö- och luftfart de närmaste tolv åren. Trafikverket har presenterat sin plan för hur pengarna ska fördelas och meddelat att det kommer ta 25 år att jobba ikapp det eftersatta järnvägsunderhållet. Dessutom skrotas flera planerade satsningar för att få loss pengar till mer samhällsnyttiga projekt."
         }
       ]
     },
@@ -65,6 +65,18 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "M-reaktionen: ”Kommunen måste bli bättre på att upptäcka fusk”",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/m-reaktionen-kommunen-maste-bli-battre-pa-att-upptacka-fusk",
+          "published": "Tue, 30 Sep 2025 11:20:24 +0200",
+          "description": "SVT Nyheter Skåne avslöjade nyligen hur Rosengårdsföreningen Allas lika värde föreningen fått miljontals kronor i bidrag från flera myndigheter, samtidigt som de misstänks för fusk med bidragspengar. Nu reagerar Malmömoderaten Farishta Sulaiman. – Det är allvarligt, säger hon."
+        },
+        {
+          "title": "Predikade om hur män ska slå sina fruar – får sluta",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/predikade-om-hur-man-ska-sla-sina-fruar-far-sluta",
+          "published": "Tue, 30 Sep 2025 11:01:31 +0200",
+          "description": "Den imam i Skåne som predikade om hur män ska slå sina fruar får nu lämna, skriver Expressen."
+        },
         {
           "title": "En person till sjukhus efter kraftig brand i Hörup",
           "link": "https://www.svt.se/nyheter/lokalt/skane/en-person-till-sjukhus-efter-kraftig-brand-i-vedupplag",
@@ -76,18 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/de-ska-fa-malmos-hemmasittare-att-atervanda-till-skolan",
           "published": "Tue, 30 Sep 2025 05:30:04 +0200",
           "description": "Elever som varit borta en längre period från skolan erbjuds ”skolträning”. Målet är att malmöungdomarna ska börja på gymnasiet. – Vi ser stora framgångar, säger Magnus Jervill på grundskoleförvaltningen."
-        },
-        {
-          "title": "Imam i Skåne predikade om hur män ska slå sina fruar",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/imam-predikade-om-hur-man-ska-sla-sina-fruar",
-          "published": "Mon, 29 Sep 2025 21:22:18 +0200",
-          "description": "– Förmana dem, undvik dem i sängen och slå dem. Så sade en imam under en predikan i en moské i Skåne i somras, rapporterar Expressen."
-        },
-        {
-          "title": "Nyheter från dagen: 29 september",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-29-september-wzv38q",
-          "published": "Mon, 29 Sep 2025 20:43:19 +0200",
-          "description": "Detta har hänt i Skåne måndagen den 29 september."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "S vill miljardsatsa på jobb till unga",
-          "link": "https://www.aftonbladet.se/nyheter/a/lwB2ro/s-vill-miljardsatsa-pa-jobb-till-unga?utm_medium=rss",
-          "published": "Tue, 30 Sep 2025 08:08:34 GMT",
-          "description": "Gratis körkort till unga arbetslösa och traineeplatser för nyutexaminerade akademiker – Socialdemokraterna vill satsa…"
+          "title": "V-ledarens kritik mot Hatt: Velar och kan inte välja",
+          "link": "https://www.aftonbladet.se/nyheter/a/vg021X/kravet-fran-dadgostar-inga-i-en-framtida-regering?utm_medium=rss",
+          "published": "Tue, 30 Sep 2025 10:11:11 GMT",
+          "description": "Nooshi Dadgostar vill att oppositionen samlar sig kring en valplattform."
         },
         {
-          "title": "Trafikverket: Kommer ta 25 år att fixa järnvägarna",
-          "link": "https://www.aftonbladet.se/nyheter/a/AvjyPq/trafikverket-skrotar-flera-satsningar?utm_medium=rss",
-          "published": "Tue, 30 Sep 2025 08:08:09 GMT",
-          "description": "Regeringen vill storsatsa på svensk infrastruktur – totalt 1 171 miljarder kronor under elva år."
+          "title": "Hundratals palestinier har dött av undernäring",
+          "link": "https://www.aftonbladet.se/nyheter/a/W0nMMj/hundratals-palestinier-har-dott-av-undernaring?utm_medium=rss",
+          "published": "Tue, 30 Sep 2025 09:49:44 GMT",
+          "description": "Fler än 450 människor har avlidit till följd av svält och undernäring i Gaza, uppger hälsomyndigheterna i det…"
         },
         {
-          "title": "Trippel attack mot haven: \"Påverkar alla\"",
-          "link": "https://www.aftonbladet.se/nyheter/a/lwB2QL/trippel-attack-mot-haven-paverkar-alla?utm_medium=rss",
-          "published": "Tue, 30 Sep 2025 08:00:30 GMT",
-          "description": "Alla delar av haven är under en trippel attack, enligt EU:s klimattjänst Copernicus stora årliga havsrapport."
+          "title": "Vårdbolag anlitas av Kriminalvården – trots att ägare åtalas för brott",
+          "link": "https://www.aftonbladet.se/nyheter/a/bmRx8B/skandalbolaget-medcura-anlitas-av-transportstyrelsen-trots-atal-visste-inte-det?utm_medium=rss",
+          "published": "Tue, 30 Sep 2025 09:38:26 GMT",
+          "description": "En av vårdbolaget Medcuras ägare misstänks ha åkt på lyxresor på företagets bekostnad och använt falska fakturor – nu är…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Svenska Andrea reser mot Gaza: ”Vill inte dö”",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/andrea-25-ombord-pa-gazakonvojen-vill-inte-do",
-          "published": "Tue, 30 Sep 2025 10:00:11 +0200",
-          "description": "25-åringen seglar rakt mot farligaste området"
+          "title": "Harry Styles i shorts – en dröm för det lilla företaget",
+          "link": "https://www.expressen.se/noje/musik/harry-styles-i-shorts--en-drom-for-det-lilla-foretaget/",
+          "published": "Tue, 30 Sep 2025 11:13:43 +0200",
+          "description": "Popstjärnan Harry Styles sprang Berlin Marathon på en supertid.Vilket inneburit ett superklipp för en amerikansk klädtillverkare – som försökt tacka Styles för hjälpen utan att få svar."
         },
         {
-          "title": "Förslaget: Då förbjuds IP-tv – användare kan straffas med böter",
-          "link": "https://www.expressen.se/nyheter/politik/forslaget-da-forbjuds-ip-tv--anvandare-kan-straffas-med-boter/",
-          "published": "Tue, 30 Sep 2025 10:00:00 +0200",
-          "description": "Miljoner svenskar tittar på illegal IP-tv.Nu föreslår regeringens utredare att det ska bli olagligt.Den som använder sig av tjänsten ska kunna få böter, erfar Expressen."
+          "title": "Turisternas jagas – efter förbjudna akten",
+          "link": "https://www.expressen.se/tv/nyheter/varlden/parets-karleksakt-sker-mitt-framfor-badgasterna-",
+          "published": "Tue, 30 Sep 2025 11:09:40 +0200",
+          "description": "Sker mitt framför badfamiljer i Thailand • Polisens vädjan"
         },
         {
-          "title": "Polisens tillslag i Pontus Rasmussons hem",
-          "link": "https://www.expressen.se/noje/polisens-tillslag-i-pontus-rasmussons-hem/",
-          "published": "Tue, 30 Sep 2025 09:39:40 +0200",
-          "description": "Pontus Rasmusson, 27, misstänks för flera ekobrott.I maj slog polisen till med en husrannsakan i hans hem.I förhör säger han att han ”aldrig velat undanhålla pengar från staten” – och vädjar om mildare straff för att han var ”ung och oerfaren”."
+          "title": "Imamen Saleh Abouelenen sparkas av moskén i Kristianstad",
+          "link": "https://www.expressen.se/nyheter/sverige/imamen-saleh-abouelenen-far-sluta-efter-avslojandet/",
+          "published": "Tue, 30 Sep 2025 11:01:53 +0200",
+          "description": "Imamen Saleh Abouelenen, som predikat om våld mot kvinnor, får sluta.”Styrelsen har nu beslutat att avsluta hans frivilliga tjänst som bönledare”, skriver församlingen i ett pressmeddelande."
         }
       ]
     }
