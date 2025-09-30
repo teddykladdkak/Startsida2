@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-30T16:14:44.127724Z",
+  "lastUpdated": "2025-09-30T18:16:13.328627Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,24 @@
       },
       "items": [
         {
+          "title": "Efter SVT:s avslöjande: Region Skåne bryter avtalet med Avarn",
+          "link": "https://www.svt.se/nyheter/lokalt/helsingborg/efter-svts-avslojande-region-skane-bryter-avtalet-med-avarn",
+          "published": "Tue, 30 Sep 2025 20:02:52 +0200",
+          "description": "Väktare satte i system att låtsas kontrollera säkerheten. Efter SVT Nyheter Helsingborgs avslöjande om omfattande brister i Avarn Securitys arbete på Helsingborgs lasarett säger nu Region Skåne upp avtalet med bevakningsjätten."
+        },
+        {
+          "title": "Trafikverket: Tiondel av järnvägsunderhållet klart 2037",
+          "link": "https://www.svt.se/nyheter/inrikes/trafikverket-tiondel-av-jarnvagsunderhallet-klart-2037",
+          "published": "Tue, 30 Sep 2025 19:53:12 +0200",
+          "description": "Trots satsningar på hundratals miljarder kronor kommer stora delar av järnvägen fortsatt att vara eftersatt under lång tid. Trafikverket bedömer att endast omkring 10 procent av underhållsskulden är åtgärdad år 2037."
+        },
+        {
+          "title": "”Bekräftad rysk påverkan – det kan omvärlden lära av valet i Moldavien”",
+          "link": "https://www.svt.se/nyheter/utrikes/bekraftad-rysk-paverkan-det-kan-omvarlden-lara-av-valet-i-moldavien",
+          "published": "Tue, 30 Sep 2025 19:18:24 +0200",
+          "description": "Trots en massiv rysk påverkanskampanj för att styra valutgången segrade EU-vänliga regeringspartiet PAS i Moldavien. Under valrörelsen har en lång rad olagliga försök att påverka de moldaviska väljarna avslöjats. Regeringen lovar nu att genomföra nödvändiga reformer för att kunna gå med i unionen under den kommande mandatperioden."
+        },
+        {
           "title": "Nya krav på amerikansk militär – skäggförbud och ”manlig standard”",
           "link": "https://www.svt.se/nyheter/utrikes/nya-krav-pa-amerikansk-militar-skaggforbud-och-manlig-standard",
           "published": "Tue, 30 Sep 2025 17:59:12 +0200",
@@ -38,24 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/varmland/politikerna-i-varmland-om-infrastrukturplanen-en-besvikelse",
           "published": "Tue, 30 Sep 2025 17:28:46 +0200",
           "description": "Mötesspår på Värmlandsbanan och Norge-Vänerbanan, men inget dubbelspår och slopade satsningar på både E18 och E45. Politikerna i Region Värmland är inte nöjda med Trafikverkets förslag till infrastrukturplan för perioden 2026-2037. – Det är en besvikelse. Vi hade väntat oss mer, säger regionrådet Erik Evestam (C)"
-        },
-        {
-          "title": "Emma Watson och JK Rowling i fejd – efter Watsons utsträckta hand",
-          "link": "https://www.svt.se/nyheter/utrikes/emma-watson-och-jk-rowling-i-fejd-efter-watsons-utstrackta-hand",
-          "published": "Tue, 30 Sep 2025 17:20:50 +0200",
-          "description": "Emma Watson, som spelar Hermione i Harry Potter-filmerna, och JK Rowling, skaparen av universumet är i fejd. Vad allt kokar ner till? JK Rowlings uttalanden om transpersoner."
-        },
-        {
-          "title": "Bedrev svartapotek i Karlstad – tillverkade viktmedicin och potensmedel",
-          "link": "https://www.svt.se/nyheter/lokalt/varmland/bedrev-svartapotek-i-karlstad-tillverkade-viktmedicin-och-potensmedel",
-          "published": "Tue, 30 Sep 2025 17:13:01 +0200",
-          "description": "För en vecka sedan slog polisen till mot ett misstänkt svartapotek i Karlstad. Sex personer sitter nu häktade för brott mot läkemedelslagen. – Vi misstänker att det förekommit tillverkning och försäljning, säger åklagaren Sofie Derke."
-        },
-        {
-          "title": "Man anhållen för flygfylleri efter drönardrama vid Sundsvall-Timrå flygplats",
-          "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/man-anhallen-for-flygfylleri-efter-dronardrama-vid-sundsvall-timra-flygplats",
-          "published": "Tue, 30 Sep 2025 17:07:59 +0200",
-          "description": "En man i 40-årsåldern från Timrå är frihetsberövad efter drönarincidenten vid Sundsvall-Timrå flygplats i söndags, han misstänkts bland annat för flygfylleri. – Det här är väldigt ovanligt, säger förundersökningsledare Björn Nilsson."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Familjen lever i skräck för gänget: ”Sover inte”",
-          "link": "https://www.aftonbladet.se/nyheter/a/vg06pj/familjen-lever-i-skrack-for-ganget-en-standig-oro?utm_medium=rss",
-          "published": "Tue, 30 Sep 2025 16:12:28 GMT",
-          "description": "PLUS Mitt på Värnhemstorget i Malmö örfilas Leo, 17 – han ska tvingas att begå mord, misstänker polisen."
+          "title": "Paret svindlade sig genom Sverige: ”Det blev room service deluxe”",
+          "link": "https://www.aftonbladet.se/nyheter/a/4ByVro/par-svindlade-hotell-och-campingar-i-sverige-atalas-for-bedrageri?utm_medium=rss",
+          "published": "Tue, 30 Sep 2025 17:29:13 GMT",
+          "description": "PLUS Ett par tog in på hotell. Men när personalen kontrollerade fakturaadressen fattade de misstankar."
         },
         {
-          "title": "Israels ambassadör till Gretabåten: Håll er borta",
-          "link": "https://www.aftonbladet.se/nyheter/a/eMAg2g/global-sumud-flotilla-narmar-sig-gaza-israels-ambassador-svarar?utm_medium=rss",
-          "published": "Tue, 30 Sep 2025 16:02:14 GMT",
-          "description": "Gazakonvojen närmar sig sitt mål. Israels Sverige-ambassadör säger att man kommer göra allt för att fartygen inte når…"
+          "title": "Eli Lillys alzheimerläkemedel godkänns i EU",
+          "link": "https://www.aftonbladet.se/nyheter/a/KMdx87/eli-lillys-alzheimerlakemedel-godkanns-i-eu?utm_medium=rss",
+          "published": "Tue, 30 Sep 2025 17:27:34 GMT",
+          "description": "Ytterligare ett läkemedel som har en viss bromsande effekt på utvecklingen av Alzheimers sjukdom kan börja säljas på den…"
         },
         {
-          "title": "Gazakonvojen: ”Ett brott att stoppa oss”",
-          "link": "https://www.aftonbladet.se/nyheter/a/935wRq/gazakonvojen-svar-till-israels-sverigeambassador?utm_medium=rss",
-          "published": "Tue, 30 Sep 2025 16:02:09 GMT",
-          "description": "Håll er borta – det är budskapet från Israels Sverigeambassadör Ziv Nevo Kulman till konvojen som är på väg mot Gaza."
+          "title": "Rasar mot sölandet med drönarköp: ”Fumligt”",
+          "link": "https://www.aftonbladet.se/nyheter/a/0VPdvB/peter-hultqvist-rasar-mot-solandet-med-dronarkop-fumligt?utm_medium=rss",
+          "published": "Tue, 30 Sep 2025 17:26:15 GMT",
+          "description": "I somras begärde Försvarsmakten att snabbt få köpa nya anti-drönarvapen – men över tre månader senare har regeringen…"
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Bombskyddet på plats i Perstorp",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=92ed00a0-3ea9-4808-af25-34d24671fa0c",
-          "published": "Tue, 30 Sep 2025 18:09:06 +0200",
-          "description": "Bombskyddet på plats i Perstorp"
+          "title": "Kristina, 28, kom hem från BB – blev varslad",
+          "link": "https://www.expressen.se/nyheter/sverige/kristina-28-kom-hem-fran-bb-blev-varslad-/",
+          "published": "Tue, 30 Sep 2025 19:27:49 +0200",
+          "description": "Kristina, 28, hade precis fått barn när hon plötsligt förlorade jobbet.I snart ett år har hon varit arbetslös och sökt hundratals tjänster.På öppna förskolan ville hon inte berätta om sin situation.– Det var genant att säga att jag var arbetslös, säger hon. "
         },
         {
-          "title": "Uppgift: 13-åring misstänkt för skott mot villadörr",
-          "link": "https://www.expressen.se/nyheter/sverige/uppgift-13-aring-misstankt-for-skott-mot-villadorr-/",
-          "published": "Tue, 30 Sep 2025 18:03:16 +0200",
-          "description": "Flera personer fanns i villan när någon sköt mot dörren.En 13-årig pojke tros vara skytten.En man som tidigare pekats ut som drivande i nätverket Farsta/Fagersjö är skriven på den beskjutna adressen."
+          "title": "Lawen Redars (S) krav på regeringen – efter avslöjandet om imamen",
+          "link": "https://www.expressen.se/nyheter/politik/lawen-redars-s-krav-pa-regeringen--efter-avslojandet-om-imamen/",
+          "published": "Tue, 30 Sep 2025 19:15:45 +0200",
+          "description": "Avslöjandet om att imamen Saleh Abouelenen predikat om när en man har rätt att slå sin fru har lett till politiska fördömanden. Nu ställer Socialdemokraterna krav på regeringen.– Det är tröttsamt med bara ord, säger Lawen Redar (S), integrationspolitisk talesperson."
         },
         {
-          "title": "Nu ska politikerna reformera islam",
-          "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/nu-ska-politikerna-reformera-islam/",
-          "published": "Tue, 30 Sep 2025 17:05:32 +0200",
-          "description": "Tanken att staten ska dirigera fram en önskvärd inriktning på en världsreligion kan tyckas ambitiös, men i den socialliberala ingenjörskonstens förlovade land är ingenting omöjligt, skriver Viktor Barth-Kron."
+          "title": "En sådan reaktion har Trump aldrig mött",
+          "link": "https://www.expressen.se/kronikorer/mats-larsson/en-sadan-reaktion-har-trump-aldrig-mott/",
+          "published": "Tue, 30 Sep 2025 18:49:48 +0200",
+          "description": "President Donald Trump möttes av något mycket sällsynt när han klev upp på scen för att tala.Tystnad.En talande tystnad från USA generaler och amiraler."
         }
       ]
     }
