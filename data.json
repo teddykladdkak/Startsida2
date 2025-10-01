@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-30T22:10:24.478728Z",
+  "lastUpdated": "2025-10-01T00:59:57.939261Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "USA: Inled nedstängningsplaner",
+          "link": "https://www.svt.se/nyheter/utrikes/usa-inled-nedstangningsplaner",
+          "published": "Wed, 01 Oct 2025 02:31:29 +0200",
+          "description": "Vita husets budgetkontor beordrar federala myndigheter att börja införa planer för nedstängning, rapporterar AP."
+        },
+        {
           "title": "Liverpools tunga kväll – förlust och dubbla skador",
           "link": "https://www.svt.se/sport/fotboll/liverpools-tunga-kvall-forlust-och-dubbla-skador",
           "published": "Tue, 30 Sep 2025 23:12:33 +0200",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/helsingborg/efter-svts-avslojande-region-skane-bryter-avtalet-med-avarn",
           "published": "Tue, 30 Sep 2025 20:02:52 +0200",
           "description": "Väktare satte i system att låtsas kontrollera säkerheten. Efter SVT Nyheter Helsingborgs avslöjande om omfattande brister i Avarn Securitys arbete på Helsingborgs lasarett säger nu Region Skåne upp avtalet med bevakningsjätten."
-        },
-        {
-          "title": "Trafikverket: Tiondel av järnvägsunderhållet klart 2037",
-          "link": "https://www.svt.se/nyheter/inrikes/trafikverket-tiondel-av-jarnvagsunderhallet-klart-2037",
-          "published": "Tue, 30 Sep 2025 19:53:12 +0200",
-          "description": "Trots satsningar på hundratals miljarder kronor kommer stora delar av järnvägen fortsatt att vara eftersatt under lång tid. Trafikverket bedömer att endast omkring 10 procent av underhållsskulden är åtgärdad år 2037."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Tiden rinner ut – då stänger USA: ”Gisslandrama”",
-          "link": "https://www.aftonbladet.se/nyheter/a/kw29EX/kamp-mot-klockan-for-att-radda-nedstangningen?utm_medium=rss",
-          "published": "Tue, 30 Sep 2025 21:04:19 GMT",
-          "description": "Klockan tickar.  USA:s statsapparat är på väg att stängas ned. Vid 00:01, amerikansk tid, löper tidsfristen ut."
+          "title": "USA: Inled nedstängningsplaner",
+          "link": "https://www.aftonbladet.se/nyheter/a/mPOb70/usa-inled-nedstangningsplaner?utm_medium=rss",
+          "published": "Tue, 30 Sep 2025 23:47:24 GMT",
+          "description": "Vita husets budgetkontor beordrar federala myndigheter att börja införa planer för nedstängning, rapporterar AP."
         },
         {
-          "title": "Trump: Överens med Harvard",
-          "link": "https://www.aftonbladet.se/nyheter/a/vg0BK5/trump-overens-med-harvard?utm_medium=rss",
-          "published": "Tue, 30 Sep 2025 20:36:37 GMT",
-          "description": "USA:s president Donald Trump säger att han ”nått en överenskommelse” med universitetet Harvard."
+          "title": "Varnar för situation vid kraftverk",
+          "link": "https://www.aftonbladet.se/nyheter/a/yEQBke/varnar-for-situation-vid-kraftverk?utm_medium=rss",
+          "published": "Tue, 30 Sep 2025 23:33:24 GMT",
+          "description": "Ukrainas president Volodymyr Zelenskyj varnar för att en olycka kan uppstå vid det ryskockuperade kärnkraftverket i…"
         },
         {
-          "title": "FN ställer sig bakom utökad styrka till Haiti",
-          "link": "https://www.aftonbladet.se/nyheter/a/1MmA0K/fn-staller-sig-bakom-utokad-styrka-till-haiti?utm_medium=rss",
-          "published": "Tue, 30 Sep 2025 20:03:30 GMT",
-          "description": "FN:s säkerhetsråd har beslutat att omvandla en begränsad säkerhetstrupp i det svårt våldshärjade Haiti till en…"
+          "title": "Ilska i militären efter tjocktalet: ”Ville titta bort”",
+          "link": "https://www.aftonbladet.se/nyheter/a/o34gxW/ilska-efter-trump-och-hegseths-mote-med-800-toppmilitarer?utm_medium=rss",
+          "published": "Tue, 30 Sep 2025 22:31:01 GMT",
+          "description": "Generalerna kallades till Virginia för att höra tal om feta och skäggiga soldater."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Drönarlarm på Ronneby flygplats",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1ddb8d7c-0474-4d53-af33-f0cc6c69a7ed",
-          "published": "Tue, 30 Sep 2025 23:50:44 +0200",
-          "description": "Polisen larmad i Ronneby"
+          "title": "Varnar om kärnkraftverk",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2d7f672a-c1e1-4c43-a74f-7497fc71b7d7",
+          "published": "Wed, 01 Oct 2025 02:37:36 +0200",
+          "description": "Zelenskyj anklagar Ryssland: ”Kritiskt”"
         },
         {
-          "title": "Afghanistan utan internet – FN: ”Extremt allvarlig kränkning”",
-          "link": "https://www.expressen.se/nyheter/varlden/afghanistan-utan-internet-fn-extremt-allvarlig-krankning/",
-          "published": "Tue, 30 Sep 2025 23:16:48 +0200",
-          "description": "Det talibanska styret har stängt ned internet i Afghanistan.Detta har lett till stora problem i landet. Nu kräver FN att blockaden hävs och menar att det är en ”extremt allvarlig kränkning av mänskliga rättigheter”. "
+          "title": "20 döda i jordskalv",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=581da606-53fb-496d-b02c-6ae65713cb83",
+          "published": "Wed, 01 Oct 2025 02:35:33 +0200",
+          "description": "Flera kan vara fast under rasmassor i Filippinerna"
         },
         {
-          "title": "Qanon-shamanen stämmer Trump – på 40 biljoner dollar",
-          "link": "https://www.expressen.se/nyheter/varlden/qanon-shamanen-stammer-trump-pa-40-biljoner-dollar/",
-          "published": "Tue, 30 Sep 2025 23:12:40 +0200",
-          "description": "Han blev symbolen för stormningen av kongressen 2021.Nu har ”Qanon-shamanen” vänt Donald Trump ryggen och skickat in en stämningsansökan mot honom.Det begärda skadeståndet? 40 000 000 000 000 dollar. "
+          "title": "Därför dog 17-åringen: ”Misstogs för ekorre”",
+          "link": "https://www.expressen.se/nyheter/varlden/17-aringens-dodsorsak-misstogs-for-ekorre/",
+          "published": "Wed, 01 Oct 2025 02:11:03 +0200",
+          "description": "Gymnasieeleven Carson Ryan ”misstogs för en ekorre” när han var ute och jagade.17-åringen sköts i bakhuvudet och dog, skriver People.Över en halv miljon kronor har samlats in för att hjälpa familjen."
         }
       ]
     }
