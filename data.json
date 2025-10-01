@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-01T20:13:12.929910Z",
+  "lastUpdated": "2025-10-01T22:10:32.704332Z",
   "feeds": [
     {
       "url": {
@@ -31,7 +31,7 @@
           "title": "Misstänks mordförsök på skola i Lund",
           "link": "https://www.svt.se/nyheter/lokalt/skane/misstanks-mordforsok-pa-skola-i-lund",
           "published": "Wed, 01 Oct 2025 22:09:42 +0200",
-          "description": "En elev hade med sig kniv till en skola i Lund under tisdagsförmiddagen. Polisen kallades till platsen och utreder nu händelsen som misstänkt mordförsök."
+          "description": "En elev hade med sig kniv till skolan i Fäladsgården i Lund under tisdagsförmiddagen. Polisen kallades till platsen och utreder nu händelsen som misstänkt mordförsök."
         },
         {
           "title": "Dijan Vukojevic chockades av senaste utlandsflytten: ”Mer fokus på fest”",
@@ -69,7 +69,7 @@
           "title": "Misstänks mordförsök på skola i Lund",
           "link": "https://www.svt.se/nyheter/lokalt/skane/misstanks-mordforsok-pa-skola-i-lund",
           "published": "Wed, 01 Oct 2025 22:09:42 +0200",
-          "description": "En elev hade med sig kniv till en skola i Lund under tisdagsförmiddagen. Polisen kallades till platsen och utreder nu händelsen som misstänkt mordförsök."
+          "description": "En elev hade med sig kniv till skolan i Fäladsgården i Lund under tisdagsförmiddagen. Polisen kallades till platsen och utreder nu händelsen som misstänkt mordförsök."
         },
         {
           "title": "Nyheter från dagen: 1 oktober",
@@ -98,6 +98,12 @@
       },
       "items": [
         {
+          "title": "Utrikesministern: ”Följer situationen”",
+          "link": "https://www.aftonbladet.se/nyheter/a/ny8z0d/utrikesministern-foljer-situationen?utm_medium=rss",
+          "published": "Wed, 01 Oct 2025 21:41:25 GMT",
+          "description": "Sveriges utrikesminister Maria Malmer Stenergard (M) säger i en skriftlig kommentar till TT att ”utrikesdepartementet…"
+        },
+        {
           "title": "”Ukraina vår säkerhetsgaranti för fred”",
           "link": "https://www.aftonbladet.se/nyheter/a/B0o8WG/ukraina-var-sakerhetsgaranti-for-fred?utm_medium=rss",
           "published": "Wed, 01 Oct 2025 19:59:03 GMT",
@@ -105,15 +111,9 @@
         },
         {
           "title": "Man till sjukhus efter larm om bråk",
-          "link": "https://www.aftonbladet.se/nyheter/a/KMdwzG/brak-vid-skola-en-skadad?utm_medium=rss",
+          "link": "https://www.aftonbladet.se/nyheter/a/KMdwzG/man-till-sjukhus-efter-brak-vid-skola-i-malmo?utm_medium=rss",
           "published": "Wed, 01 Oct 2025 19:41:44 GMT",
           "description": "Polisen har larmats om ett bråk vid en skola i Malmö. En man har förts till sjukhus med ambulans."
-        },
-        {
-          "title": "Kommunen ska överklaga fabrikens giftiga ämne: ”Rent av förbannad”",
-          "link": "https://www.aftonbladet.se/nyheter/a/9357rd/kommunen-i-eskilstuna-ska-anmala-senior-material-forbannad?utm_medium=rss",
-          "published": "Wed, 01 Oct 2025 19:27:44 GMT",
-          "description": "ESKILSTUNA. Kommunen planerar att överklaga att företaget får använda ett förbjudet och cancerframkallande ämne."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Hovrätten: Kungen  får vräka hyresgäst",
-          "link": "https://www.expressen.se/nyheter/kungligt/hovratten-kungen--far-vraka-hyresgast/",
-          "published": "Wed, 01 Oct 2025 22:10:55 +0200",
-          "description": "Tvisten har pågått sedan 2022.Nu står det klart att kungen vinner tvisten om sexrumsvillan på Djurgården.Han rätt att säga upp hyresgästen – med anledning av att hon inte arbetar för hovet, rapporterar Hem & Hyra."
+          "title": "Treåring bar in skarp  handgranat i huset",
+          "link": "https://www.expressen.se/nyheter/varlden/trearing-bar-in-skarp--handgranat-i-huset/",
+          "published": "Wed, 01 Oct 2025 23:30:02 +0200",
+          "description": "Den treårige pojken gjorde en märklig upptäckt på familjens tomt.När han tog med sig fyndet in i huset gav han sina föräldrar en rejäl chock.Treåringen hade nämligen hittat en skarp handgranat från andra världskriget, skriver CBS News."
         },
         {
-          "title": "Misshandel i Malmö – skadad person hittad utomhus",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7a981de9-58f4-4fa3-ab09-38b7d913b691",
-          "published": "Wed, 01 Oct 2025 22:06:07 +0200",
-          "description": "Polisen larmades till bråk nära skola i Malmö"
+          "title": "Lågprisjätten öppnar butik",
+          "link": "https://www.expressen.se/nyheter/varlden/lagprisjatten-oppnar-butik/",
+          "published": "Wed, 01 Oct 2025 23:18:47 +0200",
+          "description": "Shein är ett av världens största klädföretag.Hittills har det bara gått att beställa kläder online från dem – men det ska det snart bli ändring på.Nu har man spikat de första orterna där man ska slå upp permanenta butiker."
         },
         {
-          "title": "David, 60, föll mot  sin död på lekland",
-          "link": "https://www.expressen.se/nyheter/varlden/david-60-foll-mot--sin-dod-pa-lekland/",
-          "published": "Wed, 01 Oct 2025 21:59:51 +0200",
-          "description": "Byggarbetaren David Linyard jobbade på taket på en byggnad.Då föll 60-åringen genom takfönstret och ner i leklandet inne i byggnaden.Hans liv kunde inte räddas, skriver BBC."
+          "title": "Här träffar kungen Nato-chefen i Bryssel",
+          "link": "https://www.expressen.se/nyheter/varlden/har-traffar-kungen-nato-chefen-i-bryssel/",
+          "published": "Wed, 01 Oct 2025 23:16:37 +0200",
+          "description": "Tät dimma gjorde det svenska planet försenat. Men på eftermiddagen blev mötet mellan kung Carl Gustaf och Nato-chefen Mark Rutte i Bryssel av. Efteråt hyllade Mark Rutte kungen och Sverige som ”en stark försvarare av vår gemensamma säkerhet.”"
         }
       ]
     }
