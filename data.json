@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-01T10:12:34.613870Z",
+  "lastUpdated": "2025-10-01T12:23:53.403922Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "Moderaterna vill sänka skatten i Rosengård – Ali bor på fel sida gränsen",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/moderaterna-vill-sanka-skatten-i-rosengard-ali-bor-pa-fel-sida-gransen",
+          "published": "Wed, 01 Oct 2025 12:31:43 +0200",
+          "description": "Moderaternas förslag om att skapa integrationszoner med lägre inkomstskatter och arbetsgivaravgifter har väckt starka reaktioner. – Det blir ju orättvist för oss andra. Det är inte så snällt, säger Ali Alkurdi, som bor ett stenkast från Rosengård."
+        },
+        {
           "title": "Malåmordet skildras i dokumentär – dömde Robert Bengtsson intervjuas",
           "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/malamordet-skildras-i-dokumentar-domde-robert-bengtsson-intervjuas",
           "published": "Wed, 01 Oct 2025 11:42:33 +0200",
@@ -43,19 +49,13 @@
           "title": "Salmonellautbrott på äldreboende spåras till Östergötland",
           "link": "https://www.svt.se/nyheter/lokalt/ost/salmonellautbrott-pa-aldreboende-sparas-till-ostergotland",
           "published": "Wed, 01 Oct 2025 11:22:24 +0200",
-          "description": "I september drabbades ett äldreboende i Katrineholm av ett allvarligt salmonellautbrott, där flera äldre insjuknade och dog. Smittspårningen visade att utbrottet härstammade från Östergötland."
+          "description": "I september drabbades ett äldreboende i Katrineholm av ett allvarligt salmonellautbrott, där flera äldre insjuknade och dog. Smittspårningen visade att utbrottet härstammade från en äggproducent i Östergötland."
         },
         {
           "title": "Tuben, tricken eller t-bana – idag fyller tunnelbanan 75 år",
           "link": "https://www.svt.se/nyheter/lokalt/stockholm/tuben-tricken-eller-t-bana-idag-fyller-tunnelbanan-75-ar",
           "published": "Wed, 01 Oct 2025 11:19:56 +0200",
           "description": "Tunnelbanan i Stockholm firar 75 år – från Gröna linjen till kommande gul linje har kollektivtrafiken förändrat huvudstaden och fortsätter att växa. – Tunnelbanan är ett kännetecken för Stockholm, säger Camilla Palmberg Rödin, intendent på Spårvagnsmuseet"
-        },
-        {
-          "title": "Flashback-grundaren Jan Axelsson frias",
-          "link": "https://www.svt.se/kultur/flashback-grundaren-frias",
-          "published": "Wed, 01 Oct 2025 11:04:45 +0200",
-          "description": "Flashbacks grundare och vd Jan Axelsson frias i tingsrätten för att inte ha tagit bort inlägg som innehöll hets mot folkgrupp. – Domstolen har bekräftat att han har agerat i enlighet med lagen, säger Axelssons advokat Nils Hillert."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Moderaterna vill sänka skatten i Rosengård – Ali bor på fel sida gränsen",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/moderaterna-vill-sanka-skatten-i-rosengard-ali-bor-pa-fel-sida-gransen",
+          "published": "Wed, 01 Oct 2025 12:31:43 +0200",
+          "description": "Moderaternas förslag om att skapa integrationszoner med lägre inkomstskatter och arbetsgivaravgifter har väckt starka reaktioner. – Det blir ju orättvist för oss andra. Det är inte så snällt, säger Ali Alkurdi, som bor ett stenkast från Rosengård."
+        },
         {
           "title": "Nya lagen: Här tar tullen lyxklockor och bilar från kriminella för miljoner",
           "link": "https://www.svt.se/nyheter/lokalt/skane/nya-lagen-har-tar-tullen-lyxklockor-och-bilar-fran-kriminella-for-miljoner",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/trafikverkets-skaneplan-mindre-buller-mer-kapacitet",
           "published": "Tue, 30 Sep 2025 13:32:00 +0200",
           "description": "Trafikverket avsätter 20 miljarder kronor till 27 särskilda projekt som ska förbättra landets vägar och järnvägar. I Skåne ligger fokus på att minska buller och öka kapaciteten. Samtidigt skrotas dyra projekt för att hitta billigare lösningar."
-        },
-        {
-          "title": "M-reaktionen: ”Kommunen måste bli bättre på att upptäcka fusk”",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/m-reaktionen-kommunen-maste-bli-battre-pa-att-upptacka-fusk",
-          "published": "Tue, 30 Sep 2025 11:20:24 +0200",
-          "description": "SVT Nyheter Skåne avslöjade nyligen hur Rosengårdsföreningen Allas lika värde föreningen fått miljontals kronor i bidrag från flera myndigheter, samtidigt som de misstänks för fusk med bidragspengar. Nu reagerar Malmömoderaten Farishta Sulaiman. – Det är allvarligt, säger hon."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Bill Gates: Sverige gör ett misstag",
-          "link": "https://www.aftonbladet.se/nyheter/a/8qe4XQ/bill-gates-sverige-gor-ett-misstag?utm_medium=rss",
-          "published": "Wed, 01 Oct 2025 09:28:59 GMT",
-          "description": "Sverige minskar biståndsbudgeten och styr mer pengar till Ukraina och det egna försvaret."
+          "title": "Ilska i militären efter tjocktalet: ”Ville titta bort”",
+          "link": "https://www.aftonbladet.se/nyheter/a/o34gxW/ilska-efter-trump-och-hegseths-mote-med-800-toppmilitarer?utm_medium=rss",
+          "published": "Wed, 01 Oct 2025 12:22:02 GMT",
+          "description": "PLUS Generalerna kallades till Virginia för att höra tal om feta och skäggiga soldater."
         },
         {
-          "title": "Åt lyxmiddag – har listeriasymtom: ”Alla har blivit sjuka”",
-          "link": "https://www.aftonbladet.se/nyheter/a/XjPX8o/at-lyxmiddag-har-listeriasymtom-alla-har-blivit-sjuka?utm_medium=rss",
-          "published": "Wed, 01 Oct 2025 09:09:36 GMT",
-          "description": "Efter lyxmiddagar på Coco & Carmen fylls Stockholms sjukhus av listeriapatienter."
+          "title": "Par åtalas för hotellturné på springnota",
+          "link": "https://www.aftonbladet.se/nyheter/a/yEQAQx/par-atalas-for-hotellturne-pa-springnota?utm_medium=rss",
+          "published": "Wed, 01 Oct 2025 12:02:38 GMT",
+          "description": "Ett par bodde på tolv hotell och campingar runtom i Sverige utan att betala för sig."
         },
         {
-          "title": "S: Regeringen är en pyroman som vill ha beröm",
-          "link": "https://www.aftonbladet.se/nyheter/a/4BypLg/s-regeringen-ar-en-pyroman-som-vill-ha-berom?utm_medium=rss",
-          "published": "Wed, 01 Oct 2025 09:07:31 GMT",
-          "description": "Socialdemokraterna föreslår 3,7 miljarder kronor mer till skolan än regeringen."
+          "title": "Källan om dömda scoutledaren: ”Det är många fler drabbade”",
+          "link": "https://www.aftonbladet.se/nyheter/a/0VP8Jo/kalla-om-valdtaktsdomda-scoutledaren-manga-fler-drabbade?utm_medium=rss",
+          "published": "Wed, 01 Oct 2025 12:00:05 GMT",
+          "description": "PLUS En populär scoutledare som charmade unga tjejer – på läger efter läger."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
-          "title": "Åtalet: Par tog tolv springnotor: ”Galet härligt”",
-          "link": "https://www.expressen.se/nyheter/sverige/atalet-par-tog-tolv-springnotor-galet-harligt/",
-          "published": "Wed, 01 Oct 2025 11:51:49 +0200",
-          "description": "Mannen och kvinnan bodde, åt, drack och förstörde möbler för 79 000 kronor på tolv hotell och campingar utan att betala, enligt åtalet.I det sista hotellrummet hittade polisen ett anteckningsblock.”Jag såg aldrig vad skit fakturan landade på med mat, öl, drinkar, room service, snacks, & tömning av kylskåpet/baren som vi hade på rummet fylld med alkohol, läsk, champagne + massa godis, chipps osv osv! Helt galet härligt”, står det bland annat."
+          "title": "Klart nu: Barn ska  skickas i fängelse",
+          "link": "https://www.expressen.se/kronikorer/fredrik-sjoshult/klart-nu-barn-ska--skickas-i-fangelse/",
+          "published": "Wed, 01 Oct 2025 14:00:51 +0200",
+          "description": "Den hårt kritiserade ungdomsvården på Sis-hem är nu historia.Kriminella ungdomar ska inte längre kunna dömas till sluten ungdomsvård – framöver väntar fängelse.Inom kort tar regeringen fram storsläggan och lägger allt ansvar för att hantera ungdomsbrottslingar som döms till ett frihetsberövande straff på Kriminalvården."
         },
         {
-          "title": "Snapchat börjar ta betalt för lagrade bilder",
-          "link": "https://www.expressen.se/nyheter/sverige/snapchat-borjar-ta-betalt-for-lagrade-bilder/",
-          "published": "Wed, 01 Oct 2025 11:26:54 +0200",
-          "description": "Snart kommer dina Snapchat-bilder raderas – om du inte börjar betala. Appen inför nu en lagringsgräns och de minnen du trodde skulle finnas kvar för alltid riskerar att försvinna."
+          "title": "Finska missen: ”Johan Forssell” på bild",
+          "link": "https://www.expressen.se/nyheter/politik/finska-missen-johan-forssellpa-bild/",
+          "published": "Wed, 01 Oct 2025 13:57:34 +0200",
+          "description": "”Johan Forssell” diskuterade migration och dök upp på bild i Helsingfors.I alla fall enligt finska medier.Problemet? Migrationsministern var aldrig där."
         },
         {
-          "title": "Hovrätten skärper straffet mot Jonas Falk",
-          "link": "https://www.expressen.se/nyheter/krim/hovratten-skarper-straffet-mot-jonas-falk/",
-          "published": "Wed, 01 Oct 2025 11:08:13 +0200",
-          "description": "Jonas Falk spelade en central roll i den omfattande utpressningshärvan – på 100 miljoner kronor mot finansmannen Joachim Kuylenstierna.Nu skärper hovrätten hans straff till fängelse i fyra år och tio månader.– Han har haft en central roll i ett utpressningsförsök som bedömts som mycket allvarligt, säger hovrättsrådet David Löfgren. "
+          "title": "Tysk turist död i Sverige",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=bd601ebd-4929-4ccb-a2ba-5c9c0b20d5ad",
+          "published": "Wed, 01 Oct 2025 13:32:34 +0200",
+          "description": "Försvann från svenska stugan"
         }
       ]
     }
