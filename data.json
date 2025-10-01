@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-01T00:59:57.939261Z",
+  "lastUpdated": "2025-10-01T03:05:31.700516Z",
   "feeds": [
     {
       "url": {
@@ -31,7 +31,7 @@
           "title": "USA: Inled nedstängningsplaner",
           "link": "https://www.svt.se/nyheter/utrikes/usa-inled-nedstangningsplaner",
           "published": "Wed, 01 Oct 2025 02:31:29 +0200",
-          "description": "Vita husets budgetkontor beordrar federala myndigheter att börja införa planer för nedstängning, rapporterar AP."
+          "description": "Vita husets budgetkontor beordrar federala myndigheter att börja införa planer för nedstängning."
         },
         {
           "title": "Liverpools tunga kväll – förlust och dubbla skador",
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "USA: Inled nedstängningsplaner",
-          "link": "https://www.aftonbladet.se/nyheter/a/mPOb70/usa-inled-nedstangningsplaner?utm_medium=rss",
-          "published": "Tue, 30 Sep 2025 23:47:24 GMT",
-          "description": "Vita husets budgetkontor beordrar federala myndigheter att börja införa planer för nedstängning, rapporterar AP."
+          "title": "Dödstalet stiger efter skalv i Filippinerna",
+          "link": "https://www.aftonbladet.se/nyheter/a/xmKorV/dodstalet-stiger-efter-skalv-i-filippinerna?utm_medium=rss",
+          "published": "Wed, 01 Oct 2025 02:55:35 GMT",
+          "description": "Minst 31 personer har omkommit och 147 personer skadats i tisdagens jordskalv i Filippinerna."
         },
         {
-          "title": "Varnar för situation vid kraftverk",
-          "link": "https://www.aftonbladet.se/nyheter/a/yEQBke/varnar-for-situation-vid-kraftverk?utm_medium=rss",
-          "published": "Tue, 30 Sep 2025 23:33:24 GMT",
-          "description": "Ukrainas president Volodymyr Zelenskyj varnar för att en olycka kan uppstå vid det ryskockuperade kärnkraftverket i…"
+          "title": "Huthirörelsen tar på sig attack",
+          "link": "https://www.aftonbladet.se/nyheter/a/pP7aQG/huthirorelsen-tar-pa-sig-attack?utm_medium=rss",
+          "published": "Wed, 01 Oct 2025 01:50:48 GMT",
+          "description": "Den Iranstödda Huthirörelsen tar på sig ansvaret för en attack mot ett nederländskt fraktfartyg tidigare i veckan."
         },
         {
-          "title": "Ilska i militären efter tjocktalet: ”Ville titta bort”",
-          "link": "https://www.aftonbladet.se/nyheter/a/o34gxW/ilska-efter-trump-och-hegseths-mote-med-800-toppmilitarer?utm_medium=rss",
-          "published": "Tue, 30 Sep 2025 22:31:01 GMT",
-          "description": "Generalerna kallades till Virginia för att höra tal om feta och skäggiga soldater."
+          "title": "Flicka biten av varg på strand i Grekland",
+          "link": "https://www.aftonbladet.se/nyheter/a/PpKQo6/flicka-biten-av-varg-pa-strand-i-grekland?utm_medium=rss",
+          "published": "Wed, 01 Oct 2025 01:45:58 GMT",
+          "description": "En flicka attackerades av en varg på en strand i norra Grekland tidigare i september."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
+          "title": "”Putin inser att han  inte kan vinna kriget”",
+          "link": "https://www.expressen.se/nyheter/varlden/putin-inser-att-han--inte-kan-vinna-kriget/",
+          "published": "Wed, 01 Oct 2025 04:22:33 +0200",
+          "description": "Vladimir Putin hävdar i ett videotal att han är ”stolt” över invasionen av Ukraina, skriver Daily Star.Men Ryssland ”vinner inte det här kriget”, enligt Trump-toppen Keith Kellogg.– Innerst inne inser Putin att han inte kan vinna detta, säger Kellogg enligt Guardian."
+        },
+        {
+          "title": "Polis kunde inte dela ut  böter – bilen var förarlös",
+          "link": "https://www.expressen.se/nyheter/varlden/polis-kunde-inte-dela-ut--boter-bilen-var-forarlos/",
+          "published": "Wed, 01 Oct 2025 03:29:07 +0200",
+          "description": "Polisen stoppade en bil som genomförde en olaglig u-sväng. Men några böter lyckades man inte dela ut.Fordonet var nämligen förarlöst, skriver AP.”Våra böteslappar har ingen ruta för ’robot’”, skriver polisen."
+        },
+        {
           "title": "Varnar om kärnkraftverk",
           "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2d7f672a-c1e1-4c43-a74f-7497fc71b7d7",
-          "published": "Wed, 01 Oct 2025 02:37:36 +0200",
+          "published": "Wed, 01 Oct 2025 04:29:43 +0200",
           "description": "Zelenskyj anklagar Ryssland: ”Kritiskt”"
-        },
-        {
-          "title": "20 döda i jordskalv",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=581da606-53fb-496d-b02c-6ae65713cb83",
-          "published": "Wed, 01 Oct 2025 02:35:33 +0200",
-          "description": "Flera kan vara fast under rasmassor i Filippinerna"
-        },
-        {
-          "title": "Därför dog 17-åringen: ”Misstogs för ekorre”",
-          "link": "https://www.expressen.se/nyheter/varlden/17-aringens-dodsorsak-misstogs-for-ekorre/",
-          "published": "Wed, 01 Oct 2025 02:11:03 +0200",
-          "description": "Gymnasieeleven Carson Ryan ”misstogs för en ekorre” när han var ute och jagade.17-åringen sköts i bakhuvudet och dog, skriver People.Över en halv miljon kronor har samlats in för att hjälpa familjen."
         }
       ]
     }
