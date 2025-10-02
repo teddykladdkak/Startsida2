@@ -1,39 +1,40 @@
-name: Update JSON
-
-on:
-  schedule:
-    - cron: "0 */2 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  update:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Check out repo
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.x"
-
-      - name: Install feedparser
-        run: pip install feedparser
-        
-      - name: Install beautifulsoup4
-        run: pip install beautifulsoup4
-
-      - name: Run script
-        run: python update_json.py
-
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.json
-          git commit -m "Update JSON [skip ci]" || echo "No changes to commit"
-          git push
+#name: Update JSON
+#
+#on:
+#  schedule:
+#    - cron: "0 */2 * * *"
+#  workflow_dispatch:
+#
+#permissions:
+#  contents: write
+#
+#jobs:
+#  update:
+#    runs-on: ubuntu-latest
+#
+#    steps:
+#      - name: Check out repo
+#        uses: actions/checkout@v4
+#
+#      - name: Set up Python
+#        uses: actions/setup-python@v5
+#        with:
+#          python-version: "3.x"
+#
+#      - name: Install feedparser
+#        run: pip install feedparser
+#        
+#      - name: Install beautifulsoup4
+#        run: pip install beautifulsoup4
+#
+#      - name: Run script
+#        run: python update_json.py
+#
+#      - name: Commit and push changes
+#        run: |
+#          git config user.name "github-actions[bot]"
+#          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+#          git add data.json
+#          git commit -m "Update JSON [skip ci]" || echo "No changes to commit"
+#          git push
+#
