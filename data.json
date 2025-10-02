@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-01T22:10:32.704332Z",
+  "lastUpdated": "2025-10-02T00:52:34.436392Z",
   "feeds": [
     {
       "url": {
@@ -28,6 +28,12 @@
       },
       "items": [
         {
+          "title": "Man i 60-årsåldern död efter bråk vid skola i Malmö",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/man-dod-efter-brak-vid-skola-i-malmo",
+          "published": "Thu, 02 Oct 2025 00:28:02 +0200",
+          "description": "En man i 60-årsåldern har dött efter ett bråk i närheten av Stenkulaskolan i Malmö."
+        },
+        {
           "title": "Misstänks mordförsök på skola i Lund",
           "link": "https://www.svt.se/nyheter/lokalt/skane/misstanks-mordforsok-pa-skola-i-lund",
           "published": "Wed, 01 Oct 2025 22:09:42 +0200",
@@ -50,12 +56,6 @@
           "link": "https://www.svt.se/nyheter/utrikes/vardtiden-for-ukrainska-patienter-i-sverige-har-fordubblats-allt-svarare-skador",
           "published": "Wed, 01 Oct 2025 21:21:25 +0200",
           "description": "I Ukraina hedras på onsdagen landets nära 1,5 miljoner krigsveteraner. Omkring 400 000 soldater har skadats i kriget och några av dom får avancerad vård i Sverige. På Aleris Rehab Station i Solna utanför Stockholm vittnar nu läkare om att vårdtiden för dom ukrainska patienterna fördubblats – i takt med att läget vid fronten förvärrats."
-        },
-        {
-          "title": "Stora bakslaget för Malmö FF i guldstriden – Tuva Skoog ut på bår",
-          "link": "https://www.svt.se/sport/fotboll/stora-bakslaget-for-malmo-ff-i-guldstriden-tuva-skoog-ut-pa-bar",
-          "published": "Wed, 01 Oct 2025 20:36:45 +0200",
-          "description": "Tidigare Piteåspelaren Tuva Skoog har den här säsongen fått sitt stora genombrott i nya klubben Malmö FF. Men nu får Skåneklubben ett rejält bakslag i guldstriden. I toppmötet med Häcken tvingades 20-åringen ut på bår. – Jag har inte pratat med det medicinska teamet, säger Malmötränaren Jonas Valfridsson på frågan om hur det är med sin stjärnspelare."
         }
       ]
     },
@@ -65,6 +65,12 @@
         "amount": 4
       },
       "items": [
+        {
+          "title": "Man i 60-årsåldern död efter bråk vid skola i Malmö",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/man-dod-efter-brak-vid-skola-i-malmo",
+          "published": "Thu, 02 Oct 2025 00:28:02 +0200",
+          "description": "En man i 60-årsåldern har dött efter ett bråk i närheten av Stenkulaskolan i Malmö."
+        },
         {
           "title": "Misstänks mordförsök på skola i Lund",
           "link": "https://www.svt.se/nyheter/lokalt/skane/misstanks-mordforsok-pa-skola-i-lund",
@@ -82,12 +88,6 @@
           "link": "https://www.svt.se/nyheter/lokalt/skane/nu-ska-folktandvarden-fraga-alla-ar-du-utsatt-for-vald",
           "published": "Wed, 01 Oct 2025 16:27:48 +0200",
           "description": "Folktandvården Skåne ändrar rutin efter misslyckad metod för att upptäcka våld. Från och med 1 oktober ska alla vuxna patienter frågas om de är utsatta för våld i en nära relation."
-        },
-        {
-          "title": "Skola i Lund inrymd – pojke med kniv omhändertagen",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/skola-i-lund-inrymd-pojke-med-kniv-gripen",
-          "published": "Wed, 01 Oct 2025 14:56:53 +0200",
-          "description": "Polisen larmades under onsdagseftermiddagen till Östratornskolan i Lund efter larm om en person med ett tillhygge."
         }
       ]
     },
@@ -98,22 +98,22 @@
       },
       "items": [
         {
-          "title": "Utrikesministern: ”Följer situationen”",
-          "link": "https://www.aftonbladet.se/nyheter/a/ny8z0d/utrikesministern-foljer-situationen?utm_medium=rss",
-          "published": "Wed, 01 Oct 2025 21:41:25 GMT",
-          "description": "Sveriges utrikesminister Maria Malmer Stenergard (M) säger i en skriftlig kommentar till TT att ”utrikesdepartementet…"
+          "title": "Svampmördare överklagar dom",
+          "link": "https://www.aftonbladet.se/nyheter/a/eMAjvM/svampmordare-overklagar-dom?utm_medium=rss",
+          "published": "Thu, 02 Oct 2025 00:17:17 GMT",
+          "description": "Den australiska kvinna som dömdes för mord efter att ha dödat tre personer med hjälp av giftiga svampar kommer att…"
         },
         {
-          "title": "”Ukraina vår säkerhetsgaranti för fred”",
-          "link": "https://www.aftonbladet.se/nyheter/a/B0o8WG/ukraina-var-sakerhetsgaranti-for-fred?utm_medium=rss",
-          "published": "Wed, 01 Oct 2025 19:59:03 GMT",
-          "description": "EU:s ledare har kommit överens om att arbeta vidare med en ”drönarmur” och att Europa ska ha tillräcklig militär styrka…"
+          "title": "Tjernobyl förlorade strömmen",
+          "link": "https://www.aftonbladet.se/nyheter/a/o340l0/tjernobyl-forlorade-strommen?utm_medium=rss",
+          "published": "Wed, 01 Oct 2025 23:21:54 GMT",
+          "description": "Området kring resterna av kärnkraftverket i Tjernobyl förlorade på onsdagen strömmen till följd av att Ryssland…"
         },
         {
-          "title": "Man till sjukhus efter larm om bråk",
-          "link": "https://www.aftonbladet.se/nyheter/a/KMdwzG/man-till-sjukhus-efter-brak-vid-skola-i-malmo?utm_medium=rss",
-          "published": "Wed, 01 Oct 2025 19:41:44 GMT",
-          "description": "Polisen har larmats om ett bråk vid en skola i Malmö. En man har förts till sjukhus med ambulans."
+          "title": "Nytt Natoland kan byta sida – om han vinner",
+          "link": "https://www.aftonbladet.se/nyheter/a/KMdwG4/andrej-babis-gar-mot-jordskredsseger-i-valet-i-tjeckien?utm_medium=rss",
+          "published": "Wed, 01 Oct 2025 22:48:31 GMT",
+          "description": "Han är vän med Viktor Orbán och har lovat att stoppa stödet till Ukraina."
         }
       ]
     },
@@ -124,22 +124,22 @@
       },
       "items": [
         {
+          "title": "Man död i Göteborg – efter attack med vasst föremål",
+          "link": "https://www.expressen.se/nyheter/man-dod-i-goteborg-efter-attack-med-vasst-foremal/",
+          "published": "Thu, 02 Oct 2025 02:47:23 +0200",
+          "description": "En man i 35-årsåldern har dött efter att ha fått stickskador i Göteborg. – En man är gripen, säger Göran Carlbom vid polisen."
+        },
+        {
+          "title": "Sågar planen: ”Ingen tror på Trump”",
+          "link": "https://www.expressen.se/nyheter/varlden/sagar-planen-ingen-tror-pa-trump/",
+          "published": "Thu, 02 Oct 2025 00:36:58 +0200",
+          "description": "När Donald Trump lade fram sin fredsplan för Gaza kallade presidenten det ”en historisk dag för fred”.Men planen sågas av en av USA:s främsta Mellanösternexperter.– Ingen tror på Trumps deadlines, säger Aaron David Miller till norska VG."
+        },
+        {
           "title": "Treåring bar in skarp  handgranat i huset",
           "link": "https://www.expressen.se/nyheter/varlden/trearing-bar-in-skarp--handgranat-i-huset/",
           "published": "Wed, 01 Oct 2025 23:30:02 +0200",
           "description": "Den treårige pojken gjorde en märklig upptäckt på familjens tomt.När han tog med sig fyndet in i huset gav han sina föräldrar en rejäl chock.Treåringen hade nämligen hittat en skarp handgranat från andra världskriget, skriver CBS News."
-        },
-        {
-          "title": "Lågprisjätten öppnar butik",
-          "link": "https://www.expressen.se/nyheter/varlden/lagprisjatten-oppnar-butik/",
-          "published": "Wed, 01 Oct 2025 23:18:47 +0200",
-          "description": "Shein är ett av världens största klädföretag.Hittills har det bara gått att beställa kläder online från dem – men det ska det snart bli ändring på.Nu har man spikat de första orterna där man ska slå upp permanenta butiker."
-        },
-        {
-          "title": "Här träffar kungen Nato-chefen i Bryssel",
-          "link": "https://www.expressen.se/nyheter/varlden/har-traffar-kungen-nato-chefen-i-bryssel/",
-          "published": "Wed, 01 Oct 2025 23:16:37 +0200",
-          "description": "Tät dimma gjorde det svenska planet försenat. Men på eftermiddagen blev mötet mellan kung Carl Gustaf och Nato-chefen Mark Rutte i Bryssel av. Efteråt hyllade Mark Rutte kungen och Sverige som ”en stark försvarare av vår gemensamma säkerhet.”"
         }
       ]
     }
